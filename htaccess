@@ -3,36 +3,11 @@ layout: none
 permalink: /.htaccess
 ---
 # Rewrite www links to no www
-Options +FollowSymLinks
-RewriteEngine On
-RewriteBase /
-RewriteCond %{HTTP_HOST} !^lincolnmullen\.com$ [NC]
-RewriteRule ^(.*)$ http://lincolnmullen.com/$1 [R=301,L]
-
-
-# Redirect old blog posts to their new locations
-Redirect permanent /2010/09/26/whats-so-wrong-with-myths/ http://lincolnmullen.com/essays/2010/09/26/whats-so-wrong-with-myths.html
-Redirect permanent /archives/2010/09/26/whats-so-wrong-with-myths/ http://lincolnmullen.com/essays/2010/09/26/whats-so-wrong-with-myths.html
-Redirect permanent /2010/04/29/digital-humanities-is-a-spectrum-or-were-all-digital-humanists-now/ http://lincolnmullen.com/essays/2010/04/29/digital-humanities-is-a-spectrum.html
-Redirect permanent /archives/2010/04/digital-humanities-is-a-spectrum-or-were-all-digital-humanists-now/ http://lincolnmullen.com/essays/2010/04/29/digital-humanities-is-a-spectrum.html
-Redirect permanent /2010/03/11/what-would-jesus-do-a-parable-about-copyright/ http://lincolnmullen.com/essays/2010/03/11/a-parable-about-copyright.html
-Redirect permanent /archives/2010/03/11/what-would-jesus-do-a-parable-about-copyright/ http://lincolnmullen.com/essays/2010/03/11/a-parable-about-copyright.html
-Redirect permanent /2010/02/26/reflections-on-pdp-2010/ http://lincolnmullen.com/essays/2010/02/26/reflections-on-pdp-2010.html
-Redirect permanent /archives/2010/02/26/reflections-on-pdp-2010/ http://lincolnmullen.com/essays/2010/02/26/reflections-on-pdp-2010.html
-
-# Redirect the old link to the cv to the PDF
-Redirect /cv/ http://lincolnmullen.com/docs/Mullen-cv.pdf
-
-# Redirect the feed to the home page
-Redirect /feed/rss/ http://lincolnmullen.com/feed/
-Redirect /feed/rss2/ http://lincolnmullen.com/feed/
-Redirect /feed/rdf/ http://lincolnmullen.com/feed/
-Redirect /feed/atom/ http://lincolnmullen.com/feed/
-Redirect /comments/feed/ http://lincolnmullen.com/feed/
-Redirect /feed/ http://feeds.feedburner.com/LincolnMullenWritings
-
-# Redirect calendar to Google public calendar
-Redirect /calendar/ https://www.google.com/calendar/b/0/embed?src=lincoln@lincolnmullen.com&ctz=America/New_York&gsessionid=OK
+#Options +FollowSymLinks
+#RewriteEngine On
+#RewriteBase /
+#RewriteCond %{HTTP_HOST} !^lincolnmullen\.com$ [NC]
+#RewriteRule ^(.*)$ http://lincolnmullen.com/$1 [R=301,L]
 
 # Prevent visitors from seeing htaccess files
 <Files .htaccess>
@@ -41,5 +16,5 @@ deny from all
 </Files>
 
 # Direct the server to the error pages I've created
-ErrorDocument 500 http://lincolnmullen.com/500.html
-ErrorDocument 404 http://lincolnmullen.com/404.html
+#ErrorDocument 500 http://lincolnmullen.com/500.html
+#ErrorDocument 404 http://lincolnmullen.com/404.html
