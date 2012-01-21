@@ -1,8 +1,8 @@
-auto: false
+auto: true
 baseurl: /
 destination: ./_site
 exclude: imports/, Rakefile
-server: false
+server: true
 server_port: 4000
 source: .
-url: /
+url: http://jsr.fsu.edu
