@@ -1,9 +1,13 @@
-auto: true
-baseurl: /
+source: .
 destination: ./_site
+plugins: ./_plugins
+
 exclude: imports/, Rakefile
+
 server: true
 server_port: 4000
-source: .
+
+baseurl: /
 url: http://jsr.fsu.edu
+
 currentissue: vol13
