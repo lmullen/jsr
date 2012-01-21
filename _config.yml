@@ -6,3 +6,4 @@ server: true
 server_port: 4000
 source: .
 url: http://jsr.fsu.edu
+currentissue: vol13
