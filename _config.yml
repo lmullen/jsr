@@ -9,5 +9,3 @@ server_port: 4000
 
 baseurl: /
 url: http://jsr.fsu.edu
-
-currentissue: vol13
