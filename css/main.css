@@ -103,7 +103,13 @@ body {
 	color: black;
 	min-width: 350px;
 }
-
+article,
+header,
+footer,
+section,
+nav {
+	display: block;
+}
 #page {
 	background: none repeat scroll 0 0 rgb(255, 255, 255);
 	max-width: 980px;
@@ -115,12 +121,13 @@ body {
 #content {
 	background: none repeat scroll 0 0 rgb(255, 255, 255);
 	margin: 24px auto;
-	max-width:800px;
+	max-width:980px;
 }
-header h1 img {
+header h1, header h1 img {
 	margin:auto;
 	display:block;
 	max-width:980px;
+	text-align:center;
 }
 nav {
 	list-style: none outside none;
@@ -134,6 +141,18 @@ nav ul li a {
 	padding-right: 20px;
 	text-decoration: none;
 }
+#front-current {
+	width:48%;
+	float:left;
+	padding: 0 10px 0 0;
+	margin: 0;
+}
+#front-about {
+	width:48%;
+	float:right;
+	padding: 0 0 0 10px;
+	margin: 0;
+}
 article {
 	max-width: 33em;
 	margin:auto;
@@ -144,11 +163,30 @@ article {
 	padding:12px 0 0 0;
 	border-top: 2px solid #DDDDDD;
 }
-article,
-header,
-footer,
-section,
-nav {
-	display: block;
+footer {
+	clear:both;
 }
-
+/* LINKS */
+a, 
+a:visited,
+a:link,
+a:focus {
+    color: #A60D0D;
+    text-decoration:none;
+}
+a:active,
+a:hover {
+	color: #A60D0D;
+	text-decoration:underline;
+}
+h1 a, 
+h1 a:visited, 
+h1 a:link,
+h1 a:focus {
+	text-decoration: none;
+	color:black;
+}
+h1 a:active,
+h1 a:hover {
+	text-decoration: underline;
+}
