@@ -1,105 +1,85 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-	<!-- Generated: {{site.time}} -->
-	<meta name="generator" content="Jekyll">
-	<meta charset="utf-8" />
-	<!-- TODO add meta data -->
-	<!--<meta name="author" content="Lincoln Mullen (lincoln@lincolnmullen.com)" />-->
-	<!--<meta name="description" content="Lincoln Mullen is historian of religion and early America, and a PhD candidate at Brandeis University." />-->
-	<!-- TODO add Atom feed -->
-	<!--<link rel="alternate" type="application/rss+xml" title="Lincoln Mullen &raquo; Writings Feed" href="{{ site.base-url }}/feed/" /> -->
-	<title>The Journal of Southern Religion &middot; {{ page.title }}</title>
+	<head>
+		<!-- Generated: {{site.time}} -->
+		<meta name="generator" content="Jekyll">
+		<meta charset="utf-8" />
+		<!-- TODO add meta data -->
+		<!--<meta name="author" content="Lincoln Mullen (lincoln@lincolnmullen.com)" />-->
+		<!--<meta name="description" content="Lincoln Mullen is historian of religion and early America, and a PhD candidate at Brandeis University." />-->
+		<!-- TODO add Atom feed -->
+		<!--<link rel="alternate" type="application/rss+xml" title="Lincoln Mullen &raquo; Writings Feed" href="{{ site.base-url }}/feed/" /> -->
+		<title>The Journal of Southern Religion &middot; {{ page.title }}</title>
 
-    <!-- HTML5 shim, for IE6-8 support of HTML elements -->
-    <!--[if lt IE 9]>
-      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
+		<!-- HTML5 shim, for IE6-8 support of HTML elements -->
+		<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
 
-	<link rel="stylesheet"
-	href="{{site.baseurl}}bootstrap/css/bootstrap.min.css">
+		<link rel="stylesheet"
+		href="{{site.baseurl}}bootstrap/css/bootstrap.min.css">
 
-	<link rel="canonical" href="http://jsr.fsu.edu/{{page.url}}">
-	<!-- TODO add favicon -->
-	<link rel="shortcut icon" href="{{ site.baseurl }}img/favicon.png" sizes="16x16">
-	<!-- TODO add Google analytics here -->
+		<link rel="canonical" href="http://jsr.fsu.edu/{{page.url}}">
+		<!-- TODO add favicon -->
+		<link rel="shortcut icon" href="{{ site.baseurl }}img/favicon.png" sizes="16x16">
+		<!-- TODO add Google analytics here -->
 
-	
-</head>
-<body style="padding-top:40px;">
-	<div class="container" id="page">
-		<header>
+
+	</head>
+	<body style="padding-top:40px;">
+		<div class="container" id="page">
+			<header>
 			<div class="navbar navbar-fixed-top">
 				<div class="navbar-inner">
-					<div class="container">
-						<a class="brand" href="#">
-							The Journal of Southern Religion
+					<div class="container"> 
+						<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+						<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
 						</a>
-						<ul class="nav">
-							<li>
+						<a class="brand" href="#">
+							JSR
+						</a>
+						<div class="nav-collapse">
+							<ul class="nav">
+								<li>
 								<a href="#">
 									Current Issue
 								</a>
-							</li>
-							<li class="dropdown">
+								</li>
+								<li class="dropdown">
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown">
 									Past Issues	
 									<b class="caret"></b>
 								</a>
 								<ul class="dropdown-menu">
-									<li>
-										<a href="#">
-											Issue 13
-										</a>
-									</li>
-									<li>
-										<a href="#">
-											Issue 12
-										</a>
-									</li>
-									<li>
-										<a href="#">
-											Issue 11
-										</a>
-									</li>
-									<li>
-										<a href="#">
-											Issue 10
-										</a>
-									</li>
-									<li>
-										<a href="#">
-											Issue 9
-										</a>
-									</li>
+									{% include issues-list.html %}
 								</ul>
-							</li>
-							<li class="divider-vertical"></li>
-							<li>
+								</li>
+								<li>
 								<a href="#">
-									About the journal
+									About JSR
 								</a>
 								</li>
-							<li>
-								<a href="#">
-									JSR News
-								</a>
-							</li>
-						</ul>
-						<form class="navbar-search pull-right">
-							<input type="text" class="search-query"
-							placeholder="Search the JSR">
-						</form>
+								<li class="divider-vertical"></li>
+							</ul>
+							<form class="navbar-search pull-left">
+								<i class="icon-search icon-white"></i>
+								<input type="text" class="search-query"
+								placeholder="Search the journal">
+							</form>
+						</div> <!-- end div.nav-collapse -->
 					</div> <!-- end div.container -->
 				</div> <!-- end div.navbar-inner -->
 			</div> <!-- end div.navbar -->
-		</header>
+			</header>
 
-		<div id="content">
-			{{content}}		
-		</div><!-- end div#content -->
+			<div id="content">
+				{{content}}		
+			</div><!-- end div#content -->
 
-		<footer class="well">
+			<footer class="well">
 
 			<p>Copyright &copy; 2012 The Journal of Southern Religion. ISSN
 			1094-5253.</p>
@@ -116,13 +96,13 @@
 				Wisconsin &mdash; Stevens Point</a>, and <a
 				href="http://www.francis.edu/">Saint Francis University</a>.</p>
 
-		</footer>
-	</div> <!-- end div#container -->
+			</footer>
+		</div> <!-- end div#container -->
 
 
-	<!-- scripts placed at the end so the content loads faster -->
-	<script src="{{site.baseurl}}js/jquery-1.7.1.min.js"></script>
-	<script src="{{site.baseurl}}bootstrap/js/bootstrap.min.js"></script>
+		<!-- scripts placed at the end so the content loads faster -->
+		<script src="{{site.baseurl}}js/jquery-1.7.1.min.js"></script>
+		<script src="{{site.baseurl}}bootstrap/js/bootstrap.min.js"></script>
 
-</body>
+	</body>
 </html>
