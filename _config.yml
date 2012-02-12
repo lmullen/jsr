@@ -8,5 +8,7 @@ auto: true
 server: true
 server_port: 4000
 
-baseurl: 
+baseurl: /
 url: http://jsr.fsu.edu
+
+currentissue: vol13

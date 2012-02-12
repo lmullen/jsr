@@ -3,15 +3,14 @@ layout: default
 title: Home
 description: The Journal of Southern Religion is the first scholarly journal devoted to the study of religion in the American South. It is a fully peer-reviewed academic journal reflecting the best traditions of objective and critical scholarship, published in its entirety online.
 keywords: religion, the South, history, religious history, American religion, southern religion, academic journal, peer reviewed, book reviews, scholarship
-currentissue: vol13
 ---
 
-<div class="row">
-	<h1>The Journal of Southern Religion</h1>
+<div class="page-header">
+	<h1 class="journal-title">The Journal of Southern Religion</h1>
 </div>
 <div class="row">
-	<div class="span4">
-		<h2>Volume XIII &mdash; 2011</h2>
+	<div class="span6">
+		<h2>Current Issue: Volume 13</h2>
 
 		<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut
 		at nisi non velit dapibus bibendum sed eu arcu. Nulla
@@ -25,37 +24,47 @@ currentissue: vol13
 		risus pretium leo. Nulla in nibh id mauris scelerisque accumsan
 		sed vitae massa.  </p>
 
-		<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut
-		at nisi non velit dapibus bibendum sed eu arcu. Nulla
-		pellentesque ante sed nulla vulputate sed congue mauris
-		ullamcorper. Aenean convallis convallis suscipit. Pellentesque
-		vel leo lacus. Nulla velit diam, tempus nec faucibus ut, aliquet
-		non ante. Praesent hendrerit mattis luctus.  Suspendisse ut
-		accumsan felis. Aliquam erat volutpat. Vestibulum consectetur
-		ante ac ante adipiscing aliquam. Donec tincidunt, urna et
-		egestas ultrices, magna nisi malesuada est, non facilisis ante
-		risus pretium leo. Nulla in nibh id mauris scelerisque accumsan
-		sed vitae massa.  </p>
+		<p><strong><a class="pull-right"
+				href="{{site.baseurl}}issues/{{site.currentissue}}/index.html">Read
+				current issue <i
+					class="icon-chevron-right"></i></a></strong></p>
+		<p>&nbsp;</p>
 
-	</div>
-	<div class="span4">
-		<h2>Subscribe to the JSR</h2>
+		<div id="subscribe" class="well">
+			<h3>Subscribe to the JSR</h3>
 
-		<a href="#">Subscribe to Atom Feed</a>
+			<p><a href="#"><i class="icon-bookmark"></i> Atom
+				Feed</a></p>
 
-		<!-- Begin MailChimp Signup Form -->
-		<div id="mc_embed_signup"> <form
-				action="http://fsu.us4.list-manage1.com/subscribe/post?u=79c6002cba175c6c65b4290f9&amp;id=239782e69d"
-				method="post" id="mc-embedded-subscribe-form"
-				name="mc-embedded-subscribe-form" class="validate"
-				target="_blank"> <label for="mce-EMAIL">Email
-					Address</label> <input type="email" value=""
-				name="EMAIL" class="required email" id="mce-EMAIL">
-				<input type="submit" value="Subscribe" name="subscribe"
-				id="mc-embedded-subscribe" class="button"> </form>
+			<!-- Begin MailChimp Signup Form -->
+			<div id="mc_embed_signup"> 
+				<form 
+					action="http://fsu.us4.list-manage1.com/subscribe/post?u=79c6002cba175c6c65b4290f9&amp;id=239782e69d"
+					method="post" id="mc-embedded-subscribe-form"
+					name="mc-embedded-subscribe-form" 
+					target="_blank"
+					class="form-inline validate">
+					<label for="mce-EMAIL">
+						<i class="icon-envelope"></i> E-mail 
+					</label> 
+					<input 
+					type="email" 
+					value=""
+					placeholder="Your e-mail address"
+					name="EMAIL" 
+					class="required email span3" 
+					id="mce-EMAIL">
+					<input 
+					type="submit" 
+					value="Subscribe" 
+					name="subscribe"
+					id="mc-embedded-subscribe" 
+					class="button btn-info">
+				</form>
+			</div>
 		</div>
 	</div>
-	<div class="span4">
+	<div class="span6">
 		<h2>About the JSR</h2>
 
 		<p> Welcome to the first scholarly journal devoted to the study
@@ -65,30 +74,37 @@ currentissue: vol13
 		scholarship. It is an open-access publication, published free of
 		cost in its entirety on the Internet.</p>
 
-		<ul>
-			<li><a href="{{site.baseurl}}about/news.html">JSR News</a></li>
-			<li><a href="{{site.baseurl}}about/masthead.html">Masthead</a></li>
-			<li><a href="{{site.baseurl}}about/editorial-policies.html">Editorial Policies</a></li>
-			<li><a href="{{site.baseurl}}about/article-submissions.html">Article
-				Submissions</a></li>
-			<li><a href="{{site.baseurl}}about/review-guidelines.html">Book
-				Review Guidelines</a></li>
-			<li><a href="{{site.baseurl}}about/sam-hill-award.html">The Sam Hill
-				Award</a></li>
-			<li><a href="{{site.baseurl}}about/advertisers.html">Advertisers</a></li>
-		</ul>
-
-			<p>The Journal of Southern Religion is sponsored by the
-			Association for the Study of Southern Religion and receives
-			collaborative support from <a
-				href="http://www.fsu.edu/">Florida State University</a>,
-			<a href="http://www.lsu.edu/">Louisiana State
-				University</a>, <a href="http://www.enc.edu/">Eastern
-				Nazarene College</a>, <a
-				href="http://www.uwsp.edu/">University of Wisconsin
-				&mdash; Stevens Point</a>, and <a
-				href="http://www.francis.edu/">Saint Francis
-				University</a>.</p>
-
+		<div class="row">
+			<div class="span3">
+				<ul>
+					<li><a href="{{site.baseurl}}about/masthead.html">Masthead</a></li>
+					<li><a href="{{site.baseurl}}about/news.html">JSR News</a></li>
+					<li><a href="{{site.baseurl}}about/sam-hill-award.html">The Sam Hill
+						Award</a></li>
+					<li><a href="{{site.baseurl}}about/advertisers.html">Advertisers</a></li>
+				</ul>
+			</div>
+			<div class="span3">
+				<li><a href="{{site.baseurl}}about/editorial-policies.html">Editorial Policies</a></li>
+				<li><a href="{{site.baseurl}}about/article-submissions.html">Article
+					Submissions</a></li>
+				<li><a href="{{site.baseurl}}about/review-guidelines.html">Book
+					Review Guidelines</a></li>
+			</ul>
+		</div>
 	</div>
+
+	<p>The Journal of Southern Religion is sponsored by the
+	Association for the Study of Southern Religion and receives
+	collaborative support from <a
+		href="http://www.fsu.edu/">Florida State University</a>,
+	<a href="http://www.lsu.edu/">Louisiana State
+		University</a>, <a href="http://www.enc.edu/">Eastern
+		Nazarene College</a>, <a
+		href="http://www.uwsp.edu/">University of Wisconsin
+		&mdash; Stevens Point</a>, and <a
+		href="http://www.francis.edu/">Saint Francis
+		University</a>.</p>
+
+</div>
 </div>

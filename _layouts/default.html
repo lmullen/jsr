@@ -17,8 +17,10 @@
 		<![endif]-->
 
 		<link rel="stylesheet"
-		href="{{site.baseurl}}assets/bootstrap/css/bootstrap.min.css">
-
+		href="{{ site.baseurl }}assets/bootstrap/css/bootstrap.min.css">
+		<link rel="stylesheet"
+		href="{{ site.baseurl }}assets/css/additions.css">
+		<link rel="stylesheet" media="screen" href="{{site.baseurl}}assets/css/fonts.css">
 		<link rel="canonical" href="http://jsr.fsu.edu/{{page.url}}">
 		<!-- TODO add favicon -->
 		<link rel="shortcut icon" href="{{ site.baseurl }}assets/img/favicon.png" sizes="16x16">
@@ -38,18 +40,20 @@
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 						</a>
-						<a class="brand" href="#">
+						<a class="brand" href="{{site.baseurl}}">
 							JSR
 						</a>
 						<div class="nav-collapse">
 							<ul class="nav">
 								<li>
-								<a href="#">
+								<a
+									href="{{site.baseurl}}issues/{{site.currentissue}}/index.html">
 									Current Issue
 								</a>
 								</li>
 								<li class="dropdown">
-								<a href="#" class="dropdown-toggle" data-toggle="dropdown">
+								<a
+									href="#" class="dropdown-toggle" data-toggle="dropdown">
 									Past Issues	
 									<b class="caret"></b>
 								</a>
@@ -58,7 +62,7 @@
 								</ul>
 								</li>
 								<li>
-								<a href="#">
+								<a href="{{site.baseurl}}about/index.html">
 									About JSR
 								</a>
 								</li>
@@ -82,11 +86,9 @@
 				<div class="span12">
 					<footer class="well">
 
-					<p>Copyright &copy; 2012 <em>Journal of Southern Religion</em>. ISSN
-					1094-5253.</p>
-
-					<p>Powered by <a href="http://jekyllrb.com/">Jekyll</a>.  Website
-					code hosted at <a href="https://github.com/lmullen/jsr">Github</a>.</p>
+					<p class="muted">Copyright &copy; 2012 <em>Journal of Southern Religion</em>. ISSN
+					1094-5253. Powered by <a href="http://jekyllrb.com/">Jekyll</a>.  Website
+					code hosted at <a href="https://github.com/lmullen/jsr">GitHub</a>.</p>
 
 					</footer> 
 				</div>
@@ -95,8 +97,8 @@
 
 
 		<!-- scripts placed at the end so the content loads faster -->
-		<script src="{{site.baseurl}}/assets/js/jquery-1.7.1.min.js"></script>
-		<script src="{{site.baseurl}}/assets/bootstrap/js/bootstrap.min.js"></script>
+		<script src="{{site.baseurl}}assets/js/jquery-1.7.1.min.js"></script>
+		<script src="{{site.baseurl}}assets/bootstrap/js/bootstrap.min.js"></script>
 
 	</body>
 </html>
