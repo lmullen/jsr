@@ -1,9 +1,14 @@
+body {
+	margin-top:60px;
+}
 .page-header h1 {
 	text-align: center;
 }
 .journal-title {
 	font-size: 52px;
 }
-body, p {
-	font-family:'SortsMillsGoudyRegular';
-}
+/*
+ *body, p {
+ *    font-family:'SortsMillsGoudyRegular';
+ *}
+ */
