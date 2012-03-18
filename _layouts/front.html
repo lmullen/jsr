@@ -17,11 +17,25 @@ layout: default
 					class="icon-chevron-right"></i></a></strong></p>
 		<p>&nbsp;</p>
 
+	</div>
+	<div class="span4">
+		<h2>Podcast</h2>
+
+		{% for post in site.categories.podcast%}
+		<a href="{{ site.base-url}}{{ post.url }}">{{ post.title }}</a>
+		{% endfor %}
+	
+		
+	</div>
+	<div class="span4">
 		<div id="subscribe" class="well">
 			<h3>Subscribe to the JSR</h3>
 
-			<p><a href="#"><i class="icon-bookmark"></i> Atom
-				Feed</a></p>
+			<p>
+			<a href="#" class="subscribe"><i class="icon-twitter"></i>Twitter</a>
+			<a href="#" class="subscribe"><i class="icon-rss"></i>Atom</a>
+			<a href="#" class="subscribe"><i class="icon-facebook"></i>Facebook</a>
+			</p>
 
 			<!-- Begin MailChimp Signup Form -->
 			<div id="mc_embed_signup"> 
@@ -39,7 +53,7 @@ layout: default
 					value=""
 					placeholder="Your e-mail address"
 					name="EMAIL" 
-					class="required email span3" 
+					class="required email span2" 
 					id="mce-EMAIL">
 					<input 
 					type="submit" 
@@ -50,12 +64,6 @@ layout: default
 				</form>
 			</div>
 		</div>
-	</div>
-	<div class="span4">
-		<h2>Digital Media</h2>
-
-	</div>
-	<div class="span4">
 		<h2>About the JSR</h2>
 
 		<p> Welcome to the first scholarly journal devoted to the study

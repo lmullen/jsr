@@ -5,10 +5,12 @@ plugins: ./_plugins
 exclude: imports/, Rakefile
 
 auto: true
-server: true
+server: false
 server_port: 4000
 
-baseurl: /
-url: http://jsr.fsu.edu
+baseurl: http://lincolnmullen.com/jsrdev/
+#baseurl: /
+#url: http://jsr.fsu.edu
+permalink: none
 
 currentissue: vol13

@@ -1,5 +1,6 @@
 body {
 	margin-top:60px;
+	font-size: 14px;
 }
 .page-header h1 {
 	text-align: center;
@@ -7,8 +8,60 @@ body {
 .journal-title {
 	font-size: 52px;
 }
-/*
- *body, p {
- *    font-family:'SortsMillsGoudyRegular';
- *}
- */
+dd {
+	margin-left: 18px;
+	margin-bottom: 4px;
+}
+.icon-rss, .icon-twitter, .icon-facebook {
+	width: 24px;
+	height: 24px;
+	background-position: 0;	
+	vertical-align: middle;
+	margin-right:.4em;
+}
+.icon-rss {
+	background-image: url(../img/glyphicons_327_rss.png);
+}
+.icon-twitter {
+	background-image: url(../img/glyphicons_322_twitter.png);
+}
+.icon-facebook {
+	background-image: url(../img/glyphicons_320_facebook.png);
+}
+a.subscribe {
+	margin-right: 8px;
+}
+article p,
+article ol li {
+	/*margin: 0 0 18px 0;*/
+	font-family: "Times New Roman", Georgia, serif;
+	font-size: 14px;
+}
+.article-title {
+	/*margin-bottom:18px;*/
+}
+.article-metadata {
+}
+blockquote p {
+	font-size: 14px;
+	line-height: 18px;
+}
+.dropcap {
+	font-size : 300%;
+	font-weight : bold;
+	float : left;
+	width : 1em;
+	color : #c00;
+}
+.citation {
+	/*
+	 *white-space: pre;           [> CSS 2.0 <]
+	 *white-space: pre-wrap;      [> CSS 2.1 <]
+	 *white-space: pre-line;      [> CSS 3.0 <]
+	 *white-space: -pre-wrap;     [> Opera 4-6 <]
+	 *white-space: -o-pre-wrap;   [> Opera 7 <]
+	 *white-space: -moz-pre-wrap; [> Mozilla <]
+	 *white-space: -hp-pre-wrap;  [> HP Printers <]
+	 */
+	word-wrap: break-word;      /* IE 5+ */
+}	
