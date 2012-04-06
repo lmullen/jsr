@@ -2,15 +2,15 @@ source: .
 destination: ./_site
 plugins: ./_plugins
 
-exclude: imports/, Rakefile
+exclude: _working/, Rakefile
 
-auto: true
+auto: false
 server: false
 server_port: 4000
 
-baseurl: http://lincolnmullen.com/jsrdev/
+#baseurl: http://lincolnmullen.com/jsrdev/
 #baseurl: /
 #url: http://jsr.fsu.edu
-permalink: none
+permalink: /:categories/:title.html
 
 currentissue: vol13
