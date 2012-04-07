@@ -9,34 +9,31 @@ layout: default
 </div>
 <div class="row">
 	<div class="span4">
-		<h2>About the Journal</h2>
+		<div class="well well-large">
+			<div id="subscribe" class="">
+				<a href="#" class="subscribe"><i class="icon-rss"></i></a>
+				<a href="#" class="subscribe"><i class="icon-twitter"></i></a>
+				<a href="#" class="subscribe"><i class="icon-facebook"></i></a>
+			</div>
+			<h2>About the Journal</h2>
 
-		{% include front-about.html %}
+			{% include front-about.html %}
+		<p style="margin-left:20px;"><strong><a class="" 
+				href="{{site.baseurl}}about/index.html">About the JSR <i 
+					class="icon-chevron-right"></i></a></strong></p>
 
-		<p><strong><a class="pull-right" 
-				href="{{site.baseurl}}about/index.html">About the JSR 
-				&rarr;</a></strong></p>
-
-		<p>&nbsp;</p>
-
-		<div id="subscribe" class="">
-			<h3>Subscribe to the JSR</h3>
-			<p>
-			<a href="#" class="subscribe"><i class="icon-twitter"></i></a>
-			<a href="#" class="subscribe"><i class="icon-rss"></i></a>
-			<a href="#" class="subscribe"><i class="icon-facebook"></i></a>
-			</p>
-		</div><!-- end #subscribe.well -->
+		</div>
 	</div>
 
 
 	<div class="span8">
 
-		{{content}}
+		{% include current-issue-description.html %}
 
-		<p><strong><a class="pull-right" 
-				href="{{site.baseurl}}issues/{{site.currentissue}}/index.html">Read 
-				current issue <i 
+		<p style="margin-left:20px;" ><strong><a class="" 				
+				href="{{site.baseurl}}issues/{{site.currentissue}}/index.html">Current issue <i class="icon-chevron-right"></i></a> <a 
+				style="margin-left:20px;" 
+				href="{{site.baseurl}}all-issues.html">All issues <i 
 					class="icon-chevron-right"></i></a></strong></p>
 
 		<h2>Podcast</h2>
