@@ -11,6 +11,7 @@ task :devgenerate do
 	# Jekyll will get use URLs passed to command line
 	# Jekyll will take other configurations from _config.yml
 	puts 'Generating the development site.'
+	Rake::Task["bootstrap"].invoke
 	sh "jekyll --base-url http://lincolnmullen.com/jsrdev/ --url http://lincolnmullen.com/jsrdev/ --no-auto"
 	puts 'Successfully built site!'
 end
@@ -34,10 +35,35 @@ task :preview do
 	# Generates the site locally, launches a server, auto regenerates
 	# Jekyll gets URLS from options passed to command line
 	# Other options are taken from _config.yml
+	Rake::Task["bootstrap"].invoke
 	puts 'Previewing site with a local server.'
 	puts 'See the site at <http://localhost:4000/>.'
 	puts 'Use CTRL+C to interrupt.'
 	sh 'jekyll --auto --server --base-url / --url /'
 	# after the server is interrupted
 	puts 'Finished previewing the site locally.'
+end
+
+desc 'compile Bootstrap with less'
+task :bootstrap do
+	puts 'Compiling Bootstrap and copying assets.'
+	# Images:
+	# copy the Bootstrap images to our image directory
+	sh 'cp ./_bootstrap/img/* ./assets/img/'
+	
+	# JavaScript:
+	# concatenate just the Bootstrap scripts that we need 
+	sh 'cat ./_bootstrap/js/bootstrap-dropdown.js > ./_bootstrap/bootstrap.tmp.js'
+	# compress the JavaScript and copy it to our images directory
+	sh 'uglifyjs -nc ./_bootstrap/bootstrap.tmp.js > ./assets/js/bootstrap.min.js'
+	# remove the temporary file
+	sh 'rm ./_bootstrap/bootstrap.tmp.js'
+
+	# CSS:
+	# compile, compress, and copy main Bootstrap CSS
+	sh 'lessc --compress ./_bootstrap/less/bootstrap.less > ./assets/css/bootstrap.min.css'
+	# compile, compress, and copy responsive layout CSS
+	sh 'lessc --compress ./_bootstrap/less/responsive.less > ./assets/css/bootstrap-responsive.min.css'
+
+	puts 'Successfully compiled and copied Bootstrap.'
 end

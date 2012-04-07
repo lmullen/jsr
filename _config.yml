@@ -2,7 +2,7 @@ source: .
 destination: ./_site
 plugins: ./_plugins
 
-exclude: _working/, Rakefile
+exclude: _working/, Rakefile, _bootstrap
 
 auto: false
 server: false

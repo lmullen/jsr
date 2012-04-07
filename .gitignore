@@ -7,3 +7,10 @@ _working/
 _working/*
 _plugins/*
 .DS_Store
+
+/*Ignore compiled BootStrap, just as we ignore Jekyll generated files*/
+assets/css/bootstrap.min.css
+assets/css/bootstrap-responsive.min.css
+assets/img/glyphicons-halflings.png
+assets/img/glyphicons-halflings-white.png
+assets/js/bootstrap.min.js
