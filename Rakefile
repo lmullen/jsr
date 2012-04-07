@@ -44,26 +44,32 @@ task :preview do
 	puts 'Finished previewing the site locally.'
 end
 
-desc 'compile Bootstrap with less'
-task :bootstrap do
-	puts 'Compiling Bootstrap and copying assets.'
-	# Images:
-	# copy the Bootstrap images to our image directory
-	sh 'cp ./_bootstrap/img/* ./assets/img/'
-	
-	# JavaScript:
+desc 'assemble Bootstrap Javascripts'
+task :bootstrap_js do
 	# concatenate just the Bootstrap scripts that we need 
 	sh 'cat ./_bootstrap/js/bootstrap-dropdown.js ./_bootstrap/js/bootstrap-collapse.js > ./_bootstrap/bootstrap.tmp.js'
 	# compress the JavaScript and copy it to our images directory
 	sh 'uglifyjs -nc ./_bootstrap/bootstrap.tmp.js > ./assets/js/bootstrap.min.js'
 	# remove the temporary file
 	sh 'rm ./_bootstrap/bootstrap.tmp.js'
+end
+	
+desc 'copy Bootstrap images'
+task :bootstrap_img do
+	# copy the Bootstrap images to our image directory
+	sh 'cp ./_bootstrap/img/* ./assets/img/'
+end
 
-	# CSS:
+desc 'compile Bootstrap CSS from LESS'
+task :bootstrap_css do
 	# compile, compress, and copy main Bootstrap CSS
 	sh 'lessc --compress ./_bootstrap/less/bootstrap.less > ./assets/css/bootstrap.min.css'
 	# compile, compress, and copy responsive layout CSS
 	sh 'lessc --compress ./_bootstrap/less/responsive.less > ./assets/css/bootstrap-responsive.min.css'
+end
 
-	puts 'Successfully compiled and copied Bootstrap.'
+
+desc 'update all Bootstrap assets'
+task :bootstrap => [:bootstrap_img, :bootstrap_js, :bootstrap_css] do
+	puts 'Successfully updated all Bootstrap assets.'
 end
