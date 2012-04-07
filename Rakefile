@@ -21,7 +21,7 @@ task :devdeploy do
 	# uploads preview version via SSH and rsync
 	# does NOT delete other files on the server
 	puts 'Deploying dev preview to <lincolnmullen.com/jsrdev/> with rsync.'
-	sh 'rsync -artze ssh _site/ lam:/home/lincolnm/public_html/jsrdev/'
+	sh 'rsync -avze --delete ssh _site/ lam:/home/lincolnm/public_html/dev/jsr/'
 	puts 'Successfully deployed site!'
 end
 
@@ -53,7 +53,7 @@ task :bootstrap_js do
 	# remove the temporary file
 	sh 'rm ./_bootstrap/bootstrap.tmp.js'
 end
-	
+
 desc 'copy Bootstrap images'
 task :bootstrap_img do
 	# copy the Bootstrap images to our image directory
@@ -67,7 +67,6 @@ task :bootstrap_css do
 	# compile, compress, and copy responsive layout CSS
 	sh 'lessc --compress ./_bootstrap/less/responsive.less > ./assets/css/bootstrap-responsive.min.css'
 end
-
 
 desc 'update all Bootstrap assets'
 task :bootstrap => [:bootstrap_img, :bootstrap_js, :bootstrap_css] do
