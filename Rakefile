@@ -12,7 +12,7 @@ task :devgenerate do
 	# Jekyll will take other configurations from _config.yml
 	puts 'Generating the development site.'
 	Rake::Task["bootstrap"].invoke
-	sh "jekyll --base-url http://lincolnmullen.com/jsrdev/ --url http://lincolnmullen.com/jsrdev/ --no-auto"
+	sh "jekyll --base-url http://lincolnmullen.com/dev/jsr/ --url http://lincolnmullen.com/dev/jsr/ --no-auto"
 	puts 'Successfully built site!'
 end
 
@@ -20,8 +20,8 @@ desc 'deploy development preview with rsync'
 task :devdeploy do
 	# uploads preview version via SSH and rsync
 	# does NOT delete other files on the server
-	puts 'Deploying dev preview to <lincolnmullen.com/jsrdev/> with rsync.'
-	sh 'rsync -avze --delete ssh _site/ lam:/home/lincolnm/public_html/dev/jsr/'
+	puts 'Deploying dev preview to <lincolnmullen.com/dev/jsr/> with rsync.'
+	sh 'rsync -avze ssh _site/ lam:/home/lincolnm/public_html/dev/jsr/'
 	puts 'Successfully deployed site!'
 end
 
