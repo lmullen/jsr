@@ -30,42 +30,56 @@
 
 // Color scheme
 // -------------------------
-@lightBrown:			#776B5A;
-@mediumBrown:			#5D564B;
-@darkBrown:				#523F23;
-@mediumTan:				#E3D5C1;
-@lightTan:				#E3DCD3;
+//@lightBrown:			#776B5A;
+//@mediumBrown:			#5D564B;
+//@darkBrown:				#523F23;
+//@mediumTan:				#E3D5C1;
+//@lightTan:				#E3DCD3;
 
-@mediumGrayBlue:		#3C454E;
-@darkGrayBlue:			#32373C;
-@darkerGrayBlue:		#172735;
-@mediumBlue:			#BCCBDA;
-@lightBlue:				#CCD3DA;
+//@mediumGrayBlue:		#3C454E;
+//@darkGrayBlue:			#32373C;
+//@darkerGrayBlue:		#172735;
+//@mediumBlue:			#BCCBDA;
+//@lightBlue:				#CCD3DA;
+
+// Color scheme
+//http://colorschemedesigner.com/#3H22PsOsOK-K-
+// -------------------------
+@jsrBlue:				#1C4A98;
+@jsrBlueDarker:			#2F415F;
+@jsrBlueDarkest:		#031D48;
+@jsrBlueLighter:		#709CE5;
+@jsrBlueLightest:		#A9BFE5;
+
+@jsrOrange:				#E69C17;
+@jsrBrownLighter:		#8F733F;
+@jsrBrown:				#6D4703;
+@jsrOrangeLighter:		#F9C76D;
+@jsrOrangeLightest:		#F9DFB0;
 
 
 // Scaffolding
 // -------------------------
-@bodyBackground:        @grayLighter;
+@bodyBackground:        lighten(@jsrBrownLighter, 50%);
 @textColor:             @grayDarker;
 
 
 // Links
 // -------------------------
 //@linkColor:             #08c;
-@linkColor:             @lightBrown;
+@linkColor:				@jsrBrownLighter;
 @linkColorHover:        darken(@linkColor, 15%);
 
 
 // Typography
 // -------------------------
-@baseFontSize:          13px;
-@baseFontFamily:        "Helvetica Neue", Helvetica, Arial, sans-serif;
-@baseLineHeight:        18px;
-@altFontFamily:         Georgia, "Times New Roman", Times, serif;
-
+@baseFontSize:          18px;
+@baseFontFamily:		"PT Serif", Georgia, Times, "Times New Roman", serif;
+@baseLineHeight:        27px;
+@altFontFamily:			"PT Serif", "Georgia", "Helvetica Neue", Arial, sans-serif;
 @headingsFontFamily:    inherit; // empty to use BS default, @baseFontFamily
 @headingsFontWeight:    bold;    // instead of browser default, bold
-@headingsColor:         inherit; // empty to use BS default, @textColor
+@headingsColor:         @jsrBlueDarker; // empty to use BS default, @textColor
 
 
 // Tables
@@ -147,26 +161,26 @@
 
 // Hr border color
 // -------------------------
-@hrBorder:                @grayLighter;
+@hrBorder:                @jsrBlueDarker;
 
 
 // Navbar
 // -------------------------
 @navbarHeight:                    40px;
-@navbarBackground:                @grayDarker;
-@navbarBackgroundHighlight:       @grayDark;
+@navbarBackground:                @jsrBlueDarkest;
+@navbarBackgroundHighlight:       @jsrBlueDarker;
 
 @navbarText:                      @grayLight;
 @navbarLinkColor:                 @grayLight;
-@navbarLinkColorHover:            @white;
+@navbarLinkColorHover:            @grayLighter;
 @navbarLinkColorActive:           @navbarLinkColorHover;
 @navbarLinkBackgroundHover:       transparent;
 @navbarLinkBackgroundActive:      @navbarBackground;
 
-@navbarSearchBackground:          lighten(@navbarBackground, 25%);
+@navbarSearchBackground:          @grayLighter;
 @navbarSearchBackgroundFocus:     @white;
 @navbarSearchBorder:              darken(@navbarSearchBackground, 30%);
-@navbarSearchPlaceholderColor:    #ccc;
+@navbarSearchPlaceholderColor:    @grayLight;
 
 
 // Hero unit

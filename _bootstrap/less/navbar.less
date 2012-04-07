@@ -69,12 +69,13 @@
   .brand {
     float: left;
     display: block;
-    padding: 8px 20px 12px;
+    padding: 10px 20px 6px;
     margin-left: -20px; // negative indent to left-align the text down the page
     font-size: 20px;
     font-weight: 200;
     line-height: 1;
     color: @white;
+    text-decoration: none;
   }
   // Plain text in topbar
   .navbar-text {
@@ -128,7 +129,7 @@
   .navbarVerticalAlign(28px); // Vertically center in navbar
   margin-bottom: 0;
   .search-query {
-    padding: 4px 9px;
+    padding: 0px 9px;
     #font > .sans-serif(13px, normal, 1);
     color: @white;
     background-color: @navbarSearchBackground;
@@ -148,7 +149,7 @@
     // Focus states (we use .focused since IE7-8 and down doesn't support :focus)
     &:focus,
     &.focused {
-      padding: 5px 10px;
+      padding: 0px 10px;
       color: @grayDark;
       text-shadow: 0 1px 0 @white;
       background-color: @navbarSearchBackgroundFocus;
