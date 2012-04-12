@@ -26,10 +26,10 @@ layout: default
 				href="{{site.baseurl}}all-issues.html">All issues <i 
 					class="icon-chevron-right"></i></a></strong></p>
 
-		<h2>Podcast</h2>
+		<h2>New Media</h2>
 
-		{% for post in site.categories.podcast%}
-			<a href="{{ site.base-url}}{{ post.url }}">{{ post.title }}</a>
+		{% for post in site.categories.podcast %}
+			<span class="label label-info">Podcast</span> <a href="{{ post.url }}">{{ post.title }}</a>
 		{% endfor %}
 
 	</div>
