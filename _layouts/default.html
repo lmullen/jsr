@@ -29,7 +29,7 @@
 		<!--[if lt IE 9]>
 		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
 		<![endif]-->
-<!--
+		<!--
 		<script type="text/javascript">var switchTo5x=true;</script>
 		<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
 		<script type="text/javascript">stLight.options({publisher: "299e990a-0ede-44b3-b16f-cb0d15d7d169"}); </script>
@@ -38,6 +38,26 @@
 	<body>
 		<div class="container" id="page">
 			<header>
+			<div class="row">
+				<div class="span9">
+					<div id="title">
+						<h1><span class="title-line1">The Journal of</span><br/>
+							<span class="title-line2">Southern Religion</span>
+						</h1>
+					</div>
+
+				</div>
+				<div class="span3">
+
+					<div id="subscribe" class="">
+						<a href="#" class="subscribe"><i class="icon-rss"></i></a>
+						<a href="#" class="subscribe"><i class="icon-email"></i></a>
+						<a href="#" class="subscribe"><i class="icon-twitter"></i></a>
+						<a href="#" class="subscribe"><i class="icon-facebook"></i></a>
+					</div>
+				</div>
+			</div>
+
 			<div class="navbar">
 				<div class="navbar-inner">
 					<div class="container"> 
@@ -47,9 +67,11 @@
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 						</a>
-						<a class="brand" href="{{site.baseurl}}">
-							JSR
-						</a>
+						<!--	
+						-<a class="brand" href="{{site.baseurl}}">
+							-    JSR
+							-</a>
+						-->
 						<div class="nav-collapse">
 							<ul class="nav">
 								<li>
@@ -89,20 +111,20 @@
 				{{content}}		
 			</div><!-- end div#content -->
 
-					<footer class="">
+			<footer class="">
 
-					<p class="muted"><small>&copy; 2012 <em>Journal of Southern Religion</em>. ISSN
-					1094-5253. Powered by <a href="http://jekyllrb.com/">Jekyll</a>.  Website
-					code hosted at <a 
-						href="https://github.com/lmullen/jsr">GitHub</a>.<small></p>
+			<p class="muted"><small>&copy; 2012 <em>Journal of Southern Religion</em>. ISSN
+				1094-5253. Powered by <a href="http://jekyllrb.com/">Jekyll</a>.  Website
+				code hosted at <a 
+					href="https://github.com/lmullen/jsr">GitHub</a>.<small></p>
 
 					</footer> 
-		</div> <!-- end div#container -->
+				</div> <!-- end div#container -->
 
 
-		<!-- scripts placed at the end so the content loads faster -->
-		<script src="{{site.baseurl}}assets/js/jquery-1.7.1.min.js"></script>
-		<script src="{{site.baseurl}}assets/js/bootstrap.min.js"></script>
+				<!-- scripts placed at the end so the content loads faster -->
+				<script src="{{site.baseurl}}assets/js/jquery-1.7.1.min.js"></script>
+				<script src="{{site.baseurl}}assets/js/bootstrap.min.js"></script>
 
-	</body>
-</html>
+			</body>
+		</html>
