@@ -23,13 +23,14 @@ layout: default
 		<p style="margin-left:20px;" ><strong><a class="" 				
 				href="{{site.baseurl}}issues/{{site.currentissue}}/index.html">Current issue <i class="icon-chevron-right"></i></a> <a 
 				style="margin-left:20px;" 
-				href="{{site.baseurl}}all-issues.html">All issues <i 
+				href="{{site.baseurl}}issues/">All issues <i 
 					class="icon-chevron-right"></i></a></strong></p>
 
 		<h2>New Media</h2>
 
 		{% for post in site.categories.podcast %}
-			<span class="label label-info">Podcast</span> <a href="{{ post.url }}">{{ post.title }}</a>
+			<span class="label label-info">Podcast</span> <a 
+				href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a>
 		{% endfor %}
 
 	</div>
