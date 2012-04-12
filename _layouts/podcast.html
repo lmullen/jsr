@@ -2,34 +2,26 @@
 layout: default
 ---
 
-
-<article class="post">
-
-<div class="post-date">{{ page.date | date_to_long_string | downcase }}</div>
-
-<h2 class="post-title">{{ page.title }}</h2>
-
-{% if page.author != null %}
-<div class="post-author">{{ post.author }}</div>
-{% endif %}
-
-<!-- Content from Jekyll is inserted here -->
-
-<audio controls="controls">
-<source src="{{site.baseurl}}assets/podcast/{{page.podcast-filename}}" type="audio/mpeg" />
-	<!-- TODO make this cross browser compatible -->
-  Your browser does not support the audio element.
-</audio>
-
-<div class="article-body">
-	{{ content }}		
+<div class="page-header">
+	<h1>{{page.title}}</h1>
 </div>
 
-<div class="post-meta">	
-	<p class="post-introduction">{{ post.introduction }}</p>
+<div class="row">
+	<div class="span8 offset2">
+		<div class="post-date">
+			{{ page.date | date_to_long_string }}
+		</div>
+		{% if post.author != null %}
+			<div class="post-author">{{ post.author }}</div>
+		{% endif %}
 
+		<audio controls="controls">
+		<source src="{{site.baseurl}}assets/podcast/{{page.podcast-filename}}" type="audio/mpeg" />
+		<!-- TODO make this cross browser compatible -->
+		Your browser does not support the audio element.
+		</audio>
+
+		{{content}}
+
+	</div>
 </div>
-
-
-
-</article>
