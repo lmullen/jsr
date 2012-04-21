@@ -16,7 +16,7 @@ task :devgenerate do
 	puts 'Successfully built site!'
 end
 
-desc 'deploy development preview with rsync'
+desc 'deploy development site with rsync'
 task :devdeploy do
 	# uploads preview version via SSH and rsync
 	# does NOT delete other files on the server
@@ -71,4 +71,15 @@ end
 desc 'update all Bootstrap assets'
 task :bootstrap => [:bootstrap_img, :bootstrap_js, :bootstrap_css] do
 	puts 'Successfully updated all Bootstrap assets.'
+end
+
+desc 'generate staging site'
+task :staginggenerate do
+	# builds the site using Jekyll
+	# Jekyll will get use URLs passed to command line
+	# Jekyll will take other configurations from _config.yml
+	puts 'Generating the staging site.'
+	Rake::Task["bootstrap"].invoke
+	sh "jekyll --base-url http://staging.jsr.fsu.edu/ --url http://staging.jsr.fsu.edu/ --no-auto"
+	puts 'Successfully built staging site!'
 end
