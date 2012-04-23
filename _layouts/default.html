@@ -6,10 +6,6 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<!-- TODO add meta data -->
-		<!--<meta name="author" content="Lincoln Mullen (lincoln@lincolnmullen.com)" />-->
-		<!--<meta name="description" content="Lincoln Mullen is historian of religion and early America, and a PhD candidate at Brandeis University." />-->
-		<!-- TODO add Atom feed -->
-		<!--<link rel="alternate" type="application/rss+xml" title="Lincoln Mullen &raquo; Writings Feed" href="{{ site.base-url }}/feed/" /> -->
 		<title>The Journal of Southern Religion &middot; {{ page.title }}</title>
 
 		<!-- Bootstrap stylesheets, generate from LESS -->
@@ -23,7 +19,6 @@
 		<link rel="canonical" href="http://jsr.fsu.edu/{{page.url}}">
 		<!-- TODO add favicon -->
 		<link rel="shortcut icon" href="{{ site.baseurl }}assets/img/favicon.png" sizes="16x16">
-		<!-- TODO add Google analytics here -->
 
 		<!-- HTML5 shim, for IE6-8 support of HTML elements -->
 		<!--[if lt IE 9]>
@@ -48,6 +43,9 @@
             });  
         </script>  
 		{% endif %}
+
+		{% include google-analytics.html %}
+
 	</head>
 	<body>
 		<div class="container" id="page">

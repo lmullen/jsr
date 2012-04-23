@@ -12,7 +12,7 @@ task :devgenerate do
 	# Jekyll will take other configurations from _config.yml
 	puts 'Generating the development site.'
 	Rake::Task["bootstrap"].invoke
-	sh "jekyll --base-url http://lincolnmullen.com/dev/jsr/ --url http://lincolnmullen.com/dev/jsr/ --no-auto"
+	sh "jekyll --base-url http://lincolnmullen.com/dev/jsr/ --url http://lincolnmullen.com/dev/jsr --no-auto"
 	puts 'Successfully built site!'
 end
 
@@ -39,7 +39,7 @@ task :preview do
 	puts 'Previewing site with a local server.'
 	puts 'See the site at <http://localhost:4000/>.'
 	puts 'Use CTRL+C to interrupt.'
-	sh 'jekyll --auto --server --base-url / --url http://localhost:4000/'
+	sh 'jekyll --auto --server --base-url / --url http://localhost:4000'
 	# after the server is interrupted
 	puts 'Finished previewing the site locally.'
 end
@@ -80,6 +80,6 @@ task :staginggenerate do
 	# Jekyll will take other configurations from _config.yml
 	puts 'Generating the staging site.'
 	Rake::Task["bootstrap"].invoke
-	sh "jekyll --base-url http://staging.jsr.fsu.edu/ --url http://staging.jsr.fsu.edu/ --no-auto"
+	sh "jekyll --base-url http://staging.jsr.fsu.edu/ --url http://staging.jsr.fsu.edu --no-auto"
 	puts 'Successfully built staging site!'
 end
