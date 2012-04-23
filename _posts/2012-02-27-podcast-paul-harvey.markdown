@@ -1,18 +1,18 @@
 ---
 title: Interview with Paul Harvey
 layout: podcast
-categories:
-- podcast
+category: podcast
 author: Art Remillard
-podcast-filename: jsr.ep001.paulharvey.mp3
+podcast-filename: "jsr.ep001.paulharvey.mp3"
+podcast-running-time: "20:33"
 ---
 
 This past Friday, I had the pleasure of recording the first *JSR*
-podcast, an interview with [Paul Harvey](http://paulharvey.org/)
-about his new book, *[Moses, Jesus, and the Trickster in the Evangelical
+podcast, an interview with [Paul Harvey](http://paulharvey.org/) about
+his new book, *[Moses, Jesus, and the Trickster in the Evangelical
 South](http://www.ugapress.org/index.php/books/index/moses_jesus_and_the_trickster).*
-Lincoln is working on getting us on iTunes, but in the meantime, you can
-download the podcast
+[Lincoln](http://lincolnmullen.com/) is working on getting us on iTunes,
+but in the meantime, you can download the podcast
 [here](http://dl.dropbox.com/u/40661100/harvey02242012.mp3). 
 
 Paul and I covered a range of topics, from his experiences at the Lamar

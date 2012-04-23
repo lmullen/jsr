@@ -1,27 +1,51 @@
 ---
 layout: default
 ---
-
-<div class="page-header">
-	<h1>{{page.title}}</h1>
-</div>
-
-<div class="row">
-	<div class="span8 offset2">
-		<div class="post-date">
-			{{ page.date | date_to_long_string }}
+<article>
+<div class="row article-title"><!-- title row -->
+	<div class="span7 offset4">
+		<div class="page-header">
+			<h1>{{page.title}}</h1>
 		</div>
-		{% if post.author != null %}
-			<div class="post-author">{{ post.author }}</div>
-		{% endif %}
-
-		<audio controls="controls">
-		<source src="{{site.baseurl}}assets/podcast/{{page.podcast-filename}}" type="audio/mpeg" />
-		<!-- TODO make this cross browser compatible -->
-		Your browser does not support the audio element.
-		</audio>
-
-		{{content}}
-
 	</div>
-</div>
+</div><!-- end title row -->
+<div class="row"><!-- body row -->
+	<div class="span3 offset1 article-metadata"> <!-- metadata column -->
+
+		<h3>{{page.author}}</h3>
+		<p>{{page.author-note}}</p>
+		<p class="post-date">{{ page.date | date_to_long_string }}</p>
+		<ul class="breadcrumb">
+			<li>
+			<a href="{{site.baseurl}}">JSR</a> <span class="divider">/</span>
+			</li>
+			<li>
+			<a href="">New Media</a> 
+			</li>
+		</ul>
+
+		<h4 style="margin-bottom:6px;"><i class="icon-share-alt"></i> Share this podcast</h4>
+		{% include share.html %}
+
+	</div><!-- end metadata column -->
+	<div class="span7"> <!-- article column -->
+		<p id="audio-player_{{page.podcast-filename}}">
+			<audio controls="controls">
+			<source src="{{site.baseurl}}assets/podcast/{{page.podcast-filename}}" type="audio/mpeg" />
+				Your browser does not supports neither Flash or embedded 
+				audio. Please download the <a 
+					href="{{site.baseurl}}assets/podcast/{{page.podcast-filename}}">.mp3</a> instead.
+			</audio> 
+		</p>
+		<script type="text/javascript">
+			AudioPlayer.embed("audio-player_{{page.podcast-filename}}", {soundFile: "{{site.baseurl}}assets/podcast/{{page.podcast-filename}}"});
+			</script>
+			<p class="muted lead"><i class="icon-download-alt"></i> Download the <a 
+					href="{{site.baseurl}}assets/podcast/{{page.podcast-filename}}">.mp3</a> 
+				&nbsp;&nbsp;&nbsp; <i class="icon-time"></i> 
+				Running time: {{page.podcast-running-time}}</p>
+
+			{{content}}
+		</div> <!-- end article column -->
+	</div> <!-- end body row -->
+	</article>
