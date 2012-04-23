@@ -1,3 +1,8 @@
+# Site metadata
+title: The Journal of Southern Religion
+editors: Editors of the Journal of Southern Religion
+webmaster_email: lincoln+jsr@lincolnmullen.com
+
 source: .
 destination: ./_site
 plugins: ./_plugins

@@ -1,0 +1,27 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[{{ site.title }} - All Updates]]></title>
+  <link href="{{ site.url }}/all.atom.xml" rel="self"/>
+  <link href="{{ site.url }}/"/>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <id>{{ site.url }}/all.atom.xml</id>
+  <author>
+    <name><![CDATA[{{ site.editors | strip_html }}]]></name>
+    {% if site.webmaster_email %}<email><![CDATA[{{ site.webmaster_email }}]]></email>{% endif %}
+  </author>
+  <generator uri="http://jekyllrb.com/">Jekyll</generator>
+
+  {% for post in site.posts %}
+  <entry>
+    <title type="html"><![CDATA[{{ post.title | cdata_escape }}]]></title>
+    <link href="{{ site.url }}{{ post.url }}"/>
+    <updated>{{ post.date | date_to_xmlschema }}</updated>
+    <id>{{ site.url }}{{ post.id }}</id>
+    <content type="html"><![CDATA[{{ post.content | expand_urls: site.url | cdata_escape }}]]></content>
+  </entry>
+  {% endfor %}
+</feed>
