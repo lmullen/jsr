@@ -15,4 +15,6 @@ permalink: /:categories/:title.html
 
 currentissue: vol13
 
-
+# Services
+disqus_shortname: journalofsouthernreligion
+disqus_developer: 1 # 1 for dev site; 0 for live site

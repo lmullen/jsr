@@ -29,7 +29,7 @@ layout: default
 		<h2>New Media</h2>
 
 		{% for post in site.categories.podcast %}
-			<span class="label label-info">Podcast</span> <a href="{{site.baseurl}}/{{post.url}}">{{post.title}}</a>
+			<span class="label label-info">Podcast</span> <a href="{{site.url}}{{post.url}}">{{post.title}}</a>
 		{% endfor %}
 
 	</div>
