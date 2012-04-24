@@ -1,0 +1,47 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+	<channel>
+		<title>{{site.title}} Podcast</title>
+		<link>{{site.url}}</link>
+		<language>en-us</language>
+		<itunes:author>Journal of Southern Religion</itunes:author>
+		<itunes:summary>The Journal of Southern Religion Podcast brings you interviews and discussion about new books, notable authors, and recent trends in the study of religion in the southern United States.</itunes:summary>
+		<description>The Journal of Southern Religion Podcast brings you interviews and discussion about new books, notable authors, and recent trends in the study of religion in the southern United States.</description>
+		<itunes:owner>
+			<itunes:name>Journal of Southern Religion</itunes:name>
+			<itunes:email>lincoln+jsr@lincolnmullen.com</itunes:email>
+		</itunes:owner>
+		<itunes:image href="{{site.url}}/assets/img/jsr.podcast.logo.jpg" />
+		<itunes:category text="Religion &amp; Spirituality">
+		</itunes:category>
+		<itunes:category text="Society &amp; Culture">
+			<itunes:category text="History" />
+		</itunes:category>
+		<itunes:category text="Education">
+			<itunes:category text="Higher Education" />
+		</itunes:category>
+		<pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+		<lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
+		<generator>Jekyll</generator>
+		<managingEditor>aremillard@francis.edu (Art Remillard)</managingEditor>
+		<webMaster>lincoln+jsr@lincolnmullen.com (Lincoln Mullen)</webMaster>
+		<atom:link href="{{site.url}}/podcast.xml" rel="self" type="application/rss+xml" />
+
+		{% for post in site.categories.podcast %}
+			<item>
+				<title>Episode {{post.podcast-episode}}: {{ post.title }}</title>
+				<link>{{site.url}}{{ post.url }}</link>
+				<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+				<guid>{{site.url}}{{ post.url }}</guid>
+				<description>{{ post.content | xml_escape }}</description>
+				<itunes:summary>{{ post.content | xml_escape }}</itunes:summary>
+				<enclosure url="{{site.url}}/assets/podcast/{{post.podcast-filename}}" length="{{post.podcast-filesize}}" type="audio/mpeg" />
+				<itunes:duration>{{post.podcast-running-time}}</itunes:duration>
+			</item>
+		{% endfor %}
+
+	</channel> 
+</rss>
