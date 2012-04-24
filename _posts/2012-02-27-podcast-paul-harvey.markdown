@@ -4,7 +4,9 @@ layout: podcast
 category: podcast
 author: Art Remillard
 podcast-filename: "jsr.ep001.paulharvey.mp3"
+podcast-filesize: 38568
 podcast-running-time: "20:33"
+podcast-episode: 1
 ---
 
 This past Friday, I had the pleasure of recording the first *JSR*
