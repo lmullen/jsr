@@ -47,7 +47,7 @@ end
 desc 'assemble Bootstrap Javascripts'
 task :bootstrap_js do
 	# concatenate just the Bootstrap scripts that we need 
-	sh 'cat ./_bootstrap/js/bootstrap-dropdown.js ./_bootstrap/js/bootstrap-collapse.js > ./_bootstrap/bootstrap.tmp.js'
+	sh 'cat ./_bootstrap/js/bootstrap-dropdown.js ./_bootstrap/js/bootstrap-collapse.js ./_bootstrap/js/bootstrap-tooltip.js > ./_bootstrap/bootstrap.tmp.js'
 	# compress the JavaScript and copy it to our images directory
 	sh 'uglifyjs -nc ./_bootstrap/bootstrap.tmp.js > ./assets/js/bootstrap.min.js'
 	# remove the temporary file

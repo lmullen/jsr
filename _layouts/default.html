@@ -47,6 +47,7 @@
 
 		{% include google-analytics.html %}
 
+
 	</head>
 	<body>
 		<div class="container" id="page">
@@ -65,18 +66,14 @@
 				</div>
 				<div class="span3">
 
-					<div id="subscribe" class="">
-						<a href="#" class="subscribe"><i class="icon-rss"></i></a>
-						<a href="#" class="subscribe"><i class="icon-email"></i></a>
-						<a href="https://twitter.com/#!/jsreligion" 
-							title="Get updates via Twitter" class="subscribe"><i class="icon-twitter"></i></a>
-						<a href="{{site.podcast-itunes}}" 
-							class="subscribe" title="Subscribe to the 
-							JSR Podcast via RSS"><i 
-								class="icon-itunes"></i></a>
+					<div id="subscribe"> 
+						<a href="#" class="subscribe" rel="tooltip" title="Subscribe to all updates via Atom feed"><i class="icon-rss"></i></a>
+						<a href="#" class="subscribe" rel="tooltip" title="Subscribe to updates via e-mail"><i class="icon-email"></i></a>
+						<a href="https://twitter.com/#!/jsreligion" rel="tooltip" title="Get updates via Twitter" class="subscribe"><i class="icon-twitter"></i></a>
+						<a href="{{site.podcast-itunes}}" rel="tooltip" class="subscribe" title="Subscribe to the JSR Podcast"><i class="icon-itunes"></i></a>
 						<a 
 							href="http://www.facebook.com/pages/Journal-of-Southern-Religion/197375710340299" 
-							title ="Visit our Facebook page" class="subscribe"><i class="icon-facebook"></i></a>
+							rel="tooltip" title ="Visit our Facebook page" class="subscribe"><i class="icon-facebook"></i></a>
 					</div>
 				</div>
 			</div>
@@ -164,6 +161,11 @@
 				<!-- scripts placed at the end so the content loads faster -->
 				<script src="{{site.baseurl}}assets/js/jquery-1.7.1.min.js"></script>
 				<script src="{{site.baseurl}}assets/js/bootstrap.min.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function(){
+					$("[rel=tooltip]").tooltip();
+				});
+		</script>
 
 			</body>
 		</html>
