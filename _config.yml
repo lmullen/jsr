@@ -26,4 +26,5 @@ disqus_developer: 0      # 1 for dev site; 0 for live site
 google_analytics_id: UA-31135305-1
 
 # Feeds
-podcast-feed: {{site.url}}/itunes.xml
+podcast-feed: http://jsr.fsu.edu/itunes.xml
+podcast-itunes: http://jsr.fsu.edu/itunes.xml
