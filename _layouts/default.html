@@ -19,16 +19,24 @@
 		<link rel="canonical" href="{{site.url}}{{page.url}}">
 		<!-- TODO add favicon -->
 		<link rel="shortcut icon" href="{{ site.baseurl }}assets/img/favicon.png" sizes="16x16">
-
 		<link rel="alternate" title="Atom feed: all updates" type="application/atom+xml" href="{{site.url}}/all.atom.xml">
-
 
 		<!-- HTML5 shim, for IE6-8 support of HTML elements -->
 		<!--[if lt IE 9]>
 		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
 		<![endif]-->
 
+		<!-- Load Flash audio player if the post is a podcast -->
+		{% if page.category == 'podcast' %}
+		<script type="text/javascript" 
+			src="{{site.baseurl}}assets/audio-player/audio-player.js"></script>
 
+		<script type="text/javascript">  
+			AudioPlayer.setup("{{site.baseurl}}assets/audio-player/player.swf", {  
+				width: 400  
+			});  
+		</script>  
+		{% endif %}
 
 	</head>
 	<body>
@@ -147,18 +155,6 @@
 						$("[rel=tooltip]").tooltip();
 					});
 			</script>
-
-			<!-- Load Flash audio player if the post is a podcast -->
-			{% if page.category == 'podcast' %}
-			<script type="text/javascript" 
-				src="{{site.baseurl}}assets/audio-player/audio-player.js"></script>
-
-			<script type="text/javascript">  
-				AudioPlayer.setup("{{site.baseurl}}assets/audio-player/player.swf", {  
-					width: 400  
-				});  
-			</script>  
-			{% endif %}
 
 			<!-- Share This JavaScript -->
 			<script type="text/javascript">var switchTo5x=true;</script>
