@@ -1,0 +1,22 @@
+---
+title: New Media
+layout: page
+---
+
+<p>In addition to traditional articles and book reviews, the 
+<em>JSR</em> publishes scholarship in new media. The journal is 
+beginning these publications with a podcast.
+
+<h2>JSR Podcast</h2>
+
+<p class="">The <em>Journal of Southern Religion</em> Podcast brings you 
+interviews and discussion about new books, notable authors, and recent 
+trends in the study of religion in the American South.</p>
+
+{% for post in site.categories.podcast %}
+
+	<p><span class="label label-info">Podcast</span> <a 
+		href="{{site.url}}{{post.url}}">Episode 
+		{{post.podcast-episode}}: {{post.title}}</a></p>
+
+{% endfor %}
