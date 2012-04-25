@@ -28,24 +28,6 @@
 		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
 		<![endif]-->
 
-		<!-- Share This JavaScript -->
-		<script type="text/javascript">var switchTo5x=true;</script>
-		<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
-		<script type="text/javascript">stLight.options({publisher: "299e990a-0ede-44b3-b16f-cb0d15d7d169"}); </script>
-
-		<!-- Load Flash audio player if the post is a podcast -->
-		{% if page.category == 'podcast' %}
-		<script type="text/javascript" 
-			src="{{site.baseurl}}assets/audio-player/audio-player.js"></script>
-
-        <script type="text/javascript">  
-			AudioPlayer.setup("{{site.baseurl}}assets/audio-player/player.swf", {  
-                width: 400  
-            });  
-        </script>  
-		{% endif %}
-
-		{% include google-analytics.html %}
 
 
 	</head>
@@ -157,15 +139,36 @@
 					</div>
 				</div> <!-- end div#container -->
 
+			<!-- scripts placed at the end so the content loads faster -->
+			<script src="{{site.baseurl}}assets/js/jquery-1.7.1.min.js"></script>
+			<script src="{{site.baseurl}}assets/js/bootstrap.min.js"></script>
 
-				<!-- scripts placed at the end so the content loads faster -->
-				<script src="{{site.baseurl}}assets/js/jquery-1.7.1.min.js"></script>
-				<script src="{{site.baseurl}}assets/js/bootstrap.min.js"></script>
-		<script type="text/javascript">
-			$(document).ready(function(){
-					$("[rel=tooltip]").tooltip();
-				});
-		</script>
+			<!-- active jQuery functions -->
+			<script type="text/javascript">
+				$(document).ready(function(){
+						$("[rel=tooltip]").tooltip();
+					});
+			</script>
+
+			<!-- Load Flash audio player if the post is a podcast -->
+			{% if page.category == 'podcast' %}
+			<script type="text/javascript" 
+				src="{{site.baseurl}}assets/audio-player/audio-player.js"></script>
+
+			<script type="text/javascript">  
+				AudioPlayer.setup("{{site.baseurl}}assets/audio-player/player.swf", {  
+					width: 400  
+				});  
+			</script>  
+			{% endif %}
+
+			<!-- Share This JavaScript -->
+			<script type="text/javascript">var switchTo5x=true;</script>
+			<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+			<script type="text/javascript">stLight.options({publisher: "299e990a-0ede-44b3-b16f-cb0d15d7d169"}); </script>
+
+			<!-- Google Analytics script -->
+			{% include google-analytics.html %}
 
 			</body>
 		</html>
