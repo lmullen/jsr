@@ -90,7 +90,7 @@ strike. During the 1930s, 21 of 24 new churches built in the mill
 villages were Holiness, Pentecostal and "newer sect" churches.
 Previously 88 percent of Gastonians had worshipped in Baptist, Methodist
 or Presbyterian churches. Fast forward another decade, and one finds yet
-another significant change—Southern Baptist churches were increasing
+another significant change---Southern Baptist churches were increasing
 their share of church members in Gaston County by almost the exact share
 that Methodists were losing theirs.[^10] 
 
@@ -104,8 +104,8 @@ Moreover, the depths of the Depression also gave credence to the
 warnings of premillenialist preachers that mankind was regressing toward
 the imminent end of the world."[^11] Often, scholars have
 associated such ideas with fatalism, but the excellent work of Jarod
-Roll, Richard Callahan, and Alessandro Portelli—works that place class
-at the center—should caution us against such facile notions. Working
+Roll, Richard Callahan, and Alessandro Portelli---works that place class
+at the center---should caution us against such facile notions. Working
 people who held such beliefs at times mobilized the most effective
 collective protests against the injustices of
 capitalism.[^12] 
@@ -215,7 +215,7 @@ supernatural forces of good and evil, devout workers wanted to make
 certain that they were fighting with the right army. When unions
 arrived, divisiveness spiked, whether or not the unions were at fault.
 Furthermore, adherents of popular religion appreciated both the present
-and future aspects of life—the here and the hereafter—convinced of the
+and future aspects of life---the here and the hereafter---convinced of the
 ultimate triumph of the sacred.[^24] 
 
 To sum up, I think that the study of religion in the early

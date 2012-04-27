@@ -188,9 +188,9 @@ baptismal river and poured it into the city church.
 
 ### Church Authority and Racial Segregation ###
 
-To illustrate how that process worked—of preserving the primitive
+To illustrate how that process worked---of preserving the primitive
 practice of baptism as part of the modernizing impulse of the city
-Baptist church—take the case of First Baptist Church Richmond. Hinton
+Baptist church---take the case of First Baptist Church Richmond. Hinton
 initiated talks of an indoor baptistery at FBC Richmond while serving as
 pastor from 1833 to 1835, though he left the congregation before
 construction began. Hinton's successor, Jeremiah Bell Jeter (1802–1880),
@@ -325,8 +325,8 @@ Alexandria, Virginia from late 1950s. Red markings by lay member of
 congregation point to "baptismal pool." Photo provided by church
 historian Alton S. Wallace.</p> </div> </li> </ul>
 
-The precise sequence of events displayed at FBC Richmond—forced
-integration, indoor baptistery construction, and self-segregation—was
+The precise sequence of events displayed at FBC Richmond---forced
+integration, indoor baptistery construction, and self-segregation---was
 anomalous, though the racial tensions were typical for that time period.
 Comparable city Baptist congregations, such as First Baptist Church and
 Alfred Street Baptist Church in Alexandria, Virginia, often
@@ -637,7 +637,7 @@ Loves Creek Baptist, the two oldest Baptist churches in the area, dating
 back to 1756. Although all three churches remained members of the Sandy
 Creek Baptist Association, there was a noticeable difference between FBC
 and the other two churches. Rural churches were named after bodies of
-water—Rocky *River*, Loves *Creek*. In contrast, titles of city churches
+water---Rocky *River*, Loves *Creek*. In contrast, titles of city churches
 did not reference natural markers, whether rivers, creeks, rocks, shady
 groves, or brush arbors. Instead, they designated the congregations as
 the first, second, or even the third church of its kind within the

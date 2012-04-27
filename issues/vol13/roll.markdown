@@ -40,7 +40,7 @@ blended their democratic voice with a gendered, racist rhetorical
 assault on corporate power in the countryside that ultimately led to a
 series of violent attacks on African American farmers and local
 landowners. My most surprising finding, however, was that dynamic
-crosscurrents—social, cultural, ideological, and political—linked the
+crosscurrents---social, cultural, ideological, and political---linked the
 rural socialist movement to the thriving Pentecostal tent revivals that
 were then attracting rural poor people throughout the area. Here were
 socialists praising, joining with, and using the same scripture as
@@ -49,7 +49,7 @@ groups of socialists and other workers, and then joining with them to
 threaten and beat up a despised plantation owner. Finally, there were
 socialists and Pentecostals in court together, and later in jail, as
 local elites worked to eliminate them as threats. Both sets of
-radicals—religious and political—were considered equally dangerous by
+radicals---religious and political---were considered equally dangerous by
 the dominant classes. These findings confounded my understanding at the
 time on two counts, namely that socialists were uninterested in religion
 and that southern Christians, especially Pentecostals, were resolutely
@@ -82,8 +82,8 @@ outside of the social and economic context of the people who held it.
 
 It is easy, I think, to get stuck in institutional or organizational
 stories when writing the history of either southern religion or southern
-labor, mainly because institutions have provided the richest sources—in
-some cases the only sources—still available. Whether one is talking
+labor, mainly because institutions have provided the richest sources---in
+some cases the only sources---still available. Whether one is talking
 about unions or denominations, the records that we usually begin with
 are very similar: institutional correspondence, policy debates and
 pronouncements, newsletters and newspapers, membership files, financial
@@ -97,18 +97,18 @@ superb finding aid and widely available, the collection describes in
 remarkable detail the efforts of African American and white farmers in
 the rural South to organize in the 1930s to protest their poverty and
 lack of full citizenship. For any scholar interested in southern
-labor—particularly in the fields—the correspondence, minutes, membership
+labor---particularly in the fields---the correspondence, minutes, membership
 rolls, and newspapers collected in the STFU papers are a godsend. By a
 long shot, they contain more information on the social, economic, and
-political lives of the rural poor than any other single source. But—and
-it took me some time to learn this fact—the collection does not tell us
+political lives of the rural poor than any other single source. But---and
+it took me some time to learn this fact---the collection does not tell us
 everything about working-class life in the South. It especially does not
 explain how the people who joined the STFU came to do so, where they
 came from, where they went after its demise, and, most importantly I
 think, how their union involvement fit within their worldview.
 
-In older tellings of the history of the STFU—tellings that were
-over-reliant on the institutional source base—the fact that many
+In older tellings of the history of the STFU---tellings that were
+over-reliant on the institutional source base---the fact that many
 meetings occurred in rural churches and that many locals were led by
 African American and white preachers was explained as a function of
 organizing strategies laid down by the union's secular leadership: the
@@ -204,11 +204,11 @@ the most fertile moments for exploring the surprising interactions
 between religious faith and the politics of class.
 
 Historians of southern religion have produced a rich body of work that
-explores the role of power—economic, gendered, and racial—in the
+explores the role of power---economic, gendered, and racial---in the
 dynamics of faith. As a labor historian I have relied on these
-scholars—Paul Harvey, Adele Oltman, Harvey Cox, Donald G. Matthews,
+scholars---Paul Harvey, Adele Oltman, Harvey Cox, Donald G. Matthews,
 Randall J. Stephens, Vincent Harding, Joe Creech, Robert H. Craig,
-Wilson Jeremiah Moses, and Albert J. Raboteau, to name a few—as I tried
+Wilson Jeremiah Moses, and Albert J. Raboteau, to name a few---as I tried
 to get a better grasp on the lives and minds of southern workers. My
 fellow contributors to this roundtable, with their excellent work, are
 already taking the field in fascinating new directions, deepening what
