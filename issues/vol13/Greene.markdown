@@ -209,13 +209,13 @@ race, employment status, or geography, what they all shared was
 unrelenting economic instability and uncertainty. 
  
  [^2]:  Anna Weir Layne, Family Selection Specialist, "The Scion of
-an Ancient Family," pp. 5–6, from "Little Stories of Folks in Arkansas,"
+an Ancient Family," pp. 5--6, from "Little Stories of Folks in Arkansas,"
 n.p., n.d. \[1936?\]; U.S.---Resettlement Administration---Arkansas Folder,
 Eleanor Roosevelt Pamphlet Collection, Franklin D. Roosevelt Library,
 Hyde Park, New York. 
  
  [^3]:  Anna Weir Layne, Family Selection Specialist, Resettlement
-Administration, "The House of the Wooden Crosses," pp. 3–4, from "Little
+Administration, "The House of the Wooden Crosses," pp. 3--4, from "Little
 Stories of Folks in Arkansas." Layne does not provide the Barclays'
 first names in her profile. 
  
@@ -225,19 +225,19 @@ Stories of Folks in Arkansas."
  [^5]:  Much of the debate over class and theology among southern
 religious historians focuses on Pentecostalism. See footnote 8, below.
 See also John M. Giggie, *After Redemption: Jim Crow and the
-Transformation of African American Religion in the Delta, 1875–1915*
-(New York: Oxford University Press, 2008), 137–93; Paul Harvey,
+Transformation of African American Religion in the Delta, 1875--1915*
+(New York: Oxford University Press, 2008), 137--93; Paul Harvey,
 *Redeeming the South: Redeeming the South: Religious Cultures and Racial
-Identities Among Southern Baptists, 1865–1925* (Chapel Hill: University
-of North Carolina Press, 1997), 77–135; Liston Pope, *Millhands and
+Identities Among Southern Baptists, 1865--1925* (Chapel Hill: University
+of North Carolina Press, 1997), 77--135; Liston Pope, *Millhands and
 Preachers: A Study of Gastonia* (New Haven: Yale University Press,
 1942).
  
  [^6]:  Evelyn Brooks Higginbotham, *Righteous Discontent: The
-Women's Movement in the Black Baptist Church, 1880–1920* (Cambridge,
+Women's Movement in the Black Baptist Church, 1880--1920* (Cambridge,
 Mass.: Harvard University Press, 1993); Glenda Elizabeth Gilmore,
 *Gender and Jim Crow: Women and the Politics of White Supremacy in North
-Carolina, 1896–1920* (Chapel Hill: University of North Carolina Press,
+Carolina, 1896--1920* (Chapel Hill: University of North Carolina Press,
 1996); Milton Sernett, *Bound For the Promised Land: African American
 Religion and the Great Migration* (Durham, N.C.: Duke University Press,
 1997); Anthea D. Butler, *Women in the Church of God in Christ: Making a
@@ -246,13 +246,13 @@ Sanctified World* (Chapel Hill: University of North Carolina Press,
 American Women and Religion* (New York: Knopf, 2010).
  
  [^7]:  Harvey, *Redeeming the South*; Willam A. Link, *The Paradox
-of Southern Progressivism, 1880–1930*(Chapel Hill: University of North
+of Southern Progressivism, 1880--1930*(Chapel Hill: University of North
 Carolina Press, 1992); David Fort Godshalk, *Veiled Visions: The 1906
 Atlanta Race Riot and the Reshaping of American Race Relations* (Chapel
 Hill: University of North Carolina Press, 2005). See also essays by
 David Hackett, Laurie Maffly-Kipp, R. Laurence Moore, and Leslie Tentler
 in "Forum: American Religion and Class," *Religion and American Culture*
-15 (Winter 2005): 1–29.
+15 (Winter 2005): 1--29.
  
  [^8]:  W. J. Cash, *The Mind of the South* (New York: Knopf, 1941);
 Liston Pope, *Millhands and Preachers*; Grant Wacker, *Heaven Below:
@@ -268,14 +268,14 @@ University Press, 1979).
  [^9]:  Joe Creech, *Righteous Indignation: Religion and the Populist
 Revolution* (Urbana: University of Illinois Press, 2006); Erik S.
 Gellman and Jarod H. Roll, "Owen Whitfield and the Gospel of the Working
-Class in New Deal America, 1936–1946," *Journal of Southern History* 72
-(May 2006): 303–48; Roll, "Garveyism and the Eschatology of African
-Redemption in the Rural South, 1920–1936," *Religion and American
-Culture* 20 (Winter 2010): 27–56; Roll, *Spirit of Rebellion: Labor and
+Class in New Deal America, 1936--1946," *Journal of Southern History* 72
+(May 2006): 303--48; Roll, "Garveyism and the Eschatology of African
+Redemption in the Rural South, 1920--1936," *Religion and American
+Culture* 20 (Winter 2010): 27--56; Roll, *Spirit of Rebellion: Labor and
 Religion in the New Cotton South* (Urbana: University of Illinois Press,
 2010); Wayne Flynt, "Religion for the Blues: Evangelicalism, Poor
 Whites, and the Great Depression," *Journal of Southern History* 71
-(Feb. 2005): 3–38; Wayne Flynt, *Dixie's Forgotten People: The South's
+(Feb. 2005): 3--38; Wayne Flynt, *Dixie's Forgotten People: The South's
 Poor Whites*, 2nd ed. (Bloomington: Indiana University Press, 2004);
 Robin D. G. Kelley, *Hammer and Hoe: Alabama Communists During the Great
 Depression* (Chapel Hill: University of North Carolina Press, 1990).
@@ -283,13 +283,13 @@ Depression* (Chapel Hill: University of North Carolina Press, 1990).
  [^10]:  Elizabeth Fones-Wolf and Ken Fones-Wolf, "No Common Creed:
 White Working-Class Protestants and the CIO's Operation Dixie," in
 *Rethinking U.S. Labor History: Essays in the Working-Class Experience,
-1756–2009*, ed. Donna Haverty-Stacke and Daniel J. Walkowitz (New York:
+1756--2009*, ed. Donna Haverty-Stacke and Daniel J. Walkowitz (New York:
 Continuum, 2010); Richard J. Callahan, Jr., *Work and Faith in the
 Kentucky Coal Fields: Subject to Dust* (Bloomington: Indiana University
 Press, 2008).
  
  [^11]:  John Hayes, "Hard, Hard Religion: The Invisible Institution
-of the New South," *Journal of Southern Religion* 10 (2007): 1–24,
+of the New South," *Journal of Southern Religion* 10 (2007): 1--24,
 online at
 [http://jsr.fsu.edu/Volume10/Hayes.pdf](http://jsr.fsu.edu/Volume10/Hayes.pdf);
 Hayes, "Hard, Hard Religion: Faith and Class in the New South" (Ph.D.
@@ -301,7 +301,7 @@ Press, 2007).
  [^12]:  See, for instance, James R. Grossman, *Land of Hope:
 Chicago, Black Southerners, and the Great Migration* (University Of
 Chicago Press, 1991); Wallace D. Best, *Passionately Human, No Less
-Divine: Religion and Culture in Black Chicago, 1915–1952* (Princeton:
+Divine: Religion and Culture in Black Chicago, 1915--1952* (Princeton:
 Princeton University Press, 2005); James N. Gregory, *The Southern
 Diaspora: How the Great Migrations of Black and White Southerners
 Transformed America* (Chapel Hill: University of North Carolina Press,
@@ -317,8 +317,8 @@ H62), Special Collections, University of Arkansas Libraries,
 Fayetteville (hereafter Arkansas Church Records); Church of God
 (Cleveland), Haynes, Lee County, Folder 104, Box 427, Arkansas Church
 Records. See also Michael Berger, *The Devil Wagon in God's Country: The
-Automobile and Social Change in Rural America, 1893–1929* (Hamden,
-Conn.: Archon Books, 1979), 128–30.
+Automobile and Social Change in Rural America, 1893--1929* (Hamden,
+Conn.: Archon Books, 1979), 128--30.
  
  [^15]:  Church records are not available for every southern state.
 I have looked closely only at the Arkansas collections. For a couple of
@@ -331,7 +331,7 @@ Church Records.
 broader reassessment of American religious history, see Ann Braude,
 "Women's History Is American Religious History,"*Retelling U.S.
 Religious History*, ed. Thomas A. Tweed (Berkeley: University of
-California Press, 1997), 87–107; Catherine A. Brekus, "Introduction:
+California Press, 1997), 87--107; Catherine A. Brekus, "Introduction:
 Searching for Women inNarratives of American Religious History," in *The
 Religious History of American Women: Reimagining the Past*, ed. Brekus
-(Chapel Hill: University of North Carolina Press, 2007), 1–50.
+(Chapel Hill: University of North Carolina Press, 2007), 1--50.

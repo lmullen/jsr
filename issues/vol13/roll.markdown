@@ -169,7 +169,7 @@ reveals a history of explosive thought. Throughout the 1920s, rural
 Garveyites crafted a vision of deliverance that promised eventual
 earthly redemption for all black people through the diligent work of a
 few on behalf of the whole race. They used biblical scripture, for
-example, Exodus 3:16–17, to articulate and elaborate this gradualist
+example, Exodus 3:16--17, to articulate and elaborate this gradualist
 vision. By the early 1930s, however, with their movement in disarray,
 Garveyites continued to work for racial redemption but increasingly
 imagined their deliverance as violent, immediate, and exclusive. Their
@@ -227,5 +227,5 @@ field at the cutting edge of that endeavor.
 [^1]:  For the full argument, see Jarod Roll, "Garveyism and the
 Eschatology of African Redemption in the Rural South, 1920-1936,"
 *Religion and American Culture: A Journal of Interpretation* 20 (Winter
-2010): 27–56.
+2010): 27--56.
  

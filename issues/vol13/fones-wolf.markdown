@@ -260,7 +260,7 @@ Religion in the South*, 2nd ed., (Macon, Ga.: Mercer University Press,
 Shaping of the South from the Civil War through the Civil Rights Era*
 (Chapel Hill: University of North Carolina Press, 2005); Wayne Flynt,
 "Religion for the Blues: Evangelicalism, Poor Whites, and the Great
-Depression," *Journal of Southern History* 71 (Feb. 2005): 3–38; and
+Depression," *Journal of Southern History* 71 (Feb. 2005): 3--38; and
 Flynt, *Poor But Proud: Alabama's Poor Whites* (1989; Tuscaloosa:
 University of Alabama Press, 2001).
 
@@ -270,7 +270,7 @@ the Death of Jim Crow* (Chapel Hill: University of North Carolina Press,
 2004); Glenn Feldman, ed., *Politics and Religion in the White South*
 (Lexington: University Press of Kentucky, 2005); Jane Dailey, "Sex,
 Segregation, and the Sacred after *Brown*," *Journal of American
-History* 91 (June 2004): 119–45. Of course, there is also a recent spate
+History* 91 (June 2004): 119--45. Of course, there is also a recent spate
 of works calling into question whether or not southern racism is a
 unique or a national trait. See, in particular, Thomas J. Sugrue, *Sweet
 Land of Liberty: The Forgotten Struggle for Civil Rights in the North*
@@ -290,15 +290,15 @@ Harvey for steering me to this essay.
 [^10]:  Elizabeth Fones-Wolf and I discussed these changes in
 membership in "No Common Creed: White Working-Class Protestants and the
 CIO's Operation Dixie," in *Rethinking U.S. Labor History: Essays on the
-Working-Class Experience, 1756–2009*, ed. Donna Haverty-Stacke and
+Working-Class Experience, 1756--2009*, ed. Donna Haverty-Stacke and
 Daniel J. Walkowitz (New York: Continuum, 2010), 114.
 
 [^11]:  Robert T. Handy, "The American Religious Depression,
-1926–1935," *Church History* 29 (March 1960): 3-16; Flynt, "Religion for
+1926--1935," *Church History* 29 (March 1960): 3-16; Flynt, "Religion for
 the Blues." See also, Joel A. Carpenter, *Revive Us Again: The
 Reawakening of American Fundamentalism* (New York: Oxford University
 Press, 1997); William R. Glass, *Strangers in Zion: Fundamentalists in
-the South, 1900–1950* (Macon, Ga.: Mercer University Press, 2001);
+the South, 1900--1950* (Macon, Ga.: Mercer University Press, 2001);
 Randall J. Stephens, *The Fire Spreads: Holiness and Pentecostalism in
 the American South* (Cambridge, Mass.: Harvard University Press, 2008);
 and Darren Dochuk, *From Bible Belt to Sun Belt: Plain-Folk Religion,
@@ -327,31 +327,31 @@ August 1980, SOHP.
 [^15]:  See especially, the chapter, "The Social Sources of
 Denominationalism Revisited," in Wade Clark Roof and William McKinney,
 *American Mainline Religion: Its Changing Shape and Future* (New
-Brunswick: Rutgers University Press, 1987), 106–47.
+Brunswick: Rutgers University Press, 1987), 106--47.
 
 [^16]:  Daniel E. Bender, "Sensing Labor: The Stinking
 Working-Class after the Cultural Turn," in *Rethinking U.S. Labor*,
-243–65. Colleen McDannell, "Introduction," in *Religions of the United
+243--65. Colleen McDannell, "Introduction," in *Religions of the United
 States in Practice*, ed. McDannell (Princeton: Princeton University
 Press, 2001), 1:2. One of the best examples of using these insights in
 analyzing working-class religion is found in Callahan, *Work and Faith
 in the Kentucky Coalfields*. Of course, in another context there is
 Robert Orsi's classic *The Madonna of 115th Street: Faith and Community
-in Italian Harlem, 1880–1950* (New Haven: Yale University Press, 1985).
+in Italian Harlem, 1880--1950* (New Haven: Yale University Press, 1985).
 See also, Randall J. Stephens, "Introduction: American Religious History
 in Context," in *Recent Themes in American Religious History: Historians
 in Conversation*, ed. Stephens (Columbia: University of South Carolina
-Press, 2009), 1–10.
+Press, 2009), 1--10.
 
-[^17]:  Flynt, "Religion for the Blues," 10–13; Glass, *Strangers
-in Zion*, 27–32; Alice Levitt interview with Jim Leloudis, 18 July 1979,
-SOHP.\
+[^17]:  Flynt, "Religion for the Blues," 10--13; Glass, *Strangers
+in Zion*, 27--32; Alice Levitt interview with Jim Leloudis, 18 July 1979,
+SOHP.
 
 [^18]: *Knoxville Journal*, 15 April 1946.
 
 [^19]: *Decisions and Orders of the National Labor Relations Board,
-May 29–June 30, 1940*, vol. 24 (Washington: Government Printing Office,
-1940), 18–19.\
+May 29--June 30, 1940*, vol. 24 (Washington: Government Printing Office,
+1940), 18--19.
 
 [^20]:  Matthew Sutton, "Was FDR the Antichrist? The Birth of
 Fundamentalist Anti‑liberalism in a Global Age,"*Journal of American
