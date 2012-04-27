@@ -15,6 +15,29 @@ order allow,deny
 deny from all
 </Files>
 
-# Direct the server to the error pages I've created
-#ErrorDocument 500 http://lincolnmullen.com/500.html
-#ErrorDocument 404 http://lincolnmullen.com/404.html
+# compress text, html, javascript, css, xml:
+AddOutputFilterByType DEFLATE text/plain
+AddOutputFilterByType DEFLATE text/html
+AddOutputFilterByType DEFLATE text/xml
+AddOutputFilterByType DEFLATE text/css
+AddOutputFilterByType DEFLATE application/xml
+AddOutputFilterByType DEFLATE application/xhtml+xml
+AddOutputFilterByType DEFLATE application/rss+xml
+AddOutputFilterByType DEFLATE application/javascript
+AddOutputFilterByType DEFLATE application/x-javascript
+
+# Or, compress certain file types by extension:
+<files *.html>
+SetOutputFilter DEFLATE
+</files>
+
+# cache files
+#ExpiresActive On
+#ExpiresDefault "access plus 1 days"
+#ExpiresByType text/css  "access plus 7 days"
+#ExpiresByType text/javascript "access plus 7 days"
+#ExpiresByType application/javascript "access plus 7 days"
+#ExpiresByType image/gif "access plus 3 months"
+#ExpiresByType image/png "access plus 3 months"
+#ExpiresByType image/jpg "access plus 3 months"
+#ExpiresByType image/jpeg "access plus 3 months"
