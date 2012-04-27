@@ -5,13 +5,14 @@ task :default do
 	sh 'rake --tasks --silent'
 end
 
+#generate and deploy tasks
 desc 'build development site using Jekyll'
 task :devgenerate do
 	# builds the site using Jekyll
 	# Jekyll will get use URLs passed to command line
 	# Jekyll will take other configurations from _config.yml
 	puts 'Generating the development site.'
-	Rake::Task["bootstrap"].invoke
+	Rake::Task["assets"].invoke
 	sh "jekyll --base-url http://lincolnmullen.com/dev/jsr/ --url http://lincolnmullen.com/dev/jsr --no-auto"
 	puts 'Successfully built site!'
 end
@@ -35,7 +36,7 @@ task :preview do
 	# Generates the site locally, launches a server, auto regenerates
 	# Jekyll gets URLS from options passed to command line
 	# Other options are taken from _config.yml
-	Rake::Task["bootstrap"].invoke
+	Rake::Task["assets"].invoke
 	puts 'Previewing site with a local server.'
 	puts 'See the site at <http://localhost:4000/>.'
 	puts 'Use CTRL+C to interrupt.'
@@ -44,8 +45,10 @@ task :preview do
 	puts 'Finished previewing the site locally.'
 end
 
-desc 'assemble Bootstrap Javascripts'
-task :bootstrap_js do
+#helper functions
+
+desc 'assemble Bootstrap and other Javascripts'
+task :js do
 	# concatenate just the Bootstrap scripts that we need 
 	sh 'cat ./_bootstrap/js/bootstrap-dropdown.js ./_bootstrap/js/bootstrap-collapse.js ./_bootstrap/js/bootstrap-tooltip.js > ./_bootstrap/bootstrap.tmp.js'
 	# compress the JavaScript and copy it to our images directory
@@ -54,23 +57,23 @@ task :bootstrap_js do
 	sh 'rm ./_bootstrap/bootstrap.tmp.js'
 end
 
-desc 'copy Bootstrap images'
-task :bootstrap_img do
+desc 'copy images'
+task :img do
 	# copy the Bootstrap images to our image directory
 	sh 'cp ./_bootstrap/img/* ./assets/img/'
 end
 
-desc 'compile Bootstrap CSS from LESS'
-task :bootstrap_css do
+desc 'compile CSS from LESS '
+task :css do
 	# compile, compress, and copy main Bootstrap CSS
 	sh 'lessc --compress ./_bootstrap/less/bootstrap.less > ./assets/css/bootstrap.min.css'
 	# compile, compress, and copy responsive layout CSS
 	sh 'lessc --compress ./_bootstrap/less/responsive.less > ./assets/css/bootstrap-responsive.min.css'
 end
 
-desc 'update all Bootstrap assets'
-task :bootstrap => [:bootstrap_img, :bootstrap_js, :bootstrap_css] do
-	puts 'Successfully updated all Bootstrap assets.'
+desc 'update all assets'
+task :assets => [:img, :js, :css] do
+	puts 'Successfully updated all assets.'
 end
 
 desc 'generate staging site'
@@ -79,7 +82,7 @@ task :staginggenerate do
 	# Jekyll will get use URLs passed to command line
 	# Jekyll will take other configurations from _config.yml
 	puts 'Generating the staging site.'
-	Rake::Task["bootstrap"].invoke
+	Rake::Task["assets"].invoke
 	sh "jekyll --base-url http://staging.jsr.fsu.edu/ --url http://staging.jsr.fsu.edu --no-auto"
 	puts 'Successfully built staging site!'
 end
