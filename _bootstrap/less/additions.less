@@ -126,3 +126,61 @@ article ol li {
 .tooltip {
 	font-family: @sansFontFamily;
 }
+
+/////// Footnotify //////////
+
+
+/*
+ * Customize Footnotify on your site by adding custom css.
+ * 
+ * This file is NOT loaded by the script and must be
+ * implemented on the site in order to apply.
+ *
+ * More info: https://gist.github.com/1046538
+ *
+ */
+
+
+#footnotify_panel {
+  -webkit-border-radius: 2px 2px;
+  -moz-border-radius: 2px / 2px;
+  -o-border-radius: 2px / 2px;
+  -ms-border-radius: 2px / 2px;
+  -khtml-border-radius: 2px / 2px;
+  border-radius: 2px / 2px;  
+}
+
+#footnotify_panel .footnoteBackLink,
+#footnotify_panel a[rev=footnote] {
+  display:none;
+}
+
+.footnotify_target_clone {
+  position:absolute;
+  z-index:1000;
+  padding:1px 4px;
+  margin-left:-4px;
+  background:#EED300;
+  color:#000 !important;
+  -webkit-border-radius: 3px 3px;
+  -moz-border-radius: 3px / 3px;
+  -o-border-radius: 3px / 3px;
+  -ms-border-radius: 3px / 3px;
+  -khtml-border-radius: 3px / 3px;
+  border-radius: 3px / 3px;
+  pointer-events: none;    
+}
+
+.footnotify_click_help { color:#740000; }
+
+#footnotify_targets_holder,
+#footnotify_holder,
+#footnotify_arrow{
+  background-image: none;
+}
+
+#footnotify_arrow,
+#footnotify_holder{
+  background-color: transparent;
+  border: none;
+}
