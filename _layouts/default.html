@@ -26,21 +26,6 @@
 		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
 		<![endif]-->
 
-		<!-- Load Flash audio player if the post is a podcast -->
-		{% if page.category == 'podcast' %}
-		<script type="text/javascript" 
-			src="{{site.baseurl}}assets/audio-player/audio-player.js"></script>
-
-		<script type="text/javascript">  
-			AudioPlayer.setup("{{site.baseurl}}assets/audio-player/player.swf", {  
-				width: 400  
-			});  
-		</script>  
-	{% endif %}
-
-		<script type="text/javascript" 
-			src="{{site.url}}/assets/js/footnotify.js"></script>
-
 	</head>
 	<body>
 		<div class="container" id="page">
@@ -150,17 +135,30 @@
 
 			<!-- scripts placed at the end so the content loads faster -->
 			<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-			<script src="{{site.baseurl}}assets/js/bootstrap.min.js"></script>
+			<script src="{{site.baseurl}}assets/js/jsr.min.js"></script>
 
-			<!-- active jQuery functions -->
+			<!-- activate jQuery functions -->
 			<script type="text/javascript">
 				$(document).ready(function(){
 						$("[rel=tooltip]").tooltip();
 					});
 			</script>
 
+
+			<!-- Load Flash audio player if the post is a podcast -->
+			{% if page.category == 'podcast' %}
+			<script type="text/javascript">  
+					$(document).ready(function(){
+						AudioPlayer.setup("{{site.baseurl}}assets/audio-player/player.swf", {  
+							width: 400  
+							});  
+						AudioPlayer.embed("audio-player_{{page.podcast-filename}}", {soundFile: "{{site.baseurl}}assets/podcast/{{page.podcast-filename}}"});
+						});
+			</script>  
+			{% endif %}
+
 			<!-- ShareThis script -->
-			{% include share-code.html %}
+			<!-- {% include share-code.html %} -->
 
 			<!-- Google Analytics script -->
 			{% include google-analytics.html %}
