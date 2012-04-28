@@ -133,10 +133,20 @@
 			<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 			<script src="{{site.baseurl}}assets/js/jsr.min.js"></script>
 
-			<!-- activate jQuery functions -->
+			<!-- activate Bootstrap jQuery functions -->
 			<script type="text/javascript">
 				$(document).ready(function(){
+						//turn on tooltips
 						$("[rel=tooltip]").tooltip();
+						//make e-mail subscribe a modal, and hide it
+						$("#email-subscribe").modal({
+							show: false
+							});
+						//turn show e-mail subscribe modal
+						$('#header-email-subscribe').click(function(e) {
+							e.preventDefault();
+							$("#email-subscribe").modal('show');
+							}
 					});
 			</script>
 
