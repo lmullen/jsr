@@ -1,24 +1,8 @@
-# Site metadata
+# Metadata
 title: The Journal of Southern Religion
 editors: Editors of the Journal of Southern Religion
 webmaster_email: lincoln+jsr@lincolnmullen.com
 currentissue: vol13
-
-source: .
-destination: ./_site
-plugins: ./_plugins
-
-exclude: _working/, Rakefile, _bootstrap/, _backups/
-
-auto: false
-server: false
-server_port: 4000
-
-#baseurl: http://lincolnmullen.com/jsrdev/
-#baseurl: /
-#url: http://jsr.fsu.edu
-permalink: /:categories/:title.html
-
 
 # Services
 disqus_shortname: journalofsouthernreligion
@@ -31,3 +15,14 @@ podcast-feed: http://jsr.fsu.edu/itunes.xml
 podcast-itunes: http://jsr.fsu.edu/itunes.xml
 all-posts-feed: http://jsr.fsu.edu/all.atom.xml
 twitter-link: https://twitter.com/#!/jsreligion
+
+# Generation
+source: .
+destination: ./_site
+plugins: ./_plugins
+exclude: _working/, Rakefile, _bootstrap/, _backups/
+auto: false
+server: false
+server_port: 4000
+permalink: /:categories/:title.html
+# baseurl and url are passed as command line options
