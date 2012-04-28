@@ -131,20 +131,19 @@ article ol li {
 	font-family: @sansFontFamily;
 }
 
+.footnotes p, .footnotes ol li {
+	font-size: 14px;
+	line-height: 18px;
+}
+
+sup {
+	top: -0.75em;
+}
 /////// Footnotify //////////
-
-
 /*
  * Customize Footnotify on your site by adding custom css.
- * 
- * This file is NOT loaded by the script and must be
- * implemented on the site in order to apply.
- *
  * More info: https://gist.github.com/1046538
- *
  */
-
-
 #footnotify_panel {
   -webkit-border-radius: 2px 2px;
   -moz-border-radius: 2px / 2px;
@@ -160,24 +159,22 @@ article ol li {
 }
 
 .footnotify_target_clone {
-  position:absolute;
-  z-index:1000;
-  padding:12px 4px;
-  margin-left:-4px;
-  background:#EED300;
-  color:#000 !important;
-  -webkit-border-radius: 3px 3px;
-  -moz-border-radius: 3px / 3px;
-  -o-border-radius: 3px / 3px;
-  -ms-border-radius: 3px / 3px;
-  -khtml-border-radius: 3px / 3px;
-  border-radius: 3px / 3px;
-  pointer-events: none;    
+	position:absolute;
+	z-index:1000;
+	padding:13px 4px;
+	margin-left:-4px;
+	background:#EED300;
+	color:#8f733f !important;
+	-webkit-border-radius: 3px 3px;
+	-moz-border-radius: 3px / 3px;
+	-o-border-radius: 3px / 3px;
+	-ms-border-radius: 3px / 3px;
+	-khtml-border-radius: 3px / 3px;
+	border-radius: 3px / 3px;
+	pointer-events: none;    
+	text-decoration: underline;
 }
 
-.footnotify_click_help { color:#740000; }
-
-.footnotes p, .footnotes ol li {
-	font-size: 14px;
-	line-height: 18px;
+.footnotify_click_help {
+	color:#740000;
 }
