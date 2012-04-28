@@ -36,7 +36,7 @@
 
 var footnotify_settings = {
   embed_css:            false,   //Load presentation CSS.
-  help_once:            true,  //Display 'click outside to return' for first footnote.
+  help_once:            false,  //Display 'click outside to return' for first footnote.
   block_positioning:    true,  //Size the footnote panel according to its parent block element. (disables active positioning)
   active_positioning:   true    //Scale the footnote panel while resizing and scrolling.      
 };
