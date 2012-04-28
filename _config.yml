@@ -2,6 +2,7 @@
 title: The Journal of Southern Religion
 editors: Editors of the Journal of Southern Religion
 webmaster_email: lincoln+jsr@lincolnmullen.com
+currentissue: vol13
 
 source: .
 destination: ./_site
@@ -18,13 +19,15 @@ server_port: 4000
 #url: http://jsr.fsu.edu
 permalink: /:categories/:title.html
 
-currentissue: vol13
 
 # Services
 disqus_shortname: journalofsouthernreligion
 disqus_developer: 0      # 1 for dev site; 0 for live site
 google_analytics_id: UA-31135305-1
+github-repo: https://github.com/lmullen/jsr
 
 # Feeds
 podcast-feed: http://jsr.fsu.edu/itunes.xml
 podcast-itunes: http://jsr.fsu.edu/itunes.xml
+all-posts-feed: http://jsr.fsu.edu/all.atom.xml
+twitter-link: https://twitter.com/#!/jsreligion
