@@ -11,10 +11,10 @@ History of American Slavery</em>. Athens: University of Georgia Press, 2006.
 308 pp. ISBN 0820326941. 
 ---
 
-In his 1990 work, *African Americans in the Colonial Era,* Donald R.
+In his 1990 work, *African Americans in the Colonial Era*, Donald R.
 Wright called for scholars to look beyond southern plantation life and
 begin to investigate the history of slavery in other times and
-places.****Since then, an increasing number of scholars have taken up
+places. Since then, an increasing number of scholars have taken up
 this challenge. Edward E. Baptist and Stephanie M. H. Camp's *New
 Studies in the History of American Slavery* is an important addition to
 this growing body of literature, as even the sections that focus on
