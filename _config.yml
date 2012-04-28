@@ -14,6 +14,7 @@ podcast-itunes: http://jsr.fsu.edu/itunes.xml       #link to iTunes store
 all-posts-feed: http://jsr.fsu.edu/all.atom.xml     #link to Feedburner all posts feed
 twitter-link: https://twitter.com/#!/jsreligion
 facebook-link: http://www.facebook.com/pages/Journal-of-Southern-Religion/197375710340300
+email-subscribe-standalone: http://eepurl.com/llKWT
 
 # Generation
 source: .
