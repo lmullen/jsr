@@ -3,14 +3,14 @@ layout: default
 ---
 <article>
 <div class="row article-title"><!-- title row -->
-	<div class="span9 offset3">
+	<div class="span7 offset4">
 		<div class="page-header">
 			<h1>{{page.title}}</h1>
 		</div>
 	</div>
 </div><!-- end title row -->
 <div class="row"><!-- body row -->
-	<div class="span3 article-metadata"> <!-- metadata column -->
+	<div class="span3 offset1 article-metadata"> <!-- metadata column -->
 		<hr />
 		<h3>{{page.author}}</h3>
 		<p>{{page.author-note}}</p>
@@ -32,7 +32,7 @@ layout: default
 		{% include share.html %}
 		<hr />
 	</div><!-- end metadata column -->
-	<div class="span9"> <!-- article column -->
+	<div class="span7"> <!-- article column -->
 		{{content}}
 	</div> <!-- end article column -->
 	{% comment %}
