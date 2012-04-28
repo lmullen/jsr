@@ -135,21 +135,15 @@
 
 			<!-- activate Bootstrap jQuery functions -->
 			<script type="text/javascript">
-				$(document).ready(function(){
+				$(document).ready(function() {
 						//turn on tooltips
 						$("[rel=tooltip]").tooltip();
 						//make e-mail subscribe a modal, and hide it
 						$("#email-subscribe").modal({
 							show: false
 							});
-						//turn show e-mail subscribe modal
-						$('#header-email-subscribe').click(function(e) {
-							e.preventDefault();
-							$("#email-subscribe").modal('show');
-							}
 					});
 			</script>
-
 
 			<!-- Load Flash audio player if the post is a podcast -->
 			{% if page.category == 'podcast' %}
