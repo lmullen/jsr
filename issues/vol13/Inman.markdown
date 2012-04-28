@@ -1,46 +1,15 @@
-[![image](../index_top_logo_.jpg)](http://jsr.fsu.edu/).
-
-[![image](../index_top.jpg)](http://jsr.fsu.edu/)
-
-![image](../../production/page_2_strip.jpg)
-
-[![image](../New_Vol_13.png)](Front13.html)
-
-Archive Volume XIII (2011) Volume XII (2010) Volume XI (2009) Katrina
-(2009) Volume X (2007) Volume IX (2006) Volume VIII (2005) Volume VII
-(2004) Volume VI (2003) Volume V (2002) Volume IV (2001) Volume III
-(2000) Volume II (1999) Volume I (1998) Main Page
-
-[![image](../page_2_link_4_mast.jpg)](http://jsr.fsu.edu/ed.htm)
-
-[![image](../page_2_link_5_ed_policies.jpg)](http://jsr.fsu.edu/mission.htm)
-
-[![image](../page_2_link_6_article_sub.jpg)](http://jsr.fsu.edu/submit.htm)
-
-[![image](../page_2_link_7_book_rev.jpg)](http://jsr.fsu.edu/reviews.htm)
-
-[![image](../page_2_link_8_hill_award.jpg)](http://jsr.fsu.edu/award.htm)
-
-[![image](../page_2_link_9_advertisers.jpg)](http://jsr.fsu.edu/ads.htm)
-
-[![image](../page_2_link_99_email.jpg)](mailto:aremillard@francis.edu)
-
-![image](../../production/page_2_width_line_side.jpg) \
-.
-
-![image](../../production/page_2_width_line_top.jpg)
-
-* * * * *
-
-![image](Reviews/FamilyValuesInTheOldSouth.jpg)
-
-Craig Thompson Friend and Anya Jabour, eds. *Family Values in the Old
-South*. Gainesville: University Press of Florida, 2010. 257 pp. ISBN
-9780813036762. Reviewed by Natalie Inman for the *Journal of Southern
-Religion*.
-
-* * * * *
-
+---
+layout: article
+title: "Review: Family Values in the Old South"
+author: "Natalie Inman"
+author-note: "Natalie Inman is an assistant professor of history at
+Cumberland University."
+vol: 13
+year: 2011
+book-reviewed: "Craig Thompson Friend and Anya Jabour, eds. <em>Family Values in the Old
+South</em>. Gainesville: University Press of Florida, 2010. 257 pp. ISBN
+9780813036762."
+---
 *Family Values in the Old South* opens with a quote from the famous and
 infamous *Gone With the Wind* (1936). Mammy chides Scarlett, "Ef you
 doan care ‘bout how folks talks ‘bout dis family, Ah does" (1). *Family
@@ -59,15 +28,6 @@ fictions of an idyllic southern family that both politicians and
 historians have embraced in recent years invoking "the good old days"
 during which family values ensured close knit, responsible, moral family
 units which reinforced an interdependent, responsible, moral society.
-
-* * * * *
-
-"Family history, in recent years, has continued to refine and expand
-definitions of the American, or southern, family, but has also realized
-the significance family construction and family networks had on the
-larger political framework of American society."
-
-* * * * *
 
 *Family Values* presents a portrait of southern families that recognizes
 the diverse family forms which rarely conformed to the stereotypical
@@ -154,15 +114,6 @@ boundaries and legal status as late as 1865. Each of these authors
 contends that family networks were central to securing the political or
 legal standing of their members in their communities.
 
-* * * * *
-
-"The collection has the potential to stimulate productive debates in
-many other sub-fields, including southern religious history, as
-historians rethink the relationship of the family, in its many forms, to
-other institutions."
-
-* * * * *
-
 *Family Values'*intersection with highly charged political and
 historiographical debates makes it both relevant and controversial. The
 essays in this volume are well researched and well argued. Emphasis on
@@ -184,20 +135,3 @@ history. The collection has the potential to stimulate productive
 debates in many other sub-fields, including southern religious history,
 as historians rethink the relationship of the family, in its many forms,
 to other institutions.
-
-Natalie Inman
-
-Assistant Professor of History
-
-Cumberland University
-
-**[Search *The Journal of Southern
-Religion*](http://jsr.fsu.edu/search.htm)**
-
-.
-
-.
-
-This site was designed by Randall J. Stephens and is maintained by Emily
-Clark. © 1998-2011 by \
- *The Journal of Southern Religion*. All rights reserved. ISSN 1094-5253

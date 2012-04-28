@@ -1,42 +1,12 @@
-[![image](../index_top_logo_.jpg)](http://jsr.fsu.edu/).
-
-[![image](../index_top.jpg)](http://jsr.fsu.edu/)
-
-![image](../page_2_strip.jpg)
-
-[![image](../New_Vol_13.png)](Front13.html)
-
-Archive Volume XIII (2011) Volume XII (2010) Volume XI (2009) Katrina
-(2009) Volume X (2007) Volume IX (2006) Volume VIII (2005) Volume VII
-(2004) Volume VI (2003) Volume V (2002) Volume IV (2001) Volume III
-(2000) Volume II (1999) Volume I (1998) Main Page
-
-[![image](../page_2_link_4_mast.jpg)](http://jsr.fsu.edu/ed.htm)
-
-[![image](../page_2_link_5_ed_policies.jpg)](http://jsr.fsu.edu/mission.htm)
-
-[![image](../page_2_link_6_article_sub.jpg)](http://jsr.fsu.edu/submit.htm)
-
-[![image](../page_2_link_7_book_rev.jpg)](http://jsr.fsu.edu/reviews.htm)
-
-[![image](../page_2_link_8_hill_award.jpg)](http://jsr.fsu.edu/award.htm)
-
-[![image](../page_2_link_9_advertisers.jpg)](http://jsr.fsu.edu/ads.htm)
-
-[![image](../page_2_link_99_email.jpg)](mailto:aremillard@francis.edu)
-
-![image](../page_2_width_line_side.jpg) \
- .
-
-![image](../page_2_width_line_top.jpg)
-
-* * * * *
-
-**Reading Religious Belief as Working-Class Intellectual History**
-
-**Jarod Roll\
- Lecturer in American History****\
- University of Sussex**
+---
+layout: article
+title: "Reading Religious Belief as Working-Class Intellectual History"
+author: "Jarod Roll"
+author-note: "Jarod Roll is a lecturer in American history at the
+University of Sussex."
+vol: 13
+year: 2011
+---
 
 It seems somewhat curious in retrospect that I should find myself
 contributing to this roundtable on the importance of class in the study
@@ -70,7 +40,7 @@ blended their democratic voice with a gendered, racist rhetorical
 assault on corporate power in the countryside that ultimately led to a
 series of violent attacks on African American farmers and local
 landowners. My most surprising finding, however, was that dynamic
-crosscurrents—social, cultural, ideological, and political—linked the
+crosscurrents---social, cultural, ideological, and political---linked the
 rural socialist movement to the thriving Pentecostal tent revivals that
 were then attracting rural poor people throughout the area. Here were
 socialists praising, joining with, and using the same scripture as
@@ -79,7 +49,7 @@ groups of socialists and other workers, and then joining with them to
 threaten and beat up a despised plantation owner. Finally, there were
 socialists and Pentecostals in court together, and later in jail, as
 local elites worked to eliminate them as threats. Both sets of
-radicals—religious and political—were considered equally dangerous by
+radicals---religious and political---were considered equally dangerous by
 the dominant classes. These findings confounded my understanding at the
 time on two counts, namely that socialists were uninterested in religion
 and that southern Christians, especially Pentecostals, were resolutely
@@ -112,8 +82,8 @@ outside of the social and economic context of the people who held it.
 
 It is easy, I think, to get stuck in institutional or organizational
 stories when writing the history of either southern religion or southern
-labor, mainly because institutions have provided the richest sources—in
-some cases the only sources—still available. Whether one is talking
+labor, mainly because institutions have provided the richest sources---in
+some cases the only sources---still available. Whether one is talking
 about unions or denominations, the records that we usually begin with
 are very similar: institutional correspondence, policy debates and
 pronouncements, newsletters and newspapers, membership files, financial
@@ -127,18 +97,18 @@ superb finding aid and widely available, the collection describes in
 remarkable detail the efforts of African American and white farmers in
 the rural South to organize in the 1930s to protest their poverty and
 lack of full citizenship. For any scholar interested in southern
-labor—particularly in the fields—the correspondence, minutes, membership
+labor---particularly in the fields---the correspondence, minutes, membership
 rolls, and newspapers collected in the STFU papers are a godsend. By a
 long shot, they contain more information on the social, economic, and
-political lives of the rural poor than any other single source. But—and
-it took me some time to learn this fact—the collection does not tell us
+political lives of the rural poor than any other single source. But---and
+it took me some time to learn this fact---the collection does not tell us
 everything about working-class life in the South. It especially does not
 explain how the people who joined the STFU came to do so, where they
 came from, where they went after its demise, and, most importantly I
 think, how their union involvement fit within their worldview.
 
-In older tellings of the history of the STFU—tellings that were
-over-reliant on the institutional source base—the fact that many
+In older tellings of the history of the STFU---tellings that were
+over-reliant on the institutional source base---the fact that many
 meetings occurred in rural churches and that many locals were led by
 African American and white preachers was explained as a function of
 organizing strategies laid down by the union's secular leadership: the
@@ -199,14 +169,14 @@ reveals a history of explosive thought. Throughout the 1920s, rural
 Garveyites crafted a vision of deliverance that promised eventual
 earthly redemption for all black people through the diligent work of a
 few on behalf of the whole race. They used biblical scripture, for
-example, Exodus 3:16–17, to articulate and elaborate this gradualist
+example, Exodus 3:16--17, to articulate and elaborate this gradualist
 vision. By the early 1930s, however, with their movement in disarray,
 Garveyites continued to work for racial redemption but increasingly
 imagined their deliverance as violent, immediate, and exclusive. Their
 reading of Isaiah 66 forecast salvation for a righteous remnant of true
 believers (those who remained loyal to Garvey) but promised the total
 destruction of the unjust, white enemies and black apostates
-alike.^([1](#ftn1))^ This is just one example from a body of theological
+alike.[^1]  This is just one example from a body of theological
 and eschatological ideas that, when reconstructed and taken together,
 casts an entirely new critical light on the political and spiritual
 vision that motivated rural working people to challenge the status quo.
@@ -234,11 +204,11 @@ the most fertile moments for exploring the surprising interactions
 between religious faith and the politics of class.
 
 Historians of southern religion have produced a rich body of work that
-explores the role of power—economic, gendered, and racial—in the
+explores the role of power---economic, gendered, and racial---in the
 dynamics of faith. As a labor historian I have relied on these
-scholars—Paul Harvey, Adele Oltman, Harvey Cox, Donald G. Matthews,
+scholars---Paul Harvey, Adele Oltman, Harvey Cox, Donald G. Matthews,
 Randall J. Stephens, Vincent Harding, Joe Creech, Robert H. Craig,
-Wilson Jeremiah Moses, and Albert J. Raboteau, to name a few—as I tried
+Wilson Jeremiah Moses, and Albert J. Raboteau, to name a few---as I tried
 to get a better grasp on the lives and minds of southern workers. My
 fellow contributors to this roundtable, with their excellent work, are
 already taking the field in fascinating new directions, deepening what
@@ -254,29 +224,8 @@ deep and scholars have only just begun to understand its fullness.
 Historians of southern religion should be encouraged that they work in a
 field at the cutting edge of that endeavor.
 
-Notes
-
-
-[1](#tx1) For the full argument, see Jarod Roll, "Garveyism and the
+[^1]:  For the full argument, see Jarod Roll, "Garveyism and the
 Eschatology of African Redemption in the Rural South, 1920-1936,"
 *Religion and American Culture: A Journal of Interpretation* 20 (Winter
-2010): 27–56. \
- \
- \
-
-**[Search *The Journal of Southern
-Religion*](http://jsr.fsu.edu/search.htm)**
-
-.
-
-.
-
-This site was designed by Randall J. Stephens and is maintained by Emily
-Clark. © 1998-2011 by \
- *The Journal of Southern Religion*. All rights reserved. ISSN 1094-5253
-
-  --
-  --
-
-\
-
+2010): 27--56.
+ 

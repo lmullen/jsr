@@ -1,45 +1,15 @@
-[![image](../index_top_logo_.jpg)](http://jsr.fsu.edu/).
-
-[![image](../index_top.jpg)](http://jsr.fsu.edu/)
-
-![image](../../production/page_2_strip.jpg)
-
-[![image](../New_Vol_13.png)](Front13.html)
-
-Archive Volume XIII (2011) Volume XII (2010) Volume XI (2009) Katrina
-(2009) Volume X (2007) Volume IX (2006) Volume VIII (2005) Volume VII
-(2004) Volume VI (2003) Volume V (2002) Volume IV (2001) Volume III
-(2000) Volume II (1999) Volume I (1998) Main Page
-
-[![image](../page_2_link_4_mast.jpg)](http://jsr.fsu.edu/ed.htm)
-
-[![image](../page_2_link_5_ed_policies.jpg)](http://jsr.fsu.edu/mission.htm)
-
-[![image](../page_2_link_6_article_sub.jpg)](http://jsr.fsu.edu/submit.htm)
-
-[![image](../page_2_link_7_book_rev.jpg)](http://jsr.fsu.edu/reviews.htm)
-
-[![image](../page_2_link_8_hill_award.jpg)](http://jsr.fsu.edu/award.htm)
-
-[![image](../page_2_link_9_advertisers.jpg)](http://jsr.fsu.edu/ads.htm)
-
-[![image](../page_2_link_99_email.jpg)](mailto:aremillard@francis.edu)
-
-![image](../../production/page_2_width_line_side.jpg) \
-.
-
-![image](../../production/page_2_width_line_top.jpg)
-
-* * * * *
-
-![image](Reviews/RedeemingTheSouthernFamily.jpg)
-
-Scott Stephan. *Redeeming the Southern Family: Evangelical Women and
-Domestic Devotion in the Antebellum South.*Athens: University of Georgia
-Press, 2008. 304 pp. ISBN 9780820332222. Reviewed by Kristy L. Slominski
-for**** the *Journal of Southern Religion*.
-
-* * * * *
+---
+layout: article
+title: "Review: Redeeming the Southern Family"
+author: "Kristy L. Slominski"
+author-note: "Kristy L. Slominski is a doctoral student in religious
+studies at the University of California at Santa Barbara."
+vol: 13
+year: 2011
+book-reviewed: "Scott Stephan. <em>Redeeming the Southern Family: Evangelical Women and
+Domestic Devotion in the Antebellum South.</em> Athens: University of Georgia
+Press, 2008. 304 pp. ISBN 9780820332222. 
+---
 
 Scott Stephan's *Redeeming the Southern Family*explores the centrality
 of domestic piety within white evangelical families in the antebellum
@@ -61,14 +31,7 @@ agency alongside resignation, and ultimately failure and anxiety
 interlaced with success and optimism" (2). This study strikes an
 important balance between recognizing the limits women experienced
 within patriarchal authority and their ability to make meaning and
-choices in spite of–and often because of–these restrictions.
-
-* * * * *
-
-"The book analyzes evidence from evangelical women's personal diaries
-and correspondences, as well as the family papers of elite families."
-
-* * * * *
+choices in spite of--and often because of--these restrictions.
 
 The book analyzes evidence from evangelical women's personal diaries and
 correspondences, as well as the family papers of elite families. While
@@ -96,14 +59,6 @@ cases, slaves (10). He demonstrates that each relationship offered
 unique opportunities and limitations for women to experience their faith
 and exercise spiritual authority.
 
-* * * * *
-
-"Just as conversion narratives served as evidence that people had
-entered Christianity, deathbed narratives served as evidence that people
-remained committed to Christianity as they exited this life."
-
-* * * * *
-
 The most compelling contribution of this work is its exploration of
 evangelical deathbed narratives in a chapter entitled "Authoring the
 Good Death: Illness, Deathbed Narratives, and Women's Authority." Just
@@ -127,7 +82,7 @@ intercourse in women's daily physical and spiritual lives other than the
 fact that pregnancies did occur and men, especially ministers, were
 often out of the home for business. If this is an omission of the
 sources themselves - and one can guess why discussions of sex may not
-have appeared in women's correspondences–it would have been helpful to
+have appeared in women's correspondences--it would have been helpful to
 hear the author's interpretations of women's silence on this matter.
 
 Another limitation of this work is the author's frequent adoption of his
@@ -154,20 +109,3 @@ fulfillment in their roles as "spiritual shepherds" to their families.
 The work accomplishes multiple tasks while remaining accessible and
 interesting, and I would therefore recommend this work for courses on
 women's history, family studies, southern religion, and lived religion.
-
-Kristy L. Slominski
-
-Doctoral Student in Religious Studies
-
-University of California at Santa Barbara
-
-**[Search *The Journal of Southern
-Religion*](http://jsr.fsu.edu/search.htm)**
-
-.
-
-.
-
-This site was designed by Randall J. Stephens and is maintained by Emily
-Clark. © 1998-2011 by \
- *The Journal of Southern Religion*. All rights reserved. ISSN 1094-5253

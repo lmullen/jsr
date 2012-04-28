@@ -1,45 +1,15 @@
-[![image](../index_top_logo_.jpg)](http://jsr.fsu.edu/).
-
-[![image](../index_top.jpg)](http://jsr.fsu.edu/)
-
-![image](../../production/page_2_strip.jpg)
-
-[![image](../New_Vol_13.png)](Front13.html)
-
-Archive Volume XIII (2011) Volume XII (2010) Volume XI (2009) Katrina
-(2009) Volume X (2007) Volume IX (2006) Volume VIII (2005) Volume VII
-(2004) Volume VI (2003) Volume V (2002) Volume IV (2001) Volume III
-(2000) Volume II (1999) Volume I (1998) Main Page
-
-[![image](../page_2_link_4_mast.jpg)](http://jsr.fsu.edu/ed.htm)
-
-[![image](../page_2_link_5_ed_policies.jpg)](http://jsr.fsu.edu/mission.htm)
-
-[![image](../page_2_link_6_article_sub.jpg)](http://jsr.fsu.edu/submit.htm)
-
-[![image](../page_2_link_7_book_rev.jpg)](http://jsr.fsu.edu/reviews.htm)
-
-[![image](../page_2_link_8_hill_award.jpg)](http://jsr.fsu.edu/award.htm)
-
-[![image](../page_2_link_9_advertisers.jpg)](http://jsr.fsu.edu/ads.htm)
-
-[![image](../page_2_link_99_email.jpg)](mailto:aremillard@francis.edu)
-
-![image](../../production/page_2_width_line_side.jpg) \
-.
-
-![image](../../production/page_2_width_line_top.jpg)
-
-* * * * *
-
-![image](Reviews/MormonMenace.JPG)
-
-Patrick Q. Mason. *The Mormon Menace: Violence and Anti-Mormonism in the
-Postbellum South*. New York: Oxford University Press, 2011. 264 pp. ISBN
-9780199740024. Reviewed by Jennifer Lindell for the *Journal of Southern
-Religion*.
-
-* * * * *
+---
+layout: article
+title: "Review: The Mormon Menace"
+author: Jennifer Lindell
+author-note: "Jennifer Lindell is an MA student in history at San Diego
+State University."
+vol: 13
+year: 2011
+book-reviewed: "Patrick Q. Mason. <em>The Mormon Menace: Violence and Anti-Mormonism in the
+Postbellum South</em>. New York: Oxford University Press, 2011. 264 pp. ISBN
+9780199740024."
+---
 
 In *The Mormon Menace: Violence and Anti-Mormonism in the Postbellum
 South*, Patrick Q. Mason discovers the limits of religious tolerance as
@@ -63,18 +33,10 @@ polygamy and theocracy. Here, Mason is careful to note the irony.
 Southerners abandoned their earlier battle cries of popular sovereignty,
 states’ rights, and limited federal government in the crusade against
 Mormonism. In the postbellum years, Mason argues, the anti-polygamy
-campaign "subsume[d] regional and partisan identities," united southern
+campaign "subsume\[d\] regional and partisan identities," united southern
 democrats and northern republicans, and contributed to the reforging of
 the nation (95). North and South could both agree that the polygamous
 theocracy in the West must be stopped.
-
-* * * * *
-
-"Mason identifies the 1880s as the time when the federal government got
-serious about the "Mormon question," passing two major pieces of
-legislation that struck at Mormon politics and polygamy."
-
-* * * * *
 
 As the national anti-Mormon campaign intensified, so did violence
 against Mormons in the South. Mason identifies the 1880s as the time
@@ -118,7 +80,7 @@ into American society, anti-Mormon violence and sentiment decreased.
 
 In his examination of the role of violence in (re)creating identity,
 Mason joins fellow American religious historian Edward J. Blum (*W.E.B.
-DuBois, American Prophet* [2007]). While Blum's focus is on
+DuBois, American Prophet* \[2007\]). While Blum's focus is on
 African-American lynchings and the narratives they inspired, both he and
 Mason reach the same conclusion: minority groups, whether racial or
 religious, could and did transform the meaning of violence by actively
@@ -128,7 +90,7 @@ Politics of Horror in Conservative Evangelicalism* (2008) in that both
 demonstrate the effectiveness of the deliberate deployment of fear to
 advance evangelical goals. Finally, Mason finds commonality with Anthony
 Pinn's study of black religious responses to terror (*Terror and
-Triumph: The Nature of Black Religion* [2003]) in that both probe the
+Triumph: The Nature of Black Religion* \[2003\]) in that both probe the
 role of suffering in creating or strengthening religious commitment.
 
 By moving the focus from the frontier to the South, Mason is able to add
@@ -141,20 +103,3 @@ viewpoints, drawing out not only southern thoughts and concomitant
 actions but also the Mormon response. Mason illuminates relatively
 unknown episodes in southern history and finds relevant meaning for
 Mormons, the South, and the nation as a whole.
-
-Jennifer Lindell
-
-M.A. Student in History
-
-San Diego State University
-
-**[Search *The Journal of Southern
-Religion*](http://jsr.fsu.edu/search.htm)**
-
-.
-
-.
-
-This site was designed by Randall J. Stephens and is maintained by Emily
-Clark. © 1998-2011 by \
- *The Journal of Southern Religion*. All rights reserved. ISSN 1094-5253

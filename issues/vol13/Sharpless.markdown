@@ -1,46 +1,16 @@
-[![image](../index_top_logo_.jpg)](http://jsr.fsu.edu/).
-
-[![image](../index_top.jpg)](http://jsr.fsu.edu/)
-
-![image](../../production/page_2_strip.jpg)
-
-[![image](../New_Vol_13.png)](Front13.html)
-
-Archive Volume XIII (2011) Volume XII (2010) Volume XI (2009) Katrina
-(2009) Volume X (2007) Volume IX (2006) Volume VIII (2005) Volume VII
-(2004) Volume VI (2003) Volume V (2002) Volume IV (2001) Volume III
-(2000) Volume II (1999) Volume I (1998) Main Page
-
-[![image](../page_2_link_4_mast.jpg)](http://jsr.fsu.edu/ed.htm)
-
-[![image](../page_2_link_5_ed_policies.jpg)](http://jsr.fsu.edu/mission.htm)
-
-[![image](../page_2_link_6_article_sub.jpg)](http://jsr.fsu.edu/submit.htm)
-
-[![image](../page_2_link_7_book_rev.jpg)](http://jsr.fsu.edu/reviews.htm)
-
-[![image](../page_2_link_8_hill_award.jpg)](http://jsr.fsu.edu/award.htm)
-
-[![image](../page_2_link_9_advertisers.jpg)](http://jsr.fsu.edu/ads.htm)
-
-[![image](../page_2_link_99_email.jpg)](mailto:aremillard@francis.edu)
-
-![image](../../production/page_2_width_line_side.jpg) \
-.
-
-![image](../../production/page_2_width_line_top.jpg)
-
-* * * * *
-
-![image](Reviews/VarietiesofWomensExperiences.jpg)
-
-Larry Eugene Rivers and Canter Brown Jr., eds. *The Varieties of Women's
-Experiences: Portraits of Southern Women in the Post-Civil War Century*.
-Gainesville: University Press of Florida, 2009. 352 pp. ISBN
-9780813034126. Reviewed by Rebecca Sharpless for the *Journal of
-Southern Religion*.
-
-* * * * *
+---
+layout: article
+title: "Review: The Varieties of Women's Experiences"
+author: Rebecca Sharpless
+author-note: "Rebecca Sharpless is an associate professor of history at
+Texas Christian University."
+vol: 13
+year: 2011
+book-reviewed: "Larry Eugene Rivers and Canter Brown Jr., eds. <em>The Varieties of Women's
+Experiences: Portraits of Southern Women in the Post-Civil War
+Century</em>. Gainesville: University Press of Florida, 2009. 352 pp. ISBN
+9780813034126."
+---
 
 Forty years after women's history began as a recognized field, much work
 remains to be done. The efforts of women to raise their families, help
@@ -67,14 +37,6 @@ Religion weaves throughout many of the essays, demonstrating the ongoing
 importance of organized religion in southern communities and individual
 lives.
 
-* * * * *
-
-"The editors posit that the diversity of the book is its strength. While
-most of the essays do focus on Florida and Georgia, the others range
-geographically across the South."
-
-* * * * *
-
 The editors posit that the diversity of the book is its strength. While
 most of the essays do focus on Florida and Georgia, the others range
 geographically across the South. In addition to eight African American
@@ -90,20 +52,3 @@ efforts in recovering the stories of these fourteen women, the editors
 and authors deserve much credit. Now others will be able to examine the
 lives of these fourteen interesting women and seek larger patterns and
 themes in southern women's lives.
-
-Rebecca Sharpless
-
-Associate Professor of History
-
-Texas Christian University
-
-**[Search *The Journal of Southern
-Religion*](http://jsr.fsu.edu/search.htm)**
-
-.
-
-.
-
-This site was designed by Randall J. Stephens and is maintained by Emily
-Clark. © 1998-2011 by \
- *The Journal of Southern Religion*. All rights reserved. ISSN 1094-5253

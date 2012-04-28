@@ -1,45 +1,15 @@
-[![image](../index_top_logo_.jpg)](http://jsr.fsu.edu/).
-
-[![image](../index_top.jpg)](http://jsr.fsu.edu/)
-
-![image](../../production/page_2_strip.jpg)
-
-[![image](../New_Vol_13.png)](Front13.html)
-
-Archive Volume XIII (2011) Volume XII (2010) Volume XI (2009) Katrina
-(2009) Volume X (2007) Volume IX (2006) Volume VIII (2005) Volume VII
-(2004) Volume VI (2003) Volume V (2002) Volume IV (2001) Volume III
-(2000) Volume II (1999) Volume I (1998) Main Page
-
-[![image](../page_2_link_4_mast.jpg)](http://jsr.fsu.edu/ed.htm)
-
-[![image](../page_2_link_5_ed_policies.jpg)](http://jsr.fsu.edu/mission.htm)
-
-[![image](../page_2_link_6_article_sub.jpg)](http://jsr.fsu.edu/submit.htm)
-
-[![image](../page_2_link_7_book_rev.jpg)](http://jsr.fsu.edu/reviews.htm)
-
-[![image](../page_2_link_8_hill_award.jpg)](http://jsr.fsu.edu/award.htm)
-
-[![image](../page_2_link_9_advertisers.jpg)](http://jsr.fsu.edu/ads.htm)
-
-[![image](../page_2_link_99_email.jpg)](mailto:aremillard@francis.edu)
-
-![image](../../production/page_2_width_line_side.jpg) \
-.
-
-![image](../../production/page_2_width_line_top.jpg)
-
-* * * * *
-
-![image](Reviews/God'sAlmostChosenPeople.jpg)
-
-George C. Rable. *God's Almost Chosen Peoples: A Religious History of
-the American Civil War*. Chapel Hill: University of North Carolina
-Press, 2010. 586 pp. ISBN: 9780807834268. Reviewed by Jonathan H. Ebel
-for *Journal of Southern Religion*.
-
-* * * * *
+---
+layout: article
+title: "Review: God's Almost Chosen Peoples"
+author: Jonathan Ebel
+author-note: "Jonathan Ebel is an assistant professor of religion at the
+University of Illinois."
+vol: 13
+year: 2011
+book-reviewed: "George C. Rable. <em>God's Almost Chosen Peoples: A Religious History of
+the American Civil War</em>. Chapel Hill: University of North Carolina
+Press, 2010. 586 pp. ISBN: 9780807834268."
+---
 
 Conrad Cherry's three-decade-old documentary collection *God's New
 Israel: Religious Interpretations of American Destiny* includes three
@@ -62,15 +32,6 @@ refreshingly balanced and non-martial, projecting a tone that the nation
 would have done well to adopt. These are the building blocks of many
 classroom discussions of religion and the American Civil War.
 
-* * * * *
-
-"Rable also presents fascinating evidence for the presence of more than
-a few Lincolns, men who recognized the paradoxes of their war, reflected
-with humility on the divine will, and were unsure where the war was
-heading."
-
-* * * * *
-
 One question students inevitably ask upon reading these sermons is the
 extent to which they corresponded to the views of those who wore either
 blue or grey. George Rable's *God's Almost Chosen Peoples* allows us to
@@ -82,7 +43,7 @@ fascinating evidence for the presence of more than a few Lincolns, men
 who recognized the paradoxes of their war, reflected with humility on
 the divine will, and were unsure where the war was heading. Through
 extensive archival research and an impressive command of the
-historiography—both classic and new—Rable paints a picture of a nation
+historiography---both classic and new---Rable paints a picture of a nation
 and a soldiery that often, though not always, turned to the divine when
 wondering about the meaning of the sacrifices they placed "upon the
 altar of the nation." The answers they both heard and told themselves,
@@ -109,13 +70,6 @@ date. Rable's arguments are well substantiated and convincing, but he
 sometimes makes them at the cost of the reader's orientation within the
 war.
 
-* * * * *
-
-"For Rable, civil religion is defined by a belief in American chosenness
-and a providential understanding of American / Confederate history."
-
-* * * * *
-
 This book could use refinement on the topic of civil religion, a term
 Rable uses throughout but defines in very general terms (3). For Rable,
 civil religion is defined by a belief in American chosenness and a
@@ -139,20 +93,3 @@ the kind of in-depth study of the role of religion in American wars that
 will appeal to a wide range of scholars of American history. His work
 should inspire current and future scholars to explore further the place
 of religion in the macro- and micro-narratives of the conflict.
-
-Jonathan Ebel
-
-Assistant Professor of Religion
-
-University of Illinois
-
-**[Search *The Journal of Southern
-Religion*](http://jsr.fsu.edu/search.htm)**
-
-.
-
-.
-
-This site was designed by Randall J. Stephens and is maintained by Emily
-Clark. © 1998-2011 by \
- *The Journal of Southern Religion*. All rights reserved. ISSN 1094-5253

@@ -1,49 +1,19 @@
-[![image](../index_top_logo_.jpg)](http://jsr.fsu.edu/).
-
-[![image](../index_top.jpg)](http://jsr.fsu.edu/)
-
-![image](../page_2_strip.jpg)
-
-[![image](../New_Vol_13.png)](Front13.html)
-
-Archive Volume XIII (2011) Volume XII (2010) Volume XI (2009) Katrina
-(2009) Volume X (2007) Volume IX (2006) Volume VIII (2005) Volume VII
-(2004) Volume VI (2003) Volume V (2002) Volume IV (2001) Volume III
-(2000) Volume II (1999) Volume I (1998) Main Page
-
-[![image](../page_2_link_4_mast.jpg)](http://jsr.fsu.edu/ed.htm)
-
-[![image](../page_2_link_5_ed_policies.jpg)](http://jsr.fsu.edu/mission.htm)
-
-[![image](../page_2_link_6_article_sub.jpg)](http://jsr.fsu.edu/submit.htm)
-
-[![image](../page_2_link_7_book_rev.jpg)](http://jsr.fsu.edu/reviews.htm)
-
-[![image](../page_2_link_8_hill_award.jpg)](http://jsr.fsu.edu/award.htm)
-
-[![image](../page_2_link_9_advertisers.jpg)](http://jsr.fsu.edu/ads.htm)
-
-[![image](../page_2_link_99_email.jpg)](mailto:aremillard@francis.edu)
-
-![image](../page_2_width_line_side.jpg) \
- .
-
-![image](../page_2_width_line_top.jpg)
-
-* * * * *
-
-**The Work of Class in Southern Religion**
-
-**Richard J. Callahan, Jr.\
- Associate Professor of Religious Studies****\
- University of Missouri-Columbia**
+---
+layout: article
+title: "The Work of Class in Southern Religion"
+author: "Richard J. Callahan Jr."
+author-note: "Richard J. Callanhan Jr. is an associate professor of
+religious studies at the University of Missouri-Columbia."
+vol: 13
+year: 2011
+---
 
 In the history of American media representations, the South—or some
 imagination of the South—has figured prominently in how Americans figure
 class. To make a character working class, simply give him or her a thick
 southern accent. It is a move that shows up from Jeff Foxworthy and
 Larry the Cable Guy to Mater, the tow truck in Disney Pixar's *Cars*
-(2006), starring Lightning McQueen.^([1](#ftn1))^As a bonus with this
+(2006), starring Lightning McQueen.[^1] As a bonus with this
 signification, along with class comes ignorance. Likewise, a slightly
 different southern accent combined with dressy clothing and a plantation
 mansion works nicely to signify upper class snobbery. Obviously, the
@@ -56,7 +26,7 @@ that prompts the essays in this forum). But I have spent some time
 considering the relationship of work and labor to religion in the
 eastern Kentucky coalfields, and I can share some of what I have learned
 about the intersections of class and religion in the course of that
-research.
+research. 
 
 As a category of analysis, class has been figured in multiple ways—each
 of which lends itself to a very different sort of significance in terms
@@ -77,7 +47,7 @@ something of a laboratory for the application of explanatory models. The
 "discovery" (or "invention") of Appalachia as a region with an
 identifiably distinct culture came into existence around the 1880s, at
 which time "mountain whites" also came to be identified by outsiders as
-"poor white trash."^([2](#ftn2))^ The representation stuck, taking on
+"poor white trash."[^2]  The representation stuck, taking on
 new meanings as the region became increasingly enmeshed in the
 industrial economy as a source of natural resources (primarily coal and
 timber). Religion, poverty, and coal mining came to be three major
@@ -87,7 +57,7 @@ studies and theories related to religion, class, and social
 disaffection. In the main, the prevailing perspective interpreted
 "deviant" religious practices such as serpent handling, faith healing,
 emotional preaching, and biblical literalism as compensatory response to
-economic, social, and psychological deprivation.^([3](#ftn3))^ A
+economic, social, and psychological deprivation.[^3]  A
 "culture of poverty" expressed itself religiously in "fatalistic" and
 fantastic beliefs and practices. Conversely, critics from a different
 angle have asserted that the "fatalism" of Appalachian religion has been
@@ -98,7 +68,7 @@ industrialization of coal mining in the region. Studies such as these
 are crucial as data to explore the process of how, as religious studies
 scholar Sean McCloud put it, "certain religious groups, beliefs, and
 practices came to be associated with certain socioeconomic
-classifications."^([4](#ftn4))^
+classifications."[^4] 
 
 I find such studies frustrating and not terribly helpful for
 understanding how religion "works" in the real world and in its class
@@ -106,7 +76,7 @@ dimensions. It has been nearly fifty years since E. P. Thompson argued
 that "class is a relationship, not a thing." He added, "we cannot
 understand class unless we see it as a social and cultural formation,
 arising from processes which can be studied as they work themselves out
-over a considerable historical period."^([5](#ftn5))^ I find Thompson's
+over a considerable historical period."[^5]  I find Thompson's
 observations to be a useful starting point for thinking about how class
 and religion are related, and how attention to class might impact the
 study of religion. Three points in particular stand out for me: 1) class
@@ -120,7 +90,7 @@ constituted by their distinction from and relationship to the working
 class. I will discuss each of these points broadly in relation to my own
 work on religion in the eastern Kentucky coalfields.
 
-1.
+### 1
 
 The process of class formation is easier to see, perhaps, in eastern
 Kentucky than elsewhere because of the abrupt and spatialized nature of
@@ -131,7 +101,7 @@ not natives of the mountains. As one observer put it, "suddenly the
 "outsiders" came rushing into the mountains: "those who saw the natural
 resources and sought them regardless of the interests of the natural
 owners; and those who with missionary zeal rushed to educate and
-reform."^([6](#ftn6))^ Thus the transformation of the eastern Kentucky
+reform."[^6]  Thus the transformation of the eastern Kentucky
 landscape and social fabric through the introduction of industrial coal
 mining went hand in hand with cultural forces of modernity that sought
 to transform Appalachian culture through education and religion. As
@@ -157,7 +127,7 @@ another, taking on particular resonations of significance in the
 contextualized process of economic, social, and cultural transformation
 in this place.
 
-2.
+### 2
 
 Religion, as it is lived, takes up the matters of everyday life and
 makes something of them. In eastern Kentucky, religious traditions took
@@ -183,7 +153,7 @@ deprivation, nor simply the influence of the spread of Pentecostalism in
 the United States. Rather, the Holiness and Pentecostal churches in the
 mountains were resignified, re-charged, intensified versions of
 already-existing local religious practices that were consciously
-engaging with new forces shaping mountain life.^([7](#ftn7))^
+engaging with new forces shaping mountain life.[^7] 
 
 At times, these culturally and religiously important distinctions could
 lead to political mobilization for social change, becoming important
@@ -195,7 +165,7 @@ interesting conclusions about the conditions that might lead to churches
 and preachers supporting the powers of capital in some cases, while
 leading resistance in others. The corollary is that racial attitudes,
 not theology, divided southern churches in the first half of the
-twentieth century.^([8](#ftn8))^Comparing the history of the
+twentieth century.[^8] Comparing the history of the
 early-twentieth century West Virginia and eastern Kentucky coalfields,
 where religion contributed to labor opposition, to the case of labor
 struggles in the textile-manufacturing communities in the southern
@@ -209,7 +179,7 @@ that churches in the coal fields offered crucial elements that the
 southern Piedmont lacked for the formation of an oppositional culture:
 autonomous organizations (free spaces), organic intellectuals, and
 social interactions that could sustain an oppositional
-worldview.^([9](#ftn9))^ Billing's analysis is primarily institutional,
+worldview.[^9]  Billing's analysis is primarily institutional,
 leaving aside questions concerning whether or not there is something
 particularly *religious* about the oppositional culture that churches
 and religious leaders helped to create and sustain.
@@ -235,11 +205,11 @@ ritual, from faith healing to song, from morally mapping the physical
 and cultural landscape to locating places of worship. Class was
 spatialized, commodified, sensed, and otherwise materialized in ways
 that tied into the embodied performances of mountain religious
-traditions.^([10](#ftn10))^ Contrary to widely held views that these
+traditions.[^10]  Contrary to widely held views that these
 traditions were "otherworldly," the reality on the ground shows them to
 be deeply engaged with the material world.
 
-3.
+### 3
 
 In considering what an emphasis on class as a category of analysis might
 reveal about southern religion, it is also important to bear in mind
@@ -261,7 +231,7 @@ linked to categories of class? What is at stake in such representations?
 Too often, "normative" forms turn out to be those religious activities
 embraced as proper by the middle class. Thus, scholars must also be
 self-critical and reflexive about their own class locations and
-assumptions as they frame their analyses
+assumptions as they frame their analyses.
 
 In the central Appalachian case, scholars have often asked why the
 working class or the disempowered practice the kinds of religion that
@@ -276,13 +246,13 @@ rhetorics of progress and development that were embraced by
 missionaries, social workers, labor activists, and industrial
 capitalists related? How did they promote an orientation to the world
 that constituted central Appalachian religion and culture as
-"other"?^([11](#ftn11))^ As eastern Kentucky miners took up the
+"other"?[^11]  As eastern Kentucky miners took up the
 materials of their world and made them into things of religious
 significance, so too did the middle class take up the resources of
 economic practices and social development and forge religious selves
 from these raw materials.
 
-\*\*\*
+### \*\*\*
 
 Paying attention to class might reveal any number of things about
 southern religion in the early twentieth century, depending upon what
@@ -324,43 +294,39 @@ major shaping force, as it must be in a capitalist economy, then class
 will be an essential category of analysis for understanding southern
 religion.
 
-Notes
+[^1]:  Larry the Cable Guy provided the voice of Mater; Texas native
+Owen Wilson provided the voice of Lightning McQueen.
 
-* * * * *
-
-[1](#tx1) Larry the Cable Guy provided the voice of Mater; Texas native
-Owen Wilson provided the voice of Lightning McQueen. \
- \
- [2](#tx2) Allen W. Batteau, *The Invention of Appalachia* (Tucson:
+[^2]:  Allen W. Batteau, *The Invention of Appalachia* (Tucson:
 University of Arizona Press, 1990); Henry D. Shapiro, *Appalachia on Our
 Mind: The Southern Mountains and Mountaineers in the American
 Consciousness, 1879–1920* (Chapel Hill: University of North Carolina
 Press, 1978); Anonymous, "Poor White Trash," *Cornhill Magazine* 45 (May
-1882): 688. \
- \
- [3](#tx3) See Deborah Vansau McCauley, *Appalachian Mountain Religion:
+1882): 688.
+
+[^3]:  See Deborah Vansau McCauley, *Appalachian Mountain Religion:
 A History* (Urbana: University of Illinois Press, 1995). One influential
 example is Weston La Barre, *They Shall Take Up Serpents: Psychology of
 the Southern Snake-Handling Cult* (Minneapolis: University of Minnesota
-Press, 1962). \
- \
- [4](#tx4) Sean McCloud, "The Ghost of Marx and the Stench of
+Press, 1962).
+
+[^4]:  Sean McCloud, "The Ghost of Marx and the Stench of
 Deprivation: Cutting the Ties that Bind in the Study of Religion and
 Class," in *Religion and Class in America: Culture, History, and
 Politics*, ed. McCloud and William A. Mirola (Leiden: Brill, 2009), 97.
 See also Sean McCloud, *Divine Hierarchies: Class in American Religion
 and Religious Studies* (Chapel Hill: University of North Carolina Press,
-2009).\
- \
- [5](#tx5) E. P. Thompson, *The Making of the English Working Class*
-(New York: Random House, 1963), 11.\
- \
- [6](#tx6) Olive Dame Campbell, "Flame of a New Future for the
-Highlands," *Southern Mountain Life and Work* 1 (April 1925): 11.\
- \
- [7](#tx7) McCauley, *Appalachian Mountain Religion*, 265–67.\
- \
- [8](#tx8) John Gaventa *Power and Powerlessness: Quiescence and
+2009).
+
+[^5]:  E. P. Thompson, *The Making of the English Working Class*
+(New York: Random House, 1963), 11.
+
+[^6]:  Olive Dame Campbell, "Flame of a New Future for the
+Highlands," *Southern Mountain Life and Work* 1 (April 1925): 11.
+
+[^7]:  McCauley, *Appalachian Mountain Religion*, 265–67.
+
+[^8]:  John Gaventa *Power and Powerlessness: Quiescence and
 Rebellion in an Appalachian Valley* (Urbana: University of Illinois
 Press, 1980); Helen Matthews Lewis, Sue Easterling Kobak, and Linda
 Johnson, "Family, Religion and Colonialism in Central Appalachia, or
@@ -368,17 +334,17 @@ Bury My Rifle at Big Stone Gap," in *Colonialism in Modern America: The
 Appalachian Case*, ed. Helen Matthews Lewis, Linda Johnson, and Donald
 Askins (Boone, N.C.: Appalachian Consortium Press, 1978); Dwight B.
 Billings, "Religion as Opposition: A Gramscian Analysis," *American
-Journal of Sociology* 96 (July 1990): 1–31.\
- \
- [9](#tx9) Billings, "Religion as Opposition," 27.\
- \
- [10](#tx10) See Richard J. Callahan Jr., *Work and Faith in the
+Journal of Sociology* 96 (July 1990): 1–31.
+
+[^9]:  Billings, "Religion as Opposition," 27.
+
+[^10]:  See Richard J. Callahan Jr., *Work and Faith in the
 Kentucky Coal Fields: Subject to Dust* (Bloomington: Indiana University
 Press, 2009), and Richard J. Callahan Jr., "Sensing Class: Religion,
 Aesthetics, and Formations of Class in Eastern Kentucky's Coal Fields,"
-in *Religion and Class in America*, 175–96.\
- \
- [11](#tx11) For example, see Susan Curtis, *A Consuming Faith: The
+in *Religion and Class in America*, 175–96.
+
+[^11]:  For example, see Susan Curtis, *A Consuming Faith: The
 Social Gospel and Modern American Culture* (Columbia: University of
 Missouri Press, 2001); Richard J. Callahan Jr., Kathryn Lofton, and Chad
 Seales, "Allegories of Progress: Industrial Religion in the United
@@ -386,20 +352,3 @@ States," *Journal of the American Academy of Religion* 88 (2010): 1–39;
 John M. Giggie and Diane H. Winston, eds., *Faith in the Market:
 Religion and the Rise of Urban Commercial Culture* (New Brunswick:
 Rutgers University Press, 2002).
-
-**[Search *The Journal of Southern
-Religion*](http://jsr.fsu.edu/search.htm)**
-
-.
-
-.
-
-This site was designed by Randall J. Stephens and is maintained by Emily
-Clark. © 1998-2011 by \
- *The Journal of Southern Religion*. All rights reserved. ISSN 1094-5253
-
-  --
-  --
-
-\
-

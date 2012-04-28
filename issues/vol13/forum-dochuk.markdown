@@ -1,45 +1,15 @@
-[![image](../index_top_logo_.jpg)](http://jsr.fsu.edu/).
-
-[![image](../index_top.jpg)](http://jsr.fsu.edu/)
-
-![image](../../production/page_2_strip.jpg)
-
-[![image](../New_Vol_13.png)](Front13.html)
-
-Archive Volume XIII (2011) Volume XII (2010) Volume XI (2009) Katrina
-(2009) Volume X (2007) Volume IX (2006) Volume VIII (2005) Volume VII
-(2004) Volume VI (2003) Volume V (2002) Volume IV (2001) Volume III
-(2000) Volume II (1999) Volume I (1998) Main Page
-
-[![image](../page_2_link_4_mast.jpg)](http://jsr.fsu.edu/ed.htm)
-
-[![image](../page_2_link_5_ed_policies.jpg)](http://jsr.fsu.edu/mission.htm)
-
-[![image](../page_2_link_6_article_sub.jpg)](http://jsr.fsu.edu/submit.htm)
-
-[![image](../page_2_link_7_book_rev.jpg)](http://jsr.fsu.edu/reviews.htm)
-
-[![image](../page_2_link_8_hill_award.jpg)](http://jsr.fsu.edu/award.htm)
-
-[![image](../page_2_link_9_advertisers.jpg)](http://jsr.fsu.edu/ads.htm)
-
-[![image](../page_2_link_99_email.jpg)](mailto:aremillard@francis.edu)
-
-![image](../../production/page_2_width_line_side.jpg) \
-.
-
-![image](../../production/page_2_width_line_top.jpg)
-
-* * * * *
-
-![image](Reviews/GodsOwnParty.jpg)
-
-Daniel K. Williams. *God's Own Party: The Making of the Christian
-Right*. New York: Oxford University Press, 2010. 372 pp. ISBN
-9780195340846. Reviewed by Darren Dochuk for the *Journal of Southern
-Religion*.
-
-* * * * *
+---
+layout: article
+title: "Review: God's Own Party"
+author: Darren Dochuk
+author-note: "Darren Dochuk is an associate professor of history at
+Purdue University."
+vol: 13
+year: 2011
+book-reviewed: "Daniel K. Williams. <em>God's Own Party: The Making of the Christian
+Right</em>. New York: Oxford University Press, 2010. 372 pp. ISBN
+9780195340846."
+---
 
 Daniel Williams could not have timed it any better. Not only has he
 written a wonderfully thorough account of the Christian Right, but he
@@ -53,16 +23,6 @@ millions of Americans who look to scripture and their sacred leaders
 when measuring their political convictions still insist that God needs
 to be heard on Capitol Hill and that the GOP is his best messenger.
 
-* * * * *
-
-"Based on years of painstaking research in a multitude of periodicals,
-personal and political papers, and organizational records, *God's Own
-Party* effectively transports the reader through time, charting the
-development of Christian right-wing activism over the course of ninety
-years."
-
-* * * * *
-
 Williams's book is more than an exercise in opportunism, though; it is
 also a bright example of sound methodology, clear and concise prose, and
 rigorous analysis. Based on years of painstaking research in a multitude
@@ -75,8 +35,8 @@ ambitious path by beginning in the 1920s. It was during the Roaring
 Twenties, he writes, when those who felt besieged by the forces of
 secularism first "committed to the idea of a Christian nation with a
 Protestant-based moral code" and politics as the way "to realize that
-vision" (2). Bombarded by new secular past-times—jazz, gin, the bob
-cut—evangelicals "decided to fight back," and though fractured by
+vision" (2). Bombarded by new secular past-times---jazz, gin, the bob
+cut---evangelicals "decided to fight back," and though fractured by
 partisan divides, they began reshaping the political landscape by
 championing the prohibition of alcohol and evolutionary theory and
 countering liberal trends on a national scale.
@@ -93,7 +53,7 @@ it was sometimes difficult to distinguish between the statements of
 evangelical ministers and those of the Republican politicians they
 supported" (21). Anticommunism was thus the glue that brought
 evangelicals of all regional, denominational, and partisan heritages
-closer together and closer to the GOP—and a new crop of culturally aware
+closer together and closer to the GOP---and a new crop of culturally aware
 preachers like Billy Graham were the primary architects of this
 arrangement. While leaving plenty of room in his narrative for the
 barnstorming anti-communist crusaders of Billy James Hargis and Carl
@@ -102,7 +62,7 @@ McIntire's ilk, Williams isolates Graham and his ability to identify
 Dwight Eisenhower and Richard Nixon as the critical turn in
 evangelicalism's political fortunes (24). Thanks to this collaboration,
 evangelicals had, by the end of the 1950s, "begun to think of
-the…Republican White House as an ally in a righteous cause" (31).
+the . . . Republican White House as an ally in a righteous cause" (31).
 
 By no means did they enter the 1960s completely united in their
 political worldview, however. With great care, William describes the
@@ -149,14 +109,6 @@ like William Martin, but his analysis of the pre-1980s period is
 instructive and clearly informed by the latest in historical
 scholarship.
 
-* * * * *
-
-"Indeed, *God's Own Party* is at its strongest in its final three
-chapters, the thickest of the book. In them, Williams explores recent
-developments in evangelicalism's Republican dispensation."
-
-* * * * *
-
 His assessment of the post-1980 period brings a greater payout. Indeed,
 *God's Own Party* is at its strongest in its final three chapters, the
 thickest of the book. In them, Williams explores recent developments in
@@ -183,7 +135,7 @@ when trying to remove Clinton from office. Still, its momentum found an
 outlet in the presidency of George W. Bush, which proved to be
 evangelicals' godsend. As Bush's appointments "made his administration
 the most overtly evangelical in American history," his testimonials made
-it abundantly clear that he was Christian to the core (252–253).
+it abundantly clear that he was Christian to the core (252--253).
 Following the terrorist attacks of September 11, 2001, as Bush became a
 "wartime leader," evangelicals from coast-to-coast thus openly anointed
 him "‘God's man at this hour'" (255). With this, Williams concludes,
@@ -211,14 +163,6 @@ evangelical politicization in the twentieth century, but also with a few
 lingering curiosities. Three stand out in particular, all of which grow
 out of Williams's drive for comprehensiveness.
 
-* * * * *
-
-"Yet in condensing his treatment of the pre-World War II period to just
-a few pages he's forced to adopt the dominant narrative that usually
-accompanies the shortsightedness that he's trying to correct ..."
-
-* * * * *
-
 The first has to do with proportion. In tracking the story of the
 Christian Right back to the 1920s Williams offers a corrective to
 scholars' shortsightedness, which limits the long view of evangelical
@@ -231,7 +175,7 @@ speculation" until reawakening as a political force in the postwar years
 (3). On one hand, this trajectory leaves readers wondering whether such
 haphazard politicking is worthy of being deemed the "origin" of such a
 formidable movement. If it is, what separates this dispensation of
-evangelical conservatism from earlier ones—during Billy Sunday's or D.
+evangelical conservatism from earlier ones---during Billy Sunday's or D.
 L. Moody's heydays? On the other hand, it leaves readers wondering
 whether such cursory treatment glances over too much. Had Williams
 devoted more time and space to the interwar period, might he have
@@ -253,10 +197,10 @@ trends, Williams focuses mainly on preachers, who played on their
 parishioners' heartstrings when sparking political change. But what
 about those who played on parishioners' pocketbook concerns, or
 sustained the Christian Right's momentum by way of monetary
-investment—businessmen and media moguls, industrialists and middle
-manager types, for instance—who worked behind the scenes? Williams
-mentions a few of these individuals in passing—Campus Crusade's Bill
-Bright, for example—yet those who controlled the Christian Right's purse
+investment---businessmen and media moguls, industrialists and middle
+manager types, for instance---who worked behind the scenes? Williams
+mentions a few of these individuals in passing---Campus Crusade's Bill
+Bright, for example---yet those who controlled the Christian Right's purse
 strings are, by and large, relegated to the periphery. Yet, is this the
 proper balance? Do preachers deserve such foregrounding when they have
 been more of the face than the muscle of the evangelical Right?
@@ -288,20 +232,3 @@ By steering an ambitious course, *God's Own Party* has thus raised the
 possibility of much fruitful questioning and debate, even as it has
 already answered so many lingering queries and doubts. This is the
 ultimate proof of a book with impact.
-
-  --------------------------------
-  Darren Dochuk
-  Associate Professor of History
-  Purdue University
-  --------------------------------
-
-**[Search *The Journal of Southern
-Religion*](http://jsr.fsu.edu/search.htm)**
-
-.
-
-.
-
-This site was designed by Randall J. Stephens and is maintained by Emily
-Clark. © 1998-2011 by \
- *The Journal of Southern Religion*. All rights reserved. ISSN 1094-5253

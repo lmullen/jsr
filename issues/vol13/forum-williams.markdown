@@ -1,45 +1,15 @@
-[![image](../index_top_logo_.jpg)](http://jsr.fsu.edu/).
+---
+layout: article
+title: "Response to Forum Reviews of God's Own Party"
+author: "Daniel K. Williams"
+author-note: "Daniel K. Williams is an assistant professor of history at
+the University of West Georgia, and the author of <em>God's Own
+Party</em> (2010)."
+vol: 13
+year: 2011
+---
 
-[![image](../index_top.jpg)](http://jsr.fsu.edu/)
-
-![image](../page_2_strip.jpg)
-
-[![image](../New_Vol_13.png)](Front13.html)
-
-Archive Volume XIII (2011) Volume XII (2010) Volume XI (2009) Katrina
-(2009) Volume X (2007) Volume IX (2006) Volume VIII (2005) Volume VII
-(2004) Volume VI (2003) Volume V (2002) Volume IV (2001) Volume III
-(2000) Volume II (1999) Volume I (1998) Main Page
-
-[![image](../page_2_link_4_mast.jpg)](http://jsr.fsu.edu/ed.htm)
-
-[![image](../page_2_link_5_ed_policies.jpg)](http://jsr.fsu.edu/mission.htm)
-
-[![image](../page_2_link_6_article_sub.jpg)](http://jsr.fsu.edu/submit.htm)
-
-[![image](../page_2_link_7_book_rev.jpg)](http://jsr.fsu.edu/reviews.htm)
-
-[![image](../page_2_link_8_hill_award.jpg)](http://jsr.fsu.edu/award.htm)
-
-[![image](../page_2_link_9_advertisers.jpg)](http://jsr.fsu.edu/ads.htm)
-
-[![image](../page_2_link_99_email.jpg)](mailto:aremillard@francis.edu)
-
-![image](../page_2_width_line_side.jpg) \
- .
-
-![image](../page_2_width_line_top.jpg)
-
-* * * * *
-
-**Response to Reviewers**
-
-**Daniel K. Williams\
- Assistant Professor of History****\
- University of West Georgia**
-
-\
- I want to express my thanks to the *Journal of Southern Religion* for
+I want to express my thanks to the *Journal of Southern Religion* for
 arranging a forum of leading scholars in the field of twentieth-century
 American evangelical politics to discuss *God's Own Party*. I appreciate
 the careful attention that Randall Balmer, Darren Dochuk, J. Russell
@@ -60,15 +30,6 @@ Republican presidential candidate in every presidential election from
 *Christianity Today* magazine surveyed its readers in 1960, it found
 that Republicans outnumbered Democrats by four to one.
 
-* * * * *
-
-**"Because I view the Christian Right as the product of a longstanding
-evangelical view of politics as a tool to preserve America's Christian
-moral order, I think that it is unprofitable to search for *the* single
-issue that mobilized evangelicals in the late 1970s."**
-
-* * * * *
-
 Balmer asks what provided the "catalyst" for the modern Religious Right
 if it "had been there all along . . . in nascent form." Because I view
 the Christian Right as the product of a longstanding evangelical view of
@@ -76,9 +37,9 @@ politics as a tool to preserve America's Christian moral order, I think
 that it is unprofitable to search for *the* single issue that mobilized
 evangelicals in the late 1970s. Rather, the modern Christian Right
 developed when many evangelical leaders began to interpret a whole range
-of changes in social mores—including the feminist movement, the
+of changes in social mores---including the feminist movement, the
 increased availability of pornography, the gay rights movement, and
-other perceived challenges to the two-parent nuclear family—as products
+other perceived challenges to the two-parent nuclear family---as products
 of "secular humanism," which they thought they could fight in the
 political sphere. That view, combined with evangelicals' rising
 socioeconomic status and greater awareness of their numerical power,
@@ -93,8 +54,8 @@ part, I think, it is because this is the view that evangelicals
 themselves have generally promoted. Balmer is hardly alone in his
 experience of a lack of overt politicking in the evangelical churches of
 the 1950s and 1960s. Even the evangelicals and fundamentalists who were
-the most overtly political during these years—figures such as Billy
-Graham, Jerry Falwell, and Carl McIntire—claimed that they eschewed
+the most overtly political during these years---figures such as Billy
+Graham, Jerry Falwell, and Carl McIntire---claimed that they eschewed
 politics, despite their active effort to mobilize support for Republican
 presidential candidates and organize political coalitions of fellow
 believers for conservative causes. To them, preaching against "godless"
@@ -105,13 +66,6 @@ as I argue in my book, these actions fostered a latent alliance with the
 Republican Party that would become more overt after the late 1970s.
 There was a conservative political culture developing in most of the
 ostensibly apolitical evangelical churches of the mid-twentieth century.
-
-* * * * *
-
-**"In fact, for many, premillennial dispensationalism gave them the
-framework they used to endorse conservative political causes."**
-
-* * * * *
 
 Scholars have too often assumed that premillennial dispensationalism
 discouraged fundamentalists and evangelicals from political activism. In
@@ -136,7 +90,7 @@ that is being done on that subject by David Swartz and others, and I
 think that it is an important topic. As recent studies in the field have
 noted, many evangelicals supported Progressivism, the New Deal, and the
 labor movements of the left. American evangelicalism encompassed a
-diversity of political perspectives in the past—and still does, as
+diversity of political perspectives in the past---and still does, as
 subscribers to *Sojourners* magazine can attest. Nevertheless, for the
 past half-century, left-leaning evangelicals have been a beleaguered
 minority. In 1972, only 16 percent of white evangelicals voted for
@@ -167,8 +121,8 @@ post-1970 history. It is difficult to situate the political activities
 of Anita Bryant or Beverly LaHaye into a race-based analysis of the
 Christian Right, and even more difficult to apply such an analysis to
 the political mobilization of Francis Schaeffer. I will concede that
-race was more important to Falwell— and to an even greater degree to Bob
-Jones, Jr.—but I address the racial politics of these fundamentalists at
+race was more important to Falwell--- and to an even greater degree to Bob
+Jones, Jr.---but I address the racial politics of these fundamentalists at
 some length in my book.
 
 Hawkins is correct to note that I interpret the division between
@@ -207,20 +161,3 @@ work. All of these issues need to be explored in greater depth. A future
 history of the Christian Right will probably say a lot less about
 Falwell and a lot more about the numerous other figures who contributed
 to the movement in ways that we are only beginning to realize.
-
-**[Search *The Journal of Southern
-Religion*](http://jsr.fsu.edu/search.htm)**
-
-.
-
-.
-
-This site was designed by Randall J. Stephens and is maintained by Emily
-Clark. © 1998-2011 by \
- *The Journal of Southern Religion*. All rights reserved. ISSN 1094-5253
-
-  --
-  --
-
-\
-

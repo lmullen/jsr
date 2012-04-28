@@ -1,45 +1,14 @@
-[![image](../index_top_logo_.jpg)](http://jsr.fsu.edu/).
+---
+layout: article
+title: "Response to Roundtable on Class"
+author: "Richard J. Callahan Jr."
+author-note: "Richard J. Callanhan Jr. is an associate professor of
+religious studies at the University of Missouri-Columbia."
+vol: 13
+year: 2011
+---
 
-[![image](../index_top.jpg)](http://jsr.fsu.edu/)
-
-![image](../page_2_strip.jpg)
-
-[![image](../New_Vol_13.png)](Front13.html)
-
-Archive Volume XIII (2011) Volume XII (2010) Volume XI (2009) Katrina
-(2009) Volume X (2007) Volume IX (2006) Volume VIII (2005) Volume VII
-(2004) Volume VI (2003) Volume V (2002) Volume IV (2001) Volume III
-(2000) Volume II (1999) Volume I (1998) Main Page
-
-[![image](../page_2_link_4_mast.jpg)](http://jsr.fsu.edu/ed.htm)
-
-[![image](../page_2_link_5_ed_policies.jpg)](http://jsr.fsu.edu/mission.htm)
-
-[![image](../page_2_link_6_article_sub.jpg)](http://jsr.fsu.edu/submit.htm)
-
-[![image](../page_2_link_7_book_rev.jpg)](http://jsr.fsu.edu/reviews.htm)
-
-[![image](../page_2_link_8_hill_award.jpg)](http://jsr.fsu.edu/award.htm)
-
-[![image](../page_2_link_9_advertisers.jpg)](http://jsr.fsu.edu/ads.htm)
-
-[![image](../page_2_link_99_email.jpg)](mailto:aremillard@francis.edu)
-
-![image](../page_2_width_line_side.jpg) \
- .
-
-![image](../page_2_width_line_top.jpg)
-
-* * * * *
-
-**Response**
-
-**Richard J. Callahan, Jr.\
- Associate Professor of Religious Studies****\
- University of Missouri****-Columbia**
-
-\
- Reading each of these thoughtful, insightful reflections on the
+Reading each of these thoughtful, insightful reflections on the
 relationships between class and religion in the American South has been
 an enriching and encouraging experience. While it may be true that class
 is often overlooked as a variable in scholarship on religion, in the
@@ -51,7 +20,7 @@ recognition of class as important to the study of religion, and in
 working through the implications of that recognition. We share this
 interest with other scholars whose work is not focused on the South,
 such as Heath W. Carter, Janine Giordano Drake, Sean McCloud, Evelyn
-Savidge Sterne, and more.^([1](#ftn1))^
+Savidge Sterne, and more.[^1] 
 
 As class becomes more of a focus in scholarship on religion, it also
 becomes clear that class has many meanings and that there are many
@@ -103,7 +72,7 @@ have been excluded from the central plot of the American (religious)
 story. One reason that elites and the middle class have been favored in
 historical studies, including studies of religion, is because these
 groups of people left easily accessible records. Workers and poor people
-and others often did not—or, rather, not in the same way. To access
+and others often did not---or, rather, not in the same way. To access
 their history scholars have to read documents against the grain for
 evidence of "flotsam and jetsam," and they have to seek out those cast
 off cultural products that have been declared worthless or irrelevant to
@@ -151,12 +120,12 @@ implies a distinction from "official" religion that is empirically
 unsustainable. "This practice both residualizes the religious lives of
 believers," Primiano wrote, "and at the same time reifies the
 authenticity of religious institutions as the exemplar of human
-religiosity."^([2](#ftn2))^ When scholars grant institutional (and
+religiosity."[^2]  When scholars grant institutional (and
 typically middle class) religious forms the name of "religion," pure and
 simple, while also marking religious practices of working and poor
-people as a special type of religion with the name "folk"—which has a
+people as a special type of religion with the name "folk"---which has a
 complex history in relation to the construction of the "flotsam and
-jetsam" mentioned by Greene—the effect is to "normalize" and legitimize
+jetsam" mentioned by Greene---the effect is to "normalize" and legitimize
 the middle class discourse on religion that defines itself as normative.
 It jettisons the religious lives of working and poor people from the
 defining center. I think that "hard, hard religion" describes the
@@ -171,7 +140,7 @@ experience. Primiano suggests the term "vernacular" be used rather than
 specific social, historical, cultural, and material contexts.
 "Vernacular religion" is not a special type of religion, but a method or
 perspective for studying all religion, wherever it is situated, as it is
-lived.^([3](#ftn3))^ It thus describes a relation, and opens the door to
+lived.[^3]  It thus describes a relation, and opens the door to
 exploring how various vernaculars are related to class experiences.
 
 Finally, this forum suggests the need, and the potential, for increased
@@ -189,44 +158,23 @@ scholarship. If nothing else, emphasizing class as a category in the
 study of religion in the early-twentieth century South might open up
 such conversations.
 
-Notes
-
-* * * * *
-
-[1](#tx1) Heath W. Carter, "Scab Ministers, Striking Saints:
+[^1]:  Heath W. Carter, "Scab Ministers, Striking Saints:
 Christianity and Class Conflict in 1894 Chicago," *American Nineteenth
-Century History* 11 (Sept. 2010): 321–349; Sean McCloud, *Divine
+Century History* 11 (Sept. 2010): 321--349; Sean McCloud, *Divine
 Hierarchies: Class in American Religion and Religious Studies* (Chapel
 Hill: University of North Carolina Press, 2007); Evelyn Savidge Sterne,
 *Ballots and Bibles: Ethnic Politics and the Catholic Church in
 Providence* (Ithaca: Cornell University Press, 2003); and Sterne,
 "Bringing Religion into Working-Class History: Parish, Public, and
-Politics in Providence, 1890–1930," *Social Science History* 24 (Spring
-2000): 149–182. \
- \
- [2](#tx2). Leonard Norman Primiano, "Vernacular Religion and the Search
+Politics in Providence, 1890--1930," *Social Science History* 24 (Spring
+2000): 149--182. 
+ 
+[^2]: Leonard Norman Primiano, "Vernacular Religion and the Search
 for Method in Religious Folklife," *Western Folklore* 54 (Jan. 1995):
 39.
 
-[3](#tx3) "Vernacular religion" is nearly synonymous with the popular
+[^3]:  "Vernacular religion" is nearly synonymous with the popular
 term "lived religion," though the use of the term "vernacular" carries
 with it the weight of theoretical and methodological concerns that have
 been forged in the study of localized language use, architectural
 design, and cultural performances.
-
-**[Search *The Journal of Southern
-Religion*](http://jsr.fsu.edu/search.htm)**
-
-.
-
-.
-
-This site was designed by Randall J. Stephens and is maintained by Emily
-Clark. © 1998-2011 by \
- *The Journal of Southern Religion*. All rights reserved. ISSN 1094-5253
-
-  --
-  --
-
-\
-

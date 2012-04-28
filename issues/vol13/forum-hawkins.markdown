@@ -1,45 +1,15 @@
-[![image](../index_top_logo_.jpg)](http://jsr.fsu.edu/).
-
-[![image](../index_top.jpg)](http://jsr.fsu.edu/)
-
-![image](../../production/page_2_strip.jpg)
-
-[![image](../New_Vol_13.png)](Front13.html)
-
-Archive Volume XIII (2011) Volume XII (2010) Volume XI (2009) Katrina
-(2009) Volume X (2007) Volume IX (2006) Volume VIII (2005) Volume VII
-(2004) Volume VI (2003) Volume V (2002) Volume IV (2001) Volume III
-(2000) Volume II (1999) Volume I (1998) Main Page
-
-[![image](../page_2_link_4_mast.jpg)](http://jsr.fsu.edu/ed.htm)
-
-[![image](../page_2_link_5_ed_policies.jpg)](http://jsr.fsu.edu/mission.htm)
-
-[![image](../page_2_link_6_article_sub.jpg)](http://jsr.fsu.edu/submit.htm)
-
-[![image](../page_2_link_7_book_rev.jpg)](http://jsr.fsu.edu/reviews.htm)
-
-[![image](../page_2_link_8_hill_award.jpg)](http://jsr.fsu.edu/award.htm)
-
-[![image](../page_2_link_9_advertisers.jpg)](http://jsr.fsu.edu/ads.htm)
-
-[![image](../page_2_link_99_email.jpg)](mailto:aremillard@francis.edu)
-
-![image](../../production/page_2_width_line_side.jpg) \
-.
-
-![image](../../production/page_2_width_line_top.jpg)
-
-* * * * *
-
-![image](Reviews/GodsOwnParty.jpg)
-
-Daniel K. Williams. *God's Own Party: The Making of the Christian
-Right*. New York: Oxford University Press, 2010. 372 pp. ISBN
-9780195340846. Reviewed by J. Russell Hawkins for the *Journal of
-Southern Religion*.
-
-* * * * *
+---
+layout: article
+title: "Review: God's Own Party"
+author: "J. Russell Hawkins"
+author-note: "J. Russell Hawkins is a teaching postdoctoral fellow at
+Indiana Wesleyan University."
+vol: 13
+year: 2011
+book-reviewed: "Daniel K. Williams. <em>God's Own Party: The Making of the Christian
+Right</em>. New York: Oxford University Press, 2010. 372 pp. ISBN
+9780195340846."
+---
 
 In 1996, sociologist William Martin published *With God on Our Side*, a
 book that became the definitive history the Religious Right. Fourteen
@@ -67,15 +37,6 @@ Coming in at 276 crisply written pages (notes excluded), Williams's book
 will almost certainly find its way into college classrooms for years to
 come.
 
-* * * * *
-
-"Williams shows that the preservation of a Christian America, a hallmark
-of the Christian Right in the present century, was of equal concern to
-politically active fundamentalists in the opening decades of the last
-century."
-
-* * * * *
-
 The relative brevity of *God's Own Party* is even more impressive
 considering the scope of Williams's inquiry. Unlike most accounts of the
 Christian Right, Williams begins his study not in the Carter Seventies,
@@ -85,7 +46,7 @@ heyday of Francis Schaeffer represents the first of two major
 contributions of Williams's scholarship. In this respect, Williams is
 challenging popular notions that evangelicalism's love-affair with
 politics began with the election of Ronald Reagan in 1980. According to
-Williams, "[t]he reality is otherwise. Conservative Christians had been
+Williams, "\[t\]he reality is otherwise. Conservative Christians had been
 politically active since the early twentieth century, and they never
 retreated from the public square" (2). Williams shows that the
 preservation of a Christian America, a hallmark of the Christian Right
@@ -152,14 +113,6 @@ presidential candidates had become too beholden to the evangelical vote
 to be able to ignore the demands of the Christian Right, because they
 could not support any other demographic group" (231, 232).
 
-* * * * *
-
-"Narrating nearly a century of religion and politics, *God's Own Party*
-is a much needed and welcomed addition to the ever-growing
-historiography of American conservatism."
-
-* * * * *
-
 Narrating nearly a century of religion and politics, *God's Own Party*
 is a much needed and welcomed addition to the ever-growing
 historiography of American conservatism. In constructing such a sweeping
@@ -184,7 +137,7 @@ however, become problematic when applied to the South where the
 dichotomy between the two groups was never as stark as Williams's work
 might suggest. In fact, for Williams, the major fault line between
 evangelicals and fundamentalists was not on theology but on race. In the
-context of the South, Williams's claim that "[s]outhern fundamentalists'
+context of the South, Williams's claim that "\[s\]outhern fundamentalists'
 stance on segregation also separated them from most evangelicals" runs
 counter to much prevailing historiographic wisdom (47). As historians
 from Paul Harvey to Jane Dailey have demonstrated, a belief in God's
@@ -199,21 +152,12 @@ matters, an interpretive move that suggests Williams does not fully
 appreciate the depth and character of white southern belief in this
 period.
 
-* * * * *
-
-"Yet in this same section, Williams points out that Falwell's private
-school's establishment coincided with the same year that Lynchburg
-schools were desegregated, a connection begging for analysis that
-Williams chooses not to make."
-
-* * * * *
-
 Eliding the deep-seated pervasiveness of segregationist folk theology
 among white southerners in the 1950s allows Williams to significantly
 downplay the issue of race as southern evangelicals began the march to
 the Republican Party at midcentury. When their political mobilization
 began in earnest in the late 1960s, Williams casually suggests that
-"[b]y moving beyond the blatant racism of their past, evangelicals and
+"\[b\]y moving beyond the blatant racism of their past, evangelicals and
 fundamentalists positioned themselves for national political influence"
 (92). How this past was overcome—or evidence that it in fact was—remains
 outside the scope of Williams's analysis. Williams mentions, for
@@ -238,20 +182,3 @@ interpretive mark on the debate. For readers looking for a broad history
 of the Christian Right, this book is a major contribution and its scope
 is an undeniable accomplishment. Yet because of its breadth, *God's Own
 Party* may very well leave other readers asking for more.
-
-  ------------------------------
-  J. Russell Hawkins
-  Postdoctoral Teaching Fellow
-  Indiana Wesleyan University
-  ------------------------------
-
-**[Search *The Journal of Southern
-Religion*](http://jsr.fsu.edu/search.htm)**
-
-.
-
-.
-
-This site was designed by Randall J. Stephens and is maintained by Emily
-Clark. © 1998-2011 by \
- *The Journal of Southern Religion*. All rights reserved. ISSN 1094-5253

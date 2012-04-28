@@ -33,12 +33,15 @@ layout: default
 		<hr />
 	</div><!-- end metadata column -->
 	<div class="span7"> <!-- article column -->
+
+		{% if page.book-reviewed != '' %}
+			<div class="book-reviewed">
+				<p>{{page.book-reviewed}}</p>
+			</div>
+		{% endif %}
+
 		{{content}}
+
 	</div> <!-- end article column -->
-	{% comment %}
-	}<div class="span2"> <!-- side column-->
-		}    &nbsp;
-		}</div> <!-- end side column-->
-	{% endcomment %}
 </div> <!-- end body row -->
 </article>

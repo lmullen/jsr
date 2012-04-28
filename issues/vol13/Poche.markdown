@@ -1,45 +1,15 @@
-[![image](../index_top_logo_.jpg)](http://jsr.fsu.edu/).
-
-[![image](../index_top.jpg)](http://jsr.fsu.edu/)
-
-![image](../../production/page_2_strip.jpg)
-
-[![image](../New_Vol_13.png)](Front13.html)
-
-Archive Volume XIII (2011) Volume XII (2010) Volume XI (2009) Katrina
-(2009) Volume X (2007) Volume IX (2006) Volume VIII (2005) Volume VII
-(2004) Volume VI (2003) Volume V (2002) Volume IV (2001) Volume III
-(2000) Volume II (1999) Volume I (1998) Main Page
-
-[![image](../page_2_link_4_mast.jpg)](http://jsr.fsu.edu/ed.htm)
-
-[![image](../page_2_link_5_ed_policies.jpg)](http://jsr.fsu.edu/mission.htm)
-
-[![image](../page_2_link_6_article_sub.jpg)](http://jsr.fsu.edu/submit.htm)
-
-[![image](../page_2_link_7_book_rev.jpg)](http://jsr.fsu.edu/reviews.htm)
-
-[![image](../page_2_link_8_hill_award.jpg)](http://jsr.fsu.edu/award.htm)
-
-[![image](../page_2_link_9_advertisers.jpg)](http://jsr.fsu.edu/ads.htm)
-
-[![image](../page_2_link_99_email.jpg)](mailto:aremillard@francis.edu)
-
-![image](../../production/page_2_width_line_side.jpg) \
- .
-
-![image](../../production/page_2_width_line_top.jpg)
-
-* * * * *
-
-![image](Reviews/TowardFreedomLand.JPG)
-
-Harvard Sitkoff. *Toward Freedom Land: The Long Struggle for Racial
-Equality in America*. Lexington: University Press of Kentucky, 2010. 232
-pp. ISBN 0813125839. Reviewed by Justin Poché for **** the *Journal of
-Southern Religion*.
-
-* * * * *
+---
+layout: article
+title: "Review: Toward Freedom Land"
+author: Justin Poché
+author-note: "Justin Poché is an assistant professor of history at
+the College of the Holy Cross."
+vol: 13
+year: 2011
+book-reviewed: "Harvard Sitkoff. <em>Toward Freedom Land: The Long Struggle for Racial
+Equality in America</em>. Lexington: University Press of Kentucky, 2010. 232
+pp. ISBN 0813125839."
+---
 
 Any student of late twentieth century U.S. History would have a hard
 time avoiding Harvard Sitkoff's influence. Over a forty year career,
@@ -57,13 +27,6 @@ may "aim to rile" as much as ever, the body of scholarship represented
 in these essays will also ground young scholars as they grapple with the
 movement's legacies and their own place within a continually
 controversial civil rights literature.
-
-* * * * *
-
-"Each preface reveals a scholar attuned to but consciously at odds with
-his contemporaries' prevalent historiographical concerns."
-
-* * * * *
 
 Arranging the articles topically rather than chronologically, Sitkoff
 opens each with an introductory reflection that situates it within his
@@ -141,13 +104,6 @@ offers an intimate glimpse into his later career as he despaired of a
 society "more concerned about tranquility and the status quo than about
 justice and humanity" (198).
 
-* * * * *
-
-"Sitkoff's volume is one among a handful of career reflections by
-historians who came of age amid the Civil Rights Movement."
-
-* * * * *
-
 Sikoff's volume is one among a handful of career reflections by
 historians who came of age amid the Civil Rights Movement. Such volumes
 will remain valuable to scholars tempted to move beyond the "dated"
@@ -161,20 +117,3 @@ paths and unearth the complex pasts of the voiceless, the march of
 historical scholarship should encourage continued self-reflection and
 debate. As Sitkoff playfully reminds us, "the beat goes on. The beat
 goes on."
-
-Justin Poché
-
-Assistant Professor of History
-
-College of the Holy Cross
-
-**[Search *The Journal of Southern
-Religion*](http://jsr.fsu.edu/search.htm)**
-
-.
-
-.
-
-This site was designed by Randall J. Stephens and is maintained by Emily
-Clark. © 1998-2011 by \
- *The Journal of Southern Religion*. All rights reserved. ISSN 1094-5253

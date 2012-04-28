@@ -1,45 +1,15 @@
-[![image](../index_top_logo_.jpg)](http://jsr.fsu.edu/).
-
-[![image](../index_top.jpg)](http://jsr.fsu.edu/)
-
-![image](../../production/page_2_strip.jpg)
-
-[![image](../New_Vol_13.png)](Front13.html)
-
-Archive Volume XIII (2011) Volume XII (2010) Volume XI (2009) Katrina
-(2009) Volume X (2007) Volume IX (2006) Volume VIII (2005) Volume VII
-(2004) Volume VI (2003) Volume V (2002) Volume IV (2001) Volume III
-(2000) Volume II (1999) Volume I (1998) Main Page
-
-[![image](../page_2_link_4_mast.jpg)](http://jsr.fsu.edu/ed.htm)
-
-[![image](../page_2_link_5_ed_policies.jpg)](http://jsr.fsu.edu/mission.htm)
-
-[![image](../page_2_link_6_article_sub.jpg)](http://jsr.fsu.edu/submit.htm)
-
-[![image](../page_2_link_7_book_rev.jpg)](http://jsr.fsu.edu/reviews.htm)
-
-[![image](../page_2_link_8_hill_award.jpg)](http://jsr.fsu.edu/award.htm)
-
-[![image](../page_2_link_9_advertisers.jpg)](http://jsr.fsu.edu/ads.htm)
-
-[![image](../page_2_link_99_email.jpg)](mailto:aremillard@francis.edu)
-
-![image](../../production/page_2_width_line_side.jpg) \
-.
-
-![image](../../production/page_2_width_line_top.jpg)
-
-* * * * *
-
-![image](Reviews/TheMakingOfEvangelicalism.jpg)
-
-Randall Balmer. *The Making of Evangelicalism: From Revivalism to
-Politics and Beyond*. Waco: Baylor University Press, 2010. 120 pp. ISBN
-978-1-60258-243-9. Reviewed by Darren Dochuk for *Journal of Southern
-Religion*.
-
-* * * * *
+---
+layout: article
+title: "Review: The Making of Evangelicalism"
+author: Darren Dochuk
+author-note: "Darren Dochuk is an associate professor of history at
+Purdue University."
+vol: 13
+year: 2011
+book-reviewed: "Randall Balmer. <em>The Making of Evangelicalism: From Revivalism to
+Politics and Beyond</em>. Waco: Baylor University Press, 2010. 120 pp. ISBN
+978-1-60258-243-9."
+---
 
 Academic historians are trained to eschew counterfactuals when writing
 and teaching; trading in speculative claims is for the novelist, they're
@@ -50,20 +20,11 @@ undergraduates? In *The Making of Evangelicalism: From Revivalism to
 Politics and Beyond*, Randall Balmer teases out a host of "what ifs" in
 order to elicit dialogue about the "what now" and "what next" in modern
 American evangelicalism. With both a playful edge and moral purpose, he
-centers his story around four pivot points—"Four times when, in Robert
+centers his story around four pivot points---"Four times when, in Robert
 Frost's memorable words, ‘two roads diverged in a yellow wood'" (6).
 Each juncture, he insists, invites speculation. "What if evangelicals
 had gone another way, had taken a different road back there in Robert
 Frost's woods? Might history have been different?" (6)
-
-* * * * *
-
-"Aided by the First Amendment's proscription against religious
-establishment, which encouraged their free market sensibilities, a
-second generation of preachers perfected this strategy during the Second
-Great Awakening."
-
-* * * * *
 
 Balmer's first inquiry concerns the foundational period of revivals and
 reform in the eighteenth and nineteenth centuries. It was during the
@@ -95,13 +56,6 @@ Balmer concludes, America's early awakenings allowed evangelicalism to
 commandeer large market shares with "intelligence, vigor, and savvy"
 (22; 25).
 
-* * * * *
-
-"With characteristic humor, he underscores the existential import of
-end-times theology."
-
-* * * * *
-
 If the Second Great Awakening's Arminian emphases facilitated
 evangelicalism's ascent in the here and now, its millennial expectations
 caused it to focus increasingly on the hereafter. In his second chapter,
@@ -114,8 +68,8 @@ His explanation for this turn is erudite, yet also entertaining. With
 characteristic humor, he underscores the existential import of end-times
 theology. "Although this may appear to be a recondite doctrinal debate,
 the unfortunate detritus of people with too much time on their hands,"
-he jibes, "this distinction [between postmillennialism and
-premillennialism] has had enormous repercussions for the ways that
+he jibes, "this distinction \[between postmillennialism and
+premillennialism\] has had enormous repercussions for the ways that
 evangelicals approach society" (29). While postmillennialist teachings
 of Finney's day compelled Christians to build God's kingdom on earth,
 the premillennialist teachings of Dwight L. Moody's era convinced
@@ -139,7 +93,7 @@ and churchgoers from the secularism outside. They published theological
 treatises that defended orthodoxy against modernism, fought evolutionary
 science, and constructed a stunning array of "congregations,
 denominations, missionary societies, publishing houses, Bible
-institutes, Bible colleges, Bible camps, and seminaries—all in an effort
+institutes, Bible colleges, Bible camps, and seminaries---all in an effort
 to insulate themselves from the larger world" (49). In the mid-twentieth
 century, many within this enclave sought to jettison the fortress
 mentality. No one was more important, in this regard, than Billy Graham,
@@ -160,9 +114,9 @@ mores, and celebrities," but by 1980 "it was no longer a counterculture"
 
 Their brief flirtation with Carter notwithstanding, evangelicals
 approached the twenty-first century as a vanguard for the Republican
-Right. It is this fourth pivot—the rise of the Religious Right—that
+Right. It is this fourth pivot---the rise of the Religious Right---that
 frustrates Balmer most. Bucking the scholarly trend, which tends to
-single out *Roe v. Wade*(1973) as this political juggernaut's impetus,
+single out *Roe v. Wade* (1973) as this political juggernaut's impetus,
 Balmer locates its origin in a lesser-known court ruling: *Green v.
 Connally* (1971). This ruling allowed the Internal Revenue Service (IRS)
 to deny tax-exempt status to any charitable institution that "engaged in
@@ -172,7 +126,7 @@ evangelicals followed the lead of Paul Weyrich into the ranks of the
 Religious Right. Balmer holds that racism was a motivation for some who
 enlisted in this political army, but stresses that it was not the sole
 reason for their political awakening. Evangelicals, rather, "saw
-themselves as defending…the sanctity of the evangelical subculture from
+themselves as defending . . . the sanctity of the evangelical subculture from
 outside interference" (64). From this point forward, Balmer explains,
 the fundamentalism of right-wing politics took hold; anti-abortion,
 anti-feminism, anti-homosexuality, and anti-humanism, became the pillars
@@ -207,20 +161,11 @@ pitfalls of politicking, seductions of influence, and "blandishments of
 culture," and more fully committed to speaking for peace, the poor, and
 on behalf of justice for all humans and their environment (82-83).
 
-* * * * *
-
-"When talking about evangelicalism's first three pivot points, Balmer,
-it's worth noting, leaves room for the movement's constructive
-potentials—its appeal to ordinary people and reforming zeal, as well as
-its openness to feminism and outsiders living on society's fringe."
-
-* * * * *
-
 Balmer's edgy assertions rouse a range of healthy emotions in the
 reader, but at times they also promote a slightly imbalanced view of
 evangelicalism. When talking about evangelicalism's first three pivot
 points, Balmer, it's worth noting, leaves room for the movement's
-constructive potentials—its appeal to ordinary people and reforming
+constructive potentials---its appeal to ordinary people and reforming
 zeal, as well as its openness to feminism and outsiders living on
 society's fringe. He needs to in order to prove that evangelicalism
 still holds the potential for the progressiveness he admires. But this
@@ -244,7 +189,7 @@ egalitarian was evangelicalism when encountering Jim Crow in the 1890s,
 or industrial unionism in the 1900s, or women's rights in the 1920s?
 Most historians would say not very much. On the flip side, Balmer could
 have incorporated other plotlines when talking about evangelicalism's
-fourth stage—how, for instance, globalization and generational change
+fourth stage---how, for instance, globalization and generational change
 have nudged it into realms of identity and influence well beyond the
 pale of right-wing politics. The point isn't to undermine Balmer's
 compelling thesis but to suggest that by choosing his emphases in this
@@ -264,20 +209,3 @@ the curiosity of outside observers. His approach results in a remarkable
 book, one that can (and should) be read by anyone who wants to learn the
 basic history of this movement and measure its profound and enduring
 impact on American society.
-
-Darren Dochuk
-
-Associate Professor of History
-
-Purdue University
-
-**[Search *The Journal of Southern
-Religion*](http://jsr.fsu.edu/search.htm)**
-
-.
-
-.
-
-This site was designed by Randall J. Stephens and is maintained by Emily
-Clark. © 1998-2011 by \
- *The Journal of Southern Religion*. All rights reserved. ISSN 1094-5253
