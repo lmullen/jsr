@@ -1,66 +1,28 @@
-[![image](../index_top_logo_.jpg)](http://jsr.fsu.edu/).
-
-[![image](../index_top.jpg)](http://jsr.fsu.edu/)
-
-![image](../../production/page_2_strip.jpg)
-
-[![image](../New_Vol_13.png)](Front13.html)
-
-Archive Volume XIII (2011) Volume XII (2010) Volume XI (2009) Katrina
-(2009) Volume X (2007) Volume IX (2006) Volume VIII (2005) Volume VII
-(2004) Volume VI (2003) Volume V (2002) Volume IV (2001) Volume III
-(2000) Volume II (1999) Volume I (1998) Main Page
-
-[![image](../page_2_link_4_mast.jpg)](http://jsr.fsu.edu/ed.htm)
-
-[![image](../page_2_link_5_ed_policies.jpg)](http://jsr.fsu.edu/mission.htm)
-
-[![image](../page_2_link_6_article_sub.jpg)](http://jsr.fsu.edu/submit.htm)
-
-[![image](../page_2_link_7_book_rev.jpg)](http://jsr.fsu.edu/reviews.htm)
-
-[![image](../page_2_link_8_hill_award.jpg)](http://jsr.fsu.edu/award.htm)
-
-[![image](../page_2_link_9_advertisers.jpg)](http://jsr.fsu.edu/ads.htm)
-
-[![image](../page_2_link_99_email.jpg)](mailto:aremillard@francis.edu)
-
-![image](../../production/page_2_width_line_side.jpg) \
-.
-
-![image](../../production/page_2_width_line_top.jpg)
-
-* * * * *
-
-![image](Reviews/LynchingAndSpectacle.jpg)
-
-Amy Louise Wood. *Lynching and Spectacle: Witnessing Racial Violence in
-America, 1890-1940*. Chapel Hill: The University of North Carolina
-Press, 2009. 368 pp. ISBN 9780807871973. Reviewed by Lynn S. Neal for
-the *Journal of Southern Religion*.
-
-* * * * *
+---
+layout: article
+title: "Review: Lynching and Spectacle"
+author: "Lynn S. Neal"
+author-note: "Lynn S. Neal is an associate professor of religion at Wake
+Forest University."
+vol: 13
+year: 2011
+book-reviewed: "Amy Louise Wood. <em>Lynching and Spectacle: Witnessing Racial Violence in
+America, 1890-1940</em>. Chapel Hill: The University of North Carolina
+Press, 2009. 368 pp. ISBN 9780807871973."
+---
 
 In this cultural history, Amy Louise Wood urges readers to consider, as
 the book's title suggests, the relationship between lynching and
-spectacle. She argues that "the cultural power of lynching—indeed, the
-cultural power of white supremacy itself—rested on spectacle " (3).
+spectacle. She argues that "the cultural power of lynching---indeed, the
+cultural power of white supremacy itself---rested on spectacle " (3).
 Through a thematic and chronological approach, Wood analyzes the history
 and function of lynching spectacles through an impressive range of
 sources and topics, including public executions, religion, photography,
 early moving pictures, as well as prolynching and antilynching films.
 The monograph investigates how lynching was represented through diverse
 visual forms and shifted from a local to a national spectacle, a
-transformation which, Wood argues, "sow[ed] the seed of its own
+transformation which, Wood argues, "sow\[ed\] the seed of its own
 collapse" (179).
-
-* * * * *
-
-"Moreover, the practice of lynching incorporated elements of Protestant
-ritual—confession and testimonials—to find divine justification for
-their violence and religious affirmation of their racist views."
-
-* * * * *
 
 The book's first two chapters place the practice of lynching within the
 larger contexts of publicly sanctioned violence and religion. For
@@ -70,7 +32,7 @@ the practice of public executions that still occurred in the early
 Christianity. Public executions, evangelical Christianity, and lynching
 expressed similar concerns about crime, sin, and race in increasingly
 urbanized environments. Moreover, the practice of lynching incorporated
-elements of Protestant ritual—confession and testimonials—to find divine
+elements of Protestant ritual---confession and testimonials---to find divine
 justification for their violence and religious affirmation of their
 racist views. While these chapters provide readers with insight into how
 white southerners justified lynching, the next three chapters explore
@@ -94,7 +56,7 @@ message, other individuals and groups, such as the NAACP, began "to
 recognize that the spectacle that offered so much force to prolynching
 rhetoric could be used against it" (176).
 
-Chapters six and seven examine this shift—how antilynching activists and
+Chapters six and seven examine this shift---how antilynching activists and
 Hollywood filmmakers began to use the spectacle of lynching as a way to
 fight against it. For example, the NAACP began to use lynching
 photographs as a way to solicit support for antilynching legislation. By
@@ -110,14 +72,6 @@ white man's or a southern, travesty" (231). The monograph ends with a
 brief examination lynching's demise due, in part, to this antilynching
 activism.
 
-* * * * *
-
-"It takes seriously the power of visual culture to shape local and
-national discourses about lynching and makes a valuable contribution to
-this area of research."
-
-* * * * *
-
 This study incorporates a tremendous amount of information and provides
 a thorough understanding of lynching as spectacle, which will be of
 interest to scholars of American religion, the South, and American
@@ -125,7 +79,7 @@ Studies. It takes seriously the power of visual culture to shape local
 and national discourses about lynching and makes a valuable contribution
 to this area of research. Wood is most persuasive when situating a
 visual form, whether photographs, early moving pictures, or film within
-its historical milieu and conventions of understanding—or put another
+its historical milieu and conventions of understanding---or put another
 way, when she is analyzing the construction of lynching as a spectacle.
 However, she often slips from an analysis of production to claims about
 consumption with little discussion of the difference. The homogenization
@@ -138,20 +92,3 @@ organizational vision. Each chapter explores interesting avenues of
 influence and inquiry that I was more than happy to travel; however, the
 lack of a clear roadmap and the amount of repetition in each chapter
 were at times roadblocks to the monograph's effectiveness.
-
-Lynn S. Neal
-
-Associate Professor of Religion
-
-Wake Forest University
-
-**[Search *The Journal of Southern
-Religion*](http://jsr.fsu.edu/search.htm)**
-
-.
-
-.
-
-This site was designed by Randall J. Stephens and is maintained by Emily
-Clark. © 1998-2011 by \
- *The Journal of Southern Religion*. All rights reserved. ISSN 1094-5253

@@ -1,46 +1,17 @@
-[![image](../index_top_logo_.jpg)](http://jsr.fsu.edu/).
-
-[![image](../index_top.jpg)](http://jsr.fsu.edu/)
-
-![image](../../production/page_2_strip.jpg)
-
-[![image](../New_Vol_13.png)](Front13.html)
-
-Archive Volume XIII (2011) Volume XII (2010) Volume XI (2009) Katrina
-(2009) Volume X (2007) Volume IX (2006) Volume VIII (2005) Volume VII
-(2004) Volume VI (2003) Volume V (2002) Volume IV (2001) Volume III
-(2000) Volume II (1999) Volume I (1998) Main Page
-
-[![image](../page_2_link_4_mast.jpg)](http://jsr.fsu.edu/ed.htm)
-
-[![image](../page_2_link_5_ed_policies.jpg)](http://jsr.fsu.edu/mission.htm)
-
-[![image](../page_2_link_6_article_sub.jpg)](http://jsr.fsu.edu/submit.htm)
-
-[![image](../page_2_link_7_book_rev.jpg)](http://jsr.fsu.edu/reviews.htm)
-
-[![image](../page_2_link_8_hill_award.jpg)](http://jsr.fsu.edu/award.htm)
-
-[![image](../page_2_link_9_advertisers.jpg)](http://jsr.fsu.edu/ads.htm)
-
-[![image](../page_2_link_99_email.jpg)](mailto:aremillard@francis.edu)
-
-![image](../../production/page_2_width_line_side.jpg) \
-.
-
-![image](../../production/page_2_width_line_top.jpg)
-
-* * * * *
-
-![image](Reviews/WinglessChickens.jpg)
-
-Lamar L Nisly. *Wingless Chickens, Bayou Catholics, and Pilgrim
+---
+layout: article
+title: "Review: Wingless Chickens, Bayou Catholics, and Pilgrim
+Wayfarers"
+author: Stephanie Bilinsky
+author-note: "Stephanie Bilinsky is a doctoral student in religious
+studies at Arizona State University."
+vol: 13
+year: 2011
+book-reviewed: "Lamar L. Nisly. <em>Wingless Chickens, Bayou Catholics, and Pilgrim
 Wayfarers: Constructions of Audience and Tone in O'Connor, Gautreaux,
-and Percy*. Macon: Mercer University Press, 2011. 254 pp. ISBN
-978-0-88146-214-2. Reviewed by Stephanie Bilinsky for the *Journal of
-Southern Religion*.
-
-* * * * *
+and Percy</em>. Macon: Mercer University Press, 2011. 254 pp. ISBN
+978-0-88146-214-2."
+---
 
 Flannery O'Connor, Tim Gautreaux, and Walker Percy are all southern
 Catholic writers, but each uses distinct tones in addressing their
@@ -65,13 +36,6 @@ found she had more in common with her fundamentalist Protestant
 neighbors in the Bible Belt than she did with many of her fellow
 Catholics. Nevertheless, O'Connor remained focused on the centrality of
 the Catholic Church.
-
-* * * * *
-
-"Nisly benefits greatly from the letters and essays O'Connor left behind
-in which she explained the theological intentions of her stories."
-
-* * * * *
 
 Nisly demonstrates the ways in which O'Connor's assumption of a hostile
 audience shapes her novels and short stories. The grotesque serves as an
@@ -107,13 +71,6 @@ Like his upbringing, Catholicism infuses Gautreaux's fiction in
 sometimes-subtle ways, in particular through his emphasis on "the
 sacramentality of the ordinary" as well as responses and descriptions
 (107).
-
-* * * * *
-
-"Percy's writing spanned Vatican II, and he criticized laity, clergy,
-and women religious who challenged the church's authority too openly."
-
-* * * * *
 
 Walker Percy is less easy to place than O'Connor and Gautreaux. He lived
 on a metaphorical and geographical boarder of Catholic and Protestant
@@ -159,20 +116,3 @@ place in shaping authors' approaches to their audiences. He successfully
 proves the centrality of sociohistorical context in shaping these
 writers' views of themselves in their various roles as prophet,
 companion, and canary.
-
-Stephanie Bilinsky
-
-Doctoral Student in Religious Studies
-
-Arizona State University
-
-**[Search *The Journal of Southern
-Religion*](http://jsr.fsu.edu/search.htm)**
-
-.
-
-.
-
-This site was designed by Randall J. Stephens and is maintained by Emily
-Clark. © 1998-2011 by \
- *The Journal of Southern Religion*. All rights reserved. ISSN 1094-5253

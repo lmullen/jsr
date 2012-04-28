@@ -1,45 +1,15 @@
-[![image](../index_top_logo_.jpg)](http://jsr.fsu.edu/).
-
-[![image](../index_top.jpg)](http://jsr.fsu.edu/)
-
-![image](../../production/page_2_strip.jpg)
-
-[![image](../New_Vol_13.png)](Front13.html)
-
-Archive Volume XIII (2011) Volume XII (2010) Volume XI (2009) Katrina
-(2009) Volume X (2007) Volume IX (2006) Volume VIII (2005) Volume VII
-(2004) Volume VI (2003) Volume V (2002) Volume IV (2001) Volume III
-(2000) Volume II (1999) Volume I (1998) Main Page
-
-[![image](../page_2_link_4_mast.jpg)](http://jsr.fsu.edu/ed.htm)
-
-[![image](../page_2_link_5_ed_policies.jpg)](http://jsr.fsu.edu/mission.htm)
-
-[![image](../page_2_link_6_article_sub.jpg)](http://jsr.fsu.edu/submit.htm)
-
-[![image](../page_2_link_7_book_rev.jpg)](http://jsr.fsu.edu/reviews.htm)
-
-[![image](../page_2_link_8_hill_award.jpg)](http://jsr.fsu.edu/award.htm)
-
-[![image](../page_2_link_9_advertisers.jpg)](http://jsr.fsu.edu/ads.htm)
-
-[![image](../page_2_link_99_email.jpg)](mailto:aremillard@francis.edu)
-
-![image](../../production/page_2_width_line_side.jpg) \
- .
-
-![image](../../production/page_2_width_line_top.jpg)
-
-* * * * *
-
-![image](Reviews/NewStudiesintheHistory.jpg)
-
-Edward E. Baptist and Stephanie M. H. Camp, eds. *New Studies in the
-History of American Slavery*. Athens: University of Georgia Press, 2006.
-308 pp. ISBN 0820326941. Reviewed by Monica C. Reed for **** the
-*Journal of Southern Religion*.
-
-* * * * *
+---
+layout: article
+title: "Review: New Studies in the History of American Slavery"
+author: "Monica C. Reed"
+author-note: "Monica C. Reed is a doctoral candidate in religion at
+Florida State University."
+vol: 13
+year: 2011
+book-reviewed: "Edward E. Baptist and Stephanie M. H. Camp, eds. <em>New Studies in the
+History of American Slavery</em>. Athens: University of Georgia Press, 2006.
+308 pp. ISBN 0820326941. 
+---
 
 In his 1990 work, *African Americans in the Colonial Era,* Donald R.
 Wright called for scholars to look beyond southern plantation life and
@@ -64,15 +34,6 @@ celebrating and enjoying their bodies during illicit parties. All told,
 these chapters highlight the lives of African women to provide new and
 diverse perspectives on the development of the slave system and the
 experience of southern slaves.
-
-* * * * *
-
-"By investigating how slaves saw themselves and each other, these
-chapters show that enslaved men and women did not simply develop broad,
-racialized, African identities, but often understood themselves in
-complex ethnic terms."
-
-* * * * *
 
 This focus on diversity of experience continues in the second section,
 "Race, Identity, and Community." By investigating how slaves saw
@@ -121,13 +82,6 @@ the most salient aspects of slaves' experiences. In the final chapter,
 Christopher L. Brown takes a trans-Atlantic perspective, looking how
 British politics influenced the development of slavery in the empire.
 
-* * * * *
-
-"A strength of this work is that the contributors recognize that there
-are unavoidable problems that scholars must face when studying slavery."
-
-* * * * *
-
 In each chapter, the authors make convincing claims without overstating
 or oversimplifying their arguments. A strength of this work is that the
 contributors recognize that there are unavoidable problems that scholars
@@ -151,20 +105,3 @@ scholars of religion with new avenues of study. However, it includes
 almost no direct discussion of religion and, therefore, will be of
 limited interest to those looking for a book that focuses on religion
 and slavery.
-
-Monica C. Reed
-
-Doctoral Candidate in Religion
-
-Florida State University
-
-**[Search *The Journal of Southern
-Religion*](http://jsr.fsu.edu/search.htm)**
-
-.
-
-.
-
-This site was designed by Randall J. Stephens and is maintained by Emily
-Clark. © 1998-2011 by \
- *The Journal of Southern Religion*. All rights reserved. ISSN 1094-5253

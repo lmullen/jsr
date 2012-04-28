@@ -1,45 +1,15 @@
-[![image](../index_top_logo_.jpg)](http://jsr.fsu.edu/).
-
-[![image](../index_top.jpg)](http://jsr.fsu.edu/)
-
-![image](../../production/page_2_strip.jpg)
-
-[![image](../New_Vol_13.png)](Front13.html)
-
-Archive Volume XIII (2011) Volume XII (2010) Volume XI (2009) Katrina
-(2009) Volume X (2007) Volume IX (2006) Volume VIII (2005) Volume VII
-(2004) Volume VI (2003) Volume V (2002) Volume IV (2001) Volume III
-(2000) Volume II (1999) Volume I (1998) Main Page
-
-[![image](../page_2_link_4_mast.jpg)](http://jsr.fsu.edu/ed.htm)
-
-[![image](../page_2_link_5_ed_policies.jpg)](http://jsr.fsu.edu/mission.htm)
-
-[![image](../page_2_link_6_article_sub.jpg)](http://jsr.fsu.edu/submit.htm)
-
-[![image](../page_2_link_7_book_rev.jpg)](http://jsr.fsu.edu/reviews.htm)
-
-[![image](../page_2_link_8_hill_award.jpg)](http://jsr.fsu.edu/award.htm)
-
-[![image](../page_2_link_9_advertisers.jpg)](http://jsr.fsu.edu/ads.htm)
-
-[![image](../page_2_link_99_email.jpg)](mailto:aremillard@francis.edu)
-
-![image](../../production/page_2_width_line_side.jpg) \
-.
-
-![image](../../production/page_2_width_line_top.jpg)
-
-* * * * *
-
-![image](Reviews/BlackManhood.jpg)
-
-Angela Hornsby-Gutting. *Black Manhood and Community Building in North
-Carolina, 1900-1930.*Gainesville: University Press of Florida, 2009. 244
-pp. ISBN 9780813036793. Reviewed by James Hill Welborn III for the
-*Journal of Southern Religion*.
-
-* * * * *
+---
+layout: article
+title: "Review: Black Manhood and Community Building in North Carolina"
+author: "James Hill Welborn III"
+author-note: "James Hill Welborn III is a doctoral candidate in history
+at the University of Georgia."
+vol: 13
+year: 2011
+book-reviewed: "Angela Hornsby-Gutting. <em>Black Manhood and Community Building in North
+Carolina, 1900-1930.</em> Gainesville: University Press of Florida, 2009. 244
+pp. ISBN 9780813036793."
+---
 
 Historians have long recognized the prominence of the Protestant church
 within the African American community, from its "invisible"
@@ -55,14 +25,6 @@ men within the church, fraternal orders, and community institutions,
 Hornsby-Gutting sheds long overdue light upon their pivotal role in
 negotiating gender constructions and racial uplift in the face of white
 racial discrimination and black class and gender division.
-
-* * * * *
-
-"Through her examination of various denominational convention meetings,
-the author emphasizes the precarious balancing act performed by African
-American churchmen."
-
-* * * * *
 
 The author begins this analysis by examining black churchmen and their
 reactions to the "Black Women's Era" in which black women, much like
@@ -84,18 +46,9 @@ gender dissension to frustrate male efforts to control female community
 activity *and* promote racial solidarity. These dueling motives pervade
 all subsequent issues.
 
-* * * * *
-
-"She argues convincingly that the younger generations increasingly
-rejected attempts to assuage white prejudicial fears in favor of direct
-resistance to discrimination and forceful assertion of black manhood and
-racial pride."
-
-* * * * *
-
 The second chapter explicates the "boy problem" prevalent in all
 evangelical denominations of the period. The feminization of religion
-and society—symptoms of the modern industrial economy—figured
+and society---symptoms of the modern industrial economy---figured
 prominently in the minds of many whites and blacks. Their proposed
 solution, typically identified as "Muscular Christianity," was to
 recruit more young men into the church by emphasizing recreational
@@ -104,13 +57,13 @@ maturation. Among African Americans, this pursuit involved similar
 contestation between feminine assertion and masculine control, racial
 uplift and gender hierarchy that shaped debates over church policy.
 Chapter three follows these debates into African American fraternal
-orders—especially the Prince Hall Masons—highlighting the discord
+orders---especially the Prince Hall Masons---highlighting the discord
 between these all-male spaces and their auxiliary female organizations
 as both groups engaged in racial uplift activities such as education and
 economic relief. The final chapter documents how these debates evolved
 over time by focusing on Emancipation Day celebrations and "colored"
 state fairs, paying particular attention to the role and function of
-Asheville's Young Men's Institute (YMI—a local organization similar to
+Asheville's Young Men's Institute (YMI---a local organization similar to
 the YMCA). She argues convincingly that the younger generations
 increasingly rejected attempts to assuage white prejudicial fears in
 favor of direct resistance to discrimination and forceful assertion of
@@ -128,30 +81,13 @@ black church and its community function within the broader narrative of
 American imperialism.
 
 Several works seem conspicuously absent from Hornsby-Gutting's
-notes—Kristin Hoganson's *Fighting for American Manhood*(1998), Clifford
+notes---Kristin Hoganson's *Fighting for American Manhood*(1998), Clifford
 Putney's *Muscular Christianity*(2001), and Ted Ownby's *Subduing
-Satan*(1990)*—*all of which might have enhanced her related perspectives
+Satan*(1990)*---*all of which might have enhanced her related perspectives
 on the gendered dynamics of imperialism, religion, and recreation.
 Scholars seeking an in-depth treatment of the theological and
-institutional development of African American religion—or evangelicalism
-generally—in the period should look elsewhere. But those interested in
+institutional development of African American religion---or evangelicalism
+generally---in the period should look elsewhere. But those interested in
 the gendered dimensions of the black church within the black community,
 the Jim Crow South, and the imperial age will find impressive rewards
 herein.
-
-James Hill Welborn III
-
-Doctoral Candidate in History
-
-University of Georgia
-
-**[Search *The Journal of Southern
-Religion*](http://jsr.fsu.edu/search.htm)**
-
-.
-
-.
-
-This site was designed by Randall J. Stephens and is maintained by Emily
-Clark. © 1998-2011 by \
- *The Journal of Southern Religion*. All rights reserved. ISSN 1094-5253

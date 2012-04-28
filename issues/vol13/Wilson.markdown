@@ -1,45 +1,16 @@
-[![image](../index_top_logo_.jpg)](http://jsr.fsu.edu/).
-
-[![image](../index_top.jpg)](http://jsr.fsu.edu/)
-
-![image](../../production/page_2_strip.jpg)
-
-[![image](../New_Vol_13.png)](Front13.html)
-
-Archive Volume XIII (2011) Volume XII (2010) Volume XI (2009) Katrina
-(2009) Volume X (2007) Volume IX (2006) Volume VIII (2005) Volume VII
-(2004) Volume VI (2003) Volume V (2002) Volume IV (2001) Volume III
-(2000) Volume II (1999) Volume I (1998) Main Page
-
-[![image](../page_2_link_4_mast.jpg)](http://jsr.fsu.edu/ed.htm)
-
-[![image](../page_2_link_5_ed_policies.jpg)](http://jsr.fsu.edu/mission.htm)
-
-[![image](../page_2_link_6_article_sub.jpg)](http://jsr.fsu.edu/submit.htm)
-
-[![image](../page_2_link_7_book_rev.jpg)](http://jsr.fsu.edu/reviews.htm)
-
-[![image](../page_2_link_8_hill_award.jpg)](http://jsr.fsu.edu/award.htm)
-
-[![image](../page_2_link_9_advertisers.jpg)](http://jsr.fsu.edu/ads.htm)
-
-[![image](../page_2_link_99_email.jpg)](mailto:aremillard@francis.edu)
-
-![image](../../production/page_2_width_line_side.jpg) \
-.
-
-![image](../../production/page_2_width_line_top.jpg)
-
-* * * * *
-
-![image](Reviews/LWMarks.jpg)
-
-Alvin O. Turner. *L. W. Marks: A Baptist Progressive in Missouri &
-Oklahoma, 1862-1943.* Norman: Mongrel Empire Press, 2009. 237 pp. ISBN
-9780980168433. Reviewed by Mark Wilson for the *Journal of Southern
-Religion*.
-
-* * * * *
+---
+layout: article
+title: "Review: L. W. Marks: A Baptist Progressive in Missouri and
+Oklahoma"
+author: "Mark Wilson"
+author-note: "Mark Wilson is the Coordinator of the College of Liberal
+Arts at Auburn University."
+vol: 13
+year: 2011
+book-reviewed: "Alvin O. Turner. <em>L. W. Marks: A Baptist Progressive
+in Missouri and Oklahoma, 1862--1943.</em> Norman: Mongrel Empire Press, 2009. 237 pp. ISBN
+9780980168433."
+---
 
 The history of religion in the South is replete with characters who
 explode the one-dimensional stereotypes of clerical leaders and
@@ -51,14 +22,6 @@ known beyond Oklahoma Baptist circles, L. W. Marks was a pastor, civic
 leader, denominational builder, businessman, and newspaperman whose
 progressivism largely manifested itself in a call for cooperation among
 Baptists in the state and region.
-
-* * * * *
-
-"Turner divides Marks' story into six chapters, outlining Marks'
-background, seminary experience, newspaper adventures, pastorates, and
-local political and business journeys."
-
-* * * * *
 
 Turner divides Marks' story into six chapters, outlining Marks'
 background, seminary experience, newspaper adventures, pastorates, and
@@ -95,13 +58,6 @@ Oklahoma Baptist College, another of Marks' passions, sold on the
 auction block; continual and pervasive attempts to find a pastorate that
 could support his family.
 
-* * * * *
-
-"The book is the story of a religious leader with progressive ideals in
-a region where progress is not so easily attained."
-
-* * * * *
-
 In short, Marks' story is not one full of successes, far from it, but
 the activities and life experiences that are recorded by Turner are
 instructive, and we need more biographies of religious leaders who had
@@ -110,20 +66,3 @@ respects Marks and his influence on Baptists in Missouri and Oklahoma,
 but the book is not a denominational hagiography. The book is the story
 of a religious leader with progressive ideals in a region where progress
 is not so easily attained.
-
-Mark Wilson
-
-Coordinator, College of Liberal Arts
-
-Auburn University
-
-**[Search *The Journal of Southern
-Religion*](http://jsr.fsu.edu/search.htm)**
-
-.
-
-.
-
-This site was designed by Randall J. Stephens and is maintained by Emily
-Clark. © 1998-2011 by \
- *The Journal of Southern Religion*. All rights reserved. ISSN 1094-5253

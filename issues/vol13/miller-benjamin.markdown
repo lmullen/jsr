@@ -1,12 +1,15 @@
-
-![image](Reviews/JewsAndTheCivilWar.jpg)
-
-Jonathan D. Sarna and Adam Mendelsohn, eds. *Jews and the Civil War: A
-Reader*. New York: New York University Press, 2010. 435 pp. ISBN
-9780814740910. Reviewed by Benjamin L. Miller for the *Journal of
-Southern Religion*.
-
-* * * * *
+---
+layout: article
+title: "Review: Jews and the Civil War"
+author: "Benjamin L. Miller"
+author-note: "Benjamin L. Miller is a doctoral candidate in history at
+the University of Florida."
+vol: 13
+year: 2011
+book-reviewed: "Jonathan D. Sarna and Adam Mendelsohn, eds. <em>Jews and the Civil War: A
+Reader</em>. New York: New York University Press, 2010. 435 pp. ISBN
+9780814740910."
+---
 
 In *Jews and the Civil War: A Reader*, editors Jonathan Sarna and Adam
 Mendelsohn have assembled a collection of scholarly essays about the
@@ -19,13 +22,6 @@ works, which build on historian Bertram Korn's seminal *American Jewry
 and the Civil War* (1951). This is an especially significant
 achievement, given the relative lack of historical attention given to
 the Jewish experience in the Civil War.
-
-* * * * *
-
-"Neatly divided into seven parts, this collection examines the
-experience of Jews from the antebellum era through Reconstruction."
-
-* * * * *
 
 Neatly divided into seven parts, this collection examines the experience
 of Jews from the antebellum era through Reconstruction. Organized
@@ -71,9 +67,3 @@ explore the varied facets of the Jewish experience during the American
 Civil War. This long overdue book should appeal to a broad readership of
 scholars and amateur historians alike, those interested in Jewish
 history or the American Civil War era more broadly.
-
-Benjamin L. Miller
-
-Doctoral Candidate in History
-
-University of Florida

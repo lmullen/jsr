@@ -1,52 +1,22 @@
-[![image](../index_top_logo_.jpg)](http://jsr.fsu.edu/).
-
-[![image](../index_top.jpg)](http://jsr.fsu.edu/)
-
-![image](../../production/page_2_strip.jpg)
-
-[![image](../New_Vol_13.png)](Front13.html)
-
-Archive Volume XIII (2011) Volume XII (2010) Volume XI (2009) Katrina
-(2009) Volume X (2007) Volume IX (2006) Volume VIII (2005) Volume VII
-(2004) Volume VI (2003) Volume V (2002) Volume IV (2001) Volume III
-(2000) Volume II (1999) Volume I (1998) Main Page
-
-[![image](../page_2_link_4_mast.jpg)](http://jsr.fsu.edu/ed.htm)
-
-[![image](../page_2_link_5_ed_policies.jpg)](http://jsr.fsu.edu/mission.htm)
-
-[![image](../page_2_link_6_article_sub.jpg)](http://jsr.fsu.edu/submit.htm)
-
-[![image](../page_2_link_7_book_rev.jpg)](http://jsr.fsu.edu/reviews.htm)
-
-[![image](../page_2_link_8_hill_award.jpg)](http://jsr.fsu.edu/award.htm)
-
-[![image](../page_2_link_9_advertisers.jpg)](http://jsr.fsu.edu/ads.htm)
-
-[![image](../page_2_link_99_email.jpg)](mailto:aremillard@francis.edu)
-
-![image](../../production/page_2_width_line_side.jpg) \
-.
-
-![image](../../production/page_2_width_line_top.jpg)
-
-* * * * *
-
-![image](Reviews/InBlackAndWhite.jpg)
-
-Lily Hardy Hammond. *In Black and White: An Interpretation of the
-South*. Edited by Elna C. Green. Publications of the Southern Texts
+---
+layout: article
+title: "Review: In Black and White"
+author: Michele Gillespie
+author-note: "Michele Gillespie is an associate professor of history at
+Wake Forest University."
+vol: 13
+year: 2011
+book-reviewed: "Lily Hardy Hammond. <em>In Black and White: An Interpretation of the
+South</em>. Edited by Elna C. Green. Publications of the Southern Texts
 Society. Athens: University of Georgia Press, 2008. 160 pp. ISBN
-978-0-8203-3062-4. Reviewed by Michele Gillespie for the *Journal of
-Southern Religion*.
-
-* * * * *
+978-0-8203-3062-4."
+---
 
 "The evil is great everywhere; and we of the South have been slow to
 start our part of the fight against it," wrote social reformer Lily
-Hardy Hammond (1859–1925) in her classic critique of racism in the early
+Hardy Hammond (1859--1925) in her classic critique of racism in the early
 twentieth-century South, 1914's *In Black and White* (97). Born in New
-Jersey—and raised in New York—to southern parents who left the South on
+Jersey---and raised in New York---to southern parents who left the South on
 the eve of the Civil War, she married John Hammond in 1879, a
 Georgia-born Methodist minister who had come north to study at Drew
 Theological Seminary. Not only did Hammond's family roots lead her to
@@ -77,16 +47,8 @@ historical contributions Green has fortunately produced a meticulously
 edited volume of this compelling book, as well as a substantive and
 engaging biographical sketch of this important woman.
 
-* * * * *
-
-"Hammond and other white middle class southern women like her found
-themselves working with black middle class women in settlement houses,
-school improvement associations, and civic organizations."
-
-* * * * *
-
-A leader in Nashville's Methodist community—the hub of Southern
-Methodism, where the Hammonds lived for more than a decade—and
+A leader in Nashville's Methodist community---the hub of Southern
+Methodism, where the Hammonds lived for more than a decade---and
 especially in the Methodist women's home mission movement, Hammond
 devoted herself to trans-Atlantic scholarship on social welfare, quickly
 developing into a leading southern authority on reform practices. As the
@@ -122,20 +84,3 @@ indictment of white racism, the role white women could play in forcing
 change, and the quiescence of the church offers a powerful social
 critique by a Southern Methodist female leader in a period when most
 southern reformers clung to class-based change alone.
-
-Michele Gillespie
-
-Associate Professor ofHistory
-
-Wake Forest University
-
-**[Search *The Journal of Southern
-Religion*](http://jsr.fsu.edu/search.htm)**
-
-.
-
-.
-
-This site was designed by Randall J. Stephens and is maintained by Emily
-Clark. © 1998-2011 by \
- *The Journal of Southern Religion*. All rights reserved. ISSN 1094-5253

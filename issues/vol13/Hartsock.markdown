@@ -1,48 +1,19 @@
-[![image](../index_top_logo_.jpg)](http://jsr.fsu.edu/).
-
-[![image](../index_top.jpg)](http://jsr.fsu.edu/)
-
-![image](../../production/page_2_strip.jpg)
-
-[![image](../New_Vol_13.png)](Front13.html)
-
-Archive Volume XIII (2011) Volume XII (2010) Volume XI (2009) Katrina
-(2009) Volume X (2007) Volume IX (2006) Volume VIII (2005) Volume VII
-(2004) Volume VI (2003) Volume V (2002) Volume IV (2001) Volume III
-(2000) Volume II (1999) Volume I (1998) Main Page
-
-[![image](../page_2_link_4_mast.jpg)](http://jsr.fsu.edu/ed.htm)
-
-[![image](../page_2_link_5_ed_policies.jpg)](http://jsr.fsu.edu/mission.htm)
-
-[![image](../page_2_link_6_article_sub.jpg)](http://jsr.fsu.edu/submit.htm)
-
-[![image](../page_2_link_7_book_rev.jpg)](http://jsr.fsu.edu/reviews.htm)
-
-[![image](../page_2_link_8_hill_award.jpg)](http://jsr.fsu.edu/award.htm)
-
-[![image](../page_2_link_9_advertisers.jpg)](http://jsr.fsu.edu/ads.htm)
-
-[![image](../page_2_link_99_email.jpg)](mailto:aremillard@francis.edu)
-
-![image](../../production/page_2_width_line_side.jpg) \
-.
-
-![image](../../production/page_2_width_line_top.jpg)
-
-* * * * *
-
-![image](Reviews/GeorgeFRoot.JPG)
-
-Polly H. Carder. *George F. Root: Civil War Songwriter*. Jefferson,
-N.C.: McFarland, 2008. 239 pp. ISBN 9780886433742. Reviewed by Ralph
-Hartsock for the *Journal of Southern Religion*.
-
-* * * * *
+---
+layout: article
+title: "Review: George F. Root: Civil War Songwriter"
+author: Ralph Hartsock
+author-note: "Ralph Hartsock is the senior music cataloger at the Music
+Library of the University of North Texas."
+vol: 13
+year: 2011
+book-reviewed: "Polly H. Carder. <em>George F. Root: Civil War
+Songwriter</em>. Jefferson,
+N.C.: McFarland, 2008. 239 pp. ISBN 9780886433742."
+---
 
 In a very engaging text, Polly Carder begins by setting the scene of
 1862, with the Union losing the Civil War, and the experience of Tad
-Lincoln at the theater in March of 1864.^([1](#ftn1))^ As a chorus
+Lincoln at the theater in March of 1864.[^1]  As a chorus
 onstage sang "The Battle Cry of Freedom," they were joined by the
 president's son. The author points out the moral significance of the
 song "The Battle Cry of Freedom" at a time when the Union was not doing
@@ -70,13 +41,6 @@ method (not cited in the text). These tunes would influence him greatly,
 but Root had to wait to learn piano until he was eighteen because owning
 a piano in rural America was rare, the piano being more prevalent in an
 urban environment.
-
-* * * * *
-
-"In Boston, Root was exposed to much fine music, artists such as Ole
-Bull, and the Boston Handel and Haydn Society."
-
-* * * * *
 
 Root later took voice lessons from Lowell Mason, and sang in his choirs.
 In Boston, Root was exposed to much fine music, artists such as Ole
@@ -112,7 +76,7 @@ liked the recent part songs of Felix Mendelssohn (1809-1847), and
 madrigals and glees from earlier periods. Theodore Eisfeld, conductor of
 the New York Philharmonic society heard them, and invited them to
 perform at a concert. After the first song the orchestral musicians
-joined the applause—what Root called passing "the highest musical
+joined the applause---what Root called passing "the highest musical
 tribunal" (29). Not only religious, Root lectured on opera excerpts in
 September, 1850, in Livingston County, New York. His songs were
 published in *The Choral Advocate and Singing Class Journal*. Root was a
@@ -122,9 +86,9 @@ editor that expressed their musical opinions.
 When Root went to Paris in 1851 for study and exposure to culture, the
 Mercer Street Church, held a farewell concert. Fanny Crosby also wrote a
 farewell song for Root. In Paris, on July 4, 1851, Root sang some
-American patriotic tunes, and then "The Marseillaise"—banned in France.
+American patriotic tunes, and then "The Marseillaise"---banned in France.
 The next month he returned to New York to collaborate with Fanny Crosby
-on *The Flower Queen*, a cantata—the word cantata was used to
+on *The Flower Queen*, a cantata---the word cantata was used to
 differentiate the harmless stage production from the opera or music
 hall. *The Flower Queen* was produced 500 times.
 
@@ -143,15 +107,6 @@ propaganda or in the newspapers during the Civil War. Not only did "The
 Battle Cry of Freedom" serve as the masthead for the Chicago Tribune's
 announcement that Lincoln had been re-elected President, the song found
 its way into the Confederate prisons of Libby and Andersonville.
-
-* * * * *
-
-"Religion shaped Root's music, both sacred and secular. Attending opera
-or theater productions conflicted with religious and moral beliefs of
-the time, so Root, like others, developed the cantata as a dramatic
-musical piece that was moral"
-
-* * * * *
 
 Carder reveals several aspects of life in nineteenth century America,
 including religion, current events, and the Civil War: Root was
@@ -190,27 +145,8 @@ The book contains images of sheet music covers, and some notated music,
 but is not analytical in the harmonic sense, so it remains accessible to
 non-musical historians.
 
-Ralph Hartsock
 
-Senior Music Cataloger, Music Library
-
-University of North Texas
-
-Notes
-
-* * * * *
-
-[1](#tx1) Carder's dissertation was a similar title (Carder, Polly.
+[^1]:  Carder's dissertation was a similar title (Carder, Polly.
 George Frederick Root: Pioneer Music Educator: His Contributions to Mass
 Instruction in Music. Diss. University of Maryland, 1971).
 
-**[Search *The Journal of Southern
-Religion*](http://jsr.fsu.edu/search.htm)**
-
-.
-
-.
-
-This site was designed by Randall J. Stephens and is maintained by Emily
-Clark. © 1998-2011 by \
- *The Journal of Southern Religion*. All rights reserved. ISSN 1094-5253

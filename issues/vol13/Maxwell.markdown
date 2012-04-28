@@ -1,45 +1,15 @@
-[![image](../index_top_logo_.jpg)](http://jsr.fsu.edu/).
-
-[![image](../index_top.jpg)](http://jsr.fsu.edu/)
-
-![image](../../production/page_2_strip.jpg)
-
-[![image](../New_Vol_13.png)](Front13.html)
-
-Archive Volume XIII (2011) Volume XII (2010) Volume XI (2009) Katrina
-(2009) Volume X (2007) Volume IX (2006) Volume VIII (2005) Volume VII
-(2004) Volume VI (2003) Volume V (2002) Volume IV (2001) Volume III
-(2000) Volume II (1999) Volume I (1998) Main Page
-
-[![image](../page_2_link_4_mast.jpg)](http://jsr.fsu.edu/ed.htm)
-
-[![image](../page_2_link_5_ed_policies.jpg)](http://jsr.fsu.edu/mission.htm)
-
-[![image](../page_2_link_6_article_sub.jpg)](http://jsr.fsu.edu/submit.htm)
-
-[![image](../page_2_link_7_book_rev.jpg)](http://jsr.fsu.edu/reviews.htm)
-
-[![image](../page_2_link_8_hill_award.jpg)](http://jsr.fsu.edu/award.htm)
-
-[![image](../page_2_link_9_advertisers.jpg)](http://jsr.fsu.edu/ads.htm)
-
-[![image](../page_2_link_99_email.jpg)](mailto:aremillard@francis.edu)
-
-![image](../../production/page_2_width_line_side.jpg) \
-.
-
-![image](../../production/page_2_width_line_top.jpg)
-
-* * * * *
-
-![image](Reviews/GodSpeaksToUsToo.jpg)
-
-Susan M. Shaw. *God Speaks to Us, Too: Southern Baptist Women on Church,
-Home, & Society*. Lexington: University Press of Kentucky, 2008. 300 pp.
-ISBN 9780813124766. Reviewed by Melody Maxwell for the *Journal**of
-Southern Religion*.
-
-* * * * *
+---
+layout: article
+title: "Review: God Speaks to Us, Too"
+author: "Melody Maxwell"
+author-note: "Melody Maxwell earned her PhD from International Baptist
+Theological Seminary."
+vol: 13
+year: 2011
+book-reviewed: "Susan M. Shaw. <em>God Speaks to Us, Too: Southern Baptist Women on Church,
+Home, & Society</em>. Lexington: University Press of Kentucky, 2008. 300 pp.
+ISBN 9780813124766."
+---
 
 Not often does one find a work that promises to delight the serious
 scholar as well as the ordinary reader. Susan Shaw's *God Speaks to Us,
@@ -64,20 +34,12 @@ significant number of the women included would hesitate to call
 themselves Southern Baptists. Also unlike typical Southern Baptist
 women, around half of the study's participants boast a seminary
 education, and many are employed full-time in religious vocations. To
-her credit, Shaw "make[s] no claim that this book is objective or
+her credit, Shaw "make\[s\] no claim that this book is objective or
 represents all Southern Baptist women" (x). Yet one wonders how a more
 representative sample population would have changed the work. Readers
 would likely have gained a more accurate perspective on today's Southern
 Baptists by hearing from more laywomen involved in the denomination's
 conservative congregations, including its growing megachurches.
-
-* * * * *
-
-"One of the book's strengths is Shaw's commitment to let the women speak
-in their own words, regardless of what she thinks about the theologies
-they espouse."
-
-* * * * *
 
 Representative or not, the women included in *God Speaks to Us, Too*
 present fascinating first-hand accounts of their views on everything
@@ -108,7 +70,7 @@ complex, more thoughtful, kinder, and usually more rebellious than
 outside observers might think" (5). The words of even the book's more
 conservative interviewees prove this statement true. For example, Nancy
 Moore affirms the common Southern Baptist belief that wives should
-"graciously submit" to their husbands—but concedes that "I have never
+"graciously submit" to their husbands---but concedes that "I have never
 known many women who were totally in submission to their husbands"
 (189). And Grace Geddes explains her readiness to express a different
 opinion from her pastor: "This is the house of the Lord, and if you
@@ -124,20 +86,3 @@ ways they have negotiated their own roles in a conservative
 denomination. *God Speaks to Us, Too* is not only a compelling read; it
 is also a significant analysis of religion and gender that deserves
 broad scholarly attention.
-
-Melody Maxwell
-
-PhD, International Baptist Theological Seminary
-
-Birmingham, Alabama
-
-**[Search *The Journal of Southern
-Religion*](http://jsr.fsu.edu/search.htm)**
-
-.
-
-.
-
-This site was designed by Randall J. Stephens and is maintained by Emily
-Clark. © 1998-2011 by \
- *The Journal of Southern Religion*. All rights reserved. ISSN 1094-5253
