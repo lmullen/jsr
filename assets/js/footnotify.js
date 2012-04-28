@@ -270,7 +270,7 @@ var main = function() {
 
 /******** Load jQuery if not present *********/
 /* By Ricky Moorhouse. Lifted from http://samespirit.net/ricky/2010/06/21/only-load-jquery-if-not-already-present/ */
-if (typeof jQuery === "undefined" || jQuery.fn.jquery !== '1.5.0') {
+if (typeof jQuery === "undefined" || jQuery.fn.jquery !== '1.7.2') {
     var script_tag = document.createElement('script');
     script_tag.setAttribute("type","text/javascript");
     script_tag.setAttribute("src","http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js");
