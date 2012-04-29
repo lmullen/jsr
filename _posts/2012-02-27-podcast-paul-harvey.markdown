@@ -4,8 +4,8 @@ layout: podcast
 category: podcast
 author: Art Remillard
 podcast-filename: "jsr.ep001.paulharvey.mp3"
-podcast-filesize: 38568
-podcast-running-time: "20:33"
+podcast-filesize: 38696
+podcast-running-time: "20:32"
 podcast-episode: 1
 ---
 
