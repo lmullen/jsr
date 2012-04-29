@@ -1,8 +1,23 @@
 ---
-layout: default
-title: Page Not Found
+layout: page
+title: "Error 404: Page Not Found"
 ---
+<p>Sorry, but the page you're looking for isn't here. Try the <a 
+	href="{{site.url}}">home page</a>.</p>
 
-<p>Sorry, but the page you're looking for isn't here. Try the <a href="{{ site.base-url }}/index.html">home page</a>.</p>
+<p>You may also search for the content:</p>
 
-<p>Or, if you're looking for a blog post, I might have thought it wasn't worth saving. But all the blog posts that were worth saving are <a href="{{ site.base-url }}/writing.html">listed here</a>.</p>
+<form class="form-search" action="http://google.com/search" 
+	method="get">
+	<fieldset role="search">
+		<input type="hidden" name="q" value="site:http://jsr.fsu.edu"/>
+		<span class="help-inline"><i class="icon-search"></i> <input 
+			type="text" name="q" class="input-xlarge search-query"
+		placeholder="Search the journal" />
+	</fieldset>
+</form>
+
+<p>If you have a citation for the journal article that you are looking 
+for, please <a href="{{site.url}}/issues/">look at the list of 
+	issues</a>, where you can find a table of contents for each 
+issue.</p>
