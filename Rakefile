@@ -42,6 +42,17 @@ task :staginggenerate do
 	puts 'Successfully built staging site!'
 end
 
+desc 'generate production site'
+task :production_generate do
+	# builds the site using Jekyll
+	# Jekyll will get use URLs passed to command line
+	# Jekyll will take other configurations from _config.yml
+	puts 'Generating the production site.'
+	Rake::Task["assets"].invoke
+	sh "jekyll --base-url http://jsr.fsu.edu/ --url http://jsr.fsu.edu --no-auto"
+	puts 'Successfully built production site!'
+end
+
 desc 'preview site locally'
 task :preview do
 	# Generates the site locally, launches a server, auto regenerates
