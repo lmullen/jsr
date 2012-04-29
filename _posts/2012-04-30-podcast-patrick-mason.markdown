@@ -10,7 +10,7 @@ podcast-episode: 2
 ---
 In this podcast, [Art Remillard][] talks with [Patrick Mason][] about
 his new book, [*The Mormon Menace: Violence and Anti-Mormonism in the
-Postbellum South*][].[^1] Mason is the Howard W. Hunter Chair of Mormon Studies at
+Postbellum South*][]. Mason is the Howard W. Hunter Chair of Mormon Studies at
 Claremont Graduate University. During this conversation, Mason explains
 what initially drew him to this unique project, which represents a
 significant contribution to both southern religious history and Mormon
@@ -20,7 +20,7 @@ by Jews and Catholics. Mason also looks ahead, discussing future
 projects and sharing his thoughts on what Mitt Romney’s candidacy might
 mean for Mormons in the South and nationally.
 
-[^1]: Mason's book was [reviewed in volume 13] of the *JSR*.
+\[Mason's book was [reviewed in volume 13] of the *JSR*.\]
 
   [Art Remillard]: http://www.francis.edu/Remillard.htm
   [Patrick Mason]: http://www.claremontmormonstudies.org/hunter-chair/
