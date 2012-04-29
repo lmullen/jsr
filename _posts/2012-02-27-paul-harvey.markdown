@@ -1,7 +1,8 @@
 ---
 title: Interview with Paul Harvey
 layout: podcast
-category: podcast
+categories:
+- podcast
 author: Art Remillard
 podcast-filename: "jsr.ep001.paulharvey.mp3"
 podcast-filesize: 38696

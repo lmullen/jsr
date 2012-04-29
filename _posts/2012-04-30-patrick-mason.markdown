@@ -1,7 +1,8 @@
 ---
 title: Interview with Patrick Mason
 layout: podcast
-category: podcast
+categories:
+- podcast
 author: Art Remillard
 podcast-filename: "jsr.ep002.patrickmason.mp3"
 podcast-filesize: 36856

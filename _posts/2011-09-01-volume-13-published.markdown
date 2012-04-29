@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Volume 13 Published
-category: news
+categories:
+- blog
+- new-issue
 ---
 The editors are pleased to announce the publication of [Volume 13
 (2011)][] of the *Journal of Southern Religion*. Volume 13 features an
