@@ -28,7 +28,7 @@ layout: nil
 		<generator>Jekyll</generator>
 		<managingEditor>aremillard@francis.edu (Art Remillard)</managingEditor>
 		<webMaster>lincoln+jsr@lincolnmullen.com (Lincoln Mullen)</webMaster>
-		<atom:link href="{{site.url}}/podcast.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="{{site.url}}/itunes.xml" rel="self" type="application/rss+xml" />
 
 		{% for post in site.categories.podcast %}
 			<item>
