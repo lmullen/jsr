@@ -31,6 +31,17 @@ task :dev => [:devgenerate, :devdeploy] do
 	puts 'Generated and deployed the development site in one step.'
 end
 
+desc 'generate staging site'
+task :staginggenerate do
+	# builds the site using Jekyll
+	# Jekyll will get use URLs passed to command line
+	# Jekyll will take other configurations from _config.yml
+	puts 'Generating the staging site.'
+	Rake::Task["assets"].invoke
+	sh "jekyll --base-url http://staging.jsr.fsu.edu/ --url http://staging.jsr.fsu.edu --no-auto"
+	puts 'Successfully built staging site!'
+end
+
 desc 'preview site locally'
 task :preview do
 	# Generates the site locally, launches a server, auto regenerates
@@ -74,15 +85,4 @@ end
 desc 'update all assets'
 task :assets => [:img, :js, :css] do
 	puts 'Successfully updated all assets.'
-end
-
-desc 'generate staging site'
-task :staginggenerate do
-	# builds the site using Jekyll
-	# Jekyll will get use URLs passed to command line
-	# Jekyll will take other configurations from _config.yml
-	puts 'Generating the staging site.'
-	Rake::Task["assets"].invoke
-	sh "jekyll --base-url http://staging.jsr.fsu.edu/ --url http://staging.jsr.fsu.edu --no-auto"
-	puts 'Successfully built staging site!'
 end
