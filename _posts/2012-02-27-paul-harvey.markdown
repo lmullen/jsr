@@ -2,6 +2,7 @@
 title: Interview with Paul Harvey
 layout: podcast
 categories:
+- new-media
 - podcast
 author: Art Remillard
 podcast-filename: "jsr.ep001.paulharvey.mp3"
