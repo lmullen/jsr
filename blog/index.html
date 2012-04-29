@@ -1,0 +1,30 @@
+---
+title: JSR Blog
+layout: page
+---
+<p>The <em>Journal of Southern Religion</em> blog brings you posts about 
+the site, such as announcements of new issues and notes from the 
+editors. It will also feature posts relating to the study of religion in 
+the American South, as a supplement to the peer-reviewed content in the 
+journal proper.</p>
+
+<p><a href="{{site.all-posts-feed}}" class="btn btn-small"><i 
+		class="icon-rss"></i> Subscribe via RSS</a></p>
+
+<ul class="unstyled">
+	{% for post in site.categories.blog %}
+		<li>
+		<p>
+		<strong><a href="{{site.url}}{{post.url}}">{{post.title}}</a></strong><br/>
+		<span class="hanging">
+			{% if post.categories contains 'new-issue' %}
+				<span class="label label-important">New Issue</span>
+			{% elsif post.categories contains 'announcement' %}
+				<span class="label label-warning">Announcement</span>
+			{% endif %}
+			<small> <i class="icon-calendar"></i> {{ post.date | date: "%m/%d/%Y" }}</small>
+		</span>
+		</p>
+		</li>
+	{% endfor %}
+</ul>
