@@ -8,7 +8,7 @@ Arts at Auburn University."
 vol: 13
 year: 2011
 book-reviewed: "Alvin O. Turner. <em>L. W. Marks: A Baptist Progressive
-in Missouri and Oklahoma, 1862--1943.</em> Norman: Mongrel Empire Press, 2009. 237 pp. ISBN
+in Missouri and Oklahoma, 1862-1943.</em> Norman: Mongrel Empire Press, 2009. 237 pp. ISBN
 9780980168433."
 ---
 
