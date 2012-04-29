@@ -89,7 +89,7 @@
 			</script>
 
 			<!-- Load Flash audio player if the post is a podcast -->
-			{% if page.category == 'podcast' %}
+			{% if page.categories contains 'podcast' %}
 			<script type="text/javascript">  
 					$(document).ready(function(){
 						AudioPlayer.setup("{{site.baseurl}}assets/audio-player/player.swf", {  
