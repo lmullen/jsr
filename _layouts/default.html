@@ -4,8 +4,11 @@
 		<!-- Generated: {{site.time}} -->
 		<meta name="generator" content="Jekyll">
 		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<!-- TODO add meta data -->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		{% if page.url == '/index.html' %}
+		<meta name="description" content="The Journal of Southern 
+		Religion is a peer-reviewed, open-access scholarly journal devoted to the study of religion in the American South." />
+		{% endif %}
 		<title>The Journal of Southern Religion &middot; {{ page.title }}</title>
 
 		<!-- Bootstrap stylesheets -->
