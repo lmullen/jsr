@@ -75,7 +75,7 @@ end
 desc 'assemble Bootstrap and other Javascripts'
 task :js do
 	# concatenate just the scripts that we need 
-	sh 'cat ./_bootstrap/js/bootstrap-dropdown.js ./_bootstrap/js/bootstrap-collapse.js ./_bootstrap/js/bootstrap-tooltip.js ./_bootstrap/js/bootstrap-modal.js ./_bootstrap/js/bootstrap-transition.js ./_source/assets/audio-player/audio-player.js ./_footnotify/footnotify.js > ./_bootstrap/jsr.tmp.js'
+	sh 'cat ./_bootstrap/js/bootstrap-dropdown.js ./_bootstrap/js/bootstrap-collapse.js ./_bootstrap/js/bootstrap-tooltip.js ./_source/assets/audio-player/audio-player.js ./_footnotify/footnotify.js > ./_bootstrap/jsr.tmp.js'
 	# compress the JavaScript and copy it to our js directory
 	sh 'uglifyjs -nc ./_bootstrap/jsr.tmp.js > ./_source/assets/js/jsr.min.js'
 	# remove the temporary file
