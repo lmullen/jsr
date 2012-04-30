@@ -14,6 +14,7 @@ task :devgenerate do
 	puts 'Generating the development site.'
 	Rake::Task["assets"].invoke
 	sh "jekyll --base-url http://lincolnmullen.com/dev/jsr/ --url http://lincolnmullen.com/dev/jsr --no-auto"
+	Rake::Task["tidy"].invoke
 	puts 'Successfully built site!'
 end
 
@@ -39,6 +40,7 @@ task :staginggenerate do
 	puts 'Generating the staging site.'
 	Rake::Task["assets"].invoke
 	sh "jekyll --base-url http://staging.jsr.fsu.edu/ --url http://staging.jsr.fsu.edu --no-auto"
+	Rake::Task["tidy"].invoke
 	puts 'Successfully built staging site!'
 end
 
@@ -50,6 +52,7 @@ task :production_generate do
 	puts 'Generating the production site.'
 	Rake::Task["assets"].invoke
 	sh "jekyll --base-url http://jsr.fsu.edu/ --url http://jsr.fsu.edu --no-auto"
+	Rake::Task["tidy"].invoke
 	puts 'Successfully built production site!'
 end
 
@@ -96,4 +99,11 @@ end
 desc 'update all assets'
 task :assets => [:img, :js, :css] do
 	puts 'Successfully updated all assets.'
+end
+
+desc 'tidy HTML in _site'
+task :tidy do
+	puts 'Tidying the HTML in _site/.'
+	sh 'find ./_site/ -type f -name "*.html" -exec tidy -config _tidy.config -modify -i {} \;'
+	puts 'Done tidying.'
 end
