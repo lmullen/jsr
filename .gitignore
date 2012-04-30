@@ -6,6 +6,8 @@ _plugins/*
 _site/*
 _site/css/main.css
 _site/index.html
+_source/assets/mediaelement/
+_source/assets/mediaelement/*
 _working/
 _working/*
 assets/css/bootstrap-responsive.min.css
@@ -14,5 +16,4 @@ assets/img/glyphicons-halflings-white.png
 assets/img/glyphicons-halflings.png
 assets/js/bootstrap.min.js
 assets/js/jsr.min.js
-
 tidy-errs.txt

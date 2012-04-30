@@ -13,7 +13,7 @@ layout: default
 	<div class="span3 offset1 article-metadata"> <!-- metadata column -->
 		<hr />
 		<h3>{{page.author}}</h3>
-		{% if page.author-note != '' %}
+		{% if page.author-note %}
 			<p>{{page.author-note}}</p>
 		{% endif %}
 		<p class="post-date">{{ page.date | date_to_long_string }}</p>
@@ -34,7 +34,7 @@ layout: default
 		<p id="audio-player_{{page.podcast-filename}}">
 		<audio controls="controls">
 		<source src="{{site.baseurl}}assets/podcast/{{page.podcast-filename}}" type="audio/mpeg" />
-		Your browser does not supports neither Flash or embedded 
+		Your browser supports neither Flash nor embedded 
 		audio. Please download the <a 
 			href="{{site.baseurl}}assets/podcast/{{page.podcast-filename}}">.mp3</a> instead.
 		</audio> 
