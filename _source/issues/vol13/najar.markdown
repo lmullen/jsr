@@ -151,8 +151,8 @@ statistics, this method was appealing when I was faced with sorting the
 overwhelming mass of data contained in church books. Numbers had an
 authoritative appeal. They seemed to speak differently than the
 qualitative sources that I was accustomed to as an early Americanist. 
- ^
-^But that ultimately proved the most challenging part of the research,
+
+But that ultimately proved the most challenging part of the research,
 an aspect I am not sure I would repeat again. Numbers have the
 appearance of neutrality, but only by hiding a number of judgment calls.
 In order to assemble meaningful categories of sins (fighting, fraud,
