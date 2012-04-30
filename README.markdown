@@ -7,6 +7,11 @@ other libraries, notably
 [Bootstrap](http://twitter.github.com/bootstrap/) and
 [Footnotify](http://openideas.ideon.co/2011/footnotify-0-6-5-released).
 
+## Branches
+
+The `master` branch contains the development version, while the
+`production` branch contains the version of the site that is live.
+
 ## License
 
 The markup and code for this site is copyrighted by Lincoln Mullen, and licensed
@@ -27,5 +32,5 @@ respective licenses.
 ## Contact
 
 Lincoln Mullen  
-Web Editor, *JSR*  
+Web Editor, *Journal of Southern Religion*  
 [lincoln+jsr@lincolnmullen.com](mailto:lincoln+jsr@lincolnmullen.com)
