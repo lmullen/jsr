@@ -75,9 +75,9 @@ end
 desc 'assemble Bootstrap and other Javascripts'
 task :js do
 	# concatenate just the scripts that we need 
-	sh 'cat ./_bootstrap/js/bootstrap-dropdown.js ./_bootstrap/js/bootstrap-collapse.js ./_bootstrap/js/bootstrap-tooltip.js ./_bootstrap/js/bootstrap-modal.js ./_bootstrap/js/bootstrap-transition.js ./assets/audio-player/audio-player.js ./assets/js/footnotify.js > ./_bootstrap/jsr.tmp.js'
+	sh 'cat ./_bootstrap/js/bootstrap-dropdown.js ./_bootstrap/js/bootstrap-collapse.js ./_bootstrap/js/bootstrap-tooltip.js ./_bootstrap/js/bootstrap-modal.js ./_bootstrap/js/bootstrap-transition.js ./_source/assets/audio-player/audio-player.js ./_footnotify/footnotify.js > ./_bootstrap/jsr.tmp.js'
 	# compress the JavaScript and copy it to our js directory
-	sh 'uglifyjs -nc ./_bootstrap/jsr.tmp.js > ./assets/js/jsr.min.js'
+	sh 'uglifyjs -nc ./_bootstrap/jsr.tmp.js > ./_source/assets/js/jsr.min.js'
 	# remove the temporary file
 	sh 'rm ./_bootstrap/jsr.tmp.js'
 end
@@ -85,15 +85,15 @@ end
 desc 'copy images'
 task :img do
 	# copy the Bootstrap images to our image directory
-	sh 'cp ./_bootstrap/img/* ./assets/img/'
+	sh 'cp ./_bootstrap/img/* ./_source/assets/img/'
 end
 
 desc 'compile CSS from LESS '
 task :css do
 	# compile, compress, and copy main Bootstrap CSS
-	sh 'lessc --compress ./_bootstrap/less/bootstrap.less > ./assets/css/bootstrap.min.css'
+	sh 'lessc --compress ./_bootstrap/less/bootstrap.less > ./_source/assets/css/bootstrap.min.css'
 	# compile, compress, and copy responsive layout CSS
-	sh 'lessc --compress ./_bootstrap/less/responsive.less > ./assets/css/bootstrap-responsive.min.css'
+	sh 'lessc --compress ./_bootstrap/less/responsive.less > ./_source/assets/css/bootstrap-responsive.min.css'
 end
 
 desc 'update all assets'

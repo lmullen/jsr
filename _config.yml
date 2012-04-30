@@ -18,7 +18,7 @@ facebook-link: http://www.facebook.com/pages/Journal-of-Southern-Religion/197375
 email-subscribe-standalone: http://eepurl.com/llKWT
 
 # Generation
-source: .
+source: ./_source
 destination: ./_site
 plugins: ./_plugins
 exclude: _working/, Rakefile, _bootstrap/, _backups/
