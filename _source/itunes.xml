@@ -26,7 +26,7 @@ layout: nil
 		<pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
 		<lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
 		<generator>Jekyll</generator>
-		<managingEditor>aremillard@francis.edu (Art Remillard)</managingEditor>
+		<managingEditor>lincoln+jsr@lincolnmullen.com (Lincoln Mullen)</managingEditor>
 		<webMaster>lincoln+jsr@lincolnmullen.com (Lincoln Mullen)</webMaster>
 		<atom:link href="{{site.url}}/itunes.xml" rel="self" type="application/rss+xml" />
 		{% for post in site.categories.podcast %}
