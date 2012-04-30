@@ -72,41 +72,41 @@
 					</div>
 				</div> <!-- end div#container -->
 
-			<!-- scripts placed at the end so the content loads faster -->
-			<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-			<script src="{{site.baseurl}}assets/js/jsr.min.js"></script>
+<!-- scripts placed at the end so the content loads faster -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script src="{{site.baseurl}}assets/js/jsr.min.js"></script>
 
-			<!-- activate Bootstrap jQuery functions -->
-			<script type="text/javascript">
-				$(document).ready(function() {
-						//turn on tooltips
-						$("[rel=tooltip]").tooltip();
-						//make e-mail subscribe a modal, and hide it
-						$("#email-subscribe").modal({
-							show: false
-							});
-					});
-			</script>
+<!-- activate Bootstrap jQuery functions -->
+<script type="text/javascript">
+	$(document).ready(function() {
+			//turn on tooltips
+			$("[rel=tooltip]").tooltip();
+			//make e-mail subscribe a modal, and hide it
+			$("#email-subscribe").modal({
+				show: false
+				});
+		});
+</script>
 
-			<!-- Load Flash audio player if the post is a podcast -->
-			{% if page.categories contains 'podcast' %}
-			<script type="text/javascript">  
-					$(document).ready(function(){
-						AudioPlayer.setup("{{site.baseurl}}assets/audio-player/player.swf", {  
-							width: 400  
-							});  
-						AudioPlayer.embed("audio-player_{{page.podcast-filename}}", {soundFile: "{{site.baseurl}}assets/podcast/{{page.podcast-filename}}"});
-						});
-			</script>  
-			{% endif %}
+<!-- Load Flash audio player if the post is a podcast -->
+{% if page.categories contains 'podcast' %}
+<script type="text/javascript">  
+	$(document).ready(function(){
+		AudioPlayer.setup("{{site.baseurl}}assets/audio-player/player.swf", {  
+			width: 400  
+			});  
+		AudioPlayer.embed("audio-player_{{page.podcast-filename}}", {soundFile: "{{site.baseurl}}assets/podcast/{{page.podcast-filename}}"});
+		});
+</script>  
+{% endif %}
 
-			<!-- sharing service script -->
-			{% include share-code.html %} 
+<!-- sharing service script -->
+{% include share-code.html %} 
 
-			<!-- Google Analytics script -->
-			{% include google-analytics.html %}
+<!-- Google Analytics script -->
+{% include google-analytics.html %}
 
-			<!-- email subscribe modal box -->
-			{% include email-modal.html %}
+<!-- email subscribe modal box -->
+{% include email-modal.html %}
 			</body>
 		</html>
