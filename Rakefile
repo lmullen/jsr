@@ -7,7 +7,7 @@ end
 
 #generate and deploy tasks
 desc 'build development site using Jekyll'
-task :devgenerate do
+task :dev_gen do
 	# builds the site using Jekyll
 	# Jekyll will get use URLs passed to command line
 	# Jekyll will take other configurations from _config.yml
@@ -19,7 +19,7 @@ task :devgenerate do
 end
 
 desc 'deploy development site with rsync'
-task :devdeploy do
+task :dev_deploy do
 	# uploads preview version via SSH and rsync
 	# does NOT delete other files on the server
 	puts 'Deploying dev preview to <lincolnmullen.com/dev/jsr/> with rsync.'
@@ -28,12 +28,12 @@ task :devdeploy do
 end
 
 desc 'generate and deploy the development site'
-task :dev => [:devgenerate, :devdeploy] do
+task :dev => [:dev_gen, :dev_deploy] do
 	puts 'Generated and deployed the development site in one step.'
 end
 
 desc 'generate staging site'
-task :staginggenerate do
+task :staging_gen do
 	# builds the site using Jekyll
 	# Jekyll will get use URLs passed to command line
 	# Jekyll will take other configurations from _config.yml
@@ -45,7 +45,7 @@ task :staginggenerate do
 end
 
 desc 'generate production site'
-task :production_generate do
+task :production_gen do
 	# builds the site using Jekyll
 	# Jekyll will get use URLs passed to command line
 	# Jekyll will take other configurations from _config.yml
