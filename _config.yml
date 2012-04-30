@@ -11,7 +11,7 @@ disqus_developer: 0      # 1 for dev site; 0 for live site
 google_analytics_id: UA-31135305-1
 github-repo: https://github.com/lmullen/jsr
 podcast-feed: http://feeds.feedburner.com/JSR-podcast       #link to Feedburner podcast feed
-podcast-itunes: http://feeds.feedburner.com/JSR-podcast     #link to iTunes store
+podcast-itunes: http://itunes.apple.com/us/podcast/journal-southern-religion/id523508035  #link to iTunes store
 all-posts-feed: http://feeds.feedburner.com/JSR-all         #link to Feedburner all posts feed
 twitter-link: https://twitter.com/#!/jsreligion
 facebook-link: http://www.facebook.com/pages/Journal-of-Southern-Religion/197375710340300
