@@ -2,6 +2,8 @@
 layout: article
 title: "Recovering the Class-Conscious New South"
 author: "John Hayes"
+author-first: John
+author-last: Hayes
 author-note: "John Hayes is an assistant professor of history at Augusta
 State University"
 vol: 13

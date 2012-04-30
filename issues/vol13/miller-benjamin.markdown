@@ -2,6 +2,8 @@
 layout: article
 title: "Review: Jews and the Civil War"
 author: "Benjamin L. Miller"
+author-first: Benjamin L.
+author-last: Miller
 author-note: "Benjamin L. Miller is a doctoral candidate in history at
 the University of Florida."
 vol: 13

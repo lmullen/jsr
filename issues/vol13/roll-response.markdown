@@ -2,6 +2,8 @@
 layout: article
 title: "Response to Roundtable on Class"
 author: "Jarod Roll"
+author-first: Jarod
+author-last: Roll
 author-note: "Jarod Roll is a lecturer in American history at the
 University of Sussex."
 vol: 13

@@ -3,6 +3,8 @@ layout: article
 title: "Review: Christian Ritual and the Creation of British Slave
 Societies"
 author: "Joshua Owens"
+author-first: Joshua
+author-last: Owens
 author-note: "Joshua Owens is Assistant Directory of Institutional
 Assessment at Liberty University."
 vol: 13

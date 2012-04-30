@@ -2,6 +2,8 @@
 layout: article
 title: "Review: God's Own Party"
 author: "Mark Silk"
+author-first: Mark
+author-last: Silk
 author-note: "Mark Silk is Professor of Religion and Public Life at
 Trinity University."
 vol: 13

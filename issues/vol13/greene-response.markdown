@@ -2,6 +2,8 @@
 layout: article
 title: "Response to Roundtable on Class"
 author: "Alison Collis Greene"
+author-first: Alison Collis
+author-last: Greene
 author-note: "Alison Collis Greene is an assistant professor of history
 at Mississippi State University."
 vol: 13

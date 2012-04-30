@@ -3,6 +3,8 @@ layout: article
 title: "Review: Jimmy Carter, the Politics of Family, and the Rise of
 the Religious Right"
 author: "Steven P. Miller"
+author-first: Steven P.
+author-last: Miller
 author-note: "Steven P. Miller is an adjunct associate professor of
 history at Webster University."
 vol: 13

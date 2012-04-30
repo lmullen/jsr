@@ -2,6 +2,8 @@
 layout: article
 title: "Review: New Studies in the History of American Slavery"
 author: "Monica C. Reed"
+author-first: Reed
+author-last: Monica C.
 author-note: "Monica C. Reed is a doctoral candidate in religion at
 Florida State University."
 vol: 13

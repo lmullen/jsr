@@ -2,6 +2,8 @@
 layout: article
 title: "Review: Billy Graham and the Rise of the Republican South"
 author: "Merrill Hawkins Jr."
+author-first: Merrill
+author-last: Hawkins Jr.
 author-note: "Merrill Hawkins Jr. is an associate professor of religion
 at Carson-Newman College."
 vol: 13

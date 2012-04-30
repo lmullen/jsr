@@ -2,6 +2,8 @@
 layout: article
 title: "Review: Spirit of Rebellion"
 author: Lauren Beaupre
+author-first: Lauren
+author-last: Beaupre
 author-note: "Lauren Beaupre is a doctoral student in history at the
 University of Notre Dame."
 vol: 13

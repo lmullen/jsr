@@ -2,6 +2,8 @@
 layout: article
 title: "Review: Black Manhood and Community Building in North Carolina"
 author: "James Hill Welborn III"
+author-first: James Hill
+author-last: Welborn III
 author-note: "James Hill Welborn III is a doctoral candidate in history
 at the University of Georgia."
 vol: 13

@@ -2,6 +2,8 @@
 layout: article
 title: "Review: God's Own Party"
 author: Darren Dochuk
+author-first: Darren
+author-last: Dochuk
 author-note: "Darren Dochuk is an associate professor of history at
 Purdue University."
 vol: 13

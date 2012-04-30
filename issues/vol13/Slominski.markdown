@@ -2,6 +2,8 @@
 layout: article
 title: "Review: Redeeming the Southern Family"
 author: "Kristy L. Slominski"
+author-first: Kristy L.
+author-last: Slominski
 author-note: "Kristy L. Slominski is a doctoral student in religious
 studies at the University of California at Santa Barbara."
 vol: 13

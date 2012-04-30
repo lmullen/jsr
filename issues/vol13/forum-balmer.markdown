@@ -2,6 +2,8 @@
 layout: article
 title: "Review: God's Own Party"
 author: "Randall Balmer"
+author-first: Randall
+author-last: Balmer
 author-note: "Randall Balmer is a professor of religion at Columbia
 University."
 vol: 13

@@ -3,6 +3,8 @@ layout: article
 title: "Review: Virginia Broughton: The Life and Writings of a National
 Baptist Missionary"
 author: "Kimberly D. Hill"
+author-first: Kimberly D.
+author-last: Hill
 author-note: "Kimberly D. Hill is an assistant professor of history at
 Del Mar College."
 vol: 13

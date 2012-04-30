@@ -2,6 +2,8 @@
 layout: article
 title: "Review: Other Souths"
 author: "Wesley G. Phelps"
+author-first: Wesley G.
+author-last: Phelps
 author-note: "Wesley G. Phelps is a visiting assistant professor of
 history at Sam Houston State University."
 vol: 13

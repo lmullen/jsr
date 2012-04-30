@@ -3,6 +3,8 @@ layout: article
 title: "Review: Wingless Chickens, Bayou Catholics, and Pilgrim
 Wayfarers"
 author: Stephanie Bilinsky
+author-first: Stephanie
+author-last: Bilinsky
 author-note: "Stephanie Bilinsky is a doctoral student in religious
 studies at Arizona State University."
 vol: 13

@@ -2,6 +2,8 @@
 layout: article
 title: "Review: The Varieties of Women's Experiences"
 author: Rebecca Sharpless
+author-first: Rebecca
+author-last: Sharpless
 author-note: "Rebecca Sharpless is an associate professor of history at
 Texas Christian University."
 vol: 13

@@ -2,6 +2,8 @@
 layout: article
 title: "Review: In Black and White"
 author: Michele Gillespie
+author-first: Michele
+author-last: Gillespie
 author-note: "Michele Gillespie is an associate professor of history at
 Wake Forest University."
 vol: 13

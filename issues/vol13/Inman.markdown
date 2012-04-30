@@ -2,6 +2,8 @@
 layout: article
 title: "Review: Family Values in the Old South"
 author: "Natalie Inman"
+author-first: Natalie
+author-last: Inman
 author-note: "Natalie Inman is an assistant professor of history at
 Cumberland University."
 vol: 13

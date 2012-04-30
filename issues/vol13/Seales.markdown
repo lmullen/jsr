@@ -1,7 +1,9 @@
 ---
 layout: article
-title: "An Old Love for New Things: Southern Baptists  and the Modern Technology of Indoor Baptisteries"
+title: "An Old Love for New Things: Southern Baptists and the Modern Technology of Indoor Baptisteries"
 author: "Chad E. Seales"
+author-last: "Seales"
+author-first: "Chad E."
 author-note: "Chad E. Seales is an assistant professor of religious
 studies at the University of Texas at Austin."
 vol: 13

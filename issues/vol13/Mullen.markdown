@@ -2,6 +2,8 @@
 layout: article
 title: "Review: Evangelism and Resistance in the Black Atlantic"
 author: "Lincoln A. Mullen"
+author-first: Lincoln A.
+author-last: Mullen
 author-note: "Lincoln A. Mullen is a PhD candidate at Brandeis
 University."
 vol: 13

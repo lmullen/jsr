@@ -2,6 +2,8 @@
 layout: article
 title: "Review: God Speaks to Us, Too"
 author: "Melody Maxwell"
+author-first: Melody
+author-last: Maxwell
 author-note: "Melody Maxwell earned her PhD from International Baptist
 Theological Seminary."
 vol: 13

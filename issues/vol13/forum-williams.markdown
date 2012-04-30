@@ -2,6 +2,8 @@
 layout: article
 title: "Response to Forum Reviews of God's Own Party"
 author: "Daniel K. Williams"
+author-first: Daniel K.
+author-last: Williams
 author-note: "Daniel K. Williams is an assistant professor of history at
 the University of West Georgia, and the author of <em>God's Own
 Party</em> (2010)."

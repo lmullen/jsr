@@ -2,6 +2,8 @@
 layout: article
 title: "The Work of Class in Southern Religion"
 author: "Richard J. Callahan Jr."
+author-first: Richard J.
+author-last: Callahan Jr.
 author-note: "Richard J. Callanhan Jr. is an associate professor of
 religious studies at the University of Missouri-Columbia."
 vol: 13

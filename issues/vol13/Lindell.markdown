@@ -2,6 +2,8 @@
 layout: article
 title: "Review: The Mormon Menace"
 author: Jennifer Lindell
+author-first: Jennifer
+author-last: Lindell
 author-note: "Jennifer Lindell is an MA student in history at San Diego
 State University."
 vol: 13

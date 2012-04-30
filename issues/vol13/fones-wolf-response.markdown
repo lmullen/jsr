@@ -2,6 +2,8 @@
 layout: article
 title: "Response to Roundtable on Class"
 author: "Ken Fones-Wolf"
+author-first: Ken
+author-last: Fones-Wolf
 author-note: "Ken Fones-Wolf is professor of history at West Virginia University."
 vol: 13
 year: 2011

@@ -2,6 +2,8 @@
 layout: article
 title: "Review: God's Almost Chosen Peoples"
 author: Jonathan Ebel
+author-first: Jonathan
+author-last: Ebel
 author-note: "Jonathan Ebel is an assistant professor of religion at the
 University of Illinois."
 vol: 13

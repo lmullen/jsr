@@ -3,6 +3,8 @@ layout: article
 title: "Review: L. W. Marks: A Baptist Progressive in Missouri and
 Oklahoma"
 author: "Mark Wilson"
+author-first: Mark
+author-last: Wilson
 author-note: "Mark Wilson is the Coordinator of the College of Liberal
 Arts at Auburn University."
 vol: 13

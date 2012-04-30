@@ -2,6 +2,8 @@
 layout: article
 title: "Review: Flashes of a Southern Spirit"
 author: Amanda Porterfield
+author-first: Amanda
+author-last: Porterfield
 author-note: "Amanda Porterfield is a professor of religion at Florida
 State University."
 vol: 13

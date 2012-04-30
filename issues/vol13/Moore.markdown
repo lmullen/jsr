@@ -2,6 +2,8 @@
 layout: article
 title: "Review: Slavery, Civil War, and Salvation"
 author: "Joseph S. Moore"
+author-first: Joseph S.
+author-last: Moore
 author-note: "Joseph S. Moore is an assistant professor of history at
 Gardner-Webb University."
 vol: 13

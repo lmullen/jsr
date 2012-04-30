@@ -2,6 +2,8 @@
 layout: article
 title: "Review: George F. Root: Civil War Songwriter"
 author: Ralph Hartsock
+author-first: Ralph
+author-last: Hartsock
 author-note: "Ralph Hartsock is the senior music cataloger at the Music
 Library of the University of North Texas."
 vol: 13

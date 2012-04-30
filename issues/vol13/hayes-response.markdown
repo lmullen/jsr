@@ -2,6 +2,8 @@
 layout: article
 title: "Response to Roundtable on Class"
 author: "John Hayes"
+author-first: John
+author-last: Hayes
 author-note: "John Hayes is an assistant professor of history at Augusta
 State University."
 vol: 13

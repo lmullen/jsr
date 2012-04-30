@@ -2,6 +2,8 @@
 layout: article
 title: "Embedding Class among the Troops Who Study Southern Religion"
 author: "Ken Fones-Wolf"
+author-last: "Fones-Wolf"
+author-first: "Ken"
 author-note: "Ken Fones-Wolf is professor of history at West Virginia University."
 vol: 13
 year: 2011

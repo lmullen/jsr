@@ -2,6 +2,8 @@
 layout: article
 title: "Review: Lynching and Spectacle"
 author: "Lynn S. Neal"
+author-first: Lynn S.
+author-last: Neal
 author-note: "Lynn S. Neal is an associate professor of religion at Wake
 Forest University."
 vol: 13

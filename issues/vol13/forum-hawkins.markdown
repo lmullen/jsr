@@ -2,6 +2,8 @@
 layout: article
 title: "Review: God's Own Party"
 author: "J. Russell Hawkins"
+author-first: J. Russell
+author-last: Hawkins
 author-note: "J. Russell Hawkins is a teaching postdoctoral fellow at
 Indiana Wesleyan University."
 vol: 13

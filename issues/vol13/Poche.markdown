@@ -2,6 +2,8 @@
 layout: article
 title: "Review: Toward Freedom Land"
 author: Justin Poché
+author-first: Justin
+author-last: Poché
 author-note: "Justin Poché is an assistant professor of history at
 the College of the Holy Cross."
 vol: 13

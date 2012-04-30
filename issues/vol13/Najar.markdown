@@ -2,6 +2,8 @@
 layout: article
 title: "The Devil's in the Details: Revisiting the Early Baptist South"
 author: "Monica Najar"
+author-first: Monica
+author-last: Najar
 author-note: "Monica Najar is an associate professor of history at
 Lehigh University, and the author of <em>Evangelizing the South: A
 Social History of Church and State</em> (2007)."

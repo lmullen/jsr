@@ -2,6 +2,8 @@
 layout: article
 title: "Response to Roundtable on Class"
 author: "Richard J. Callahan Jr."
+author-first: "richard j."
+author-last: "callahan jr."
 author-note: "Richard J. Callanhan Jr. is an associate professor of
 religious studies at the University of Missouri-Columbia."
 vol: 13
