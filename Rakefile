@@ -56,6 +56,17 @@ task :production_gen do
 	puts 'Successfully built production site!'
 end
 
+desc 'copy production site to synced directory'
+task :production_deploy do
+	# copies the generated site to the local copy of webdav server
+	sh "cp _site/* ../jsr-production/"
+end
+
+desc 'generate and deploy the production site'
+task :dev => [:production_gen, :production_deploy] do
+	puts 'Generated and deployed the production site in one step.'
+end
+
 desc 'preview site locally'
 task :preview do
 	# Generates the site locally, launches a server, auto regenerates
