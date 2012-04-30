@@ -14,7 +14,7 @@ layout: nil
 			<itunes:name>Journal of Southern Religion</itunes:name>
 			<itunes:email>lincoln+jsr@lincolnmullen.com</itunes:email>
 		</itunes:owner>
-		<itunes:image href="{{site.url}}/assets/img/jsr.podcast.logo.jpg" />
+		<itunes:image href="{{site.url}}/assets/img/jsr.logo.podcast.jpg" />
 		<itunes:category text="Religion &amp; Spirituality">
 		</itunes:category>
 		<itunes:category text="Society &amp; Culture">
