@@ -96,8 +96,14 @@ task :css do
 	sh 'lessc --compress ./_bootstrap/less/responsive.less > ./_source/assets/css/bootstrap-responsive.min.css'
 end
 
+desc 'copy necessary mediaelement files'
+task :mediaelement do
+	# copy the build directory
+	sh 'cp -R _mediaelement/build _source/assets/mediaelement'
+end
+
 desc 'update all assets'
-task :assets => [:img, :js, :css] do
+task :assets => [:img, :js, :css, :mediaelement] do
 	puts 'Successfully updated all assets.'
 end
 
