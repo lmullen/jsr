@@ -8,8 +8,7 @@ site generator." The code for the website is [hosted at GitHub][].
 
 The site was designed using the [Bootstrap][] HTML, CSS, and Javascript
 framework from Twitter. Footnotes displayed in a lightbox are provided by [Footnotify][]. 
-The Flash MP3 player for the podcast is provided by the [WordPress Audio
-Player][]. Both use [jQuery][].
+The audio player for the podcast is provided by [MediaElement.js][]. Both use [jQuery][].
 
 Designed and hand-coded in [Vim][] by [Lincoln Mullen][].
 
@@ -21,3 +20,4 @@ Designed and hand-coded in [Vim][] by [Lincoln Mullen][].
   [Vim]: http://www.vim.org/
   [Lincoln Mullen]: http://lincolnmullen.com
   [jQuery]: http://jquery.com/
+  [MediaElement.js]: http://mediaelementjs.com/
