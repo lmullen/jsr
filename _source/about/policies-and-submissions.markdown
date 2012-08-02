@@ -28,15 +28,34 @@ following topics:
 Scholars desiring to submit their research to JSR should read the
 submissions policy.
 
-## Copyright
+## Open Access and Copyright
 
-All material appearing in JSR is copyrighted and all rights are
-reserved. Individuals may download and print materials appearing in JSR
-for their own private educational use; otherwise, articles, essays,
-images, and all other materials located at the JSR web site cannot be
-duplicated or reproduced by any means (electronic or print) without
-prior written authorization from the editors and the Association for the
-Study of Southern Religion.
+The *Journal of Southern Religion* is an open-access publication. You
+are encouraged to make use of the materials published in the JSR in your
+scholarship and teaching. 
+
+All materials are &copy; copyright Association for the Study of Southern
+Religion, 1998--2012. All articles, book reviews, podcasts, and other
+material are licensed under a <a rel="license"
+href="http://creativecommons.org/licenses/by/3.0/deed.en_US">Creative
+Commons Attribution 3.0 Unported License</a>.
+
+<p><a rel="license"
+href="http://creativecommons.org/licenses/by/3.0/deed.en_US"><img
+alt="Creative Commons License" style="border-width:0"
+src="http://i.creativecommons.org/l/by/3.0/88x31.png" /></a></p>
+
+This license grants you permission to use the material published in the
+journal as you see fit, for example, in course packs, on course
+websites, and in quotations in other scholarly works. In return, you
+must cite the *JSR* wherever you use its contents. The citation must
+include all relevant bibliographic information, as well as a URL
+pointing to the content. See the sample citations below. Your citation
+may not imply that the JSR endorses or has published your derivative
+content. 
+
+The grant of these open-access permissions does not remove your
+professional obligation concerning proper use, citation, and plagiarism.
 
 ## Citing the JSR
 
@@ -74,14 +93,15 @@ by members of the editorial board and their designees. Electronic
 submissions are preferred. Please submit via email to both of the editors.
 
 -	Michael Pasquier, [mpasquier@lsu.edu](mailto:mpasquier@lsu.edu)
--	Luke Harlow, [harlow@oakland.edu](mailto:harlow@oakland.edu)
+-	Luke Harlow, [lharlow1@utk.edu](mailto:lharlow1@utk.edu)
 
 Authors wishing to submit paper manuscripts should contact the editors,
 after which they may send three double-spaced copies to:
 
 > Luke Harlow, editor, Journal of Southern Religion  
 > Department of History  
-> Oakland University Rochester, MI 48309
+> University of Kentucky, Knoxville  
+> Knoxville, Tennessee 37996
 
 and
 
@@ -204,27 +224,6 @@ Please supply publication dates of any books mentioned in the review.
 Please proofread the text of the review carefully.
 
 Questions should be directed to the book review editor. 
-
-
-### Book Review Copyright
-
-reviews commissioned by the Journal of Southern Religion are the
-exclusive property of the Journal. Reviews are considered a work
-made-for-hire, and, as such, all copyright rights to the review shall be
-owned by and be in the name of the Association for the Study of Southern
-Religion (ASSR). ASSR in turn grants all review authors the right to
-reprint their reviews in any format that they choose, without the
-payment of royalties, subject to giving proper credit to the original
-publication with the Journal of Southern Religion. ASSR also permits its
-reviews to be copied for non-profit educational use provided proper
-credit is given to the review author and the Journal.
-
-All reviews will carry the following copyright statement:
-
-> Copyright © 1997-20 by the Journal of Southern Religion, all rights
-> reserved. This work may be copied for non-profit educational use if
-> proper credit is given to the author and the Journal of Southern
-> Religion. For other permission, please contact the book review editor.
 
 ### Status of Electronic Reviews
 
