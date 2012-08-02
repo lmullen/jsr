@@ -2,10 +2,9 @@
 layout: article
 title: "Review: The Making of Evangelicalism"
 author: Darren Dochuk
-author-note: "Darren Dochuk is an associate professor of history at
+author-note: "Darren Dochuk is an associate professor of history at Purdue University."
 author-first: Darren
 author-last: Dochuk
-Purdue University."
 vol: 13
 year: 2011
 book-reviewed: "Randall Balmer. <em>The Making of Evangelicalism: From Revivalism to
