@@ -100,7 +100,7 @@ after which they may send three double-spaced copies to:
 
 > Luke Harlow, editor, Journal of Southern Religion  
 > Department of History  
-> University of Kentucky, Knoxville  
+> University of Tennessee, Knoxville  
 > Knoxville, Tennessee 37996
 
 and
