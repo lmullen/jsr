@@ -2,10 +2,9 @@
 layout: article
 title: "Review: Work and Faith in the Kentucky Coal Fields"
 author: Heath Carter
-author-note: "Heath Carter is a doctoral candidate in history at the
+author-note: "Heath Carter is a doctoral candidate in history at the University of Notre Dame."
 author-first: Heath
 author-last: Carter
-University of Notre Dame."
 vol: 13
 year: 2011
 book-reviewed: "Richard J. Callahan, Jr. <em>Work and Faith in the Kentucky Coal Fields:

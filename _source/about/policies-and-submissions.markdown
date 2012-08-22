@@ -5,38 +5,57 @@ title: Editorial Policies and Submission Guidelines
 
 ## Overview
 
-The Journal of Southern Religion is a fully peer-reviewed academic
+The *Journal of Southern Religion* is a fully peer-reviewed academic
 journal reflecting the best traditions of objective and critical
 scholarship in the study of religion. As an interdisciplinary venture,
 the editors invite submissions from historians, religionists,
 anthropologists, sociologists, and other interested scholars. The
-journal welcomes submissions on all aspects of Southern Religion but is
+journal welcomes submissions on all aspects of southern religion but is
 especially interested in publishing manuscripts that address the
 following topics:
 
--   Regionalism in Southern Religion, e.g., Appalachia, the Gulf Coast,
-    South Florida and the Caribbean
--   religious aspects of Southern culture, e.g., religion and cuisine,
-    music, and Southern literature
--   Southern civil religion
+-   Regionalism in southern religion, e.g., Appalachia, the Gulf Coast,
+    south Florida and the Caribbean
+-   religious aspects of southern culture, e.g., religion and cuisine,
+    music, and southern literature
+-   southern civil religion
 -   local and folk religions, including ethnographic studies of
     congregations and parishes
 -   ethnicity including immigration and slave religions
 -   religion and race, class, disability, and gender issues in the
     South.
 
-Scholars desiring to submit their research to JSR should read the
+Scholars desiring to submit their research to the journal should read the
 submissions policy.
 
-## Copyright
+## Open Access and Copyright
 
-All material appearing in JSR is copyrighted and all rights are
-reserved. Individuals may download and print materials appearing in JSR
-for their own private educational use; otherwise, articles, essays,
-images, and all other materials located at the JSR web site cannot be
-duplicated or reproduced by any means (electronic or print) without
-prior written authorization from the editors and the Association for the
-Study of Southern Religion.
+The *Journal of Southern Religion* is an open-access publication. You
+are encouraged to make use of the materials published in the *JSR* in your
+scholarship and teaching. 
+
+All materials are &copy; copyright Association for the Study of Southern
+Religion, 1998--2012. All articles, book reviews, podcasts, and other
+material are licensed under a <a rel="license"
+href="http://creativecommons.org/licenses/by/3.0/deed.en_US">Creative
+Commons Attribution 3.0 Unported License</a>.
+
+<p><a rel="license"
+href="http://creativecommons.org/licenses/by/3.0/deed.en_US"><img
+alt="Creative Commons License" style="border-width:0"
+src="http://i.creativecommons.org/l/by/3.0/88x31.png" /></a></p>
+
+This license grants you permission to use the material published in the
+journal as you see fit, for example, in course packs, on course
+websites, and in quotations in other scholarly works. In return, you
+must cite the *JSR* wherever you use its contents. The citation must
+include all relevant bibliographic information, as well as a URL
+pointing to the content. See the sample citations below. Your citation
+may not imply that the JSR endorses or has published your derivative
+content. 
+
+The grant of these open-access permissions does not remove your
+professional obligation concerning proper use, citation, and plagiarism.
 
 ## Citing the JSR
 
@@ -69,19 +88,20 @@ constitute a single journal volume.
 
 ### Submitting Manuscripts
 
-Submissions to the JSR are fully peer-reviewed
-by members of the editorial board and their designees. Electronic
-submissions are preferred. Please submit via email to both of the editors.
+Submissions to the *JSR* are fully peer-reviewed by members of the
+editorial board and their designees. Electronic submissions are
+preferred. Please submit via email to both of the editors.
 
 -	Michael Pasquier, [mpasquier@lsu.edu](mailto:mpasquier@lsu.edu)
--	Luke Harlow, [harlow@oakland.edu](mailto:harlow@oakland.edu)
+-	Luke Harlow, [lharlow1@utk.edu](mailto:lharlow1@utk.edu)
 
 Authors wishing to submit paper manuscripts should contact the editors,
 after which they may send three double-spaced copies to:
 
 > Luke Harlow, editor, Journal of Southern Religion  
 > Department of History  
-> Oakland University Rochester, MI 48309
+> University of Tennessee, Knoxville  
+> Knoxville, Tennessee 37996
 
 and
 
@@ -93,8 +113,8 @@ and
 
 Unsolicited manuscripts should fit broadly into one or more of the
 categories outlined by the journal's editorial policies. Materials
-submitted to JSR must not have been previously published nor submitted
-for publication elsewhere while under review by JSR editors. 
+submitted to *JSR* must not have been previously published nor submitted
+for publication elsewhere while under review by *JSR* editors. 
 
 All submissions should be accompanied by the author's name, current
 institutional affiliation, postal and e-mail addresses. Paper
@@ -106,22 +126,23 @@ Electronic publication allows for the addition of images and other
 visual or auditory aids, and the editors encourage authors to include
 such with articles when appropriate. Authors should make certain that
 all submitted materials are clear of copyright claims or that they
-obtain permission as required by law. JSR reserves copyright privileges
-for all materials published.
+obtain permission as required by law. *JSR* reserves copyright
+privileges for all materials published.
 
 ### Accepted Manuscripts
 
 Acceptance: If a submission is accepted, the author will sign a contract
-with JSR assigning copyright to The Journal of Southern Religion. After
-making corrections and revisions, the author should submit the accepted
-manuscript via email to the editors as a Microsoft Word file (.doc or
-.docx) or as valid HTML. Please include at the top of the first page of
-the manuscript, the title, your name, your current academic rank (or
-equivalent), and your institutional affiliation. The revised manuscript
-will be copyedited and uploaded to the JSR site for the succeeding
-annual issue, usually published in the fall. At the present time, JSR
-does not provide authors with offprints of published materials, but we
-will notify you by email when your manuscript is published online.
+with *JSR* assigning copyright to the *Journal of Southern Religion*.
+After making corrections and revisions, the author should submit the
+accepted manuscript via email to the editors as a Microsoft Word file
+(.doc or .docx) or as valid HTML. Please include at the top of the first
+page of the manuscript, the title, your name, your current academic rank
+(or equivalent), and your institutional affiliation. The revised
+manuscript will be copyedited and uploaded to the *JSR* site for the
+succeeding annual issue, usually published in the fall. At the present
+time, *JSR* does not provide authors with offprints of published
+materials, but we will notify you by email when your manuscript is
+published online.
 
 Solicited essays should conform to the same criteria but are not
 restricted by word length requirements.
@@ -155,13 +176,13 @@ review for approval and editing.
 Book reviewers should consult the book review style sheet before
 submitting reviews. Please refer to the guidelines below as you write.
 
-JSR seeks reviews that:
+*JSR* seeks reviews that:
 
 1.  Tell plainly what the book says and for whom it is written. Most
 	readers read reviews to learn the scope and argument of a book. In
 	addition, a careful assessment of the book's intended audience is of
 	particular interest to the readers of an interdisciplinary journal
-	such as the JSR.
+	such as the *JSR*.
 
 2.  Set the author's argument in a broad context of scholarly analysis.
 	Reviewers should bear in mind that scholars from a variety of
@@ -205,32 +226,11 @@ Please proofread the text of the review carefully.
 
 Questions should be directed to the book review editor. 
 
-
-### Book Review Copyright
-
-reviews commissioned by the Journal of Southern Religion are the
-exclusive property of the Journal. Reviews are considered a work
-made-for-hire, and, as such, all copyright rights to the review shall be
-owned by and be in the name of the Association for the Study of Southern
-Religion (ASSR). ASSR in turn grants all review authors the right to
-reprint their reviews in any format that they choose, without the
-payment of royalties, subject to giving proper credit to the original
-publication with the Journal of Southern Religion. ASSR also permits its
-reviews to be copied for non-profit educational use provided proper
-credit is given to the review author and the Journal.
-
-All reviews will carry the following copyright statement:
-
-> Copyright © 1997-20 by the Journal of Southern Religion, all rights
-> reserved. This work may be copied for non-profit educational use if
-> proper credit is given to the author and the Journal of Southern
-> Religion. For other permission, please contact the book review editor.
-
 ### Status of Electronic Reviews
 
 Professional ethics dictate that a scholar can publish only one review
-of a book. Journal of Southern Religion reviews count as that one
+of a book. *Journal of Southern Religion* reviews count as that one
 review. As indicated above, Journal reviewers have permission to
 republish their reviews provided that proper credit is given to the
-Journal of Southern Religion, but should not agree to write a separate
+*Journal of Southern Religion*, but should not agree to write a separate
 review of the same work for a print journal.

@@ -104,8 +104,7 @@ baptistery with religious and racial intent and celebrated it as one of
 the technological innovations that distinguished the modern church.
 Patterns displayed in the Old South persisted within the racially
 segregated spaces of New South Baptist churches, many of which were
-located in North Carolina, South Carolina, Georgia, and Virginia
-.[^8]
+located in North Carolina, South Carolina, Georgia, and Virginia.[^8]
 
 ### Primitive Baptism in the Modern World ###
 
