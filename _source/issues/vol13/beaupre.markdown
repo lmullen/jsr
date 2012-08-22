@@ -57,7 +57,7 @@ contrast to Chappell, however, Roll demonstrates the ways in which
 prophetic religion encouraged political engagement for both blacks and
 whites.
 
-successfully interweaves the history of both blacks and whites in the
+Roll successfully interweaves the history of both blacks and whites in the
 Missouri Bootheel. In doing so, he makes an important contribution to
 religious studies, and in particular, the study of southern religion,
 where scholarly topics are too often divided along racial lines.
