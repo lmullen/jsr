@@ -56,10 +56,12 @@ task :production_gen do
 	puts 'Successfully built production site!'
 end
 
-desc 'copy production site to synced directory'
+desc 'copy production site to synced directory and put on server'
 task :production_deploy do
 	# copies the generated site to the local copy of webdav server
 	sh "cp -R _site/ ../jsr-production/"
+	# uses a Transmit Applescript to sync the local copy to webdav
+	sh 'osascript transmit-production.applescript'
 end
 
 desc 'generate and deploy the production site'
