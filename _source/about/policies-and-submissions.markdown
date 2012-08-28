@@ -152,9 +152,6 @@ restricted by word length requirements.
 
 All manuscripts should follow the *Chicago Manual of Style*.
 
-Manuscripts should use endnotes, which will be linked to the text and
-can be descriptive as well as documentary.
-
 ## Book Review Guidelines
 
 Thank you for agreeing to review a book for the *Journal of Southern
