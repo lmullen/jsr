@@ -10,7 +10,8 @@ other libraries, notably
 ## Branches
 
 The `master` branch contains the development version, while the
-`production` branch contains the version of the site that is live.
+`production` branch contains the version of the site that is live. Other
+branches contain working copies of new issues.
 
 ## License
 
