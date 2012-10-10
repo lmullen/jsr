@@ -12,8 +12,8 @@ podcast-episode: 6
 ---
 
 In this podcast, [Art Remillard][] speaks with [Eric Bain-Selbo][] about
-his new book, [*Game Day and God: Football, Faith, and Politics in the
-American South*][]. Bain-Selbo teaches at Western Kentucky University,
+his new book, *[Game Day and God: Football, Faith, and Politics in the
+American South][]*. Bain-Selbo teaches at Western Kentucky University,
 where he is the Department Head of Philosophy and Religion. During this
 conversation, Bain-Selbo discusses the rise of college football in the
 South and how it developed a religious dimension. He also reflects on
@@ -23,5 +23,5 @@ of the [Society for Values in Higher Education][].
 
   [Art Remillard]: http://www.francis.edu/Remillard.htm
   [Eric Bain-Selbo]: http://works.bepress.com/eric_bain_selbo/
-  [*Game Day and God: Football, Faith, and Politics in the American South*]: http://www.mupress.org/productdetails.cfm?PC=73
+  [Game Day and God: Football, Faith, and Politics in the American South]: http://www.mupress.org/productdetails.cfm?PC=73
   [Society for Values in Higher Education]: http://www.svhe.org/
