@@ -12,7 +12,7 @@ podcast-episode: 3
 ---
 
 In this podcast, [Michael Pasquier][] speaks with [Jeff Wilson][] about
-his new book, [*Dixie Dharma: Inside a Buddhist Temple in the American South*][]. 
+his new book, *[Dixie Dharma: Inside a Buddhist Temple in the American South][]*. 
 Wilson is Assistant Professor of Religious Studies and East
 Asian Studies at Renison University College, University of Waterloo, in
 Ontario, Canada. During this conversation, Wilson talks about his
@@ -22,4 +22,4 @@ religion in the contemporary South.
 
   [Michael Pasquier]: http://www.artsci.lsu.edu/phil/relig/relig_fac.htm
   [Jeff Wilson]: http://artsweb.uwaterloo.ca/~jewilson/
-  [*Dixie Dharma: Inside a Buddhist Temple in the American South*]: http://uncpress.unc.edu/browse/book_detail?title_id=2788
+  [Dixie Dharma: Inside a Buddhist Temple in the American South]: http://uncpress.unc.edu/browse/book_detail?title_id=2788

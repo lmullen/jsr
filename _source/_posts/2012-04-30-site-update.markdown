@@ -21,8 +21,8 @@ is open-source journal as well. You can see the [source code that
 generates this site at GitHub][GitHub]. You're welcome to play around with the
 code and offer fixes.
 
-The new site also includes some additional content. The [*JSR
-Podcast*][] has now released two episodes, the [first an interview with Paul Harvey][] and the second an [interview with Patrick Mason][]. The
+The new site also includes some additional content. The *[JSR
+Podcast][]* has now released two episodes, the [first an interview with Paul Harvey][] and the second an [interview with Patrick Mason][]. The
 site also has space for a [blog][].
 
 Work on the new site is ongoing. In particular, we are gradually moving
@@ -36,7 +36,7 @@ We hope you enjoy the new *JSR*.
   [COinS embedded metadata]: http://ocoins.info/
   [Zotero]: http://www.zotero.org/
   [GitHub]: {{site.github-repo}}
-  [*JSR* Podcast]: {{site.url}}/new-media/
+  [JSR Podcast]: {{site.url}}/new-media/
   [first an interview with Paul Harvey]: {{site.url}}/new-media/podcast/paul-harvey.html
   [interview with Patrick Mason]: {{site.url}}/new-media/podcast/patrick-mason.html
   [blog]: {{site.url}}/blog/

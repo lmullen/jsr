@@ -56,10 +56,12 @@ task :production_gen do
 	puts 'Successfully built production site!'
 end
 
-desc 'copy production site to synced directory'
+desc 'copy production site to synced directory and put on server'
 task :production_deploy do
 	# copies the generated site to the local copy of webdav server
 	sh "cp -R _site/ ../jsr-production/"
+	# uses a Transmit Applescript to sync the local copy to webdav
+	sh 'osascript transmit-production.applescript'
 end
 
 desc 'generate and deploy the production site'
@@ -72,6 +74,7 @@ task :preview do
 	# Generates the site locally, launches a server, auto regenerates
 	# Jekyll gets URLS from options passed to command line
 	# Other options are taken from _config.yml
+	Rake::Task["clean"].invoke
 	Rake::Task["assets"].invoke
 	puts 'Previewing site with a local server.'
 	puts 'See the site at <http://localhost:4000/>.'
@@ -123,4 +126,10 @@ task :tidy do
 	puts 'Tidying the HTML in _site/.'
 	sh 'find ./_site/ -type f -name "*.html" -exec tidy -config _tidy.config -modify -i {} \;'
 	puts 'Done tidying.'
+end
+
+desc 'clean generated files in _site'
+task :clean do
+  puts 'Cleaning generated files.'
+  sh 'rm -r ./_site/*'
 end

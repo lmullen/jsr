@@ -22,6 +22,7 @@ source: ./_source
 destination: ./_site
 plugins: ./_plugins
 exclude: _working/, Rakefile, _bootstrap/, _backups/
+markdown: maruku
 auto: false
 server: false
 server_port: 4000
