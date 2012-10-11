@@ -24,7 +24,7 @@ indistinguishable from home-grown academics. This approach necessitated
 extended travel to and within the United States to allow their immersion
 in archival sources. The result, they hoped, would be research that
 American readers would appreciate on its own terms rather than
-prejudging on the basis of the author's national origin.
+prejudging on the basis of the author's national origin.[^1]
 
 I had reason to reflect on these issues when I arrived at the University
 of Cambridge in October 1992 to research a doctoral thesis under the
@@ -47,25 +47,26 @@ allows them to study an experience different from their own without
 having to learn another language, experience has sometimes taught me
 otherwise.
 
-The book based on my thesis, *Fight Against Fear: Southern Jews and Black
-Civil Rights* (University of Georgia Press, 2001), demonstrates both the
-strengths and the shortcomings of foreign scholarship on American
-history. Although I do not believe it is possible to be entirely
-objective, my status as a white English Gentile provided me with a
-relatively impartial standpoint. I had no interest in acting as an
-apologist for southern Jews but sought to explain the broader societal
-forces that shaped their action or, as was often the case, inaction
-during the civil rights struggle. Nor did the contemporary tensions
-between the Jewish and African American communities have any influence
-on my reading of their historical relationship. Yet to some critics this
-detachment also rendered me unable or unwilling to make a tougher moral
-judgment of the historical actors I studied. As one reviewer of the
-manuscript advised, what it needed was "more piss and vinegar."
+The book based on my thesis, *Fight Against Fear: Southern Jews and
+Black Civil Rights* (University of Georgia Press, 2001), demonstrates
+both the strengths and the shortcomings of foreign scholarship on
+American history. Although I do not believe it is possible to be
+entirely objective, my status as a white English Gentile provided me
+with a relatively impartial standpoint. I had no interest in acting as
+an apologist for southern Jews but sought to explain the broader
+societal forces that shaped their action or, as was often the case,
+inaction during the civil rights struggle. Nor did the contemporary
+tensions between the Jewish and African American communities have any
+influence on my reading of their historical relationship. Yet to some
+critics this detachment also rendered me unable or unwilling to make a
+tougher moral judgment of the historical actors I studied. As one
+reviewer of the manuscript advised, what it needed was "more piss and
+vinegar."
 
 What some reviewers saw as fence straddling was to me sympathy for human
-frailty. The central argument of *Fight Against Fear* is that a history of
-anti-Semitic persecution around the world sensitized many southern Jews
-to the plight of African Americans oppressed by Jim Crow. In the
+frailty. The central argument of *Fight Against Fear* is that a history
+of anti-Semitic persecution around the world sensitized many southern
+Jews to the plight of African Americans oppressed by Jim Crow. In the
 oppressive political climate of the South, it was nonetheless difficult
 for them to express public support for desegregation. Southern white
 opposition to civil rights reform, what became known as "massive
@@ -100,7 +101,7 @@ Chappell and Jane Dailey have debated the extent to which southern
 Christians drew on biblical doctrine to support segregation, I uncovered
 no evidence of rabbis who used their pulpits to propagate racist
 doctrine or of laypersons who espoused a Jewish equivalent of the
-"segregationist folk theology" described by Paul Harvey.
+"segregationist folk theology" described by Paul Harvey.[^2]
 
 Another way to approach this debate might be to ask a counterfactual
 question. To what extent would Jews have taken an initiative in
@@ -120,9 +121,9 @@ organizations.
 
 One of the harshest critics I have always contended with is myself.
 Although none of the reviews of the book raised the issue, in retrospect
-I wonder whether *Fight Against Fear* falls into the trap of constructing
-a simplistic dichotomy between the conservative South and the
-progressive North. One of the book's chapters focuses on the clash
+I wonder whether *Fight Against Fear* falls into the trap of
+constructing a simplistic dichotomy between the conservative South and
+the progressive North. One of the book's chapters focuses on the clash
 between southern Jews and their liberal coreligionists who travelled
 below the Mason-Dixon line to participate in civil rights demonstrations
 and voter registration drives. Some southern Jews opposed the incursion
@@ -142,15 +143,16 @@ organizational level in promoting civil rights but further research is
 needed to dig to the grassroots to determine the depth and breadth of
 community support for racial reform.
 
-*Fight Against Fear* covers a regionwide canvas that contains many points
-of detail but still necessarily relies on broad brushstrokes. Although I
-travelled to more than twenty archives in ten different states (as
-someone who has never learned to drive, the vagaries of American public
-transport was one of my severest culture shocks), there are large areas
-of the South, especially the border-states, which receive little or no
-mention. Other scholars have filled in some of these lacunae, most
-notably Raymond Mohl, Leonard Rogoff, and Bryan Stone, who have
-respectively produced studies of Miami, North Carolina and Texas.
+*Fight Against Fear* covers a regionwide canvas that contains many
+points of detail but still necessarily relies on broad brushstrokes.
+Although I travelled to more than twenty archives in ten different
+states (as someone who has never learned to drive, the vagaries of
+American public transport was one of my severest culture shocks), there
+are large areas of the South, especially the border-states, which
+receive little or no mention. Other scholars have filled in some of
+these lacunae, most notably Raymond Mohl, Leonard Rogoff, and Bryan
+Stone, who have respectively produced studies of Miami, North Carolina
+and Texas.[^3]
 
 One development that has not occurred during the last decade is the
 integration of the southern Jewish experience into the narrative of the
@@ -165,12 +167,12 @@ freedom struggle, but their omission from much of the new scholarship on
 white resistance to civil rights reform is disappointing. With the
 exception most notably of Karen S. Anderson's superb study of the Little
 Rock school crisis, the history of southern Jews remains below the
-radars of most civil rights historians. I tried to address this issue in
-a sequel of sorts to *Fight Against Fear*. *Rabble Rousers: The American
-Far Right in the Civil Rights Era* (2010) focuses on militant
+radars of most civil rights historians.[^4] I tried to address this
+issue in a sequel of sorts to *Fight Against Fear*. *Rabble Rousers: The
+American Far Right in the Civil Rights Era* (2010) focuses on militant
 segregationists who claimed the African American freedom struggle was a
 conspiracy masterminded by communist Jews to destroy the social fabric
-of the United States. 
+of the United States.[^5]
 
 What also still needs to be done is for someone to produce a comparative
 analysis of religious minorities' response to the civil rights movement
@@ -178,14 +180,45 @@ that would allow us to see what, if anything, was exceptional about
 southern Jews. We now have important works on other non-Protestant
 groups including Andrew Moore's study of Catholics, *The South's
 Tolerable Alien* (2007), that demonstrate points of convergence with and
-divergence from the southern Jewish experience. I confess, however, that
-I look forward to one day reading rather than writing such a multi-faith
-study of religion and race. Now that I myself am a supervisor of
-doctoral students, what advice would I offer to an enthusiastic
-postgraduate who wanted to undertake a project of this kind, other than
-honoring academic tradition by trying to dissuade them from being too
-ambitious? In response to the issues raised by my own supervisor twenty
-years ago, I would encourage a student to build their analysis on a
-strong empirical foundation and hope that in rooting through the
-archives their foreign identity would lead them to interrogate the
-material in new and unusual ways.
+divergence from the southern Jewish experience.[^6] I confess, however,
+that I look forward to one day reading rather than writing such a
+multi-faith study of religion and race. Now that I myself am a
+supervisor of doctoral students, what advice would I offer to an
+enthusiastic postgraduate who wanted to undertake a project of this
+kind, other than honoring academic tradition by trying to dissuade them
+from being too ambitious? In response to the issues raised by my own
+supervisor twenty years ago, I would encourage a student to build their
+analysis on a strong empirical foundation and hope that in rooting
+through the archives their foreign identity would lead them to
+interrogate the material in new and unusual ways.
+
+[^1]: Tony Badger, "Confessions of a British Americanist," *Journal of
+    American History* 79 (Sept. 1992): 515--23.
+
+[^2]: Jane Dailey, "Sex, Segregation, and the Sacred After Brown,"
+    *Journal of American History* 91 (June 2004): 119--44; David L.
+    Chappell, *A Stone of Hope: Prophetic Religion and the Death of Jim
+    Crow* (Chapel Hill: University of North Carolina Press, 2004); Paul
+    Harvey, *Freedom's Coming: Religious Culture and the Shaping of the
+    South from the Civil War through the Civil Rights Era* (Chapel Hill:
+    University of North Carolina Press, 2005).
+
+[^3]: Raymond A. Mohl with Matilda "Bobbi" Graff and Shirley M. Zoloth,
+    *South of the South: Jewish Activists and the Civil Rights Movement
+    in Miami, 1945--1960* (Gainesville: University Press of Florida,
+    2004); Leonard Rogoff, *Homelands: Southern Jewish Identity in Durham
+    and Chapel Hill, North Carolina* (Tuscaloosa: University of Alabama
+    Press, 2001); Bryan Edward Stone, *The Chosen Folks: Jews on the
+    Frontiers of Texas* (Austin: University of Texas Press, 2010). Rogoff
+    and Stone's books are not restricted to, but still contain rich
+    analysis of, civil rights issues.
+
+[^4]: Karen S. Anderson, *Little Rock: Race and Resistance at Central
+    High School* (Princeton: Princeton University Press, 2007).
+
+[^5]: Clive Webb, *Rabble Rousers: The American Far Right in the Civil
+    Rights Era* (Athens: University of Georgia Press, 2010).
+
+[^6]: Andrew S. Moore. *The South's Tolerable Alien: Roman Catholics in
+    Alabama and Georgia, 1945--1970* (Baton Rouge: Louisiana State
+    University Press, 2007).
