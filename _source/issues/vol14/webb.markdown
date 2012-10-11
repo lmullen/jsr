@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Reflections on <em>Fight Against Fear: Southern Jews and Black Civil Rights</em>"
+title: "Reflections on &ldquo;Fight Against Fear: Southern Jews and Black Civil Rights&rdquo;"
 author: "Clive Webb"
 author-first: Clive
 author-last: Webb
