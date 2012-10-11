@@ -74,7 +74,6 @@ task :preview do
 	# Generates the site locally, launches a server, auto regenerates
 	# Jekyll gets URLS from options passed to command line
 	# Other options are taken from _config.yml
-	Rake::Task["clean"].invoke
 	Rake::Task["assets"].invoke
 	puts 'Previewing site with a local server.'
 	puts 'See the site at <http://localhost:4000/>.'
