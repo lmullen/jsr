@@ -5,11 +5,11 @@ author-first: Andrew S.
 author-last: Moore
 author: Andrew S. Moore
 author-note: "Andrew S. Moore is an associate professor of history at 
-Saint Anselm College.  "
+Saint Anselm College."
 vol: 14
 year: 2012
 book-reviewed: "Sharon Davies. <em>Rising Road: A True Tale of Love, 
-Race, and Religion in America.</em> New York: Oxford University Press, 
+Race, and Religion in America</em>. New York: Oxford University Press, 
 2010. 327 pp. ISBN 978-0-19-537979-2.  "
 ---
 

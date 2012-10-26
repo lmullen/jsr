@@ -8,9 +8,9 @@ author:  Clyde Ellis
 author-note: "Clyde Ellis is a professor of history at Elon University."
 vol: 14
 year: 2012
-book-reviewed: "Joel W. Martin and Mark A. Nicholas, eds. *Native 
+book-reviewed: "Joel W. Martin and Mark A. Nicholas, eds. <em>Native 
 Americans, Christianity, and the Reshaping of the American Religious 
-Landscape.* Chapel Hill: University of North Carolina Press, 2010. xiii, 
+Landscape</em>. Chapel Hill: University of North Carolina Press, 2010. xiii, 
 325 pp.  ISBN 978-0-8078-7415-4."
 ---
 

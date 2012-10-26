@@ -9,7 +9,7 @@ Illinois State University."
 vol: 14
 year: 2012
 book-reviewed: "Lisa Tendrich Frank and Daniel Kilbride, eds.  
-<em>Southern Character: Essays in Honor of Bertram Wyatt-Brown.</em> 
+<em>Southern Character: Essays in Honor of Bertram Wyatt-Brown</em>.
 Gainesville: University Press of Florida, 2011. 301 pp. ISBN 
 978-0-8130-3690-8."
 ---

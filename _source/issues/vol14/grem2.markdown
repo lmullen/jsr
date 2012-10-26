@@ -8,7 +8,7 @@ author-note: "Darren E. Grem is an assistant professor of history and
 southern studies at the University of Mississippi."
 vol: 14
 year: 2012
-book-reviewed: " David W. Stowe. <em>No Sympathy for the Devil: 
+book-reviewed: "David W. Stowe. <em>No Sympathy for the Devil: 
 Christian Pop Music and the Transformation of American 
 Evangelicalism</em>. Chapel Hill: University of North Carolina Press, 
 2011. 291 pp. ISBN 978-0-8078-3458-9."

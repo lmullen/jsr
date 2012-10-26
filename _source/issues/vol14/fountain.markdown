@@ -8,7 +8,7 @@ author-note: "Daniel L. Fountain is an associate professor of history at
 Meredith College."
 vol: 14
 year: 2012
-book-reviewed: " Mark Auslander. <em>The Accidental Slaveholder: 
+book-reviewed: "Mark Auslander. <em>The Accidental Slaveholder: 
 Revisiting a Myth of Race and Finding an American Family</em>. Athens: 
 The University of Georgia Press, 2011. 383 pp. ISBN 978-0-8203-4042-5."
 ---

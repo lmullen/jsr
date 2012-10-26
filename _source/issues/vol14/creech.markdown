@@ -4,12 +4,12 @@ title: "Review: Sam Jones' Own Book"
 author-first: Joe
 author-last: Creech
 author: Joe Creech
-author-note: " Joe Creech is director of the Lilly Fellows Program at 
+author-note: "Joe Creech is director of the Lilly Fellows Program at 
 Valparaiso University."
 vol: 14
 year: 2012
-book-reviewed: " Sam P. Jones, <em>Sam Jones' Own Book: A Series of 
-Sermons.</em> Reissued with a new introduction by Randall J. Stephens. 
+book-reviewed: "Sam P. Jones. <em>Sam Jones' Own Book: A Series of 
+Sermons</em>. Reissued with a new introduction by Randall J. Stephens. 
 Columbia: University of South Carolina Press, 2009. 539 pp. ISBN 
 978-1-57003-827-3."
 ---

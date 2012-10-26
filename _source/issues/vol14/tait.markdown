@@ -3,7 +3,7 @@ layout: article
 title: "Review: Ministers and Masters"
 author-first: Jennifer L.
 author-last: Woodruff
-author: Jennifer L. Woodruff
+author: Jennifer L. Woodruff Tait
 author-note: "Jennifer L. Woodruff Tait is an adjunct professor of 
 church history at Asbury Theological Seminary."
 vol: 14

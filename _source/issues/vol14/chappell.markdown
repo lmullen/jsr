@@ -8,8 +8,8 @@ author-note: "Colin B. Chapell in an instructor in history at the
 University of Memphis."
 vol: 14
 year: 2012
-book-reviewed: " Teresa Zackodnik. <em>Press, Platform, Pulpit: Black 
-Feminist Publics in the Era of Reform.</em> Knoxville: University of 
+book-reviewed: "Teresa Zackodnik. <em>Press, Platform, Pulpit: Black 
+Feminist Publics in the Era of Reform</em>. Knoxville: University of 
 Tennessee Press, 2011.  xxv, 339 pp. ISBN 978-1-57233-826-5."
 ---
 

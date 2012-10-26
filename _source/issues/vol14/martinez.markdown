@@ -8,7 +8,7 @@ author-note: "Xaris A. Martínez is a Ph.D. student in history at the
 University of North Carolina at Chapel Hill."
 vol: 14
 year: 2012
-book-reviewed: " Meredith Henne Baker. <em>The Richmond Theater Fire: 
+book-reviewed: "Meredith Henne Baker. <em>The Richmond Theater Fire: 
 Early America's First Great Disaster</em>. Baton Rouge: Louisiana State 
 University Press, 2012.  368 pp. ISBN 978-0-8071-4374-2."
 ---

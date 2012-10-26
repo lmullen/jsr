@@ -4,12 +4,12 @@ title: "Review: St. Mark's and the Social Gospel"
 author-first: Carolyn R.
 author-last: Dupont
 author: Carolyn R. Dupont
-author-note: " Carolyn R. Dupont is an assistant professor of history at 
+author-note: "Carolyn R. Dupont is an assistant professor of history at 
 Eastern Kentucky University."
 vol: 14
 year: 2012
-book-reviewed: " Ellen Blue. <em>St. Mark's and the Social Gospel: 
-Methodist Women and Civil Rights in New Orleans, 1895&ndash;1965.</em> 
+book-reviewed: "Ellen Blue. <em>St. Mark's and the Social Gospel: 
+Methodist Women and Civil Rights in New Orleans, 1895&ndash;1965</em>. 
 Knoxville: University of Tennessee Press, 2011. 303 pp. ISBN 
 978-1-57233-824-1.
 ---

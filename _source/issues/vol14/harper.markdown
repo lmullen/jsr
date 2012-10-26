@@ -4,11 +4,11 @@ title: "Review: Father Mercer"
 author-first: Keith
 author-last: Harper
 author: Keith Harper
-author-note: " Keith Harper is a professor of Baptist studies at 
+author-note: "Keith Harper is a professor of Baptist studies at 
 Southeastern Baptist Theological Seminary."
 vol: 14
 year: 2012
-book-reviewed: " Anthony L. Chute. <em>Father Mercer: The Story of a 
+book-reviewed: "Anthony L. Chute. <em>Father Mercer: The Story of a 
 Baptist Statesman</em>.  Macon, Ga.: Mercer University Press, 2011. 146 
 pp.  ISBN 978-0-88146-262-3."
 ---
