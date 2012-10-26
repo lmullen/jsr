@@ -25,6 +25,6 @@ exclude: _working/, Rakefile, _bootstrap/, _backups/
 markdown: maruku
 auto: false
 server: false
-server_port: 4000
+server_port: 5000
 permalink: /:categories/:title.html
 # baseurl and url are passed as command line options
