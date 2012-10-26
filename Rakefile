@@ -76,9 +76,9 @@ task :preview do
 	# Other options are taken from _config.yml
 	Rake::Task["assets"].invoke
 	puts 'Previewing site with a local server.'
-	puts 'See the site at <http://localhost:4000/>.'
+	puts 'See the site at <http://localhost:5000/>.'
 	puts 'Use CTRL+C to interrupt.'
-	sh 'jekyll --auto --server --base-url / --url http://localhost:4000'
+	sh 'jekyll --auto --server --base-url / --url http://localhost:5000'
 	# after the server is interrupted
 	puts 'Finished previewing the site locally.'
 end
