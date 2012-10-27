@@ -53,7 +53,7 @@ history.
 
 Though historians will find it disappointing that this anthology
 devotes so little attention to religion, they nonetheless will welcome
-Irons' excellent essay "Zion in Black and White: African-American
+Irons's excellent essay "Zion in Black and White: African-American
 Evangelicals and Missionary Work in the Old South." According to Irons,
 whites not surprisingly considered the conversion of enslaved men and
 women an essential initiative in the late antebellum period. His
