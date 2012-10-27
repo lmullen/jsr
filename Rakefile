@@ -115,6 +115,12 @@ task :mediaelement do
 	sh 'cp -R _mediaelement/build _source/assets/mediaelement'
 end
 
+desc 'generate EPUBs of issues'
+task :epubgen do
+  puts 'Generating EPUBs'
+  system("_epub-jekyll/epub-jekyll.rb #{Dir.glob('epubs/*.yml').join(' ')}")
+end
+
 desc 'update all assets'
 task :assets => [:img, :js, :css, :mediaelement] do
 	puts 'Successfully updated all assets.'

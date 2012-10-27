@@ -1,3 +1,4 @@
+*.epub
 .DS_Store
 _backups
 _import

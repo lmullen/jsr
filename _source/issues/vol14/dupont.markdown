@@ -11,7 +11,7 @@ year: 2012
 book-reviewed: "Ellen Blue. <em>St. Mark's and the Social Gospel: 
 Methodist Women and Civil Rights in New Orleans, 1895&ndash;1965</em>. 
 Knoxville: University of Tennessee Press, 2011. 303 pp. ISBN 
-978-1-57233-824-1.
+978-1-57233-824-1."
 ---
 
 *St. Mark's and the Social Gospel: Methodist Women and Civil Rights in
