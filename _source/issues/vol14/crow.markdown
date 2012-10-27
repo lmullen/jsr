@@ -4,7 +4,7 @@ title: "Review: Dixie Dharma"
 author-first: John L.
 author-last: Crow
 author: John L. Crow
-author-note: "John L. Crow is a Ph.D. candidate in religion at Florida State University."
+author-note: "John L. Crow is a Ph.D. candidate in Religion at Florida State University."
 vol: 14
 year: 2012
 book-reviewed: "Jeff Wilson. <em>Dixie Dharma: Inside a Buddhist Temple in 
