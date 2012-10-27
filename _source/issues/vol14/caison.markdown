@@ -78,7 +78,7 @@ anthologies obscure the material histories of poetic works and their
 readers. Chapter four uses the single object of "Dixie" to complicate
 reception and publication histories that privilege the binaries of
 North/South, local/national, form/content, oral/written and
-ante/postbellum. In each of these chapters, *Apples and Ashes*offers a
+ante/postbellum. In each of these chapters, *Apples and Ashes* offers a
 nuanced analysis of theories of nationalism using grounded, text-based
 analyses.
 
