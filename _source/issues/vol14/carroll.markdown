@@ -48,7 +48,7 @@ headings. They begin with essays examining the dynamics and driving
 mechanisms of "Christian Diversity in America." Catherine Albanese's
 opening piece sketches a narrative in which a colonial era diversity of
 Christianities unfold while subjected to disestablishment, voluntarism,
-and "combinativeness" (41--42). . Michael McNally suggests that
+and "combinativeness" (41--42). Michael McNally suggests that
 different Native communities, in a process of religious "change" rather
 than "conversion," improvised locally on a range of missionary
 traditions to generate the nation's many Native American Christianities.
