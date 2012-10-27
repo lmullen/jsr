@@ -48,7 +48,7 @@ by reading *A Piety Above a Common Standard*. On the other hand,
 interested readers, especially lay people and non-professional
 historians, will benefit from *Father Mercer*. Chute obviously wanted to
 produce a short, readable volume that "humanized" Mercer, Tthough one
-might wish that he had included more of Mercer's correspondence. .
+might wish that he had included more of Mercer's correspondence.
 
 It is hardly novel for authors to produce short editions of larger
 works. Such slimmer books allow greater access to a broader readership.
