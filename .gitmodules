@@ -1,3 +1,6 @@
 [submodule "_mediaelement"]
 	path = _mediaelement
 	url = https://github.com/johndyer/mediaelement.git
+[submodule "_epub-jekyll"]
+	path = _epub-jekyll
+	url = git@github.com:lmullen/epub-jekyll.git
