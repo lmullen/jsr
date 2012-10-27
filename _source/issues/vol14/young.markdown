@@ -90,7 +90,7 @@ In direct opposition to these claims, another historiographical
 tradition asserted the primacy of African culture and religion in the
 development of black culture in the United States and elsewhere. The
 clarion call for this approach can be found in Melville Herskovits's
-1941 publication, *The Myth of the Negro Past* . In it, Herskovits
+1941 publication, *The Myth of the Negro Past.* In it, Herskovits
 argued for the substantial, significant, and continued influence of
 Africa in the histories, lives and cultures of blacks throughout the
 Americas.[^14] Herskovits' early arguments were strengthened in the work
