@@ -65,7 +65,7 @@ usually regulated to Asian immigrants. Wilson demonstrates how Pure Land
 co-manifests with Zen, Vipassana, Tibetan, and other traditions by a
 predominantly Euro-American population that generally converts to
 Buddhism as adults. Wilson claims that this environment generates much
-more liberal and hybrid Buddhists, . He calls these individuals
+more liberal and hybrid Buddhists. He calls these individuals
 "pluralistic Buddhists." "They may strongly identify with a particular
 lineage," Wilson explains, "but have one or two practices picked up from
 other sources, or they may actively seek to incorporate multiple forms
