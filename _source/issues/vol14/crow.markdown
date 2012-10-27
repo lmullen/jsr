@@ -38,7 +38,7 @@ Ekoji Buddhist Sangha of Richmond, Virginia. Because Buddhism is such a
 small part of Richmond's religious landscape, Wilson demonstrates the
 ways various Buddhist traditions share space and practices while also
 creating a place for newcomers, many of whom come from a Protestant
-background.. For instance, he notes how there is little advertising and
+background. For instance, he notes how there is little advertising and
 many of the new members refrain from sharing their newfound religious
 leanings with their family and friends. Similarly, the temple had to
 fight for years to obtain tax exempt status because the practices did
