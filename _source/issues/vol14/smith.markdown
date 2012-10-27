@@ -4,8 +4,8 @@ title: "Review: The Old South's Modern Worlds"
 author-first: John David
 author-last: Smith
 author: John David Smith
-author-note: "John David Smith, University of North Carolina at 
-Charlotte"
+author-note: "John David Smith is Charles H. Stone Distinguished Professor of American History at University of North Carolina at 
+Charlotte."
 vol: 14
 year: 2012
 book-reviewed: "L. Diane Barnes, Brian Schoen, Frank Towers, editors.  
