@@ -43,7 +43,7 @@ a read.
 Instead, those who *read* *The Color of Christ* might note how the
 authors pay attention to the rhetoric surrounding aesthetic
 representations of Christ that demonstrate the potency of the
-relationship between race, religion, and politics in American history.\
+relationship between race, religion, and politics in American history.
 Indeed, race, religion, and politics have been so bound together in the
 U.S. that, as Blum and Harvey so eloquently describe, images of Jesus
 have served to represent divine rights to white political, cultural, and
