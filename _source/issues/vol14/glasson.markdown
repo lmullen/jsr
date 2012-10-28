@@ -4,7 +4,7 @@ title: "Protestantism in the Early South"
 author-first: Travis
 author-last: Glasson
 author: Travis Glasson
-author-note: "Travis Glasson is an associate professor of History at Temple
+author-note: "Travis Glasson is an associate professor of history at Temple
 University."
 vol: 14
 year: 2012

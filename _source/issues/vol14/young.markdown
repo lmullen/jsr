@@ -4,7 +4,7 @@ title: "African Religions in the Early South"
 author-first: Jason
 author-last: Young
 author: Jason Young
-author-note: "Jason Young is an associate professor of History at the University of Buffalo."
+author-note: "Jason Young is an associate professor of history at the University of Buffalo."
 vol: 14
 year: 2012
 ---

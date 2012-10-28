@@ -4,7 +4,7 @@ title: "Protestant Dissenters in the Early South"
 author-first: Jewel L.
 author-last: Spangler
 author: Jewel L. Spangler
-author-note: "Jewel L. Spangler is an associate professor of History at the University of Calgary."
+author-note: "Jewel L. Spangler is an associate professor of history at the University of Calgary."
 vol: 14
 year: 2012
 ---

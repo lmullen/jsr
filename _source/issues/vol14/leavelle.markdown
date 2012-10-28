@@ -4,8 +4,8 @@ title: "Native American Religions in the Early South"
 author-first: Tracy Neal
 author-last: Leavelle
 author: Tracy Neal Leavelle
-author-note: "Tracy Neal Leavelle is an associate professor of History and Department
-Chair at Creighton University."
+author-note: "Tracy Neal Leavelle is an associate professor of history 
+at Creighton University."
 vol: 14
 year: 2012
 ---

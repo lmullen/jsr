@@ -4,7 +4,7 @@ title: "The Center for the Study of Southern Religion and Culture: A Historiogra
 author-first: Emily Suzanne
 author-last: Clark
 author: Emily Suzanne Clark
-author-note: "Emily Suzanne Clark is a Ph.D. candidate in Religion at Florida State University. She is also the managing editor and former webmaster for the <em>Journal of Southern Religion</em>."
+author-note: "Emily Suzanne Clark is a Ph.D. candidate in religion at Florida State University. She is also the managing editor and former webmaster for the <em>Journal of Southern Religion</em>."
 vol: 14
 year: 2012
 ---
