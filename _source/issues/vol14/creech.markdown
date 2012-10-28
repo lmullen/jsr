@@ -63,20 +63,23 @@ Meanness"---his most famous sermon---captures this sentiment, which, as
 Stephens notes, marked his affinity with the emerging holiness movement.
 
 From Stephens, and also from Kathleen Minnix's *Laughter in the Amen
-Corner: The Life of Evangelist Sam Jones* (1993), we learn something of
-Jones's wider significance and context. Jones was typical of southern
-minsters of his station on race. While always claiming "to be friend to
-the colored race," he supported Jim Crow, opposed miscegenation, and was
-ambivalent on black disfranchisement and lynching (Minnix, 201).
-Politically he was a friend of Populists like Tom Watson but generally
-remained committed to laissez faire, pick-yourself-up-by-the-bootstrap
-capitalism that linked financial struggle to sinful living. On other
-matters he was more unique. According to Minnix, even though he was a
-staunch nativist, even a xenophobe, he was surprisingly irenical towards
-Roman Catholics and Jews. Although he opposed evolution, heresy, and
-especially the manufacture, distribution, and use of alcohol, he did not
-run in northern Fundamentalist circles, neither did he profess what
-would become the doctrine of biblical inerrancy, believing instead in
+Corner: The Life of Evangelist Sam Jones*, we learn something of Jones's
+wider significance and context. Jones was typical of southern minsters
+of his station on race. While always claiming "to be friend to the
+colored race," he supported Jim Crow, opposed miscegenation, and was
+ambivalent on black disfranchisement and lynching. Politically he was a
+friend of Populists like Tom Watson but generally remained committed to
+laissez faire, pick-yourself-up-by-the-bootstrap capitalism that linked
+financial struggle to sinful living. On other matters he was more
+unique. According to Minnix, even though he was a staunch nativist, even
+a xenophobe, he was surprisingly irenical towards Roman Catholics and
+Jews. Although he opposed evolution, heresy, and especially the
+manufacture, distribution, and use of alcohol, he did not run in
+northern Fundamentalist circles, neither did he profess what would
+become the doctrine of biblical inerrancy, believing instead in
 "progressive theology," a position that moved him to be quite forward
-looking on women's rights, especially the right to preach (Minnix,
-122--27).
+looking on women's rights, especially the right to preach.[^1]
+
+[^1]: Kathleen Minnix, *Laughter in the Amen Corner: The Life of
+    Evangelist Sam Jones* (Athens: University of Georgia Press, 1993),
+    201, 122--27.
