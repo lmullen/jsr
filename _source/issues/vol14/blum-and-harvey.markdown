@@ -396,7 +396,7 @@ depiction of Jesus in *The Passion of the Christ*, and [Campus Crusade's film "J
 seeing is believing*"), are venerated as capturing *the* image of the
 supposed son of God.
 
-"Hidden Since the Beginning of the World"
+## "Hidden Since the Beginning of the World"
 
 More than one hundred years after Apess's essay, Martin Luther King Jr.
 was presented explicitly with the problem of Christ's whiteness. A
