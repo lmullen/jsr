@@ -862,7 +862,7 @@ and the Abbé Grégoire, *Church History*  36 (1967): 437; J. Francis
 Stafford, "'Train Up to Virtue': A Reflection on the Maryland
 Tradition," *U.S. Catholic Historian*  8 (1989): 61; and Obed
 Heilbronner, "The Age of Catholic Revival," in *A Companion to
-Nineteenth-Century Europe, 1789--1914*, ed.* * Stefan Berger
+Nineteenth-Century Europe, 1789--1914*, ed. Stefan Berger
 (Oxford: Wiley-Blackwell, 2006), 236--247.
 
 [^27]:  Codignola, "Roman Catholic Conservatism in a New North Atlantic
@@ -874,7 +874,7 @@ Devotional Revolution in Ireland," *American Historical Review* 77
 (1972): 625--652; Michael P. Carroll, *American Catholics in the
 Protestant Imagination*  (Baltimore: Johns Hopkins University Press,
 2007), 5--6, 46--48; and Patricia Byrne, "American Ultramontanism,"
-*Theological Studies*  56 (1995): 301--338.
+*Theological Studies* 56 (1995): 301--338.
 
 [^29]:  Pasquier, *Fathers on the Frontier*, 28.
 
