@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Response to Forum Reviews of The Color of Christ"
+title: "Response to Panel Reviews of The Color of Christ"
 author-first: Edward J. and Paul Harvey
 author-last: Blum
 author: Edward J. Blum and Paul Harvey
