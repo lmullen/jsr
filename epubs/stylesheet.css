@@ -42,6 +42,9 @@ h3.date a {
   margin-bottom: 2em;
   font-weight: lighter;
 }
+.book-reviewed {
+  margin: 0 2em 2em 2em;
+}
 a {
   color:#8F733F;
 }
