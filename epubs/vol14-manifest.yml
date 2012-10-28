@@ -1,7 +1,7 @@
 title: The Journal of Southern Religion
-author: Volume 14
-date: November 2012
-epub-cover-image: cover.jpg
+author: Volume 14 (2012)
+date: "<a href='http://jsr.fsu.edu'>http://jsr.fsu.edu</a><br/><br/>ISSN 1094-5253"
+epub-cover-image: jsr.ebook-cover.png
 epub-stylesheet: stylesheet.css
 epub-metadata: metadata.xml
 epub-filename: ../_source/assets/ebooks/jsr.vol14.epub
@@ -12,7 +12,11 @@ header-items:
 - author
 - author-note
 contents: 
-  - section-title: Roundtable Religion in the Early South
+  - section-title: "About the <em>JSR</em>"
+    files: 
+    - ../../about/masthead.html
+    - ../../about/policies-and-submissions.markdown
+  - section-title: "Roundtable: Religion in the Early South"
     files:
     - farrelly.markdown
     - glasson.markdown
@@ -22,10 +26,10 @@ contents:
   - section-title: Author's Reflection
     files:
     - webb.markdown
-  - section-title: Before the <em>Journal of Southern Religion</em>
+  - section-title: "Before the <em>Journal of Southern Religion</em>"
     files:
     - clark.markdown
-  - section-title: Panel Review The Color of Christ
+  - section-title: "Panel Review: The Color of Christ"
     files:
     - graber.markdown
     - grem.markdown
@@ -39,7 +43,7 @@ contents:
     - baumgaertner.markdown
     - caison.markdown
     - carroll.markdown
-    - chappell.markdown
+    - chapell.markdown
     - cooper.markdown
     - creech.markdown
     - crow.markdown
