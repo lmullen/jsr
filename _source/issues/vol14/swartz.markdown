@@ -4,7 +4,7 @@ title: "Review: God's Right Hand"
 author-first: David R.
 author-last: Swartz
 author: David R. Swartz
-author-note: "Swartz is an assistant professor of history at Asbury 
+author-note: "David R. Swartz is an assistant professor of history at Asbury 
 University."
 vol: 14
 year: 2012

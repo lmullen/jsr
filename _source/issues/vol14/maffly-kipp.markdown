@@ -60,7 +60,7 @@ race as a social category, a phenotype, and a theological statement.
 This mixed message proves confounding when discussing, for example, the
 Moravian Jesus as "red" because he is represented as drenched in blood
 (61). The authors conclude that "Before Jesus rose to dominance as a
-white figure in America, he was red."(66) But what does this mean,
+white figure in America, he was red"(66). But what does this mean,
 exactly? And how is it necessarily related to the issue of race? The
 Jesus of enslaved Africans, even when depicted as light-skinned, is
 deemed to "affirm blackness" because theologically he was thought to

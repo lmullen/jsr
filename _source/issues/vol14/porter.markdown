@@ -21,7 +21,7 @@ historians have examined over the last decade. In such works as Frank
 Towers' *The Urban South and the Coming of the Civil War* (2004), Frank
 J. Byrne's *Becoming Bourgeois: Merchant Culture in the South,
 1820--1865* (2006), the recent anthology *Southern Society and Its
-Transformations, 1790--1860* (2011), and co-editor Jonathan Wells' own
+Transformations, 1790--1860* (2011), and co-editor Jonathan Wells's own
 *The Origins of the Southern Middle Class, 1800--1861* (2004),
 historians of the American South have been reevaluating the emergence,
 geographic concentration, and relative autonomy of southerners of the

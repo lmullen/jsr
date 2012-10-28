@@ -59,7 +59,7 @@ William T. Sherman as he marched to the sea in 1864.
 As was famously the case with the Bachs in Germany, musical activity in
 the South drew on familial traditions. *Sacred Harp*testifies to this
 reality, and Steel lists numerous family relationships in the narrative
-texts. . In eighteenth and nineteenth-century America, many compilers of
+texts. In eighteenth and nineteenth-century America, many compilers of
 tunebooks taught psalmody or sacred music. Full time musical employment
 was not frequently found, as exemplified by William Billings (tanner),
 Daniel Read (comb maker), Timothy Swan (hatter), and Jeremiah Ingalls

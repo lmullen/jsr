@@ -4,7 +4,7 @@ title: "Review: Dixie Dharma"
 author-first: John L.
 author-last: Crow
 author: John L. Crow
-author-note: "John L. Crow is a Ph.D. candidate in religion at Florida State University."
+author-note: "John L. Crow is a Ph.D. candidate in Religion at Florida State University."
 vol: 14
 year: 2012
 book-reviewed: "Jeff Wilson. <em>Dixie Dharma: Inside a Buddhist Temple in 
@@ -38,7 +38,7 @@ Ekoji Buddhist Sangha of Richmond, Virginia. Because Buddhism is such a
 small part of Richmond's religious landscape, Wilson demonstrates the
 ways various Buddhist traditions share space and practices while also
 creating a place for newcomers, many of whom come from a Protestant
-background.. For instance, he notes how there is little advertising and
+background. For instance, he notes how there is little advertising and
 many of the new members refrain from sharing their newfound religious
 leanings with their family and friends. Similarly, the temple had to
 fight for years to obtain tax exempt status because the practices did
@@ -65,7 +65,7 @@ usually regulated to Asian immigrants. Wilson demonstrates how Pure Land
 co-manifests with Zen, Vipassana, Tibetan, and other traditions by a
 predominantly Euro-American population that generally converts to
 Buddhism as adults. Wilson claims that this environment generates much
-more liberal and hybrid Buddhists, . He calls these individuals
+more liberal and hybrid Buddhists. He calls these individuals
 "pluralistic Buddhists." "They may strongly identify with a particular
 lineage," Wilson explains, "but have one or two practices picked up from
 other sources, or they may actively seek to incorporate multiple forms
