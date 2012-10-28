@@ -1,4 +1,5 @@
 *.epub
+*.mobi
 .DS_Store
 _backups
 _import
@@ -16,4 +17,5 @@ _source/assets/mediaelement/
 _source/assets/mediaelement/*
 _working/
 _working/*
+kindlegen
 tidy-errs.txt
