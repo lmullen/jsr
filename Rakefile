@@ -84,6 +84,21 @@ task :preview do
 	puts 'Finished previewing the site locally.'
 end
 
+desc 'preview site using POW'
+task :pow do
+  # Generates the site locally, does not launch a server but uses POW 
+  # instead, auto regenerates
+  # Jekyll gets URLS from options passed to command line
+  # Other options are taken from _config.yml
+  Rake::Task["clean"].invoke
+  Rake::Task["assets"].invoke
+  puts 'Regenerating site for POW server.'
+  puts 'Use CTRL+C to interrupt.'
+  sh 'jekyll --auto  --base-url / --url http://jsr.dev'
+  # after the server is interrupter
+  puts 'Finished previewing the site with POW.'
+end
+
 #helper functions
 
 desc 'assemble Bootstrap and other Javascripts'
