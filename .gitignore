@@ -17,5 +17,7 @@ _source/assets/mediaelement/
 _source/assets/mediaelement/*
 _working/
 _working/*
+bin/
 kindlegen
+public/
 tidy-errs.txt

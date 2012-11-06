@@ -19,9 +19,9 @@ email-subscribe-standalone: http://eepurl.com/llKWT
 
 # Generation
 source: ./_source
-destination: ./_site
+destination: ./public
 plugins: ./_plugins
-exclude: _working/, Rakefile, _bootstrap/, _backups/
+exclude: _working/, Rakefile, _bootstrap/, _backups/, public
 markdown: maruku
 auto: false
 server: false

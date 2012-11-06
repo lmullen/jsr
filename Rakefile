@@ -23,7 +23,7 @@ task :dev_deploy do
 	# uploads preview version via SSH and rsync
 	# does NOT delete other files on the server
 	puts 'Deploying dev preview to <lincolnmullen.com/dev/jsr/> with rsync.'
-	sh 'rsync -avze ssh _site/ lam:/home/lincolnm/public_html/dev/jsr/'
+	sh 'rsync -avze ssh public/ lam:/home/lincolnm/public_html/dev/jsr/'
 	puts 'Successfully deployed site!'
 end
 
@@ -59,7 +59,7 @@ end
 desc 'copy production site to synced directory and put on server'
 task :production_deploy do
 	# copies the generated site to the local copy of webdav server
-	sh "cp -R _site/ ../jsr-production/"
+	sh "cp -R public/ ../jsr-production/"
 	# uses a Transmit Applescript to sync the local copy to webdav
 	sh 'osascript transmit-production.applescript'
 end
@@ -81,6 +81,21 @@ task :preview do
 	sh 'jekyll --auto --server --base-url / --url http://localhost:5000'
 	# after the server is interrupted
 	puts 'Finished previewing the site locally.'
+end
+
+desc 'preview site using POW'
+task :pow do
+  # Generates the site locally, does not launch a server but uses POW 
+  # instead, auto regenerates
+  # Jekyll gets URLS from options passed to command line
+  # Other options are taken from _config.yml
+  Rake::Task["clean"].invoke
+  Rake::Task["assets"].invoke
+  puts 'Regenerating site for POW server.'
+  puts 'Use CTRL+C to interrupt.'
+  sh 'jekyll --auto  --base-url / --url http://jsr.dev'
+  # after the server is interrupter
+  puts 'Finished previewing the site with POW.'
 end
 
 #helper functions
@@ -130,15 +145,15 @@ task :assets => [:img, :js, :css, :mediaelement, :ebookgen] do
 	puts 'Successfully updated all assets.'
 end
 
-desc 'tidy HTML in _site'
+desc 'tidy HTML in public'
 task :tidy do
-	puts 'Tidying the HTML in _site/.'
-	sh 'find ./_site/ -type f -name "*.html" -exec tidy -config _tidy.config -modify -i {} \;'
+	puts 'Tidying the HTML in public/.'
+	sh 'find ./public/ -type f -name "*.html" -exec tidy -config _tidy.config -modify -i {} \;'
 	puts 'Done tidying.'
 end
 
-desc 'clean generated files in _site'
+desc 'clean generated files in public'
 task :clean do
   puts 'Cleaning generated files.'
-  sh 'rm -r ./_site/*'
+  sh 'rm -r ./public/*'
 end
