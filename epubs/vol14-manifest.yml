@@ -17,14 +17,14 @@ contents:
     files: 
     - ../../about/masthead.html
     - ../../about/policies-and-submissions.markdown
-  - section-title: "Roundtable: Religion in the Early South"
+  - section-title: "Religion in the Early South: a Roundtable Edited by Rebecca Goetz"
     files:
+    - goetz.markdown
     - farrelly.markdown
     - glasson.markdown
     - leavelle.markdown
     - spangler.markdown
     - young.markdown
-    - goetz.markdown
   - section-title: Author's Reflection
     files:
     - webb.markdown
