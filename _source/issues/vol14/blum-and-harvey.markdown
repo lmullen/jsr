@@ -1,12 +1,12 @@
 ---
 layout: article
-title: "Response to Panel Reviews of The Color of Christ"
+title: "Response to Panel Reviews"
 author-first: Edward J. and Paul Harvey
 author-last: Blum
 author: Edward J. Blum and Paul Harvey
-author-note: "Edward J. Blum is an associate professor of history at San Diego State
-University and Paul Harvey is a professor of history at the University
-of Colorado, Colorado Springs."
+author-note: "Edward J. Blum is an associate professor of history at San 
+Diego State University and Paul Harvey is a professor of history at the 
+University of Colorado, Colorado Springs."
 vol: 14
 year: 2012
 ---
