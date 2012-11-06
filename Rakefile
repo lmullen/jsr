@@ -133,7 +133,7 @@ end
 desc 'generate EPUBs and MOBIs of issues'
 task :ebookgen do
   puts 'Generating EPUBs'
-  system "_epub-jekyll/epub-jekyll.rb #{Dir.glob('epubs/*.yml').join(' ')}"
+  system "jekyll-ebook #{Dir.glob('epubs/*.yml').join(' ')}"
   puts 'Generating MOBIs'
   Dir.glob( '_source/assets/ebooks/*.epub').each do |f|
     system "bin/kindlegen #{f}"
