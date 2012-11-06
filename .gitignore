@@ -1,4 +1,3 @@
-bin/
 *.epub
 *.mobi
 .DS_Store
@@ -18,4 +17,6 @@ _source/assets/mediaelement/
 _source/assets/mediaelement/*
 _working/
 _working/*
+bin/
+public/
 tidy-errs.txt
