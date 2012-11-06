@@ -47,7 +47,7 @@ about where future research might take us.
 
 The early South we are in the process of recovering was deeply diverse:
 it was multireligious, multiethnic, and multiracial. As Philip Morgan
-recently wrote about colonial Virginia, "[u]northodoxy, no matter what
+recently wrote about colonial Virginia, "\[u\]northodoxy, no matter what
 the perspective, was widespread."[^3] Morgan's observations on Virginia
 could be usefully applied to the rest of the colonial South. Christian
 heterodoxy and general religious diversity were persistent and
@@ -343,10 +343,10 @@ understanding how Judaism came to the South and how Jewish people
 circulated throughout the Anglophone and Lusophone worlds. Jewish people
 came to the South individually or in small groups. In Maryland, Jacob
 Lumbrozo, identified as "the Jew doctor," was prosecuted "for uttering
-words of blesphemy agst [against] Our Blessed Sauiour Jesus Christ" in
+words of blesphemy agst \[against\] Our Blessed Sauiour Jesus Christ" in
 1658. Lumbrozo demurred, telling the Provincial Court that he had
-answered particular questions "[b]ut sayd not any thing scoffingly or in
-derogaon [derogation] of him, Christians acknowledge for their
+answered particular questions "\[b\]ut sayd not any thing scoffingly or in
+derogaon \[derogation\] of him, Christians acknowledge for their
 Messias."[^26] Lumbrozo was probably a Sephardic refugee who left Brazil
 after the conquest of Dutch Recife by the Portuguese in 1654. Though it
 is not clear why Lumbrozo chose to settle in Maryland over New
