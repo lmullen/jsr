@@ -528,7 +528,7 @@ that was at the heart of global slavery.
 [^7]: See, for example, Elkins, *Slavery*, 132.
 
 [^8]: Kenneth Stampp, *The Peculiar Institution: Slavery in the
-    Antebellum South* (1956; New York: Vintage Books, 1989), 362--363.
+    Antebellum South* (1956; New York: Vintage Books, 1989), 362--63.
 
 [^9]: U.B. Phillips, *American Negro Slavery* (1918; Baton Rouge:
     Louisiana State University Press, 1966), 314.
@@ -677,8 +677,8 @@ that was at the heart of global slavery.
     it onto Vesey. The best explication of this debate, and indeed a
     thorough and convincing rebuttal by the principle parties, can be
     found in a two-part series, Robert A. Gross, ed. "Forum: The Making
-    of a Slave Conspiracy," *The William and Mary Quarterly,* 58:4
-    (2001); and *The William and Mary Quarterly*, 59:1 (2002).
+    of a Slave Conspiracy," *William and Mary Quarterly,* 3rd. Ser., 58:4
+    (Oct. 2001): 913--976; and *William and Mary Quarterly*, 3rd. Ser., 59:1 (Jan. 2002): 135--202.
 
 [^53]: Robert Starobin ed., *Great Lives Observed: Denmark Vesey, The
     Slave Conspiracy of 1822* (Englewood Cliffs: Prentice Hall, 1970),
