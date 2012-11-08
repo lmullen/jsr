@@ -1,6 +1,6 @@
 -- use applescript to sync production directory to JSR production server
 
-with timeout of 600 seconds
+-- with timeout of 600 seconds
 
 tell application "Transmit"
 	-- Prevent interactive alerts from popping up during script execution
@@ -32,3 +32,5 @@ tell application "Transmit"
 		close
 	end tell
 end tell
+
+
