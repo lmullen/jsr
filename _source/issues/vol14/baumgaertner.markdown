@@ -1,9 +1,9 @@
 ---
 layout: article
 title: "Review: Dark Faith"
-author-first: Jill Paláez
+author-first: Jill Peláez
 author-last: Baumgaertner
-author: Jill Paláez Baumgaertner
+author: Jill Peláez Baumgaertner
 author-note: "Jill Peláez Baumgaertner is a professor of English and 
 dean of humanities and theological studies at Wheaton College."
 vol: 14
