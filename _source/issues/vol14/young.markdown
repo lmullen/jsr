@@ -4,7 +4,8 @@ title: "African Religions in the Early South"
 author-first: Jason
 author-last: Young
 author: Jason Young
-author-note: "Jason Young is an associate professor of history at the University of Buffalo."
+author-note: "Jason Young is an associate professor of history at the 
+University of Buffalo."
 vol: 14
 year: 2012
 ---
@@ -61,11 +62,11 @@ illiterate folk."[^8] In language as well as in religion, some concluded
 that Africans "merely followed and enlarged upon the Christian example
 provided by whites."[^9] According to historian Kenneth Stampp,
 
-There is no need to trace back to Africa the slave's...dread of witches,
-ghosts, and hobgoblins, his confidence in good-luck charms, his alarm at
-evil omens, his belief in dreams, and his reluctance to visit burying
-grounds after dark. These superstitions were all firmly rooted in
-Anglo-Saxon folklore.[^10]
+> There is no need to trace back to Africa the slave's...dread of
+> witches, ghosts, and hobgoblins, his confidence in good-luck charms,
+> his alarm at evil omens, his belief in dreams, and his reluctance to
+> visit burying grounds after dark. These superstitions were all firmly
+> rooted in Anglo-Saxon folklore.[^10]
 
 In the end, the slaves' English was broken, their manner brusque and
 their religion little more than ecstatic perversions of a more staid
@@ -90,9 +91,9 @@ In direct opposition to these claims, another historiographical
 tradition asserted the primacy of African culture and religion in the
 development of black culture in the United States and elsewhere. The
 clarion call for this approach can be found in Melville Herskovits's
-1941 publication, *The Myth of the Negro Past.* In it, Herskovits
-argued for the substantial, significant, and continued influence of
-Africa in the histories, lives and cultures of blacks throughout the
+1941 publication, *The Myth of the Negro Past.* In it, Herskovits argued
+for the substantial, significant, and continued influence of Africa in
+the histories, lives and cultures of blacks throughout the
 Americas.[^14] Herskovits' early arguments were strengthened in the work
 of subsequent scholars. For example, Sterling Stuckey argued not only
 that African cultural and religious elements persisted in the United
@@ -205,13 +206,13 @@ religions, leaving whole fields of religious belief and practice beyond
 the pale. Writing in the seminal *African Religions and Philosophy*
 (1969), John S. Mbiti describes traditional African religion this way:
 
-In traditional religions there are no creeds to be recited; instead the
-creeds are written in the heart of the individual.... There are no
-sacred scriptures. Religion in African societies is written not on
-paper, but in people's hearts.... There is no conversion from one
-traditional religion to another. A person has to be born in a particular
-society in order to assimilate the religious system.... African
-religions have neither founders nor reformers.[^27]
+> In traditional religions there are no creeds to be recited; instead
+> the creeds are written in the heart of the individual.... There are no
+> sacred scriptures. Religion in African societies is written not on
+> paper, but in people's hearts.... There is no conversion from one
+> traditional religion to another. A person has to be born in a
+> particular society in order to assimilate the religious system....
+> African religions have neither founders nor reformers.[^27]
 
 First published in 1969, *African Religions* reflected its time by
 underscoring the coherence and logic of African belief systems that had
@@ -243,12 +244,12 @@ contribute to greater cultural development, some saw this homogeneity as
 a sort of stifling, unchanging sameness. Writing in *Kenya before the
 White Man*, Christopher Wilson described it this way:
 
-It is surprising to know that for many thousands of years before the
-earliest records of historical time men of advanced physical type, with
-at least the rudiments of culture, lived in Kenya. It is still more
-surprising to realize that in spite of this eary start, those
-inhabitants of Kenya made almost no further progress towards higher
-human standards through all the centuries of history.[^30]
+> It is surprising to know that for many thousands of years before the
+> earliest records of historical time men of advanced physical type,
+> with at least the rudiments of culture, lived in Kenya. It is still
+> more surprising to realize that in spite of this eary start, those
+> inhabitants of Kenya made almost no further progress towards higher
+> human standards through all the centuries of history.[^30]
 
 Drawn principally from European travelers' accounts and missionary
 reports, these descriptions reflect less information about African
@@ -339,12 +340,12 @@ comes from enslaved Africans themselves who claimed Christianity as part
 of their African heritage. For example, in 1710, Francis Le Jau, an
 Anglican missionary in South Carolina noted:
 
-I have in this parish a few Negroe Slaves and were born and baptized
-among the Portuguese.... \[T\]hey come to Church and are well instructed
-so as to express a great desire to receive the H. communion *amongst
-us*, I proposed to them to declare openly their Abjuring the Errors of
-the Romish Church without which declaration I cou'd \[sic\] not receive
-them...[^38]
+> I have in this parish a few Negroe Slaves and were born and baptized
+> among the Portuguese.... \[T\]hey come to Church and are well instructed
+> so as to express a great desire to receive the H. communion *amongst
+> us*, I proposed to them to declare openly their Abjuring the Errors of
+> the Romish Church without which declaration I cou'd \[sic\] not receive
+> them...[^38]
 
 After an eighteen-month term of religious instruction, Le Jau finally
 welcomed two of the men to communion. But despite Le Jau's best efforts
@@ -412,18 +413,18 @@ Georgia planter Thomas Spalding, remembered seeing "devout mussulmans,
 who prayed to Allah ... morning, noon and evening" on the Spalding
 planation.[^46] In antebellum Georgia, Umar ibn Said, an enslaved
 African, transcribed the opening chapter of the Qu'ran, passing it off
-as the Lord's prayer.[^47] These examples could be much multiplied
-to include several enslaved Muslims who achieved some degree of
-celebrity in the United States. Abd-Rahman, known as "The Prince,"
-became the most popular African in America and a *cause-celèbre* in the
-1820s when a national humanitarian campaign won him not only his
-freedom, but also his repatriation to Africa. Enslaved Muslims
-contributed to African American society not only in the maintenance of
-their faith, but also in the very process of African American identity
-formation in the United States. As Gomez notes, enslaved Muslims tended
-to be among the first enslaved Africans to eschew their own particular
-ethnic identities in favor of larger group identities and ultimately, to
-race-based affiliations.
+as the Lord's prayer.[^47] These examples could be much multiplied to
+include several enslaved Muslims who achieved some degree of celebrity
+in the United States. Abd-Rahman, known as "The Prince," became the most
+popular African in America and a *cause-celèbre* in the 1820s when a
+national humanitarian campaign won him not only his freedom, but also
+his repatriation to Africa. Enslaved Muslims contributed to African
+American society not only in the maintenance of their faith, but also in
+the very process of African American identity formation in the United
+States. As Gomez notes, enslaved Muslims tended to be among the first
+enslaved Africans to eschew their own particular ethnic identities in
+favor of larger group identities and ultimately, to race-based
+affiliations.
 
 Of course, African forms of Christianity and Islam persisted in the
 slave communities of early British North America alongside that wide
@@ -507,7 +508,6 @@ emergence and maintenance of traditional African religious practices,
 but also in the persistence of Christianity and Islam, which were each
 and all intimately connected to the grand exchange of goods and people
 that was at the heart of global slavery.
-
 
 [^1]: Albert J. Raboteau, *Slave Religion: The 'Invisible Institution'
     in the Antebellum South* (New York: Oxford University Press, 1978),
@@ -677,8 +677,9 @@ that was at the heart of global slavery.
     it onto Vesey. The best explication of this debate, and indeed a
     thorough and convincing rebuttal by the principle parties, can be
     found in a two-part series, Robert A. Gross, ed. "Forum: The Making
-    of a Slave Conspiracy," *William and Mary Quarterly,* 3rd. Ser., 58:4
-    (Oct. 2001): 913--976; and *William and Mary Quarterly*, 3rd. Ser., 59:1 (Jan. 2002): 135--202.
+    of a Slave Conspiracy," *William and Mary Quarterly,* 3rd. Ser.,
+    58:4 (Oct. 2001): 913--976; and *William and Mary Quarterly*, 3rd.
+    Ser., 59:1 (Jan. 2002): 135--202.
 
 [^53]: Robert Starobin ed., *Great Lives Observed: Denmark Vesey, The
     Slave Conspiracy of 1822* (Englewood Cliffs: Prentice Hall, 1970),
