@@ -6,8 +6,8 @@ categories:
 - podcast
 author: Art Remillard
 podcast-filename: "jsr.ep008.joshuarothman.mp3"
-podcast-filesize: 51152
-podcast-running-time: "26:59"
+podcast-filesize: 54112
+podcast-running-time: "28:34"
 podcast-episode: 8
 ---
 
