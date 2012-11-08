@@ -310,7 +310,7 @@ the piety and prayer associated with the contemplative life *and* the
 social and political hierarchies that were an everyday reality."[^30]
 Getting the balance right in this regard can be challenging. The ongoing
 rehabilitation of southern Anglicanism should not obscure the fact that
-its entanglement with slavery---both lay piety and the power of
+its entanglement with slavery---as much as lay piety and the power of
 vestries---helped determine the particular features of the colonial
 Church of England. Atlantic perspectives are particularly valuable in
 this context because the fusion of legally-established Anglicanism with
