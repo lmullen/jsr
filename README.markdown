@@ -13,10 +13,10 @@ branches contain working copies of new issues.
 
 ## License
 
-The markup and code for this site is copyrighted by Lincoln Mullen, and
-licensed under the terms of the MIT License. You are free to use the
-markup for whatever purpose you wish. In general, this includes all
-files outside of the `issues/`, `_posts/`, and other content
+The markup and code for this site is copyrighted by Lincoln Mullen, and 
+licensed under the terms of the MIT License. You are free to use the 
+markup for whatever purpose you wish. In general, this includes all 
+files outside of the `issues/`, `_posts/`, and other content 
 directories. See the file `LICENSE-code.txt` for the full license.
 
 The content for this site is copyrighted by the Journal of Southern

@@ -40,11 +40,6 @@ material are licensed under a <a rel="license"
 href="http://creativecommons.org/licenses/by/3.0/deed.en_US">Creative
 Commons Attribution 3.0 Unported License</a>.
 
-<p><a rel="license"
-href="http://creativecommons.org/licenses/by/3.0/deed.en_US"><img
-alt="Creative Commons License" style="border-width:0"
-src="http://i.creativecommons.org/l/by/3.0/88x31.png" /></a></p>
-
 This license grants you permission to use the material published in the
 journal as you see fit, for example, in course packs, on course
 websites, and in quotations in other scholarly works. In return, you
@@ -151,9 +146,6 @@ restricted by word length requirements.
 ### JSR Style
 
 All manuscripts should follow the *Chicago Manual of Style*.
-
-Manuscripts should use endnotes, which will be linked to the text and
-can be descriptive as well as documentary.
 
 ## Book Review Guidelines
 

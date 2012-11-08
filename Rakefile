@@ -23,7 +23,7 @@ task :dev_deploy do
 	# uploads preview version via SSH and rsync
 	# does NOT delete other files on the server
 	puts 'Deploying dev preview to <lincolnmullen.com/dev/jsr/> with rsync.'
-	sh 'rsync -avze ssh public/ lam:/home/lincolnm/public_html/dev/jsr/'
+	sh 'rsync --size-only -avze ssh public/ lam:/home/lincolnm/public_html/dev/jsr/'
 	puts 'Successfully deployed site!'
 end
 
@@ -74,7 +74,6 @@ task :preview do
 	# Generates the site locally, launches a server, auto regenerates
 	# Jekyll gets URLS from options passed to command line
 	# Other options are taken from _config.yml
-	Rake::Task["clean"].invoke
 	Rake::Task["assets"].invoke
 	puts 'Previewing site with a local server.'
 	puts 'See the site at <http://localhost:5000/>.'
@@ -104,7 +103,7 @@ end
 desc 'assemble Bootstrap and other Javascripts'
 task :js do
 	# concatenate just the scripts that we need 
-	sh 'cat ./_bootstrap/js/bootstrap-dropdown.js ./_bootstrap/js/bootstrap-collapse.js ./_bootstrap/js/bootstrap-tooltip.js ./_source/assets/audio-player/audio-player.js ./_footnotify/footnotify.js > ./_bootstrap/jsr.tmp.js'
+	sh 'cat ./_bootstrap/js/bootstrap-dropdown.js ./_bootstrap/js/bootstrap-collapse.js ./_bootstrap/js/bootstrap-tooltip.js ./_bootstrap/js/bootstrap-popover.js ./_source/assets/audio-player/audio-player.js ./_footnotify/footnotify.js > ./_bootstrap/jsr.tmp.js'
 	# compress the JavaScript and copy it to our js directory
 	sh 'uglifyjs -nc ./_bootstrap/jsr.tmp.js > ./_source/assets/js/jsr.min.js'
 	# remove the temporary file
@@ -131,8 +130,18 @@ task :mediaelement do
 	sh 'cp -R _mediaelement/build _source/assets/mediaelement'
 end
 
+desc 'generate EPUBs and MOBIs of issues'
+task :ebookgen do
+  puts 'Generating EPUBs'
+  system "jekyll-ebook #{Dir.glob('epubs/*.yml').join(' ')}"
+  puts 'Generating MOBIs'
+  Dir.glob( '_source/assets/ebooks/*.epub').each do |f|
+    system "bin/kindlegen #{f}"
+  end
+end
+
 desc 'update all assets'
-task :assets => [:img, :js, :css, :mediaelement] do
+task :assets => [:img, :js, :css, :mediaelement, :ebookgen] do
 	puts 'Successfully updated all assets.'
 end
 
