@@ -1,0 +1,25 @@
+---
+title: Interview with Mark Silk
+layout: podcast
+categories:
+- new-media
+- podcast
+author: Art Remillard
+podcast-filename: "jsr.ep010.marksilk.mp3"
+podcast-filesize: 49768
+podcast-running-time: "26:16"
+podcast-episode: 10
+---
+
+In this podcast, [Art Remillard][] speaks with [Mark Silk][] about religion and the 2012 presidential election. Silk is Professor of Religion in Public life at Trinity College in Hartford, Connecticut, and director of the [Leonard E. Greenberg Center][] for the Study of Religion in Public Life. Among his many publications, Silk co-edited an eight-volume [series][] on religion and region, which culminated in his 2008 book, *[One Nation, Divisible][]*, co-authored with [Andrew Walsh][]. Silk also blogs at "[Spiritual Politics][]," which is hosted by the [Religion News Service][]. In this conversation, Silk begins by discussing his unique career path, from a doctorate in medieval history at Harvard, to the *Atlanta Journal-Constitution*, and then back to academia. He goes on to offer insight on the major themes of the presidential race, such as the gaining influence of the religiously unaffiliated (or "[nones][]"), Mitt Romney's Mormonism, and the possible declining influence of the "evangelical vote." This is the first of three podcasts recorded at the annual meeting of the [American Academy of Religion][] in Chicago.
+
+  [Art Remillard]: http://www.francis.edu/arthur-remillard/
+  [Mark Silk]: http://internet2.trincoll.edu/facProfiles/Default.aspx?fid=1000783
+  [Leonard E. Greenberg Center]: http://www.trincoll.edu/Academics/centers/GreenbergCenter/Pages/default.aspx
+  [series]: https://rowman.com/Action/SERIES/RL/RRP
+  [One Nation, Divisible]: https://rowman.com/ISBN/9780742558458
+  [Andrew Walsh]: http://internet2.trincoll.edu/facProfiles/Default.aspx?fid=1000778
+  [Spiritual Politics]: http://www.religionnews.com/blogs/mark-silk
+  [Religion News Service]: http://www.religionnews.com/
+  [nones]: http://www.pewforum.org/Unaffiliated/nones-on-the-rise.aspx
+  [American Academy of Religion]: http://www.aarweb.org/meetings/annual_meeting/Current_Meeting/default.asp
