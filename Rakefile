@@ -141,7 +141,7 @@ task :ebookgen do
 end
 
 desc 'update all assets'
-task :assets => [:img, :js, :css, :mediaelement, :ebookgen] do
+task :assets => [:img, :js, :css, :mediaelement] do
 	puts 'Successfully updated all assets.'
 end
 
