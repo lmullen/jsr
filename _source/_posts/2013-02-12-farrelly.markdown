@@ -1,0 +1,30 @@
+---
+title: Interview with Maura Jane Farrelly
+layout: podcast
+categories:
+- new-media
+- podcast
+author: Art Remillard
+podcast-filename: "jsr.ep013.farrelly.mp3"
+podcast-filesize: 58976
+podcast-running-time: "31:10"
+podcast-episode: 13
+---
+
+In this podcast, [Art Remillard][] speaks with [Maura Jane Farrelly][]
+about her new book, *[Papist Patriots: The Making of an American
+Catholic Identity][]*. Farrelly is Assistant Professor of American
+Studies at Brandeis University, where she also directs the Journalism
+Program. During this conversation, Farrelly discusses how Catholics in
+colonial Maryland came to accept what Jesuit theologian John Courtney
+Murray has called the "American consensus." However, unlike Murray who
+stressed the role of natural law theology, *Papist Patriots* examines
+the unique and complicated experiences of Catholics in the colony.
+Farrelly concludes with a reflection on how her work---to include her
+JSR article, "[Catholics in the Early South][]"---might influence the
+broader telling of southern religious history.
+
+  [Art Remillard]: http://www.francis.edu/arthur-remillard/
+  [Maura Jane Farrelly]: http://www.brandeis.edu/programs/american-studies/faculty/farrelly.html
+  [Papist Patriots: The Making of an American Catholic Identity]: http://www.oup.com/us/catalog/general/subject/ReligionTheology/American/?view=usa&ci=9780199757718
+  [Catholics in the Early South]: Professor
