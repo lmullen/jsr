@@ -1,6 +1,5 @@
 -- use applescript to sync production directory to JSR production server
 
-with timeout of 600 seconds
 
 tell application "Transmit"
 	-- Prevent interactive alerts from popping up during script execution
@@ -27,8 +26,10 @@ tell application "Transmit"
 		change location of remote browser to path remotePath
 		
 		-- Run a sync from the current local folder to the current remote folder
-		synchronize local browser to remote browser using skip rules myRules with follow symlinks, automatically determine time offset and compare using size
-		-- Close the current window
+		with timeout of 3600 seconds
+			synchronize local browser to remote browser using skip rules myRules with follow symlinks, automatically determine time offset and compare using size
+			-- Close the current window
+		end timeout
 		close
 	end tell
 end tell
