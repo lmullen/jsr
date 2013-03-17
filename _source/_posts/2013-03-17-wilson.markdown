@@ -1,0 +1,41 @@
+---
+title: Reviewing Charles Reagan Wilson's Flashes of a Southern Spirit
+layout: podcast
+categories:
+- new-media
+- podcast
+author: Art Remillard
+podcast-filename: "jsr.ep015.wilson.mp3"
+podcast-filesize: 28936
+podcast-running-time: "15:08"
+podcast-episode: 15
+---
+
+Among the many highlights of this year's southeastern regional meeting
+of the [American Academy of Religion][] was a panel review of Charles
+Reagan Wilson's *[Flashes of a Southern Spirit: Meanings of the Spirit
+in the U.S. South][]*. In this podcast, [Art Remillard][] talks with
+[Professor Wilson][] as well as two of the panelists, [Anne Blue
+Wills][] of Davidson College and [Rodger Payne][] of UNC-Ashville.
+Wilson is Kelly Gene Cook Senior Chair of History and Professor of
+Southern Studies at the University of Mississippi. He is the author of
+*[Baptized in Blood: The Religion of the Lost Cause, 1865-1920][]* and
+co-editor of *[The New Encyclopedia of Southern Culture][]*. In this
+discussion, the panelists consider how Wilson's focus on "the spirit"
+might be used in analyzing everything from southern stereotypes on
+reality television to the unique religious culture of Italian Catholics
+in the region. Wilson concludes the conversation, reflecting on what the
+reviewers taught him about "the spirit."
+
+Amanda Porterfield [reviewed][] *Flashes of a Southern Spirit* in volume
+13 of the *JSR*.
+
+  [American Academy of Religion]: http://groups.wfu.edu/secsor/
+  [Flashes of a Southern Spirit: Meanings of the Spirit in the U.S. South]: http://www.ugapress.org/index.php/books/southern_spirit/
+  [Art Remillard]: http://francis.edu/arthur-remillard/
+  [Professor Wilson]: http://southernstudies.olemiss.edu/2012/03/02/charles-reagan-wilson/
+  [Anne Blue Wills]: http://www3.davidson.edu/cms/x6041.xml?ss=print
+  [Rodger Payne]: http://religiousstudies.unca.edu/faces/faculty/dr-rodger-m-payne
+  [Baptized in Blood: The Religion of the Lost Cause, 1865-1920]: http://www.ugapress.org/index.php/books/baptized_in_blood/
+  [The New Encyclopedia of Southern Culture]: http://uncpress.unc.edu/browse/page/284
+  [reviewed]: http://jsr.fsu.edu/issues/vol13/porterfield.html

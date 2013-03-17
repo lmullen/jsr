@@ -19,7 +19,7 @@ of Baylor University. Coker discusses how his book, *[Liquor in the Land
 of the Lost Cause][]* served as backdrop for this issue. Remillard then
 interviews contributor [John Hayes][] of Georgia Regents University
 about his article, "The Evangelical Ethos and the Spirit of
-Capitialism." Hayes examines the role played by evangelicals in the
+Capitalism." Hayes examines the role played by evangelicals in the
 emergence of a market revolution in the South. He also offers a brief
 glimpse into his forthcoming book on southern folk Christianity. The
 podcast concludes with [Glenn Feldman][] of the University of Alabama at
