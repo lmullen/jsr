@@ -22,4 +22,4 @@ concepts of prophecy within pentecostalism.
 
   [Art Remillard]: http://francis.edu/arthur-remillard/
   [Joseph Williams]: http://religion.rutgers.edu/faculty-navmenu-117/core-faculty/507-joseph-w-williams-assistant-professor
-  [Spirit Cure: A History of Pentecostal Healing]: http://www.oupcanada.com/catalog/9780199765676.html
+  [Spirit Cure: A History of Pentecostal Healing]: http://www.oup.com/us/catalog/general/subject/ReligionTheology/American/?view=usa&ci=9780199765676
