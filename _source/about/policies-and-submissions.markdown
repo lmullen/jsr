@@ -205,7 +205,7 @@ The following information should appear at the top of the review:
 > Author. *Full Title of the Book*. Place of Publishing: Publisher, Date
 > of Publication. Number of Pages. ISBN. Reviewed by Name of Author.
 
-Please list your name and affiliation at the end of the essay.
+Please list your name, current status, department, and affiliation at the end of the review; such as: Arthur Remillard is an associate professor of Religious Studies at Saint Francis University.
 
 Reviewers should consult the *Chicago Manual of Style* on all questions
 of style. Please supply page numbers for all quoted passages. Use the
