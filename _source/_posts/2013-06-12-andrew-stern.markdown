@@ -7,7 +7,7 @@ categories:
 author: Art Remillard
 podcast-filename: "jsr.ep018.andrewstern.mp3"
 podcast-filesize: 40264
-podcast-running-time: "12:12"
+podcast-running-time: "21:11"
 podcast-episode: 18
 ---
 
