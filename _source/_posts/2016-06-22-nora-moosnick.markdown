@@ -22,5 +22,4 @@ of collecting oral histories in an age of instant celebrity.
 
   [Art Remillard]: http://francis.edu/arthur-remillard/
   [Nora Rose Moosnick]: http://ethnickentuckian.com/about-the-author/
-  [Arab and Jewish Women in Kentucky: Stories of Accommodation and
-  Audacity]: http://www.kentuckypress.com/live/title_detail.php?titleid=2948
+  [Arab and Jewish Women in Kentucky: Stories of Accommodation and Audacity]: http://www.kentuckypress.com/live/title_detail.php?titleid=2948
