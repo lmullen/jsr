@@ -157,3 +157,9 @@ task :clean do
   puts 'Cleaning generated files.'
   sh 'rm -r ./public/*'
 end
+
+desc 'Preview using compass'
+task :newpreview do
+  sh 'compass compile'
+  sh 'jekyll --auto --server --base-url / --url http://localhost:4000'
+end
