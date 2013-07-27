@@ -21,3 +21,6 @@ bin/
 kindlegen
 public/
 tidy-errs.txt
+.sass-cache
+_source/assets/css/styles.css
+_source/assets/css

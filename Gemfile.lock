@@ -4,10 +4,16 @@ GEM
     albino (1.3.3)
       posix-spawn (>= 0.3.6)
     bootstrap-sass (2.0.3.1)
+    chunky_png (1.2.8)
     classifier (1.3.3)
       fast-stemmer (>= 1.0.0)
+    compass (0.12.2)
+      chunky_png (~> 1.2)
+      fssm (>= 0.2.7)
+      sass (~> 3.1)
     directory_watcher (1.4.1)
     fast-stemmer (1.0.1)
+    fssm (0.2.10)
     jekyll (0.11.2)
       albino (~> 1.3)
       classifier (~> 1.3)
@@ -24,6 +30,7 @@ GEM
     pandoc-ruby (0.6.0)
     posix-spawn (0.3.6)
     rake (10.0.4)
+    sass (3.2.10)
     syntax (1.0.0)
 
 PLATFORMS
@@ -31,6 +38,7 @@ PLATFORMS
 
 DEPENDENCIES
   bootstrap-sass (= 2.0.3.1)
+  compass
   jekyll (~> 0.11.2)
   jekyll-ebook (~> 0.0.2)
   rake
