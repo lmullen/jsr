@@ -1,0 +1,19 @@
+---
+title: "Interview with Elaine Neil Orr"
+layout: podcast
+categories:
+- new-media
+- podcast
+author: Art Remillard
+podcast-filename: "jsr.ep021.elaineorr.mp3"
+podcast-filesize: 21292
+podcast-running-time: "22:25"
+podcast-episode: 21
+---
+
+In this podcast, [Art Remillard][] talks with [Elaine Neil Orr][] about her debut novel, *[A Different Sun][]*. Orr is Professor of English at North Carolina State University. She also serves on the faculty of the brief-residency [MFA in Writing Program][] at Spalding University. The novel starts in 1840, and follows the transatlantic odyssey of Emma Davis Bowen, an idealistic young woman who marries a missionary and leaves her Georgia home for West Africa. There, Emma confronts a culture, landscape, and population that challenges and transforms her spiritual worldview. In our conversation, Orr discusses how her background as the daughter of medical missionaries inspired this novel. She concludes by thinking about how her future projects might further develop the characters created in this book.
+
+  [Art Remillard]: http://francis.edu/arthur-remillard/
+  [Elaine Neil Orr]: http://www.elaineneilorr.net/
+  [MFA in Writing Program]: http://spalding.edu/academics/mfa-in-writing/
+  [A Different Sun]: http://www.amazon.com/Different-Sun-Novel-Africa/dp/0425261301
