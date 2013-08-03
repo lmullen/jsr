@@ -3,11 +3,11 @@
 // -----------------------------------------------------
 
 #page {
-  background-color: @white;
+  background-color: $white;
   padding: 12px;
   margin-top: 12px;
   margin-bottom: 12px;
-  .border-radius(12px);
+  // .border-radius(12px);
 }
 
 #title h1 {
@@ -21,11 +21,11 @@
 }
 
 #title h1 .title-line1 {
-  color: @jsrBlueDarker;
+  color: $jsrBlueDarker;
 }
 
 #title h1 .title-line2 {
-  color: @jsrOrange;
+  color: $jsrOrange;
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -106,12 +106,12 @@ a.download {
 }	
 
 .label {
-  font-family: @sansFontFamily;
+  font-family: $sansFontFamily;
   font-size: 13px * .846;
 }
 
 .tooltip {
-  font-family: @sansFontFamily;
+  font-family: $sansFontFamily;
 }
 
 .footnotes p, .footnotes ol li {
