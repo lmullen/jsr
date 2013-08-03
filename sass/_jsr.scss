@@ -1,0 +1,198 @@
+// additions.less
+// Customize Bootstrap CSS for JSR theme
+// -----------------------------------------------------
+
+#page {
+  background-color: @white;
+  padding: 12px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  .border-radius(12px);
+}
+
+#title h1 {
+  font-size: 52px;
+  margin: 0 0 20px 0;
+  line-height: 48px;
+}
+
+#title h1 a {
+  text-decoration: none;
+}
+
+#title h1 .title-line1 {
+  color: @jsrBlueDarker;
+}
+
+#title h1 .title-line2 {
+  color: @jsrOrange;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  line-height: 1.33em;
+}
+
+footer p {
+  text-align: center;
+}
+
+a.btn {
+  text-decoration: none;
+}
+
+.page-header h1 {
+  text-align: center;
+}
+
+.journal-title {
+  font-size: 52px;
+}
+
+#subscribe {
+  //float:right;
+  margin: 32px 20px 20px 0;
+}
+
+dt {
+  font-weight:normal;
+}
+
+dd {
+  margin-bottom: 6px;
+}
+
+.icon-rss, .icon-twitter, .icon-facebook, .icon-email, .icon-itunes, .icon-ebook {
+  width: 24px;
+  height: 24px;
+  background-position: 0;	
+  vertical-align: middle;
+  margin-right:.4em;
+}
+
+.icon-rss {
+  background-image: url(../img/glyphicons_397_rss.png);
+}
+
+.icon-twitter {
+  background-image: url(../img/glyphicons_392_twitter.png);
+}
+
+.icon-facebook {
+  background-image: url(../img/glyphicons_390_facebook.png);
+}
+
+.icon-email {
+  background-image: url(../img/glyphicons_399_e-mail.png);
+}
+
+.icon-itunes {
+  background-image: url(../img/glyphicons_169_albums-2.png);
+}
+
+.icon-ebook {
+  background-image: url(../img/glyphicons_071_book.png);
+}
+
+a.subscribe {
+  margin-right: 8px;
+}
+a.download {
+  margin-right: 30px;
+  font-weight: bold;
+  text-decoration: none;
+}
+.citation {
+  word-wrap: break-word;      /* IE 5+ */
+}	
+
+.label {
+  font-family: @sansFontFamily;
+  font-size: 13px * .846;
+}
+
+.tooltip {
+  font-family: @sansFontFamily;
+}
+
+.footnotes p, .footnotes ol li {
+  font-size: 14px;
+  line-height: 18px;
+}
+
+sup {
+  top: -0.75em;
+}
+
+.chevron-link {
+  margin-left: 20px;
+}
+
+img.centered {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.book-reviewed {
+  margin: 0 54px;
+}
+
+.hanging {
+  padding-left: 30px;
+}
+
+.addthis_toolbox {
+  margin-bottom: 20px;
+}
+
+/////// Footnotify //////////
+/*
+ * Customize Footnotify on your site by adding custom css.
+ * More info: https://gist.github.com/1046538
+ */
+#footnotify_panel {
+  -webkit-border-radius: 2px 2px;
+  -moz-border-radius: 2px / 2px;
+  -o-border-radius: 2px / 2px;
+  -ms-border-radius: 2px / 2px;
+  -khtml-border-radius: 2px / 2px;
+  border-radius: 2px / 2px;  
+}
+
+#footnotify_panel .footnoteBackLink,
+#footnotify_panel a[rev=footnote] {
+  display:none;
+}
+
+.footnotify_target_clone {
+  position:absolute;
+  z-index:1000;
+  padding:13px 4px;
+  margin-left:-4px;
+  background:#EED300;
+  color:#8f733f !important;
+  -webkit-border-radius: 3px 3px;
+  -moz-border-radius: 3px / 3px;
+  -o-border-radius: 3px / 3px;
+  -ms-border-radius: 3px / 3px;
+  -khtml-border-radius: 3px / 3px;
+  border-radius: 3px / 3px;
+  pointer-events: none;    
+  text-decoration: underline;
+}
+
+.footnotify_click_help {
+  color:#740000;
+}
+
+a[href$=".pdf"] {
+	background: url("../img/pdf.gif") no-repeat scroll left center transparent;
+	display: inline-block;
+  margin-bottom: 18px;
+	padding: 0px 0px 0px 32px;
+}
+
+#ebooks {
+  text-align: center;
+  padding-bottom: 1.0em;
+}

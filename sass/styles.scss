@@ -2,4 +2,7 @@
 @import "bootstrap";
 
 // Include responsive Bootstrap styles
-// @import "bootstrap-responsive";
+@import "bootstrap-responsive";
+
+// Include the JSR customizations
+@import "jsr"
