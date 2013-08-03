@@ -160,6 +160,19 @@ end
 
 desc 'Preview using compass'
 task :newpreview do
-  sh 'compass compile'
-  sh 'jekyll --auto --server --base-url / --url http://localhost:4000'
+
+  puts "Previewing the site locally with Jekyll and Compass."
+
+  system "compass compile"
+  jekyllPid  = Process.spawn("jekyll --auto --server --base-url / --url http://localhost:4000")
+  compassPid = Process.spawn("compass watch")
+
+  trap("INT") {
+    [jekyllPid, compassPid].each { |pid| Process.kill(9, pid) rescue Errno::ESRCH }
+    exit 0
+  }
+
+  [jekyllPid, compassPid].each { |pid| Process.wait(pid) }
+
 end
+
