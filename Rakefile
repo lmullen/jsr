@@ -1,36 +1,5 @@
-desc 'list available rake tasks'
-task :default do
-	puts 'There is no default task for your own safety.' 
-	puts 'Try one of these specific tasks:'
-	sh 'rake --tasks --silent'
-end
-
-#generate and deploy tasks
-desc 'build development site using Jekyll'
-task :dev_gen do
-	# builds the site using Jekyll
-	# Jekyll will get use URLs passed to command line
-	# Jekyll will take other configurations from _config.yml
-	puts 'Generating the development site.'
-	Rake::Task["assets"].invoke
-	sh "jekyll --base-url http://lincolnmullen.com/dev/jsr/ --url http://lincolnmullen.com/dev/jsr --no-auto"
-	Rake::Task["tidy"].invoke
-	puts 'Successfully built site!'
-end
-
-desc 'deploy development site with rsync'
-task :dev_deploy do
-	# uploads preview version via SSH and rsync
-	# does NOT delete other files on the server
-	puts 'Deploying dev preview to <lincolnmullen.com/dev/jsr/> with rsync.'
-	sh 'rsync --size-only -avze ssh public/ lam:/home/lincolnm/public_html/dev/jsr/'
-	puts 'Successfully deployed site!'
-end
-
-desc 'generate and deploy the development site'
-task :dev => [:dev_gen, :dev_deploy] do
-	puts 'Generated and deployed the development site in one step.'
-end
+desc "Preview the site locally"
+task :default => :preview
 
 desc 'generate staging site'
 task :staging_gen do
@@ -44,7 +13,6 @@ task :staging_gen do
 	puts 'Successfully built staging site!'
 end
 
-desc 'generate production site'
 task :production_gen do
 	# builds the site using Jekyll
 	# Jekyll will get use URLs passed to command line
@@ -56,51 +24,10 @@ task :production_gen do
 	puts 'Successfully built production site!'
 end
 
-desc 'copy production site to synced directory and put on server'
-task :production_deploy do
-	# copies the generated site to the local copy of webdav server
-	sh "cp -R public/ ../jsr-production/"
-	# uses a Transmit Applescript to sync the local copy to webdav
-	sh 'osascript transmit-production.applescript'
-end
-
 desc 'generate and deploy the production site'
-task :production => [:production_gen, :production_deploy] do
-	puts 'Generated and deployed the production site in one step.'
-end
-
-desc 'preview site locally'
-task :preview do
-	# Generates the site locally, launches a server, auto regenerates
-	# Jekyll gets URLS from options passed to command line
-	# Other options are taken from _config.yml
-	Rake::Task["assets"].invoke
-	puts 'Previewing site with a local server.'
-	puts 'See the site at <http://localhost:5000/>.'
-	puts 'Use CTRL+C to interrupt.'
-	sh 'jekyll --auto --server --base-url / --url http://localhost:5000'
-	# after the server is interrupted
-	puts 'Finished previewing the site locally.'
-end
-
-desc 'preview site using POW'
-task :pow do
-  # Generates the site locally, does not launch a server but uses POW 
-  # instead, auto regenerates
-  # Jekyll gets URLS from options passed to command line
-  # Other options are taken from _config.yml
-  Rake::Task["clean"].invoke
-  Rake::Task["assets"].invoke
-  puts 'Regenerating site for POW server.'
-  puts 'Use CTRL+C to interrupt.'
-  sh 'jekyll --auto  --base-url / --url http://jsr.dev'
-  # after the server is interrupter
-  puts 'Finished previewing the site with POW.'
-end
+task :production => [:production_gen]
 
 #helper functions
-
-desc 'assemble Bootstrap and other Javascripts'
 task :js do
 	# concatenate just the scripts that we need 
 	sh 'cat ./_bootstrap/js/bootstrap-dropdown.js ./_bootstrap/js/bootstrap-collapse.js ./_bootstrap/js/bootstrap-tooltip.js ./_bootstrap/js/bootstrap-popover.js ./_source/assets/audio-player/audio-player.js ./_footnotify/footnotify.js > ./_bootstrap/jsr.tmp.js'
@@ -141,7 +68,7 @@ task :ebookgen do
 end
 
 desc 'update all assets'
-task :assets => [:img, :js, :css, :mediaelement] do
+task :assets => [:mediaelement] do
 	puts 'Successfully updated all assets.'
 end
 
@@ -159,7 +86,7 @@ task :clean do
 end
 
 desc 'Preview using compass'
-task :newpreview do
+task :preview => [:assets] do
 
   puts "Previewing the site locally with Jekyll and Compass."
 
