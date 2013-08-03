@@ -1,6 +1,6 @@
 source "https://rubygems.org/"
 gem "jekyll", "~> 0.11.2"
 gem "jekyll-ebook", "~> 0.0.2"
-gem "rake"
+gem "rake", "~> 10.1.0"
 gem "bootstrap-sass", "2.0.3.1"
-gem "compass"
+gem "compass", "~> 0.12.2"
