@@ -85,26 +85,9 @@ constitute a single journal volume.
 
 Submissions to the *JSR* are fully peer-reviewed by members of the
 editorial board and their designees. Electronic submissions are
-preferred. Please submit via email to both of the editors.
+preferred. Please submit via email to the *JSR* managing editor.
 
--	Michael Pasquier, [mpasquier@lsu.edu](mailto:mpasquier@lsu.edu)
--	Luke Harlow, [lharlow1@utk.edu](mailto:lharlow1@utk.edu)
-
-Authors wishing to submit paper manuscripts should contact the editors,
-after which they may send three double-spaced copies to:
-
-> Luke Harlow, editor, Journal of Southern Religion  
-> Department of History  
-> University of Tennessee, Knoxville  
-> Knoxville, Tennessee 37996
-
-and
-
-> Michael Pasquier, editor, Journal of Southern Religion  
-> Department of Philosophy and Religious Studies  
-> Louisiana State University  
-> 102 Coates Hall  
-> Baton Rouge, LA 70803
+-	Emily Suzanne Clark, [esclark@fsu.edu](mailto:esclark@fsu.edu)
 
 Unsolicited manuscripts should fit broadly into one or more of the
 categories outlined by the journal's editorial policies. Materials
@@ -112,10 +95,9 @@ submitted to *JSR* must not have been previously published nor submitted
 for publication elsewhere while under review by *JSR* editors. 
 
 All submissions should be accompanied by the author's name, current
-institutional affiliation, postal and e-mail addresses. Paper
-manuscripts will not be returned. In most cases, authors will be
-notified within ninety days whether or not their submission has been
-accepted. 
+institutional affiliation, postal and e-mail addresses. In most cases,
+authors will be notified within ninety days whether or not their 
+submission has been accepted.
 
 Electronic publication allows for the addition of images and other
 visual or auditory aids, and the editors encourage authors to include
@@ -145,7 +127,7 @@ restricted by word length requirements.
 
 ### JSR Style
 
-All manuscripts should follow the *Chicago Manual of Style*.
+All manuscripts must follow the *Chicago Manual of Style*.
 
 ## Book Review Guidelines
 
