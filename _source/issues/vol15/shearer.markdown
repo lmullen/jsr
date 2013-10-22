@@ -91,7 +91,7 @@ aesthetic that reflects a history, ritual, and social interaction of a
 collective Black ethnic, holistic, cultural identity" ("Justified,
 Sanctified, and Redeemed: Blessed Expectation in Black Women's Blues and
 Gospels," in Emilie Maureen Townes, ed. *Embracing the Spirit: Womanist
-Perspectives on Hope, Salvation, and Transformation* [1997], 151). The
+Perspectives on Hope, Salvation, and Transformation* \[1997\], 151). The
 themes of sorrow and remorse, abandon and return, and faithfulness and
 betrayal resonated with and were sometimes drawn from religious sources.
 A bit more attention to those connections would have strengthened an
