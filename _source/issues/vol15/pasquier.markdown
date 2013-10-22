@@ -7,7 +7,8 @@ author: Michael Pasquier
 author-note: "Michael Pasquier is an associate professor of Religious Studies at Louisiana State University."
 vol: 15
 year: 2013
-book-reviewed: "Emily Epstein Landau. Spectacular Wickedness: Sex, Race, and Memory in Storyville, New Orleans. Baton Rouge: Louisiana State University, 2013. xviii + 310 pp. ISBN 978-0-80715-014-6."
+book-reviewed: "Emily Epstein Landau. <em>Spectacular Wickedness: Sex, 
+Race, and Memory in Storyville, New Orleans</em>. Baton Rouge: Louisiana State University, 2013. xviii + 310 pp. ISBN 978-0-80715-014-6."
 ---
 
 Today, the popular image of Storyville as the most (in)famous

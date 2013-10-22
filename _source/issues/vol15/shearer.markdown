@@ -7,7 +7,7 @@ author: Tobin Miller Shearer
 author-note: "Tobin Miller Shearer is an assistant professor of History at University of Montana."
 vol: 15
 year: 2013
-book-reviewed: "R. A. Lawson. Jim Crow's Counterculture: The Blues and Black Southerners 1890-1945. Baton Rouge: Louisiana State University Press, 2010. 304 pp. ISBN 978-0-8071-5227-0."
+book-reviewed: "R. A. Lawson. <em>Jim Crow's Counterculture: The Blues and Black Southerners 1890-1945</em>. Baton Rouge: Louisiana State University Press, 2010. 304 pp. ISBN 978-0-8071-5227-0."
 ---
 
 The field of cultural history has at times suffered from the burden of

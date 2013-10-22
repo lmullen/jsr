@@ -4,10 +4,14 @@ title: "Review: Desire and Divine"
 author-first: Laura Sloan
 author-last: Patterson
 author: Laura Sloan Patterson
-author-note: "Laura Sloan Patterson is an associate professor of English at Seton Hill University."
+author-note: "Laura Sloan Patterson is an associate professor of English 
+at Seton Hill University."
 vol: 15
 year: 2013
-book-reviewed: "Kathaleen E. Amende. Desire and the Divine: Feminine Identity in White Southern Women's Writing. Baton Rouge: Louisiana State University Press, 2013. xii + 162 pp. ISBN 978-0-8071-5083-2. "
+book-reviewed: "Kathaleen E. Amende. <em>Desire and the Divine: Feminine
+Identity in White Southern Women's Writing</em>. Baton Rouge: Louisiana
+State
+University Press, 2013. xii + 162 pp. ISBN 978-0-8071-5083-2. "
 ---
 
 In the late 1990s, Anne Goodwyn Jones and Susan Donaldson (*Haunted

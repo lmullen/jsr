@@ -7,7 +7,8 @@ author: Jeffrey Marlett
 author-note: "Jeffrey Marlett is an associate professor of Religious Studies at The College of Saint Rose."
 vol: 15
 year: 2013
-book-reviewed: "Andrew H. M. Stern. Southern Crucifix, Southern Cross: Catholic-Protestant Relations in the Old South. Tuscaloosa: University of Alabama Press, 2012. xii + 268 pp. ISBN 978-0-81731-774-4. "
+book-reviewed: "Andrew H. M. Stern. <em>Southern Crucifix, Southern 
+Cross: Catholic-Protestant Relations in the Old South</em>. Tuscaloosa: University of Alabama Press, 2012. xii + 268 pp. ISBN 978-0-81731-774-4. "
 ---
 
 "Groundbreaking" appears so frequently that it obscures the works that
