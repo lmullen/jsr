@@ -7,7 +7,8 @@ author: Laura Stemp-Morlock
 author-note: "Laura Stemp-Morlock is a Ph.D. student in Religious Studies at the University of Waterloo."
 vol: 15
 year: 2013
-book-reviewed: "Nora Rose Moosnick. Arab and Jewish Women in Kentucky: Stories of Accommodation and Audacity. Lexington: The University Press of Kentucky, 2012. xviii + 210 pp. ISBN 978-0-8131-3621-9. "
+book-reviewed: "Nora Rose Moosnick. <em>Arab and Jewish Women in 
+Kentucky: Stories of Accommodation and Audacity</em>. Lexington: The University Press of Kentucky, 2012. xviii + 210 pp. ISBN 978-0-8131-3621-9. "
 ---
 
 Nora Rose Moosnick's book, *Arab and Jewish Women in Kentucky: Stories
