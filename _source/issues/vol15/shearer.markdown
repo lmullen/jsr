@@ -77,7 +77,7 @@ although both women and men listened to and participated in the blues
 scene. Leading figures like Ma Rainey and Lillie Mae Glover do make
 brief appearances, but the women of the blues world that Tera Hunter
 brings to life (*To 'Joy My Freedom: Southern Black Women's Lives and
-Labors after the Civil War, 1997*) bear little on the story told here.
+Labors after the Civil War,* 1997) bear little on the story told here.
 More deliberate integration of the perspectives of women would have made
 for a richer presentation of the full reach of the blues counterculture.
 
