@@ -21,7 +21,7 @@ begins with a brief family history, with special attention given to
 religious background. Then Holmes describes the president’s upbringing,
 major influences, religious beliefs, and public career. Throughout,
 readers discover how the faith of presidents influenced their handling
-of important events and developments during their term or terms.. Holmes
+of important events and developments during their term or terms. Holmes
 did considerable research, in both printed sources and archival ones
 (the latter accessed at presidential libraries. Where appropriate,
 Holmes provides contextual information on religious traditions and
@@ -37,7 +37,7 @@ George W. Bush, made their “born again” religious credentials public,
 while the other presidents tended to be more vague in their religious
 assertions. Holmes also notes the importance of mothers and wives in the
 religious lives of presidents. Mothers seem to play a central role in
-the faith of presidents, from infancy onward.. Typically the presidents
+the faith of presidents, from infancy onward. Typically the presidents
 married a woman from a different religious tradition, and usually the
 wife more or less abandoned her own tradition and embraced her
 husband’s, but not always. And in some cases presidents and their wives
