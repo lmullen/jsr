@@ -89,7 +89,7 @@ equally peculiar city (200). Rather, "Storyville was part of the
 transition from slavery's racial patriarchy to the New South's fraternal
 white supremacy, from slavery, that is, to segregation" (200).
 
-The chief strength of Spectacular Wickedness is the connection that it
+The chief strength of *Spectacular Wickedness* is the connection that it
 makes between white supremacy, racial segregation, and sexual
 legislation in the New South. Landau shows how the progressive dreams
 and sexual fantasies of white male reformers crystalized in Storyville,
@@ -97,12 +97,12 @@ resulting in a porous *cordon sanitaire* that exemplified regional and
 national visions for a modern society. Landau's scrupulously researched
 profile of Lulu White, in particular, is a model for historians
 interested in giving voice to women of color so often absent from the
-archival record. That being said, Spectacular Wickedness is also a
+archival record. That being said, *Spectacular Wickedness* is also a
 reminder of how little we can know of the women who lived and worked and
 dreamed in Storyville. With a keen understanding of this erasure of the
 past, Landau ends her book with the words of Abigail Adams echoing in
 her head---"remember the ladies"---knowing full well that there is so
 much that we will never know about Storyville. The faces and bodies of
 the kind photographed by Ernest Bellocq and portrayed on the cover of
-Spectacular Wickedness reinforce Landau's parting words and encourage
+*Spectacular Wickedness* reinforce Landau's parting words and encourage
 others to continue the work of historical discovery.
