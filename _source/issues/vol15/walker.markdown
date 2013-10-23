@@ -49,7 +49,7 @@ home, and she spent long hours alone. Margaret gave up her teaching
 career to be a full-time wife and mother. William says his mother was
 always a "little restless with the role of wife and mother" and
 that later in life, she "remained an insistent believer that women
-should seek careers" (112--113).
+should seek careers" (113, 112).
 
 Arthur was something of a wunderkind at Princeton, quickly establishing
 a reputation as a promising scholar and teacher. But his career stalled
