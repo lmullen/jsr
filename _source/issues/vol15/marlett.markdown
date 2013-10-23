@@ -55,7 +55,7 @@ population. Charleston's ethnically diverse Catholic parishes testified
 to the city's social diversity. Mobile, Alabama, predated both
 Charleston and Louisville, and thus featured French and Spanish
 influences older than either white Protestant merchants or mid-century
-Catholic immigrants (10-13). While the colonial era witnessed a
+Catholic immigrants (10--13). While the colonial era witnessed a
 Protestant, particularly Anglican, political ascendency that banned
 Catholics from office, the nineteenth century witnessed far greater
 cooperation.
