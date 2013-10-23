@@ -30,7 +30,7 @@ all former Spanish subjects, including free blacks, were to receive
 American citizenship. That free blacks were given such status undermined
 laws in the slave states of the South. Free blacks from the second
 Spanish period in Florida, and some white settlers, sought to settle
-some financial scores from the Patriot War of 1812-1813. In that
+some financial scores from the Patriot War of 1812--1813. In that
 conflict, southern filibusters invaded East Florida to spark a rebellion
 there to set up a republic, which could then be annexed to the U.S.
 (This tactic was used in 1810 in areas of West Florida, which were then
