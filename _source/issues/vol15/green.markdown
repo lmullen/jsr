@@ -407,7 +407,7 @@ could conclude that Hammond was "a woman in keen sympathy with whites of
 her section."[^35] One such reader commented: "The writer is correct in
 saying that it is 'in full accord with Southern thought and
 hopes.'"[^36] Some southern critics, like an unnamed reviewer in the
-Montgomery Advertiser, saw in the story a cautionary tale about the
+*Montgomery Advertiser*, saw in the story a cautionary tale about the
 "Black Peril that threatens always the South." The reviewer drew the
 conclusion that the message of the book was that "The negro can be truly
 lifted only as the white race lifts him.… They are the child race of the
@@ -537,7 +537,7 @@ that vividly deny the social constructions of race as "black" and
 >
 > "Aunt Dilsey say I's a nigger," said Viry, finally.
 >
-> "Well, you isn' " —Bess, bold as she was, caught her breath as she
+> "Well, you isn' "—Bess, bold as she was, caught her breath as she
 > found herself on the edge of this heretical contradiction of
 > authority. "You look like you's white," she said doubtfully (49).
 
@@ -706,7 +706,7 @@ County dialect, Maine dialect, New Yorkese dialect—every region was
 mined for its vernacular gold…. New and often baffling systems of
 orthography were invented to capture spoken sounds, and authors waged
 battles over whose dialect was most correct." For four decades,
-"highbrow" literary magazines such as *The Century* and *Harper's *were
+"highbrow" literary magazines such as *The Century* and *Harper's* were
 filled with dialect sketches. Dialect was so popular because it
 satisfied a vast range of motivations, North and South. Bret Harte's
 southwestern dialect stories, James Whitecomb Riley's "Hoosier" poems,
@@ -1015,7 +1015,7 @@ vision.
     Acceptable Behavior: The 'Arundel Affair' and the Social Gospel in
     Progressive Pittsburgh," *Western Pennsylvania History* 92.2 (2009):
     50–61; Paul Boyer, "An Ohio Leader of the Social Gospel Movement,"
-    Ohio History 116.1 (2009): 88–100; John Storey, "A Better World
+    *Ohio History* 116.1 (2009): 88–100; John Storey, "A Better World
     Through Practical Christianity: The Career of D. R. Pevoto," *Texas
     Gulf Historical & Biographical Record* 45.1 (2009): 15–30; and Alan
     F. Bearman and Jennifer L. Mills, "Charles M. Sheldon and Charles F.
@@ -1046,7 +1046,7 @@ vision.
     Baptist Quarterly* 19.2 (2000): 106–128; Carol Crawford Holcomb,
     "The Kingdom at Hand: The Social Gospel and the Personal Service
     Department of Woman's Missionary Union, Auxiliary to the Southern
-    Baptist Convention," Baptist History & Heritage 35.2 (2000): 49–66;
+    Baptist Convention," *Baptist History & Heritage* 35.2 (2000): 49–66;
     Paul Harvey, "Southern Baptists and the Social Gospel: White
     Religious Progressivism in the South, 1900–1925," *Fides et
     Historia* 27.2 (1995): 59–77; and Ellen Jeffery Blue, "The Gospel
@@ -1264,7 +1264,7 @@ vision.
 
 [^48]: Holton, *Down Home and Uptown*, 87. It is worth mentioning that
     the use of dialect continues to be seen as a means of depicting
-    culture authentically. See Kathryn Stockett, *The Help *(New York:
+    culture authentically. See Kathryn Stockett, *The Help* (New York:
     Amy Einhorn Books/Putnam, 2009). The late-nineteenth-century dialect
     movement in literature was accompanied by a newfound academic
     interest in folklore and dialect, symbolized by the formation of the
