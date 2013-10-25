@@ -210,7 +210,7 @@ even more difficult to judge the persistence of a conversion. But what
 is readily apparent is that piedmont North Carolina in the 1840s and
 1850s was awash in the language and tools of the latest national
 evangelical styles. One agent, the Reverend E. K. B., "sold books to the
-value of \$168.57, and granted," or, gave away, "\$22.13." He spoke at
+value of $168.57, and granted," or, gave away, "$22.13." He spoke at
 63 meetings, and visited with 683 families, of which he prayed with 101.
 This was one agent in North Carolina. For the entire state in 1855, the
 American Tract Society reported 18,555 families visited (10,375 prayed
@@ -234,9 +234,9 @@ valuable records of family history for several generations. In fact,
 some imprints came equipped with pages reserved for recording births,
 marriages, and deaths of family members. For instance, Harper and Achsas
 Blackburn, a farm family with four children lived near Salem in Forsyth
-County on \$250 of land. Their 1845 American Bible Society Holy Bible
+County on $250 of land. Their 1845 American Bible Society Holy Bible
 remained in use by their family to at least 1871.[^24] Tobias and
-Catharine Sigmon Moser, farmers in Catawba County on \$235 worth of
+Catharine Sigmon Moser, farmers in Catawba County on $235 worth of
 property, obtained an 1830 American Bible Society New Testament and
 maintained their family records in it for a generation.[^25] Joseph G.
 Taylor inherited his 1845 American Bible Society New Testament from his
@@ -248,7 +248,7 @@ Small farmers John and Susanah Morton, also of Stanly County, recorded
 family milestones until the 1880s in their American Bible Society Holy
 Bible.[^28] Ketton Gilleland of Iredell County noted in the flyleaf of
 his Bible, "R.K. Gilleland his Book to Read And Study Bought of hew
-cimble \[Hugh Kimball\] Prise \$6.00" (sic). The price was steep, but the
+cimble \[Hugh Kimball\] Prise $6.00 \[sic\]." The price was steep, but the
 Gillelands used the American Tract Society Bible well into the twentieth
 century.[^29]
 
@@ -303,7 +303,7 @@ Presbyterian* in Fayetteville, the Baptists established the *Biblical
 Recorder* out of Raleigh, and the Methodist Protestants founded *The
 Methodist Protestant & Family Visitor* in Baltimore. The Methodist
 Episcopals did not host a state based newspaper, but subscribed to two
-papers, the Southern Christian Advocate from Charleston and the
+papers, the *Southern Christian Advocate* from Charleston and the
 *Christian Advocate* from Richmond. Even the Antimission Baptists had
 access to *The Primitive Baptist*. Editors, in original columns and in
 excerpts from papers across the nation articulated forward-thinking
@@ -408,7 +408,7 @@ but little."[^40] This man's subsequent proposal absolutely stunned her:
 
 Lockey Simmons, indeed, had reason to boast. A landowner, cotton
 planter, and Baptist patron in the eastern portion of Montgomery, the
-widower Simmons claimed a farm the value of \$4,000 in 1850, with
+widower Simmons claimed a farm the value of $4,000 in 1850, with
 thirty-three slaves.[^41] A match with Simmons would have provided as
 much economic stability as could have been hoped for in Montgomery
 County, and perhaps an unprecedented attainment for a woman born
@@ -598,8 +598,8 @@ newspapers he subscribed to contained articles and columns devoted to
 describing ideal gender relationships. Strong's courtship of Mary
 (Mollie) Bell was already underway when his diary opens in 1853, and
 there never seems to have been any question that the two would not be
-married. Therefore, when Strong read *Arthur's Home Magazine or the
-Young Bride's Book*, he had specific applications in mind. Of the
+married. Therefore, when Strong read *Arthur's Home Magazine* or the
+*Young Bride's Book*, he had specific applications in mind. Of the
 former, he remarked that he must subscribe, "if not now, as soon as I
 get possession of, 'a pretty little wife, and a big plantation.' Since
 'There's no place like *home*' I intend to have a home if I live." In
@@ -929,9 +929,9 @@ defense of honor and patriarchal privilege.
 [^18]: Rev. M. T. Plyler, "Peter Doub, Itinerant of Heroic Days," in
     *Historical Papers*, Series IX (n.p.: Trinity College Historical
     Society and The North Carolina Conference Historical Society, 1912),
-    33--50; and Samuel Bryant Turrentine, A Romance of Education: A
+    33--50; and Samuel Bryant Turrentine, *A Romance of Education: A
     Narrative Including Recollections and Other Facts Connected With
-    Greensboro College (Greensboro, N.C.: The Piedmont Press, 1946), 62.
+    Greensboro College* (Greensboro, N.C.: The Piedmont Press, 1946), 62.
 
 [^19]: Edward M. Deems and Francis M. Deems, eds., *Autobiography of
     Charles Force Deems* (New York: Fleming H. Revell Company, 1897),
@@ -1005,7 +1005,7 @@ defense of honor and patriarchal privilege.
 
 [^36]: Karen Lystra, *Searching the Heart: Women, Men, and Romantic Love
     in Nineteenth Century America* (New York: Oxford University Press,
-    1989), 127, 229; and Jabour, Marriage in the Early Republic, 1--7.
+    1989), 127, 229; and Jabour, *Marriage in the Early Republic*, 1--7.
 
 [^37]: Lewis, *The Pursuit of Happiness*, 169--208; Censer, *North
     Carolina Planters and Their Children*, 72, and Stowe, *Intimacy and
@@ -1079,7 +1079,7 @@ defense of honor and patriarchal privilege.
     conversion, and was thus ineligible to join a church, even if he did
     pray and attend regularly.
 
-[^62]: *Minutes of the Presbyterian Synod of North Carolina*, 1844, 13.
+[^62]: *Minutes of the Presbyterian Synod of North Carolina, 1844*, 13.
 
 [^63]: *Summary of Colportage* (1853), 30-32.
 
@@ -1109,10 +1109,10 @@ defense of honor and patriarchal privilege.
 
 [^74]: Mary P. Ryan, *Cradle of the Middle Class: The Family in Oneida
     County, New York, 1790-1865* (New York: Cambridge University Press,
-    1983); and McDannell, The Christian Home in Victorian America.
+    1983); and McDannell, *The Christian Home in Victorian America*.
 
 [^75]: Escott, *North Carolina Yeoman*, 256. Brown noted this downward
-    glance in The Word in the World, 13, 19.
+    glance in *The Word in the World*, 13, 19.
 
 [^76]: Escott, *North Carolina Yeoman*, 183.
 
