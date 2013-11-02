@@ -81,21 +81,7 @@ Labors after the Civil War,* 1997) bear little on the story told here.
 More deliberate integration of the perspectives of women would have made
 for a richer presentation of the full reach of the blues counterculture.
 
-Like gender, religion gets somewhat short shrift. Lawson does note that
-blues performers embodied the very antithesis of Christian charity,
-asceticism, and piety (1, 2, 64, 68, 72) but only in passing and without
-a deeper examination of the connections that existed between blues
-performers and Christian practitioners. As womanist scholar Cheryl A.
-Kirk-Duggan notes, both black gospel and the blues "come out of a Black
-aesthetic that reflects a history, ritual, and social interaction of a
-collective Black ethnic, holistic, cultural identity" ("Justified,
-Sanctified, and Redeemed: Blessed Expectation in Black Women's Blues and
-Gospels," in Emilie Maureen Townes, ed. *Embracing the Spirit: Womanist
-Perspectives on Hope, Salvation, and Transformation* \[1997\], 151). The
-themes of sorrow and remorse, abandon and return, and faithfulness and
-betrayal resonated with and were sometimes drawn from religious sources.
-A bit more attention to those connections would have strengthened an
-otherwise robust interrogation of blues lyrics.
+Like gender, religion gets somewhat short shrift. Lawson does note that blues performersembodied the very antithesis of Christian charity, asceticism, and piety (1, 2, 64, 68, 72) but only in passing and without a deeper examination of the connections that existed between blues performers and Christian practitioners. As womanist scholar Cheryl A. Kirk-Duggan notes, both black gospel and the blues “come out of a Black aesthetic that reflects a history, ritual, and social interaction of a collective Black ethnic, holistic, cultural identity.”[^1]  The themes of sorrow and remorse, abandon and return, and faithfulness and betrayal resonated with and were sometimes drawn from religious sources. A bit more attention to those connections would have strengthened an otherwise robust interrogation of blues lyrics.
 
 Yet, in the larger context of cultural history, Lawson offers a
 thorough, incisive, and meticulously researched analysis of Jim Crow era
@@ -108,3 +94,5 @@ into the intersection of resistance and accommodation in jook joints and
 recording studios. Moreover, Lawson has done so in an accessible style
 that challenges other cultural historians to set aside jargon and make
 plain their claims.
+
+[^1]: Cheryl A. Kirk-Duggan, “Justified, Sanctified, and Redeemed: Blessed Expectation in Black Women's Blues and Gospels,” in Embracing the Spirit: Womanist Perspectives on Hope, Salvation, and Transformation, ed. Emilie Maureen Townes (Maryknoll, N.Y.: Orbis Books, 1997), 151
