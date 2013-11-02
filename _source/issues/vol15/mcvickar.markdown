@@ -493,13 +493,13 @@ attributable to serpent handling. [^52]
 Despite this earlier spotty evidence of several groups taking up
 serpents as a result of their contact with holiness-pentecostal
 theology, the sensation caused by Hensley's 1914 revival has become
-synonymous with the origin of serpent handling.liii In many ways,
+synonymous with the origin of serpent handling. [^53] In many ways,
 Hensley embodied the target demographic of the early Church of God.
 Before he began handling snakes, Hensley was an illiterate moonshiner
 with no permanent residence who supplemented his ill-gotten income by
 working variously as a miner, a lumberjack, and as a factory worker.
 Like many other early Church of God members, Hensley had roots in rural
-mountain communities in West Virginia and Tennessee.liv Many of these
+mountain communities in West Virginia and Tennessee. [^54] Many of these
 communities were more-or-less homogeneous, made up mostly of poor whites
 from the same economic and educational strata of society. They worked in
 coal mines, as day laborers, semi-skilled factory laborers, or rural
@@ -507,7 +507,7 @@ subsistence farmers. Initially, in the early 1900s, the Church of God
 preached almost exclusively to these communities in Appalachia. Indeed,
 as some scholars have noted, there seems to be a complex relationship
 between industrialization, greater mobility, social change, and the
-explosion of the holy roller revival in the South.lv These changing
+explosion of the holy roller revival in the South. [^55] These changing
 patterns of communication and transportation brought men like Hensley
 into contact with the Church of God and became the primary channels for
 spreading serpent handling.
@@ -515,19 +515,19 @@ spreading serpent handling.
 Given Hensley's apparent appeal to this target audience, it is hardly
 surprising that a week following the initial report of the revival,
 Tomlinson's lead *Evangel* article, "Sensational Demonstrations,"
-discussed the sign of serpent handling at length.lvi Tomlinson reported
-that he was told, "the saints had been handling snakes and that it was
-creating quite a sensation."lvii The more Tomlinson asked about the
-revival, the more interesting the story became. First, Hensley had
+discussed the sign of serpent handling at length. [^56] Tomlinson
+reported that he was told, "the saints had been handling snakes and that
+it was creating quite a sensation." [^57] The more Tomlinson asked about
+the revival, the more interesting the story became. First, Hensley had
 preached on all of the signs listed in Mark 16:18. Next he prophesied
 that some rabble-rouser would bring a snake for the saints to handle.
 The following night an unbeliever brought a rattlesnake which several
 saints handled "and no one was injured by it. Some were bitten, but with
-no damage to them."lviii After this successful sign, "outsiders got
+no damage to them." [^58] After this successful sign, "outsiders got
 enthused and wanted to test the matter further. So on Sunday night Sept.
-sixth they took in a 'Copperhead.'"lix The saints successfully handled
-this snake too. News of these demonstrations generated "large
-audiences."lx
+sixth they took in a 'Copperhead.'" [^59] The saints successfully
+handled this snake too. News of these demonstrations generated "large
+audiences." [^60]
 
 Had Tomlinson's engagement with serpent handling ended with a single
 article, it is likely Hensley's revival would have been as easily
@@ -542,69 +542,69 @@ my desk recently which stated that the Church of God people were far in
 the rear in regard to manifestations of the presence and power of God
 and the salvation of souls. It stated that God was evidencing His
 approval of other 'apostolic movements' far more than the Church of
-God."lxi To concede that the Church of God had fallen behind in the
+God." [^61] To concede that the Church of God had fallen behind in the
 manifestation of signs would have been an admission of the church's
 deficit of symbolic capital. Not to be outdone, Tomlinson emphasized
 that the church had manifested basic signs such as glossolalia and
 divine healing. Then he upped the symbolic ante. "During the past year,"
 wrote Tomlinson, "new experiences have materialized. In several
 instances, as has been noted in the paper, fire has been handled by
-several parties."lxii Along with fire handling, Tomlinson also noted,
-"the saints had been handling poison snakes."lxiii Later in 1914,
+several parties." [^62] Along with fire handling, Tomlinson also noted,
+"the saints had been handling poison snakes." [^63] Later in 1914,
 Tomlinson doubled-down on serpent handling at the Church of God's Tenth
 General Assembly in Cleveland, telling the church's leaders, "Wild
 poison serpents have been taken up and handled and fondled over almost
 like babies with no harm to the saints. In several instances fire has
 been handled with bare hands without [the saints] being burned. ... [I]
 Have seen no reports of anybody outside the Church of God performing
-this miracle."lxiv
+this miracle." [^64]
 
 The following year, Tomlinson elevated serpent handling up the semeiotic
 hierarchy above the more commonly practiced signs. "The past year,"
 wrote Tomlinson, "has been one of progress which has led us into many
 miraculous things. Quite a number have been able under the power of God
 to take up serpents and thus demonstrate the power of God to a
-gainsaying world."lxv With the emphasis on "progress," Tomlinson
+gainsaying world." [^65] With the emphasis on "progress," Tomlinson
 indicated that handling emerged out of lower signs such as divine
 healing and speaking in tongues. Later in a 1917 speech before the
 Thirteenth General Assembly, Tomlinson reiterated the Church's support
 for the practice. "The Church of God," he insisted, "stands
 uncompromisingly for the signs and miracles, and upholds the taking up
-of serpents and handling fire under the proper conditions."lxvi
+of serpents and handling fire under the proper conditions." [^66]
 
 From 1914 to 1920, Tomlinson authored no less than eighteen lead
-*Evangel* articles touting the sign of serpent handling.lxvii In the
+*Evangel* articles touting the sign of serpent handling. [^67] In the
 same period, he also published at least 53 reports of serpent handling
-authored by revival leaders, preachers, and laypeople.lxviii These short
+authored by revival leaders, preachers, and laypeople. [^68] These short
 revival testimonies and conversion accounts, written in bursts of
 evangelical fervor from the frontline of the "battlefield for God," tell
-of revival meetings full of all manner of miraculous signs.lxix A
+of revival meetings full of all manner of miraculous signs. [^69] A
 representative dispatch recounted: "Hot lamp chimneys were handled and
 some handled the hot torch without hurt. Large snakes were brought in...
-and were successfully handled."lxx Reports rendered graphic tales of
+and were successfully handled." [^70] Reports rendered graphic tales of
 severe snakebites, swollen limbs, and vomiting saints in the
 matter-of-fact tone of spiritual utility: God allowed snake bites to
-demonstrate God's control over the situation.lxxi Militaristic metaphors
-of "battle" against Satan and "victory" over sin framed the way the
-authors imagined their evangelistic efforts.lxxii
+demonstrate God's control over the situation. [^71] Militaristic
+metaphors of "battle" against Satan and "victory" over sin framed the
+way the authors imagined their evangelistic efforts. [^72]
 
 While most accounts concealed the sources of the snakes in the passive
 voice---"there was a rattlesnake brought in"---some reports do indicate
-that outsiders brought the snakes to challenge the congregations.lxxiii
+that outsiders brought the snakes to challenge the congregations. [^73]
 For his part, Tomlinson believed that these sorts of challenges and the
 saints' willingness to meet them had "been a great factor in stopping
 the mouths of gainsayers, and convincing unbelievers of the power of
-God."lxxiv In an account of one such confrontation, a group of skeptics
+God." [^74] In an account of one such confrontation, a group of skeptics
 brought a "rattle snake pilot" to a meeting and challenged the saints to
-handle it.lxxv In an act of marketing savvy, the group scheduled to
+handle it. [^75] In an act of marketing savvy, the group scheduled to
 handle the snake the next day at two in the afternoon. Word of the event
-spread and the "country was stirred for miles and a large crowd
-came."lxxvi The group preached for two hours on the "Signs of God," then
-four members of the Church of God handled the snake. According to the
+spread and the "country was stirred for miles and a large crowd came."
+[^76] The group preached for two hours on the "Signs of God," then four
+members of the Church of God handled the snake. According to the
 account, "The Lord allowed him [the snake] to bite two of the sisters.
-This was to show the healing power of the Lord."lxxvii Some accounts
+This was to show the healing power of the Lord." [^77] Some accounts
 claimed hundreds of witnesses to similar events and many indicated that
-some observers converted after seeing snakes handled.lxxviii
+some observers converted after seeing snakes handled. [^78]
 
 Even though these reports in *Evangel* suggest that only a tiny minority
 of the Church of God ever handled snakes in their meetings, the
@@ -623,7 +623,7 @@ this gentleman is angry because God is so wonderfully blessing our
 people and confirming the Word by so many signs. I suppose he [the
 critic] is not able to do such things as we are doing, such as taking up
 serpents, handling fire, casting out devils, and healing the sick, all
-by the power of God."lxxix Failure to handle poisonous snakes or fire
+by the power of God." [^79] Failure to handle poisonous snakes or fire
 was akin to the failure to manifest other signs such as speaking in
 tongues. This failure suggested a real spiritual deficiency, while the
 presence of serpent handling in the Church of God symbolized its
@@ -635,7 +635,7 @@ dangerous signs in the symbolic hierarchy of Holy Spirit baptism. This
 emphasis on dangerous signs coincided with a period of rapid expansion
 of church membership. From 1914 to 1922 the Church of God more than
 tripled in size to nearly 20,000 members and the circulation of
-*Evangel* surged to 16,000 by 1916.lxxx Reports of Hensley's 1914
+*Evangel* surged to 16,000 by 1916. [^80] Reports of Hensley's 1914
 revival in regional newspapers had heightened the public's awareness of
 the church and linked its growth to the handling of poisonous snakes.
 The combined weight of church growth and frequent press coverage of
@@ -682,7 +682,7 @@ Overseer of the church and led to the creation of two competing groups
 both vying for the title of "Church of God." While Tomlinson continued
 to advocate for serpent handling as a legitimate sign, he did so from
 the weaker position as the Overseer of the much-diminished Church of God
-of Prophecy.lxxxi The departure of Tomlinson and his loyalists led to a
+of Prophecy. [^81] The departure of Tomlinson and his loyalists led to a
 rapid reassessment of the sign of serpent handling within the body of
 the Church of God (Cleveland). There had long been quiet rumblings of
 discomfort regarding Tomlinson's support for the sign, and now the
@@ -705,10 +705,10 @@ explicating the symbolic importance of "taking up serpents." Myriad
 non-Church of God publications from the early 1900s attest to the
 symbolic implications of the serpent for the growing pentecostal
 movement. Many stories published during this period discussed the
-serpent as a tempter that sowed discord among pentecostals.lxxxii Other
+serpent as a tempter that sowed discord among pentecostals. [^82] Other
 stories were especially concerned with explaining the Christological
 implications of Moses's brazen serpent and its relationship to Mark 16
-as harbingers of Jesus's Great Commission.lxxxiii Had such symbolic
+as harbingers of Jesus's Great Commission. [^83] Had such symbolic
 interpretations ended there, then one might rightly conclude that
 Tomlinson's literal reading of the Markan signs was an idiosyncratic and
 ephemeral project of the early Church of God. Yet, during the first
@@ -730,7 +730,7 @@ serpents in the missionary field. Led by William Hamner Piper, Stone
 Church, as historian R. G. Robins has noted, "quickly emerged as a force
 for missionary outreach and publication of the young [pentecostal]
 movement. Its presses churned out volumes of tracts, books, and
-pamphlets, along with *The Latter Rain Evangel*."lxxxiv Stone Church
+pamphlets, along with *The Latter Rain Evangel*." [^84] Stone Church
 hosted the second general meeting of the Assemblies of God in 1914 and
 its publications had a major impact on the early theological development
 of a host of pentecostal denominations. Within this context, the Stone
@@ -741,10 +741,10 @@ missions: "Our faith is quickened as we read of the remarkable
 providences and deliverances in the lives of missionaries; how God
 closed the mouth of the wild beast, took the poison from the serpent's
 bite, and manifested Himself in innumerable ways as the Deliverer of
-those who were faithful to His last commission."lxxxv Thus, *The Latter
+those who were faithful to His last commission." [^85] Thus, *The Latter
 Rain Evangel* set an early precedent encouraging missionaries and
 average readers alike to associate the Holy Spirit baptism with power
-over poisonous snakes.lxxxvi This would have consequences for the
+over poisonous snakes. [^86] This would have consequences for the
 Assemblies of God as readers of its publications would connect
 miraculous missionary work abroad with spiritual warfare in revivals at
 home.
@@ -757,7 +757,7 @@ and differences between the Assemblies of God's emerging understanding
 of "taking up serpents" and the Church of God's alternative
 interpretation of the practice. In the Assemblies of God, serpent bites
 were more often than not directly associated with the healing power of
-the Holy Spirit indicated in Mark 16: 17-18.lxxxvii For example, in a
+the Holy Spirit indicated in Mark 16: 17-18. [^87] For example, in a
 notable case at a prayer meeting in Dayville, Oregon, a rattlesnake
 struck Ralph C. Burnett who had recently received the gift of the Holy
 Spirit. Immediately following the bite, "Brother and Sister Walter
@@ -766,7 +766,7 @@ according to Mark 16:17, 18. The healing virtue of the Lord Jesus went
 through my body like an electric current and I was instantly healed....
 My companion, Brother Stockton, and I were singing, 'These Signs Shall
 Follow Them That Believe,' when without any warning the rattler struck
-me."lxxxviii
+me." [^88]
 
 While Burnett sought healing through prayer and laying on of hands, at
 least a few others prayed for the danger associated with snakebites in
@@ -777,14 +777,14 @@ her with oil and prayed for healing, Hannah prayed her own prayer: "I
 told the Lord to leave any sign He wanted, that others might know He
 could heal the bite of a poisonous snake; so He let my foot swell. I was
 bitten on Monday and never put my shoe on that foot for five days, yet
-never failed to play the organ and help in every service."lxxxix Her
+never failed to play the organ and help in every service." [^89] Her
 prayer implied not only familiarity with Mark 16:18, but also a selfless
 willingness to accept the risks of a severe snakebite. Similarly, Lucy
 A. Luttrull of Bruner, Missouri, reported being bitten by a copperhead
 while speaking in tongues. She refused medical treatment and allowed a
-brother and sister to anoint her with oil and pray over her.xc As with
-Hannah's prayer, Luttrull willfully accepted the risk associated with
-the bite as a sign following from her belief.xci
+brother and sister to anoint her with oil and pray over her. [^90] As
+with Hannah's prayer, Luttrull willfully accepted the risk associated
+with the bite as a sign following from her belief. [^91]
 
 The slipperiness between the incidental handling of dangerous serpents
 and the willful courting of suffering to prove the sufferer's status as
@@ -793,19 +793,19 @@ statements from early leaders in the Assemblies of God. Unlike the
 Church of God's theology that handling emerged as a progressive sign of
 the power of the Holy Spirit, leaders in the Assemblies of God instead
 emphasized that Mark 16:18 served as a general "promise of protection in
-the face of every believer" who might encounter a deadly serpent.xcii
-Significantly, the Assemblies of God's unambiguous insistence that the
-Markan signs promised *limited* protection against *accidental* contact
-with serpents and poisons did not end questions from church members
-regarding the sign of serpent handling. On no less than four occasions
-between 1915 and 1922, E. N. Bell, the First General Chairmen of the
-Assemblies of God, felt it necessary to respond directly to questions
-about the practice of serpent handing in his regular columns. He
-insisted on protection against the "incidental" handling of snakes but
-rejected anything else as "tempting God."xciii In the late 1910s and
-early 1920s, Bell condemned serpent handling, but was less explicit in
-condemning the handlers themselves. It is instructive to note that this
-question arose repeatedly during the period when the Church of God
+the face of every believer" who might encounter a deadly serpent.\
+[^92] Significantly, the Assemblies of God's unambiguous insistence that
+the Markan signs promised *limited* protection against *accidental*
+contact with serpents and poisons did not end questions from church
+members regarding the sign of serpent handling. On no less than four
+occasions between 1915 and 1922, E. N. Bell, the First General Chairmen
+of the Assemblies of God, felt it necessary to respond directly to
+questions about the practice of serpent handing in his regular columns.
+He insisted on protection against the "incidental" handling of snakes
+but rejected anything else as "tempting God." [^93] In the late 1910s
+and early 1920s, Bell condemned serpent handling, but was less explicit
+in condemning the handlers themselves. It is instructive to note that
+this question arose repeatedly during the period when the Church of God
 advocated for the sign throughout the South. Explicit condemnation of
 serpent handlers as evil agents of Satan became more common in the 1920s
 as the Church of God revised its position on handling serpents---a
@@ -827,23 +827,24 @@ and serpents. These things come under the head of miracles, and Paul
 says 'All do not work miracles'.... Only the mercy of God has kept some
 of them [saints who take up serpent] out of the grave. God has given
 them several object lessons that ought to teach them there is a limit to
-it."xciv Ellis concluded that handling was a miracle, but he presented
+it." [^94] Ellis concluded that handling was a miracle, but he presented
 it as an individualistic pursuit that did not strengthen the collective
 body of the church. Instead of focusing on handling serpents, Ellis
 urged members to use the signs of Spirit baptism in a "more excellent
 way." If the saints would "command the lame to walk, the blind to see,
 and the deaf to hear" then "they would use their gifts to profit
-withal."xcv Next, in a 1919 *Evangel* article M. S. Lemons authored a
-convoluted report that suggested serpent handling is sometimes "A
-Misappropriation of His [God's] Power."xcvi On one level, Lemons argued
-that it is impossible for "weak men" to misappropriate the power of the
-Holy Spirit "for illegal purposes," therefore implying that handling
-serpents is legitimate.xcvii On another level, however, Lemons worried
-that believers had "got the cart before the horse" and instead of
-letting the signs follow from grace, believers were attempting to
-"follow the signs" by taking up snakes.xcviii In such cases, he warned,
-God "will let them [the snakes] take your life."xcix He ultimately
-concluded, "If this work is of man it will come to naught."c
+withal." [^95] Next, in a 1919 *Evangel* article M. S.\
+Lemons authored a convoluted report that suggested serpent handling is
+sometimes "A Misappropriation of His [God's] Power." [^96]\
+On one level, Lemons argued that it is impossible for "weak men" to
+misappropriate the power of the Holy Spirit "for illegal purposes,"
+therefore implying that handling serpents is legitimate. [^97] On
+another level, however, Lemons worried that believers had "got the cart
+before the horse" and instead of letting the signs follow from grace,
+believers were attempting to "follow the signs" by taking up snakes.
+[^98] In such cases, he warned, God "will let them [the snakes] take
+your life." [^99] He ultimately concluded, "If this work is of man it
+will come to naught." [^100]
 
 After Tomlinson's forced departure in 1923, critics of handling started
 to condemn the practice. This condemnation emerged as the Church of
@@ -855,10 +856,10 @@ Groups ranging from the Pentecostal Holiness Church to the Pentecostal
 Mission to the Assemblies of God warned against the practice. Of these
 groups, the first to offer a straightforward rejection appears to have
 been the Pentecostal Holiness Church, which condemned snake handling in
-1917.ci Anthropologist Steven M. Kane has argued that the Pentecostal
-Holiness Church told its members to "Beware the Church of God" because
-serpent handling was attracting converts to the Church of God and
-interrupting Pentecostal Holiness Church meetings.cii
+1917. [^101] Anthropologist Steven M. Kane has argued that the
+Pentecostal Holiness Church told its members to "Beware the Church of
+God" because serpent handling was attracting converts to the Church of
+God and interrupting Pentecostal Holiness Church meetings. [^102]
 
 Unlike the Pentecostal Holiness Church, the Pentecostal Mission warned
 against handling but, because of connections to the Church of God,
@@ -868,15 +869,15 @@ an early leader of the Atlanta-based organization, wrote in 1919 in the
 at present attracting much attention, are the handling of serpents and
 the handling of fire. These displays of supernatural power attract
 crowds to the services, and some are favorably impressed with these
-things, while to others they are stumbling-blocks."ciii After carefully
-considering these signs, Barth concluded that handling serpents is
-acceptable if it is accidental, as in the example of the Apostle Paul
-being struck by a snake while collecting wood.civ However, in the cases
-of willingly handling fire or poisonous snakes, she dismissed such
-actions as "misdirected power." Echoing J. B. Ellis, she concluded, "We
-understand that in these very assemblies where there is handling of
-serpents and fire, the lame come away unhealed, the blind eyes are not
-opened, nor the deaf ears unstopped."cv
+things, while to others they are stumbling-blocks." [^103] After
+carefully considering these signs, Barth concluded that handling
+serpents is acceptable if it is accidental, as in the example of the
+Apostle Paul being struck by a snake while collecting wood. [^104]
+However, in the cases of willingly handling fire or poisonous snakes,
+she dismissed such actions as "misdirected power." Echoing J. B. Ellis,
+she concluded, "We understand that in these very assemblies where there
+is handling of serpents and fire, the lame come away unhealed, the blind
+eyes are not opened, nor the deaf ears unstopped." [^105]
 
 While competition with the Church of God had prompted the Pentecostal
 Holiness Church to condemn serpent handling, institutional connections
@@ -886,17 +887,17 @@ note, she responded to "several of the saints" who attacked her original
 article on the subject. While she remained convinced of the danger of
 these signs, she conceded that she had not witnessed them firsthand and
 therefore did not "oppose the rightful use of these signs, but the abuse
-of them."cvi Ultimately, her response suggests that the real issue was
-not the handling of serpents and fire *per se*, but rather the notion
-that these signs might attest to some sort of spiritual superiority on
-the part of handlers: "they [the handlers] also claim greater power than
-other Pentecostal people because of this handling of serpents and fire,
-although it does not seem, from what we can learn, that they have
-greater power along other lines, such as healing the sick."cvii Barth's
-argument pushed back against Tomlinson's insistence on the progressive
-spiritual superiority of the Church of God. With this concern in mind,
-it is worth emphasizing that, in the end, Barth referred to supporters
-of handling as "friends" and "saints."
+of them." [^106] Ultimately, her response suggests that the real issue
+was not the handling of serpents and fire *per se*, but rather the
+notion that these signs might attest to some sort of spiritual
+superiority on the part of handlers: "they [the handlers] also claim
+greater power than other Pentecostal people because of this handling of
+serpents and fire, although it does not seem, from what we can learn,
+that they have greater power along other lines, such as healing the
+sick." [^107] Barth's argument pushed back against Tomlinson's
+insistence on the progressive spiritual superiority of the Church of
+God. With this concern in mind, it is worth emphasizing that, in the
+end, Barth referred to supporters of handling as "friends" and "saints."
 
 Although Barth had to admit that she had not personally witnessed
 handling, some in the Assemblies of God did have direct contact with the
@@ -925,7 +926,7 @@ on a small congregation in Marysville:
 > meeting [...][w]e had to forbid him, who then went from us crying
 > persecution. We never rallied over the confusion and hence the
 > meetings were a failure, except that the Saints were helped and
-> established.cviii
+> established. [^108]
 
 Walthall's account illustrates three important facts related to serpent
 handling in both churches. First, on a popular level, serpent handling
@@ -960,27 +961,27 @@ Under the leadership of Flavius Josephus (F. J.) Lee (1875--1928), the
 Church of God's second General Overseer, the church moved to undermine
 its association with the practice of serpent handling. As historian
 Mickey Crews has noted, Lee considered merging with the Assemblies of
-God and as a result downplayed the practice.cix In 1928, at the church's
-Twenty-Third General Assembly, leaders refused to make handling a test
-for fellowship, although the assembly did not officially ban the
-practice.cx Shortly before the Twenty-Third General Assembly's
+God and as a result downplayed the practice. [^109] In 1928, at the
+church's Twenty-Third General Assembly, leaders refused to make handling
+a test for fellowship, although the assembly did not officially ban the
+practice. [^110] Shortly before the Twenty-Third General Assembly's
 clarification regarding handling, S. J. Heath published an article in
 *Evangel* that indicated a clear transition in the church's collective
 interpretation of the sign. He took exception with serpent handlers
 because they were "using the Church of God as a medium to advertise
-snake shows."cxi This, wrote Heath, "is absurd and ridiculous" because
-"many have gone into rank fanaticism, and false teaching, bringing
-reproach on the Church [of God], and disgust to intelligent people."cxii
-The evocation of advertising alluded to the established theme that the
-body is a signboard for various Godly or un-Godly messages. If Ellis and
-Lemons had earlier paid lip service to the legitimacy of the sign,
-Heath, in contrast, now openly condemned snake handling. In the end, all
-three critics sought to change the entire symbolic framework for
-understanding the sign by shifting it from the religious to the secular
-realm. In this way, they read pride, showmanship, and illegality written
-on the bodies of snake handlers. This symbolic shift marked the
-beginning of the end of the practice's association with the Church of
-God.
+snake shows." [^111] This, wrote Heath, "is absurd and ridiculous"
+because "many have gone into rank fanaticism, and false teaching,
+bringing reproach on the Church [of God], and disgust to intelligent
+people." [^112] The evocation of advertising alluded to the established
+theme that the body is a signboard for various Godly or un-Godly
+messages. If Ellis and Lemons had earlier paid lip service to the
+legitimacy of the sign, Heath, in contrast, now openly condemned snake
+handling. In the end, all three critics sought to change the entire
+symbolic framework for understanding the sign by shifting it from the
+religious to the secular realm. In this way, they read pride,
+showmanship, and illegality written on the bodies of snake handlers.
+This symbolic shift marked the beginning of the end of the practice's
+association with the Church of God.
 
 The new focus on pride and showmanship brought the Church of God in line
 with other major denominations such as the Assemblies of God. If, as
@@ -993,21 +994,22 @@ Council of the Assemblies of God---called the practice Satanic. "What
 shall we think of those who for vain show would presume to take up
 serpents, and otherwise tempt the Lord our God? Shall we consider them
 superior in spirituality? Nay, but rather they are drawn away of Satan
-being enticed to presume on gospel favors."cxiii By the end of the
+being enticed to presume on gospel favors." [^113] By the end of the
 decade, condemnation had given way to a general insistence that taking
 up snakes or drinking poison are merely "passive signs" needing no
-sophisticated interpretation. cxiv Those who insisted on such
-interpretations were---consciously or unconsciously---agents of Satan.
+sophisticated interpretation. [^114]\
+Those who insisted on such interpretations were---consciously or
+unconsciously---agents of Satan.
 
 As the 1920s closed, only a tiny handful of stories in the Church of
 God's *Evangel* favorably mentioned revival activities including serpent
 handling. By 1936 the few remaining positive references were replaced by
-harsh condemnation.cxv In 1939, E. L. Simmons, the editor and publisher
-of *Evangel*, dismissed "modern 'snake handling'" as feeding "upon a
-spirit of showmanship."cxvi His invocation of the category of the
-"modern 'snake handling' movement" marked a culmination of two decade's
-worth of rethinking of the sign of serpent handling on the part of the
-Church of God's leadership. As *snake* replaced *serpent* in the
+harsh condemnation. [^115] In 1939, E. L. Simmons, the editor and
+publisher of *Evangel*, dismissed "modern 'snake handling'" as feeding
+"upon a spirit of showmanship." [^116] His invocation of the category of
+the "modern 'snake handling' movement" marked a culmination of two
+decade's worth of rethinking of the sign of serpent handling on the part
+of the Church of God's leadership. As *snake* replaced *serpent* in the
 church's symbolic framework, the practice no longer possessed any
 lingering spiritual aura and, consequently, demanded neither the respect
 nor the support of the church. To handle a *snake* is to manipulate a
@@ -1018,7 +1020,7 @@ showmanship displaces the Holy Spirit from the practice. Suddenly,
 aberration whose practitioners misappropriate Scripture for un-Christian
 purposes.
 
-III. Serpent Handling in the Secular Press
+## III. Serpent Handling in the Secular Press
 
 The shift from *serpent* to *snake* within the Church of God not only
 marked a transition toward denominational cooperation, but also
@@ -1028,9 +1030,9 @@ of the practice as liabilities. As the Church of God withdrew support
 for the practice, municipalities and states passed laws banning it.
 Appalachian states began banning the handling of snakes in public venues
 in the 1940s. Kentucky went first in 1940 by explicitly banning the use
-of "any kind of reptile in connection with any religious service."cxvii
-Most other Appalachian states followed (with the exception of West
-Virginia), but none adopted Kentucky's broad approach. For example,
+of "any kind of reptile in connection with any religious service."
+[^117] Most other Appalachian states followed (with the exception of
+West Virginia), but none adopted Kentucky's broad approach. For example,
 Georgia (1941) and North Carolina (1949) banned exposing people to
 poisonous snakes and also made it illegal to encourage someone to handle
 a poisonous snake---a prevision aimed at ministers who preached on the
@@ -1042,12 +1044,12 @@ Nowhere was this focus on the act of displaying a snake in public
 clearer than in the media frenzy surrounding the run up to and the
 aftermath of Tennessee's ban of the practice in 1947. A series of
 highly-publicized deaths and conflicts between serpent handlers and
-police prompted the state to do something about the practice.cxviii
+police prompted the state to do something about the practice. [^118]
 Tennessee determined, "It shall not be lawful for any person, or persons
 to display, exhibit, handle or use any poisonous or dangerous snake or
 reptile in such a manner as to endanger the life or health of any
-person."cxix The Tennessee law prompted the arrest of Hensley and other
-handlers and led to a trial and national media coverage.
+person." [^119] The Tennessee law prompted the arrest of Hensley and
+other handlers and led to a trial and national media coverage.
 
 Image: 03\_JB\_Collins\_1.jpg
 
@@ -1055,7 +1057,7 @@ In the years leading up to Tennessee's ban and the decade's worth of
 coverage of the enforcement of the law, readers of regional newspapers,
 national outlets such as *Newsweek*, the *New York Times*, the
 *Washington Post*, *Time*, and any number of popular books learned of
-snake handling in Appalachia.cxx But this recognition of *snake
+snake handling in Appalachia. [^120] But this recognition of *snake
 handling* was hardly spontaneous. Just as it took holiness-pentecostals
 nearly three decades to reach the consensus that snake handling was a
 distinct practice at odds with mainstream forms of pentecostal worship,
@@ -1085,14 +1087,14 @@ in a series of articles published in and around Chattanooga and
 Cleveland documenting George Went Hensley's 1914 Tennessee revival,
 reporters noted the dangerousness of the practice, but chose to use
 handling as a vehicle for ridiculing holy rollers---that is,
-pentecostals in general.cxxi In these early stories, reporters most
+pentecostals in general. [^121] In these early stories, reporters most
 commonly referred to the handlers as holy rollers or members of the
 Church of God. The reporters imposed the former title on the handlers,
 while the handlers self-identified with the latter title. Even though
 the Church of God despised the epithet holy roller, the conflation of
 terms in the minds of the reporters and, eventually, their readers was
-not accidental.cxxii One story reported that the Church of God office in
-Cleveland actively promoted serpent handling as part of its public
+not accidental. [^122] One story reported that the Church of God office
+in Cleveland actively promoted serpent handling as part of its public
 outreach:
 
 There are evidences that the leaders of the Holy Rollers in this
@@ -1101,7 +1103,7 @@ financial and material sort to their organization. In a little house in
 the northern part of Cleveland one man, one woman and two girls are kept
 busy setting type. Between takes they invite you to church, explaining
 that, perhaps, as a special inducement, there'll be a rattlesnake to
-give tone to the meeting.cxxiii
+give tone to the meeting. [^123]
 
 No doubt the typesetters identified here played an important role in
 publishing many of the accounts of serpent handling that appeared in
@@ -1109,17 +1111,17 @@ publishing many of the accounts of serpent handling that appeared in
 
 From the late 1920s to the early 1940s, most reports abandoned labels
 such as holy rollers or Church of God to identify serpent handling
-saints.cxxiv The new titles that dominated the coverage during this
+saints. [^124] The new titles that dominated the coverage during this
 period included cult (or cultists), believers, religionists, and
 fanatics. At the national level, the *New York Times* took particular
 interest in the practice during the Depression, running no less than
-fourteen articles on the subject between August 1934 and August
-1940.cxxv In these articles, *Times* reporters variously referred to
+fourteen articles on the subject between August 1934 and August 1940.
+[^125] In these articles, *Times* reporters variously referred to
 handlers as "Holiness," "'snake' preachers," and members of a "sect" or
-"religious cult."cxxvi The use of this wider range of terms indicated a
-comparative trend in reporting that implied the practice's similarity to
-other sectarian religious groups and its dissimilarity with mainstream
-groups.cxxvii
+"religious cult." [^126] The use of this wider range of terms indicated
+a comparative trend in reporting that implied the practice's similarity
+to other sectarian religious groups and its dissimilarity with
+mainstream groups. [^127]
 
 ### ... To Snake Handlers
 
@@ -1127,13 +1129,13 @@ As reporters refined their categories of religious difference, holy
 rollers and fanatics became snake handlers and serpent handlers. The
 *Knoxville News Sentinel* appears to be the first publication to have
 consistently used "snake handling" as both a hyphenated adjective and a
-non-hyphenated noun.cxxviii The *Sentinel* also ran a series of articles
+non-hyphenated noun. [^128] The *Sentinel* also ran a series of articles
 that used "Serpent-handling" to describe the practice. Many of the
 references in these articles place "serpent" in scare quotes, perhaps
 indicating that this is how the handlers self-identified or in order to
-highlight the implied religious distinction between snake and
-serpent.cxxix The articles in this era frequently offered medical,
-anthropological, and psychological explanations for the practice.cxxx
+highlight the implied religious distinction between snake and serpent.
+[^129] The articles in this era frequently offered medical,
+anthropological, and psychological explanations for the practice. [^130]
 The near-synonymous uses of snake or serpent handling displaced older
 usages as more and more reporters recognized that snake handlers were
 worshipers with a difference. News accounts of snake handling services
@@ -1151,7 +1153,7 @@ with these widely disseminated popular conceptions of the practice. In a
 hands of the whole issue and turned snake handling over to the state.
 During a controversy over an independent Kentucky congregation of
 handlers who called themselves the Pine Mountain Church of God, Simmons
-rebuked the group for misappropriating the name of his church.cxxxi
+rebuked the group for misappropriating the name of his church. [^131]
 Further, Simmons wrote that snake handling was not a matter for the
 Church of God to deal with, but rather belonged to the secular courts:
 
@@ -1162,7 +1164,7 @@ Church of God to deal with, but rather belonged to the secular courts:
 > poisonous snakes in meetings they are not upholding the rights of all
 > people. ... True Church of God people will not be disturbed nor
 > carried away with any such fanatical display as these people ["snake"
-> handlers] put on for showmanship.cxxxii
+> handlers] put on for showmanship. [^132]
 
 Rather than defend the sign, he argued that the serpent---the creature
 that caused the "trouble" and the "first break made in the beautiful
@@ -1188,7 +1190,7 @@ Church of God completed its transformation from an obscure radical sect
 to a church within the mainstream of conservative evangelicalism.... In
 the postwar years, the Church of God's sectarianism mellowed. It
 repudiated snake handling.... Pentecostal worship became less emotional
-and less dependent on the supernatural."cxxxiii That such positions
+and less dependent on the supernatural." [^133] That such positions
 would have been unthinkable during Tomlinson's overseership of the
 Church of God---and perhaps even under Lee's---hardly bothered the
 church's leadership from 1940 forward. The church's shift toward urban,
@@ -1201,16 +1203,16 @@ of snake handling in order to draw a clear distinction between the
 saints of the Church of God and the wild snake handlers of some
 dangerous, irreligious movement.
 
-Conclusion
+## Conclusion
 
 Historian of religion J. Z. Smith has argued that religions function as
 "powerful engines for the production and maintenance of classificatory
-systems."cxxxiv Seen in this light, the categories of *snake* and
+systems." [^134] Seen in this light, the categories of *snake* and
 *serpent* handling are the products of the process of classificatory
 categorization that develops from what Smith has called the "metonymical
 model" for constructing difference. Here, the other is "represented
 metonymically in terms of the presence or absence of one or more
-cultural trait."cxxxv In this case, it is the presence of a specific
+cultural trait." [^135] In this case, it is the presence of a specific
 embodied act---picking up poisonous snakes during worship
 services---that marked snake or serpent handlers as operating outside of
 the normative categorical boundaries of mainstream pentecostalism. The
@@ -1267,21 +1269,21 @@ laypeople.
 George Went Hensley died of a snakebite on Monday, July 25, 1955, in
 Altha, Florida. During Sunday worship service, Hensley handled a
 diamondback rattler for fifteen minutes. As he shoved the snake back
-into a lard can, it struck.cxxxvi A sheriff investigating the church
+into a lard can, it struck. [^136] A sheriff investigating the church
 attempted to take the aged minister to a hospital, but Hensley, true to
 his faith, refused. He died in exquisite agony. The snake's hemorrhagic
 venom destroyed his circulatory system and the cell walls of his
 internal organs disintegrated. Hensley puked blood and thrashed about on
-the living room floor of one of his followers.cxxxvii A judge overseeing
+the living room floor of one of his followers. [^137] A judge overseeing
 the case ruled the death a suicide "on the ground the preacher
-voluntarily picked up the rattlesnake and refused medical
-assistance."cxxxviii State officials throughout the South had banned the
-practice while churches in the region regarded it as a lingering
-embarrassment best either ignored or dismissed. Hensley's corpse serves
-as a metaphor for the entire movement. Church and state, media and
-academe inscribe competing narratives on the handlers. They are
-simultaneously saints and suicides, cultists and criminals, preachers
-and performance artists.
+voluntarily picked up the rattlesnake and refused medical assistance."
+[^138]\
+State officials throughout the South had banned the practice while
+churches in the region regarded it as a lingering embarrassment best
+either ignored or dismissed. Hensley's corpse serves as a metaphor for
+the entire movement. Church and state, media and academe inscribe
+competing narratives on the handlers. They are simultaneously saints and
+suicides, cultists and criminals, preachers and performance artists.
 
 [^1]: In preparing this essay, I had a lot of help. I'd like to
     acknowledge my advisors at the Ohio State University, Drs. Hugh B.
@@ -1788,3 +1790,457 @@ and performance artists.
     and regional nature of the practice during the 1900s and 1910s, it's
     quite likely that the number of deaths associated with handling
     during this period were underreported.
+
+[^53]: The present essay, because of its focus on serpent handling in
+    South and the practice's relationship to the development of
+    pentecostalism, cannot deal with these earliest accounts in any
+    depth. In fact, it would take an entire article—or perhaps more—to
+    sort out this earlier pre-Hensley history of serpent handling. For
+    the purposes of this essay, I follow the conventional trend of
+    depicting Hensley as the source of the practice. This is simply a
+    matter of narrative convenience. As more archival material becomes
+    available in searchable databases, such a America's Historical
+    Newspapers, it seems likely that researchers will uncover that many
+    expressions of serpent handling emerged spontaneously and
+    independently of one another as preachers speculated on the
+    significance of Mark 16:17–18 during the late nineteenth and early
+    twentieth centuries. Hensley is associated with the origination of
+    the practice for two reasons. First, the intense religious and
+    secular press coverage of his revival in Cleveland in 1914 assured
+    that he would be remembered as a charismatic and dynamic leader.
+    Second, the Church of God, via A. J. Tomlinson and his sons Homer
+    and Milton, desired to claim that the practice emerged out of the
+    teachings of their church and its unique spiritual manifestations.
+    This led to multiple publications attesting to the practice's
+    relationship to Hensley and the Church of God. For example, Homer
+    Tomlinson argued that he was personally responsible for converting
+    Hensley and this conversion led directly to the practice's origin.
+    Homer also lavished praise on serpent handling. See Homer A.
+    Tomlinson, "It Came to Pass in Those Days:" The Shout of a King (New
+    York: The Church of God, 1968), 35–44. Similarly, Milton A.
+    Tomlinson, who followed his father as the Second Overseer of the
+    Church of God of Prophecy, kept his father's writings on serpent
+    handling in print until the late 1940s by distributing a short tract
+    on the subject. See Tomlinson, The Signs That Follow.
+
+[^54]: Burton, Serpent-Handling Believers, 41.
+
+[^55]: Anton T. Boisen, "Economic Distress and Religious Experience: A
+    Study of Holy Rollers," Psychiatry 2 (1939): 185–194; John B. Holt,
+    “Holiness Religion: Cultural Shock and Social Reorganization,”
+    American Sociological Review 5.5 (1940): 740–747; and, Kimbrough,
+    Taking Up Serpents, 73–116.
+
+[^56]: A. J. Tomlinson, "Sensational Demonstrations," Church of God
+    Evangel, September 19, 1914, 1.
+
+[^57]: Ibid., 2.
+
+[^58]: Ibid.
+
+[^59]: Ibid., 3.
+
+[^60]: Ibid.
+
+[^61]: Ibid., 1.
+
+[^62]: Ibid., 2.
+
+[^63]: Ibid.
+
+[^64]: General Assembly Minutes, 1906–1914 (Cleveland, Tenn.: White Wing
+    Publishing House, 1992), 15.
+
+[^65]: A. J. Tomlinson, "Walk Softly Before God," Church of God Evangel,
+    January 9, 1915, 1.
+
+[^66]: Book of Minutes: A Compiled History of the Work of the General
+    Assemblies of the Church of God (Cleveland, Tenn.: Church of God
+    Publishing House, 1922), 268, quoted in Burton, Serpent-Handling
+    Believers, 72. This statement concludes with Tomlinson noting that
+    serpent handling should be practiced, but never as a test for
+    salvation or the holiness of the believer.
+
+[^67]: This number is drawn from Williamson, "Index of Serpent-Handling
+    Articles Found in the Church of God Evangel." The vast majority of
+    Evangel reports related to serpent handling appeared between late
+    spring and early autumn, with the heaviest concentration of reports
+    recounting meetings and revivals taking place in July, August, and
+    September. Accounts in the secular press of handling in revivals and
+    church meetings indicate a similar pattern with August and September
+    being the months of the most intense handling activity. No doubt
+    this is because late summer is generally a period of outdoor
+    revivals and tent services in the South. It is also typically a time
+    of homecomings and reunions for some churches and kin groups.
+    Nonetheless, it is interesting to note the cyclical, seasonal nature
+    of reporting on handling, a pattern that has remained remarkably
+    stable for nearly a century.
+
+[^68]: Hood and Williamson, Them That Believe, 64–65.
+
+[^69]: T. F. McGuire, "Summerville, Ga.," Church of God Evangel, June 5,
+    1915, 3.
+
+[^70]: J. H. Lord, "Knoxville, Tenn.," Church of God Evangel, September
+    8, 1917, 4.
+
+[^71]: On swollen limbs, see J. L. Scott, "Ridgedale, Tenn.," Church of
+    God Evangel, August 26, 1916; Florence Long, "Sale Creek, Tenn.,"
+    Church of God Evangel, August 21, 1915, 3. For vomiting saints, see
+    Henry Kinsey, "Report," Church of God Evangel, August 5, 1916, 3. As
+    another report explained, "One night a copperhead snake was brought
+    in and handled by about seven of the saints. It placed its fangs
+    into the hand of one of the brethren just to show that he was
+    fighting stock. The hand swelled slightly, but the Lord healed him
+    without leaving a scar or the least sign" (C. C. Martin,
+    "Hayesville, N.C.," Church of God Evangel, September 22, 1917, 2).
+
+[^72]: J. Cagle, "Ooltewah, Tenn.," Church of God Evangel, August 21,
+    1915, 4; J. Aylor, "Report," Church of God Evangel, October 14,
+    1916, 3; and, G. T. Brouayer, "Report from Ladonia, Texas," Church
+    of God Evangel, June 23, 1917, 4.
+
+[^73]: Passive constructions such as O. T. Morgan, "Walhalla, S.C.,"
+    Church of God Evangel, September 22, 1917, 4, make it difficult to
+    sort out if members of the church frequently brought their own
+    snakes, as is now the norm in most serpent handling churches, or if
+    challengers and skeptics brought snakes to challenge members of the
+    church. Some sources indicate outsiders brought the majority of the
+    snakes. See, G. T. Stragel, W. A. Capshaw, and Daughter, "Report,"
+    Church of God Evangel, July 22, 1916, 2; Aylor, "Report," 3; and, W.
+    A. Capshaw, "Erastus, N.C.," Church of God Evangel, August 11, 1917,
+    2.
+
+[^74]: A. J. Tomlinson, "Another Good Opportunity," Church of God
+    Evangel, August 26, 1916, 1.
+
+[^75]: E. D. Hopkins, "Report," Church of God Evangel, July 12, 1919, 3.
+
+[^76]: Ibid.
+
+[^77]: Ibid.
+
+[^78]: From a close reading of reports from 1914 to 1930, Hood and
+    Williamson have estimated that serpent handling resulted either
+    directly or indirectly in 482 conversions. Hood and Williamson, Them
+    That Believe, 65.
+
+[^79]: A. J. Tomlinson, "Guilty or Not Guilty?" Church of God Evangel,
+    October 4, 1916, 1.
+
+[^80]: Membership information is from Charles W. Conn, Like a Mighty
+    Army: A History of the Church of God, 1886-1995 (Cleveland, Tenn.:
+    Pathway Press, 1996), 580–581; subscriber information can be found
+    in Robins, A. J. Tomlinson, 222.
+
+[^81]: Robins, A. J. Tomlinson, 226, estimates that about 6,000 of the
+    Church of God's 21,000 members followed Tomlinson in his new
+    venture. Robins concludes, "as the two sides clarified their
+    boundaries it became clear that Tomlinson had lost the lion's share
+    of his denomination.”
+
+[^82]: William J. Taylor, "The Vipers That Come Out of the Fire," The
+    Latter Rain Evangel, December 1917, 5–9, CPA, accessed April 8,
+    2013,
+    http://pentecostalarchives.org/digitalPublications/USA/Independent/Latter%20Rain%20Evangel/Unregistered/1917/FPHC/1917\_12.pdf
+    .
+
+[^83]: For a representative of this genre see, F. F. Bosworth, "'For
+    This Cause Was the Son of God Manifest That He Might Destroy the
+    Works of the Devil,'" The Latter Rain Evangel, July 1921, 6–9, CPA,
+    accessed April 8, 2013,
+    http://pentecostalarchives.org/digitalPublications/USA/Independent/Latter%20Rain%20Evangel/Unregistered/1921/FPHC/1921\_07.pdf.
+
+[^84]: R. G. Robins, Pentecostalism in America (Santa Barbara: ABC-CLIO,
+    2010), 34.
+
+[^85]: "In the Great Mission Field," The Latter Rain Evangel, April
+    1913, 13-14, CPA, accessed April 8, 2013,
+    http://pentecostalarchives.org/digitalPublications/USA/Independent/Latter%20Rain%20Evangel/Unregistered/1913/FPHC/1913\_04.pdf.
+
+[^86]: George R. Berg, "'At Last the Light Is Shining in My Country:'
+    Miracles of Healing Wrought in South India," The Latter Rain
+    Evangel, September 1911, 2–8, CPA, accessed April 9, 2013,
+    http://pentecostalarchives.org/digitalPublications/USA/Independent/Latter
+    Rain Evangel/Unregistered/1911/FPHC/1911\_09.pdf.
+
+[^87]: See, for example, Ralph W. Burnett, "Victory over Snake Bite,"
+    The Pentecostal Evangel, July 28, 1923, CPA, accessed April 8, 2013,
+    http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1923/FPHC/1923\_07\_28.pdf
+    ; Lucy A. Luttrull, "Healed of Snake Bite," The Pentecostal Evangel,
+    September 8, 1923, CPA, accessed April 8, 2013,
+    http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1923/FPHC/1923\_09\_08.pdf;
+    E. N. Smith, "A Good Testimony," The Pentecostal Evangel, September
+    15, 1923, CPA, accessed April 8, 2013,
+    http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1923/FPHC/1923\_09\_15.pdf;
+    Alice Hannah, "Healed of the Bite of a Serpent," The Pentecostal
+    Evangel, April 19, 1924, CPA, accessed April 8, 2013,
+    http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1924/FPHC/1924\_04\_19.pdf;
+    "Healed of Snake Bite," The Pentecostal Evangel, August 20, 1927,
+    CPA, accessed April 8, 2013,
+    http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1927/FPHC/1927\_08\_27.pdf;
+    "Healed of Snakebite," The Pentecostal Evangel, September 21, 1929,
+    CPA, accessed April 8, 2013,
+    http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1929/FPHC/1929\_09\_21.pdf.
+
+[^88]: Burnett, "Victory over Snake Bite," 8.
+
+[^89]: Hannah, "Healed of the Bite of a Serpent," 7.
+
+[^90]: Luttrull, "Healed of Snake Bite," 11.
+
+[^91]: The Hannah and Luttrull cases were not the only such cases in the
+    Assemblies of God; see also, Smith, "A Good Testimony;" and, "Healed
+    of Snakebite."
+
+[^92]: Joseph Tunmore, "Why Jesus Took Our Humanity: The Infinite God
+    Needs Men to Carry Out His Purpose," The Latter Rain Evangel, June
+    1929, 11, CPA, accessed April 8, 2013,
+    http://pentecostalarchives.org/digitalPublications/USA/Independent/Latter%20Rain%20Evangel/Unregistered/1929/FPHC/1929\_06.pdf.\
+    This was hardly a novel position. It had been adopted by many
+    pentecostals nearly two decades earlier; see, for example, V. P.\
+    Simmons, "Casting Out Devils," The Bridegroom's Messenger, March 1,
+    1910, 2, CPA, accessed April 8, 2013,
+    http://pentecostalarchives.org/digitalPublications/USA/International%20Pentecostal%20Church%20of%20Christ/Bridegroom%27s%20Messenger/Unregistered/1910/FPHC/1910\_03\_01.pdf.
+
+[^93]: E. N. Bell, "To Act in the Name of Another: What Does the Bible
+    Mean by It?" The Weekly Evangel, May 1, 1915, 2; E. N. Bell,
+    "Questions and Answers," The Christian Evangel, August 9, 1919, 5,
+    CPA, accessed April 8, 2013,
+    http://pentecostalarchives.org/digitalPublications/USA/Assemblies of
+    God USA/Pentecostal Evangel/Unregistered/1919/FPHC/1919\_08\_09.pdf;
+    and E. N. Bell, "Questions and Answers," The Pentecostal Evangel,
+    December 13, 1919, 5, CPA, accessed April 8, 2013,
+    http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1919/FPHC/1919\_12\_13.pdf
+    .
+
+[^94]: Ellis, "Oneonta, AL," 8.
+
+[^95]: Ibid. Ellis's suspicion of serpent handling did not moderate with
+    time. In a 1915 letter to A. B. Adams, Ellis wrote, "I had been
+    hearing for some time that people were taking up serpents without
+    apparent harm, but somehow I had a kind of repulsive feeling toward
+    the practice." In this letter Ellis claims that he first witnessed
+    handling in 1913 (J. B. Ellis to A. B. Adams, November 23, 1915,
+    HBD). Later, in his 1941 autobiography, Ellis wrote, "Frankly, I
+    would rather [serpent handling] never occurred in my meetings. Be
+    very careful because it is unsafe unless you are sure God is with
+    you and will protect you.” See James Benton Ellis, Blazing the
+    Gospel Trail (Plainfield, N.J.: Logos International, 1976), 71.
+
+[^96]: M. S. Lemons, "A Misappropriation of His Power," Church of God
+    Evangel, May 3, 1919, 2.
+
+[^97]: Ibid.
+
+[^98]: Ibid.
+
+[^99]: Ibid.
+
+[^100]: Ibid., 3.
+
+[^101]: Pentecostal Holiness Advocate, May 10, 1917, 12–13.
+
+[^102]: Kane, "Snake Handlers of Southern Appalachia," argued that
+    serpent handling was at least partially responsible for drawing
+    converts to the Church of God and was seen as direct threat to the
+    Pentecostal Holiness Church (53-55). W. J. Noble, "Beware of the
+    Church God," Pentecostal Holiness Advocate, October 11, 1917, seems
+    to support Kane's argument (2-3).
+
+[^103]: Hattie M. Barth, "Misdirected Power," The Bridegroom's
+    Messenger, April 1919, 1, CPA, accessed April 8, 2013,
+    http://pentecostalarchives.org/digitalPublications/USA/International
+    Pentecostal Church of Christ/Bridegroom's
+    Messenger/Unregistered/1919/FPHC/1919\_04.pdf.
+
+[^104]: See Acts 28:1–6.
+
+[^105]: Barth, "Misdirected Power," 1.
+
+[^106]: Hattie M. Barth, "To Our Friends: Who Have Made Objection to Our
+    Article in the Bridegroom's Messenger, April Issue, Entitled
+    'Misdirected Power,'" June 1919, 2, CPA, accessed April 8, 2013,
+    http://pentecostalarchives.org/digitalPublications/USA/International
+    Pentecostal Church of Christ/Bridegroom's
+    Messenger/Unregistered/1919/FPHC/1919\_06.pdf.
+
+[^107]: Ibid.
+
+[^108]: W. Jethro Walthall, "Bro. Walthall's Good Report," The Weekly
+    Evangel, September 29, 1917, 13, CPA, accessed April 8, 2013,
+    http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1917/FPHC/1917\_09\_29.pdf.
+
+[^109]: Crews, The Church of God, 90-101.
+
+[^110]: Tomlinson neither suggested that handling snakes was essential
+    for church fellowship nor that it was a necessary indication of Holy
+    Spirit baptism. The only necessary evidence of the latter was
+    speaking in tongues (Robins, A. J. Tomlinson, 190). Many historians
+    have suggested that the Church of God "officially" banned serpent
+    handling in 1928, yet as Hood and Williamson point out, the church
+    never made an explicit statement on the practice and instead
+    downplayed its importance as a manifestation of Holy Spirit baptism
+    (Hood and Williamson, Them that Believe, 72).
+
+[^111]: Heath supported of the sign of handling if it is properly
+    preformed. He wrote, "Let God do the saving and taking care of the
+    signs. If it becomes necessary to convince an unbeliever, He can
+    furnish the serpent and the man" (S. J. Heath, "Signs Following
+    Believers," Church of God Evangel, June 28, 1928, 3).
+
+[^112]: Ibid.
+
+[^113]: Ernest S. Williams, "Unbelief," The Pentecostal Evangel, July 4,
+    1925, 27. Williams would return to the topic multiple times in his
+    career: Ernest S. Williams, "Workers Together With Him," The
+    Pentecostal Evangel, February 4, 1939, 2, CPA, accessed April 8,
+    2013,
+    http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1939/FPHC/1939\_02\_04.pdf
+    ; Ernest S. Williams, "Your Questions," The Pentecostal Evangel,
+    January 12, 1958, 23, CPA, accessed April 8, 2013,
+    http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1958/FPHC/1958\_01\_12.pdf;
+    Ernest S. Williams, "Your Questions," The Pentecostal Evangel,
+    August 17, 1958, 19, CPA, accessed April 8, 2013,
+    http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1958/FPHC/1958\_08\_17.pdf.\
+    The fact that he returned to the topic in his "Your Questions"
+    columns indicates that the issue remained a matter of some
+    curiosity.
+
+[^114]: C. E. Robinson, "What Should a Christian Do?" The Pentecostal
+    Evangel, August 10, 1929, 9, CPA, accessed April 8, 2013,
+    http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1929/FPHC/1929\_08\_10.pdf
+    . See also, J. Narver Gortner, "They Shall Take Up Serpents," The
+    Pentecostal Evangel, January 28, 1928, 3, CPA, accessed April 8,
+    2013,
+    http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1928/FPHC/1928\_01\_28.pdf.
+
+[^115]: The last positive reference to serpent handling appears to be J.
+    S. Robert, "Signs Following Believers," Church of God Evangel,
+    November 30, 1935, 3.
+
+[^116]: E. L. Simmons, "Believers and Signs," Church of God Evangel,
+    November 11, 1939, 4; emphasis mine.
+
+[^117]: Quoted in Burton, Serpent-Handling Believers, 81.
+
+[^118]: Coverage of deaths included Charles Pennington, "Snake-Handling
+    'Preacher' Dies of Rattler's Bite in Ceremony," Chattanooga Times,
+    September 5, 1945, 1; and, "Tennessee Preacher, Virginia Woman Die
+    of Snake Bites in Rites of Religious Sect," New York Times,
+    September 5, 1945, 25. Local coverage of conflicts between handlers
+    and state and municipal authorities include Fred Travis, "Bradley
+    Baffled by Snake Problem," Chattanooga Times, August 28, 1946, 9;
+    and, "Bradley Paper Seeks to 'Ban' Snake Handling," Chattanooga
+    News-Free Press, September 4, 1946, 5. In one notable story, police
+    promptly arrested G. W. Hensley and another preacher, Tom Harden,
+    for handling poisonous snakes within the city limits at an East
+    Chattanooga revival. A detective "blasted the head from the snake
+    with a shotgun," then kept the snake's rattlers as a trophy and
+    proudly showed off the creature's fangs to curious observers. Alex
+    Corliss, "2 'Faith-Healing' Ministers Held for Handling Snake in
+    City Limits," Chattanooga Times, September 24, 1945, 1.
+
+[^119]: Quoted in Burton, Serpent-Handling Believers, 75.
+
+[^120]: See, respectively, "Religion: They Shall Take Up Serpents,"
+    Newsweek, August 21, 1944, 88–89; "Americana," Time, March 10, 1947,
+    22–23; "Sect Leader Indignant at Darden Threat," The Washington
+    Post, July 25, 1945, 3; Archie Robertson, That Old-Time Religion
+    (Boston: Houghton Mifflin, 1950), 169–181.
+
+[^121]: The derision and contempt in these stories is palpable. One
+    story reported on the "[r]attlers and copperheads" "being passed
+    about in a meeting with as much sangfroid" as a society lady
+    "serving tea to her guest" ("Proselyting with Snakes," Chattanooga
+    Daily Times, September 16, 1914, 3). Several papers reported that
+    Hensley had promised to walk across the Tennessee River only to
+    eventually abandon the miraculous project much to the cynical
+    pleasure of the stories' authors ("He Can Handle Snakes but Will He
+    Walk the River?" 3; "Holy Rollers Anoint One of Their Patients," 2).
+    Others reported on the sadistic ways skeptics hoped to test the
+    authenticity of the handlers' signs, including accounts of Hensley
+    being challenged to drink carbolic acid ("Snakes in Demand,"
+    Cleveland Herald, September 17, 1914, 1; and, "Reptile in the
+    Meetin'," Chattanooga Daily Times, September 21, 1914, 3).
+
+[^122]: The church went so far as to pass a resolution at the Eleventh
+    General Assembly in 1915 that "disclaim[ed] and repudiate[d] the
+    title 'Holy Rollers' in reference to the Church of God" (quoted in
+    Davidson, Upon This Rock, 1:448). See also Paul Harvey, Freedom's
+    Coming: Religious Culture and the Shaping of the South from the
+    Civil War Through the Civil Rights Era (Chapel Hill: University of
+    North Carolina Press, 2005), 140–141.
+
+[^123]: "Proselyting with Snakes," 3.
+
+[^124]: This is not to say that "holy roller" disappeared from all
+    coverage of pentecostalism and serpent handling. The term lingered
+    for decades, but it became progressively less visible, especially in
+    reporting on snake handling.
+
+[^125]: Hood and Williamson, Them That Believe, 212, noted that the
+    family that owned the New York Times also owned local Tennessee
+    papers, a fact that contributed to the Times's frequent coverage of
+    the practice and also helps explain why the Times was one of the
+    earliest national publications to adopt "snake handling" to label
+    the practice.
+
+[^126]: See, respectively, "Snake-rite Leaders Fast," New York Times,
+    August 4, 1940, 31; "Wave Rattler in Frenzy," New York Times, August
+    19, 1935, 17; "Snakes Kill Preacher," New York Times, October 1,
+    1936, 15; and, "Snake Defiers Jailed," New York Times, August 1,
+    1940, 18; and, "Snake-bitten Child Remains Untreated," New York
+    Times, August 3, 1940, 28; "Snake at Service Bites 3 Cultists," New
+    York Times, August 6, 1940, 21.
+
+[^127]: "Snake-Handling Cultists Resemble Other Groups," The Science
+    News-Letter 38.7 (1940): 103.
+
+[^128]: Richard Golden, "Snake-handling' Woman Bitten Because of Lack of
+    Faith, She Declares," Knoxville News-Sentinel, September 1939,
+    Clipping File, Chattanooga Public Library, Chattanooga, Tennessee
+    (hereafter cited as CPL). Golden also used the term in
+    "Snake-handlers Are Like Jitterbugs, Psychologist Says," Knoxville
+    News-Sentinel, September 1939, CPL.
+
+[^129]: "Serpent-Handling Preacher Here, Bitten by Deadly Snake, Refuses
+    Medical Attention, Says 'Faith Will Heal' Him of Poisonous Venom,"
+    Knoxville News-Sentinel, July 3, 1940, 1; "Many Healthy Men Could
+    'Take' Snakebite Says U-T Man—But He Doesn't Advise It," Knoxville
+    News-Sentinel, July 9, 1940, 1, CPL.
+
+[^130]: See, respectively, "Many Healthy Men Could 'Take' Snakebite," 1;
+    "Snake-Handling Cultists Resemble Other Groups;" Golden,
+    "Snake-handlers Are Like Jitterbugs, Psychologist Says," and Thomas
+    Barensfeld, "Brain-Washing No Monopoly of Reds, Author Points Out,"
+    Cleveland Plain Dealer, June 23, 1957, AHN.
+
+[^131]: E. L. Simmons, "Religion and Snakes," Church of God Evangel,
+    June 1, 1940, 4.
+
+[^132]: Ibid.
+
+[^133]: Crews, The Church of God, 138–139.
+
+[^134]: Jonathan Z. Smith, "Classification," in Guide to the Study of
+    Religion, ed. Willi Braun and Russell T. McCutcheon (New York:
+    Cassell, 2000), 38.
+
+[^135]: Jonathan Z. Smith, "Differential Equations: On Constructing the
+    Other," in Relating Religion: Essays in the Study of Religion
+    (Chicago: University of Chicago Press, 2004), 230–250.
+
+[^136]: "Snake Kills Cultist," New York Times, July 26, 1955, 12;
+    "Cultist Dies of Snakebite; Believed Dolley Pond Leader,"
+    Chattanooga Times, July 25, 1955, 3.
+
+[^137]: Kimbrough, Taking up Serpents, 133; Burton, Serpent-Handling
+    Believers, 57.
+
+[^138]: "Snakebitten Preacher Dies; Listed as Suicide for Shunning
+    Medicine," Chattanooga Times, July 26, 1955, 9. Hensley was hardly
+    alone; see, for example, "Snakebite Death Is Ruled Suicide,"
+    Times-Picayune, July 28, 1959, AHN; and, "Judge Bans Handling of
+    Snakes, but Okays Drinking Strychnine," Times-Picayune, April 22,
+    1973, AHN.
