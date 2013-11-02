@@ -1096,7 +1096,7 @@ other handlers and led to a trial and national media coverage.
 
 * * * * *
 
-[Image 3][]
+![Image 3][]
 
 *George Went Hensley preaching near the Hamilton County Court House in
 Chattanooga,Tennessee, in 1947. Photograph by J. B. Collins. Courtesy of
@@ -1208,7 +1208,7 @@ until the 1980s.
 
 * * * * *
 
-[Image 4][]
+![Image 4][]
 
 *Cover to J. B. Collins, Tennessee Snake Handlers (Chattanooga:
 Chattanooga News-Free Press, 1947). Courtesy of Archives of Appalachia,
@@ -2102,8 +2102,7 @@ suicides, cultists and criminals, preachers and performance artists.
     Mean by It?" *The Weekly Evangel*, May 1, 1915, 2; E. N. Bell,
     "Questions and Answers," *The Christian Evangel*, August 9, 1919, 5,
     CPA, accessed April 8, 2013,
-    [PDF](http://pentecostalarchives.org/digitalPublications/USA/Assemblies of
-    God USA/Pentecostal Evangel/Unregistered/1919/FPHC/1919\_08\_09.pdf);
+    [PDF](http://pentecostalarchives.org/digitalPublications/USA/Assemblies of God USA/Pentecostal Evangel/Unregistered/1919/FPHC/1919\_08\_09.pdf);
     and E. N. Bell, "Questions and Answers," *The Pentecostal Evangel*,
     December 13, 1919, 5, CPA, accessed April 8, 2013,
     [PDF](http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1919/FPHC/1919_12_13.pdf).
@@ -2144,9 +2143,7 @@ suicides, cultists and criminals, preachers and performance artists.
 
 [^103]: Hattie M. Barth, "Misdirected Power," *The Bridegroom's
     Messenger*, April 1919, 1, CPA, accessed April 8, 2013,
-    [PDF](http://pentecostalarchives.org/digitalPublications/USA/International
-    Pentecostal Church of Christ/Bridegroom's
-    Messenger/Unregistered/1919/FPHC/1919\_04.pdf).
+    [PDF](http://pentecostalarchives.org/digitalPublications/USA/International Pentecostal Church of Christ/Bridegroom's Messenger/Unregistered/1919/FPHC/1919\_04.pdf).
 
 [^104]: See Acts 28:1--6.
 
@@ -2155,9 +2152,7 @@ suicides, cultists and criminals, preachers and performance artists.
 [^106]: Hattie M. Barth, "To Our Friends: Who Have Made Objection to Our
     Article in the Bridegroom's Messenger, April Issue, Entitled
     'Misdirected Power,'" June 1919, 2, CPA, accessed April 8, 2013,
-    [PDF](http://pentecostalarchives.org/digitalPublications/USA/International
-    Pentecostal Church of Christ/Bridegroom's
-    Messenger/Unregistered/1919/FPHC/1919_06.pdf).
+    [PDF](http://pentecostalarchives.org/digitalPublications/USA/International Pentecostal Church of Christ/Bridegroom's Messenger/Unregistered/1919/FPHC/1919_06.pdf).
 
 [^107]: Ibid.
 
