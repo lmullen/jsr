@@ -468,7 +468,7 @@ mistresses who felt it their holy duty to teach these ignorant people
 the word of God. They taught us how to read from the holy book."[^43]
 And Callie Washington, yet another Upper South ex-slave born about 1858
 in Red Fork, Arkansas, praised her ex-mistress's benevolent qualities:
-"They [her owners] didn't have no children so old Miss took me in the
+"They \[her owners\] didn't have no children so old Miss took me in the
 big house to be her little nigger. Ole Miss tried to learn me to read
 and write and count on my fingers. Old Miss, also learned me to say my
 prayers. Every night she would go over ‘Our Father' with me till I could
@@ -774,9 +774,9 @@ former slaves who had received white-imparted Christian education not
 only led more honorable lives as freedmen, but also tended to express
 appreciation to their former masters and mistresses for decades after
 emancipation. As Hamill observed in 1904, "whenever he found a negro
-whose education [came] not from books and college only, but from the
+whose education \[came\] not from books and college only, but from the
 example and home teaching and training of his white master and mistress,
-[he] generally [found] one who sp[oke] the truth, [was] honest,
+\[he\] generally \[found\] one who sp\[oke\] the truth, \[was\] honest,
 self-respecting and self-restraining, docile and reverent, and always
 the friend of the Southern white gentleman and lady."[^66] Again, it is
 unknown if this was sincere or if Africans Americans, especially
