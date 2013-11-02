@@ -708,12 +708,12 @@ orthography were invented to capture spoken sounds, and authors waged
 battles over whose dialect was most correct." For four decades,
 "highbrow" literary magazines such as *The Century* and *Harper's* were
 filled with dialect sketches. Dialect was so popular because it
-satisfied a vast range of motivations, North and South. Bret Harte's
+satisfied a vast range of motivations, North and South.[^48] Bret Harte's
 southwestern dialect stories, James Whitecomb Riley's "Hoosier" poems,
 and John Hay's *Pike County Ballads* were all examples of dialect used
 for the purpose of regional authenticity. And of course, since *The
 Adventures of Huckleberry Finn* is entirely narrated by Huck, it was
-entirely narrated in dialect.[^48]
+entirely narrated in dialect.[^49]
 
 *The Master-Word*, then, can be seen as part of the local color genre,
 with its attendant use of dialect as a tool for realistic depiction of
@@ -737,7 +737,7 @@ write away the sectionalism of the past, and come to understand the
 nature of the recently reunited nation and its future course. Nina
 Silber and other scholars have explored the gendered nature of this
 national discussion, with the South represented by a delicate woman
-while a virile, energetic man symbolized the victorious North.[^49] Lily
+while a virile, energetic man symbolized the victorious North.[^50] Lily
 Hammond, by contrast, wrote a local color romance that had nothing to do
 with reunion or sectional reconciliation. Her characters are southerners
 with numerous northern connections (they travel, they have friends in
@@ -770,7 +770,7 @@ southern white women, began to write fiction that dissected the region's
 culture much earlier than the Nashville Agrarians. Frequently described
 as artists ahead of their time, Ellen Glasgow and Kate Chopin are the
 best known examples of southern women writers re-interpreted as standing
-at the beginnings of the southern renaissance.[^50]
+at the beginnings of the southern renaissance.[^51]
 
 Most recently, some scholars have virtually abandoned the term
 "renaissance" for this era. Bertram Wyatt-Brown substituted the phrases
@@ -780,21 +780,21 @@ and preferred to think of the writers as part of a larger "modernism."
 writers—not their male colleagues—were the first 'moderns' of southern
 literature. More accurately we might label them transitional
 romanticists or transitional modernists, for they stood halfway between
-the old literary ways and the new."[^51] Similarly Thomas L. McHaney
+the old literary ways and the new."[^52] Similarly Thomas L. McHaney
 argued for an enlarged context: "But Modernism was in southern soil
 early enough; and the literary movement usually called the Southern
 Renascence was, in reality, a southern branch office of the Midwestern
 division of the North American franchise of that international movement
 in the arts that flourished in Paris, London, Milan, Munich, and other
 capitals during the second and third decades of the twentieth
-century."[^52] In this sense then, *The Master-Word* was part of the
+century."[^53] In this sense then, *The Master-Word* was part of the
 early-twentieth-century effort to critique southern culture and politics
 from the inside. Long before H.L. Mencken condemned the South for its
 cultural stasis, writers and reformers like Hammond were holding up bits
 of southern culture to the light and examining them without flinching.
 
 *The Master-Word* is also part of the turn-of-the-century wave of social
-gospel novels.[^53] At first glance, present-day readers might not see
+gospel novels.[^54] At first glance, present-day readers might not see
 this book as reflecting any religious position. Hammond never uses the
 phrase "the social gospel," nor does she talk about Jesus, salvation, or
 Christianity. But *The Master-Word* follows the plot line of the typical
@@ -805,22 +805,22 @@ shaken hero or heroine investigates the circumstances, acknowledges the
 consequences of unethical industrial capitalism, and finally accepts
 personal moral responsibility as a Christian and a citizen. In the
 process of helping others, the middle-class characters rediscover the
-simple Christian message of love and brotherhood.[^54] Hammond's unique
+simple Christian message of love and brotherhood.[^55] Hammond's unique
 contribution to this literature was to substitute race for class, and to
 make the setting the New South.
 
 The social gospel message of *The Master-Word* is not as overt as in the
 novels of Charles M. Sheldon (the most famous and most prolific of the
 genre), which asked pointedly "what would Jesus do?" Instead, Hammond
-implies the question should be "what can one woman do?"[^55] As an
+implies the question should be "what can one woman do?"[^56] As an
 answer, the book gently models a social gospel life. Scholar Susan
 Lindley has observed that social gospel novels urged "readers toward a
 particular set of values and course of actions, hoping to touch their
-emotions more than their intellect."[^56] This encouragement need not be
+emotions more than their intellect."[^57] This encouragement need not be
 as direct as a sermon. As Erin Smith has noted, social gospel novels
 were supposed to move readers to "social action. That is, one reads not
 in order to contemplate abstract ideas or to improve oneself, but in
-order to change the world."[^57] In the case of *The Master-Word*,
+order to change the world."[^58] In the case of *The Master-Word*,
 Margaret Lawton modeled a social gospel response to a series of
 challenges, providing an example for other women of how to raise their
 children, how best to live as part of a community, and how to steer a
@@ -837,7 +837,7 @@ husband's injury and death. After Philip's death, Margaret proves to be
 an astute manager of the estate and indeed ultimately turns more profit
 than he had done, despite her insistence that the workers' cabins must
 be improved and their health maintained. The family's fortunes are
-greatly increased under her management.[^58] Margaret treats her
+greatly increased under her management.[^59] Margaret treats her
 servants like family, and they too are loyal to the end. Ebenezer, the
 black farm manager, describes her as "a cross between a humming-bird and
 an angel."
@@ -916,10 +916,10 @@ all," she wrote (31). This was an important social gospel theme—the law
 of love—and readers in 1905 were more likely to intuit that cue than
 would readers in the twenty-first century. Washington Gladden, one of
 the important early theologians of the social gospel, began using the
-phrase "the law of love" in the 1880s.[^59] A contemporary journal
+phrase "the law of love" in the 1880s.[^60] A contemporary journal
 called *Social Gospel* described the movement as "the application of
 Christ's Golden Rule and Law of Love to all the business and affairs of
-life."[^60] The advocates of the social gospel had no monopoly on the
+life."[^61] The advocates of the social gospel had no monopoly on the
 use of the phrase, but Hammond's contemporaries would have understood
 the two to be linked.
 
@@ -1261,8 +1261,10 @@ vision.
 
 [^47]: "Book Reviews and Notes," *The South Atlantic Quarterly* 4 (July
     1905): 299.
+    
+[^48]: Jones, Strange Talk, 1–7.
 
-[^48]: Holton, *Down Home and Uptown*, 87. It is worth mentioning that
+[^49]: Holton, *Down Home and Uptown*, 87. It is worth mentioning that
     the use of dialect continues to be seen as a means of depicting
     culture authentically. See Kathryn Stockett, *The Help* (New York:
     Amy Einhorn Books/Putnam, 2009). The late-nineteenth-century dialect
@@ -1286,24 +1288,24 @@ vision.
     White Southern Womanhood, 1865–1895* (Baton Rouge: Louisiana State
     University Press, 2003), 270.
 
-[^49]: Nina Silber, *The Romance of Reunion: Northerners and the South,
+[^50]: Nina Silber, *The Romance of Reunion: Northerners and the South,
     1865–1900* (Chapel Hill: University of North Carolina Press, 1993).
 
-[^50]: Carol S. Manning, "The Real Beginning of the Southern
+[^51]: Carol S. Manning, "The Real Beginning of the Southern
     Renaissance," in Carol S. Manning, ed., *The Female Tradition in
     Southern Literature* (Urbana: University of Illinois Press, 1993),
     38.
 
-[^51]: Bertram Wyatt-Brown, *Hearts of Darkness: Wellsprings of a
+[^52]: Bertram Wyatt-Brown, *Hearts of Darkness: Wellsprings of a
     Southern Literary Tradition* (Baton Rouge: Louisiana State
     University Press, 2003), 184, 181.
 
-[^52]: Thomas L. McHaney, "Literary Modernism: The South Goes Modern and
+[^53]: Thomas L. McHaney, "Literary Modernism: The South Goes Modern and
     Keeps on Going," in *Southern Literature in Transition: Heritage and
     Promise*, eds. Philip Castille and William Osborne (Memphis: Memphis
     State University Press, 1983), 43.
 
-[^53]: On social gospel novels more generally, see Elmer Suderman,
+[^54]: On social gospel novels more generally, see Elmer Suderman,
     "Utopia, the Kingdom of God and Heaven: Utopian, Social Gospel, and
     Gates Ajar Fiction," *American Studies* 31.1 (1990): 91–101; Dana F.
     White, "A Summons for the Kingdom of God on Earth: The Early
@@ -1312,20 +1314,20 @@ vision.
     Criticism of American Society," *Midcontinent American Studies
     Journal* 7 (1966): 45-60
 
-[^54]: Janet C. Olson, "*In His Steps*: A Social Gospel Novel," in
+[^55]: Janet C. Olson, "*In His Steps*: A Social Gospel Novel," in
     *Religions of the United States in Practice*, ed. Colleen McDannell
     (Princeton: Princeton University Press, 2001), Vol. 1, 256.
 
-[^55]: Charles M. Sheldon, *In His Steps:"What Would Jesus Do?"*
+[^56]: Charles M. Sheldon, *In His Steps:"What Would Jesus Do?"*
     (Chicago: Advance Publishing, 1898).
 
-[^56]: Susan H. Lindley, "Women and the Social Gospel Novel," *Church
+[^57]: Susan H. Lindley, "Women and the Social Gospel Novel," *Church
     History* 54.1 (1985), 57.
 
-[^57]: Erin A. Smith, "'What Would Jesus Do?': The Social Gospel and the
+[^58]: Erin A. Smith, "'What Would Jesus Do?': The Social Gospel and the
     Literary Marketplace," *Book History* 10 (2007), 194.
 
-[^58]: Anne Firor Scott noted that, even in the antebellum period, "The
+[^59]: Anne Firor Scott noted that, even in the antebellum period, "The
     skill with which many widows carried on plantations suggests that
     women knew a good deal more about the planting operation than has
     generally been supposed." *The Southern Lady*, 34. Later in the
@@ -1334,10 +1336,10 @@ vision.
     promptly were the widows." From *Throckmorton* (New York, 1890),
     quoted by Censer, *Reconstruction of White Southern Womanhood*, 129.
 
-[^59]: Jacob Dorn, *Washington Gladden: Prophet of the Social Gospel*
+[^60]: Jacob Dorn, *Washington Gladden: Prophet of the Social Gospel*
     (Columbus: Ohio State University Press 1967), 213.
 
-[^60]: Quoted by Richard C. Goode, "The Godly Insurrection in Limestone
+[^61]: Quoted by Richard C. Goode, "The Godly Insurrection in Limestone
     County: Social Gospel, Populism, and Southern Culture in the Late
     Nineteenth Century," *Religion and American Culture* 3.2 (1993),
     156. See also White and Hopkins, *The Social Gospel*, 262.
