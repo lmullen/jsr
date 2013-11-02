@@ -33,7 +33,7 @@ The young couple met while both were graduate students at the Institute
 for Research in the Social Sciences at the University of North Carolina
 at Chapel Hill. In the late 1930s, Chapel Hill had become mecca for
 young southern intellectuals who wanted to harness scholarly activity in
-the interest of social change. Margaret Douglas's initially saw Arthur
+the interest of social change. Margaret Douglas initially saw Arthur
 Link as egotistical and self-absorbed. Over time, however, the two
 developed a deep and supportive friendship. After Margaret left Chapel
 Hill to teach at Queens College in Charlotte and Arthur lived in
@@ -47,9 +47,9 @@ Princeton was not a particularly welcoming academic community to Arthur,
 and Margaret was lonely there. Her work-obsessed husband was rarely
 home, and she spent long hours alone. Margaret gave up her teaching
 career to be a full-time wife and mother. William says his mother was
-always a "little restless with the role of wife and mother" (113) and
+always a "little restless with the role of wife and mother" and
 that later in life, she "remained an insistent believer that women
-should seek careers" (112).
+should seek careers" (113, 112).
 
 Arthur was something of a wunderkind at Princeton, quickly establishing
 a reputation as a promising scholar and teacher. But his career stalled

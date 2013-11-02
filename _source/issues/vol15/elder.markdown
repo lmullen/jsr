@@ -66,7 +66,7 @@ confiscated and placed under the authority of loyal Methodist Bishop
 Edward Ames (68). In many border states, and even in states such as New
 York, Pennsylvania, and Ohio, ministers who either opposed the Union or
 simply refused to support it from the pulpit were arrested and
-imprisoned. In an 1863 letter, President Lincoln avowed that "the U.S.
+imprisoned. In an 1863 letter, Lincoln avowed that "the U.S.
 government must not undertake to run the churches," and yet in the same
 letter he warned, "When an individual, in a church or out of it, becomes
 dangerous to the public interest...he must be checked" (70).
