@@ -141,8 +141,11 @@ of the publishing market, evangelical sources served as a channel for
 middle-class ideas about families and social relations; sources not
 implicated in the maintenance of patriarchal power. Non-elite southern
 whites who consumed these sources enacted evangelical lessons in the
-creation of new familial forms. \*\*\* In the 1840s and 1850s, the
-countryside crawled with agents distributing books and tracts. Scores of
+creation of new familial forms. 
+
+\*\*\* 
+
+In the 1840s and 1850s, the countryside crawled with agents distributing books and tracts. Scores of
 ministers and seminary students scoured the roads and cabins of the
 United States seeking to sell or give away religious publications. Both
 secular and denominational publishing houses hoped to distribute the
@@ -602,10 +605,10 @@ married. Therefore, when Strong read *Arthur's Home Magazine* or the
 *Young Bride's Book*, he had specific applications in mind. Of the
 former, he remarked that he must subscribe, "if not now, as soon as I
 get possession of, 'a pretty little wife, and a big plantation.' Since
-'There's no place like *home*' I intend to have a home if I live." In
+'There's no place like *home*' I intend to have a home if I live."[^67] In
 fact, when he received the *Young Bride's Book*, eighteen months before
 his marriage, Strong noted that he would present the compilation to
-Mollie on their wedding day.[^67] Strong did not have a commanding tone;
+Mollie on their wedding day.[^68] Strong did not have a commanding tone;
 rather, he conducted himself in genial ways. Giving Mollie the *Young
 Bride's Book*, subtitled *An epitome of the domestic duties and social
 enjoyments of woman*, as wife and mother, was not a command, but an
@@ -638,7 +641,7 @@ picture vastly changes. "Staid \[sic\] at home and read, among other
 things, two of Wesley's sermons. One on family religion... and the other
 on redeeming time." On another occasion, "We stay at home on Sunday and
 read our good books---the Bible---*Chain of Sacred Wonders*---*Prince of
-the House of David*---etc., etc."[^68]
+the House of David*---etc., etc."[^69]
 
 Strong consciously constructed the setting for middle-class domesticity
 not only in the physical settings of the household, but in the
@@ -646,20 +649,20 @@ relationship he cultivated with Mollie. Strong, like James Lilly, cared
 for his wife when she was sick, and assumed her duties in the house.
 "Found Mary in bed with the sick head ache," he noted a week after their
 marriage. "Bathed her feet in warm water, and gave her some Ditney tea,
-and a warm rock for her feet, covering her up nicely in bed."[^69] When
+and a warm rock for her feet, covering her up nicely in bed."[^70] When
 Mollie fell ill in 1859, Strong undertook a task few southern men
 admitted to---he cooked and washed dishes. "It is well enough for a man
 to know how to cook, wash dishes, etc.," he concluded. "Had I been
 ignorant of these things, I would have been likely to have gone to bed
-to-night minus my supper."[^70] No doubt, Mollie would have too. He
+to-night minus my supper."[^71] No doubt, Mollie would have too. He
 confessed, "I'd make a great cook if I had enough of two things:--viz.
-practice and something to cook."[^71] Strong stepped in to aid in other
-tasks such as quilt making and washing.[^72] He not only aided Mollie
+practice and something to cook."[^72] Strong stepped in to aid in other
+tasks such as quilt making and washing.[^73] He not only aided Mollie
 with physical labor, Strong also taught her to read. "Gave Mollie her
 first lesson in Grammar," he noted six months after their wedding. "She
 learned and recited three lesson\[s\]! They were of course not very long,
 but I am well pleased with her start. Think she'll be a grammarian some
-day."[^73] With such acts, Strong enthusiastically performed the role of
+day."[^74] With such acts, Strong enthusiastically performed the role of
 a graceful Christian husband. In these cases, he occupied the
 patriarchal seat, being the possessor of power. But he did not perform
 these tasks because to wield power was his duty, or because he meant to
@@ -673,7 +676,7 @@ and a major one. It is slight because Strong still prioritized salvation
 and moral behavior above all other things, but a tectonic shift had
 occurred. Scholars of religion have long noted the theological and
 material changes to the American household as a result of market
-expansion and industrialization.[^74] Few however have described this
+expansion and industrialization.[^75] Few however have described this
 process in southern households, let alone non-slaveowning ones. Yet
 Strong Thomasson exemplifies---in theology more than materialism---that
 shift. He stayed at home on Sundays in reveries of quietude, made
@@ -685,7 +688,7 @@ found in the context of marriage and parental relations, in a household
 setting. Strong, like many others, turned his eyes from a heaven in a
 supernatural world, to a very real heaven on earth. "Home," he wrote,
 "There is music in the word. O that we may always have a good home; --a
-home on earth."[^75] The shift to domestic felicity is emblematic of a
+home on earth."[^76] The shift to domestic felicity is emblematic of a
 theological shift from salvation-focused religion to a focus on secular
 morality. Salvation remained the goal of household happiness.
 
@@ -695,17 +698,17 @@ morality. Salvation remained the goal of household happiness.
 > profitable it is. Since the Lord is so good as to let us live, we
 > should not spend our time in idleness, nor in frivolous conversation,
 > but we should be all the time laying up for ourselves 'treasures in
-> heaven.'[^76]
+> heaven.'[^77]
 
 The act of "laying up for ourselves 'treasures in heaven'" thus included
 staying at home---not at a revival, not in communal singing, and not in
 listening to a sermon---but in staying at home.
 
 Strong worked toward the nuclear family as a sacred ideal. Scholars tend
-to suggest that economic change broke down habits of mutuality.[^77] But
+to suggest that economic change broke down habits of mutuality.[^78] But
 Strong lived fully in a world of habits of mutuality. Historians also
 suggest that communities threatened with economic and political change
-clung more forcefully to religion.[^78] But here it is religion itself
+clung more forcefully to religion.[^79] But here it is religion itself
 that facilitated the change. Strong certainly lost something of
 traditional social relationships. He did not worship with friends,
 neighbors, and family as much. He did not visit, or receive visitors in
@@ -769,10 +772,10 @@ domestic household was the moral center of the world, and the wife and
 mother its moral compass." Greenberg's restrained men could be found in
 cities and in the country and among Democrats and Whigs, even if their
 cultural preferences tended them toward business and progress-oriented
-Whiggery.[^79] The notably Whiggish orientation of the North Carolina
+Whiggery.[^80] The notably Whiggish orientation of the North Carolina
 Piedmont---and other places outside the coastal plains---thus may be
 partially explained by the embrace, within households, of the new
-evangelical conception of family life.[^80] This manifestation of
+evangelical conception of family life.[^81] This manifestation of
 restrained manhood was possible because its practitioners---in this
 example---prioritized an evangelical ethic over the needs of racial power
 and public approval of manly and feminine performance. In Lorri Glover's
@@ -780,7 +783,7 @@ recent exploration of planter parenting, fathers nurtured a desire to
 personal restraint necessary to independence in their sons. Yet, because
 slavery defined the independent character, those same sons cultivated a
 fiery defiance of authority with ultimate consequences for the national
-unity.[^81] The Lillys owned slaves, but Caroline, in the undisputed
+unity.[^82] The Lillys owned slaves, but Caroline, in the undisputed
 position of parental authority, taught her children---boys and girls---to
 temper their desires not for self-satisfaction, but in deference to the
 authority of God.
@@ -796,18 +799,18 @@ According to Elizabeth Fox-Genovese, slaveholders bridged potential
 tensions with yeomen with appeals to gender solidarity. "The conventions
 of masculinity," Fox-Genovese explains, "did much to mediate those
 tensions, especially since the yeomen did not rush to develop an
-alternative."[^82] But planter persuasion or even coercion is not so
+alternative."[^83] But planter persuasion or even coercion is not so
 apparent in this story. In fact, what is notable is the *unmediated*
 nature of non-planter evangelical literature and practice. Caroline and
 Strong learned their behaviors not by listening to elites, or aspiring
 to be like them, but by engaging with national evangelical publishing
-networks and other cultural conversations.[^83] They did, indeed,
+networks and other cultural conversations.[^84] They did, indeed,
 develop an alternative ethos. In the Lilly and Thomasson homes we see a
 power dynamic described by Beth Schweiger and others that prioritized
 moral equilibrium between men and women, and not one of utter gendered
-dominance.[^84] If, as Colleen McDannell and Stephanie McCurry might
+dominance.[^85] If, as Colleen McDannell and Stephanie McCurry might
 agree, that homes are the "starting point for shaping the public world,"
-these internal dynamics had political consequences.[^85] In the Piedmont
+these internal dynamics had political consequences.[^86] In the Piedmont
 homes of North Carolina, families nurtured relationships not based on
 honor, power, and performance, but on harmony, moral equity, and peace.
 This is not to say that non-elite southerners replicated homes and
@@ -1093,60 +1096,62 @@ defense of honor and patriarchal privilege.
     published in New York, Deems composed the book while president of
     the Methodist's Greensboro Female Institute.
 
-[^67]: Ibid., 27--28.
+[^67]: Escott, North Carolina Yeoman, 12.
 
-[^68]: Ibid., 190, 222.
+[^68]: Ibid., 27--28.
 
-[^69]: Ibid., 90-91.
+[^69]: Ibid., 190, 222.
 
-[^70]: Ibid., 225.
+[^70]: Ibid., 90-91.
 
-[^71]: Ibid., 231.
+[^71]: Ibid., 225.
 
-[^72]: Ibid., 229.
+[^72]: Ibid., 231.
 
-[^73]: Ibid., 124.
+[^73]: Ibid., 229.
 
-[^74]: Mary P. Ryan, *Cradle of the Middle Class: The Family in Oneida
+[^74]: Ibid., 124.
+
+[^75]: Mary P. Ryan, *Cradle of the Middle Class: The Family in Oneida
     County, New York, 1790-1865* (New York: Cambridge University Press,
     1983); and McDannell, *The Christian Home in Victorian America*.
 
-[^75]: Escott, *North Carolina Yeoman*, 256. Brown noted this downward
+[^76]: Escott, *North Carolina Yeoman*, 256. Brown noted this downward
     glance in *The Word in the World*, 13, 19.
 
-[^76]: Escott, *North Carolina Yeoman*, 183.
+[^77]: Escott, *North Carolina Yeoman*, 183.
 
-[^77]: Steven Hahn, *The Roots of Southern Populism: Yeoman Farmers and
+[^78]: Steven Hahn, *The Roots of Southern Populism: Yeoman Farmers and
     the Transformation of the Georgia Upcountry*, 1850--1890 (New York:
     Oxford University Press, 1983).
 
-[^78]: Bertram Wyatt-Brown, *The Shaping of Southern Culture: Honor,
+[^79]: Bertram Wyatt-Brown, *The Shaping of Southern Culture: Honor,
     Grace, and War, 1760s--1880s* (Chapel Hill: University of North
     Carolina Press, 2000), 106--135.
 
-[^79]: Amy Greenberg, *Manifest Manhood and the Antebellum American
+[^80]: Amy Greenberg, *Manifest Manhood and the Antebellum American
     Empire* (New York: Cambridge University Press, 2005), 11--12,
     238--258.
 
-[^80]: John Quist found this tendency in Tuscaloosa, Alabama. See Quist,
+[^81]: John Quist found this tendency in Tuscaloosa, Alabama. See Quist,
     *Restless Visionaries: The Social Roots of Antebellum Reform in
     Alabama and Michigan* (Baton Rouge: Louisiana State University
     Press, 1998).
 
-[^81]: Glover, *Southern Sons*.
+[^82]: Glover, *Southern Sons*.
 
-[^82]: Elizabeth Fox-Genovese, *Within the Plantation Household: Black
+[^83]: Elizabeth Fox-Genovese, *Within the Plantation Household: Black
     and White Women of the Old South* (Chapel Hill: University of North
     Carolina Press, 1988), 202.
 
-[^83]: Friend found this aspirational behavior in one South Carolina
+[^84]: Friend found this aspirational behavior in one South Carolina
     Piedmonter in "Belles, Benefactors, and the Blacksmith's Son: Cyrus
     Stuart and the Enigma of Southern Gentlemanliness," in *Southern
     Manhood: Perspectives on Masculinity in the Old South*, eds. Craig
     Thompson Friend and Lorri Glover (Athens: University of Georgia
     Press, 2004), 92--122.
 
-[^84]: Beth Barton Schweiger, "Max Weber in Mount Airy Or, Revivals and
+[^85]: Beth Barton Schweiger, "Max Weber in Mount Airy Or, Revivals and
     Social Theory in the Early South," in *Religion in the American
     South*, eds. Donald Mathews and Beth Barton Schweiger (Chapel Hill:
     University of North Carolina Press, 2004), 33. See also Frederick A.
@@ -1154,7 +1159,7 @@ defense of honor and patriarchal privilege.
     Georgia," *The Georgia Historical Quarterly* 74.4 (1995): 775-809;
     and Stephan, *Redeeming the Southern Family*.
 
-[^85]: McDannell, *The Christian Home in Victorian America, xiv; and
+[^86]: McDannell, *The Christian Home in Victorian America, xiv; and
     Stephanie McCurry, Masters of Small Worlds: Yeoman Households,
     Gender Relations, and the Political Culture of the South Carolina
     Low Country* (New York: Oxford University Press, 1995).
