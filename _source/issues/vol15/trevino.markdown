@@ -21,8 +21,8 @@ wouldn't be able to research something directly out of my own life, a
 dissertation topic that would satisfy the hunger for self-knowledge that
 had led me to doctoral study in the first place. Quite unexpectedly, I
 found the answer in a dissertation about Catholicism, which became the
-book *The Church in the Barrio: Mexican American Ethno-Catholicism* in
-Houston (University of North Carolina Press, 2006).
+book *The Church in the Barrio: Mexican American Ethno-Catholicism in
+Houston* (University of North Carolina Press, 2006).
 
 Some things only make sense in retrospect. The choice to study
 Catholicism didn't make sense to me at first. After discussing other
