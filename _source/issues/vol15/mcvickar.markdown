@@ -1302,109 +1302,112 @@ suicides, cultists and criminals, preachers and performance artists.
     self-conscious use of the term serpent directly appeals to
     scriptural references to serpent. Because of their reliance on the
     King James Version of the Bible and its use of the word serpent in
-    several key passages—especially Mark 16—handlers emphasize that they
-    handle serpents, with all the symbolic and theological weight
+    several key passages---especially Mark 16---handlers emphasize that
+    they handle serpents, with all the symbolic and theological weight
     inherent in the term. For scholarly assessments of this symbolic
     manipulation of serpent, see Jim Birckhead, "Reading 'Snake
-    Handling': Critical Reflections," in Anthropology of Religion: A
-    Handbook, ed. Stephen D. Glazier (Westport, Conn.: Greenwood Press,
-    1997), 19–84; and Ralph W. Hood Jr., "When the Spirit Maims and
+    Handling': Critical Reflections," in *Anthropology of Religion: A
+    Handbook*, ed. Stephen D. Glazier (Westport, Conn.: Greenwood Press,
+    1997), 19--84; and Ralph W. Hood Jr., "When the Spirit Maims and
     Kills: Social Psychological Considerations of the History of Serpent
-    Handling Sects and the Narrative of Handlers," International Journal
-    for the Psychology of Religion 8.2 (1998): 71–96. Critics of the
-    practice and secular audiences will often use the word snake. Some
-    self-conscious critics use snake to undermine the scriptural nature
-    of the practice, while others do so either because they do not
-    appreciate the distinction or because they do not care about it. See
-    Jim Birckhead, "'Bizarre Snake Handlers': Popular Media and a
-    Southern Stereotype," in Images of the South: Constructing a
-    Regional Culture on Film and Video, ed. Karl G. Heider (Athens:
-    University of Georgia Press, 1993), 163–189. The present essay
-    shifts between the two usages as context merits and signifies
-    particularly important shifts in usage with italics. Out of respect
-    for handlers, I use serpent whenever possible.
+    Handling Sects and the Narrative of Handlers," *International
+    Journal for the Psychology of Religion* 8.2 (1998): 71--96. Critics
+    of the practice and secular audiences will often use the word
+    *snake*. Some self-conscious critics use snake to undermine the
+    scriptural nature of the practice, while others do so either because
+    they do not appreciate the distinction or because they do not care
+    about it. See Jim Birckhead, "'Bizarre Snake Handlers': Popular
+    Media and a Southern Stereotype," in *Images of the South:
+    Constructing a Regional Culture on Film and Video*, ed. Karl G.
+    Heider (Athens: University of Georgia Press, 1993), 163--189. The
+    present essay shifts between the two usages as context merits and
+    signifies particularly important shifts in usage with italics. Out
+    of respect for handlers, I use serpent whenever possible.
 
 [^3]: Few texts have done more to popularize this view of serpent
-    handling than Dennis Covington's Salvation on Sand Mountain: Snake
-    Handling and Redemption in Southern Appalachia (Cambridge, Mass.: Da
-    Capo Press, 2009). Covington's memoir of his time covering the trial
-    of Glenn Summerford, a serpent handler who tried to kill his wife
-    with his snakes, offers a vivid if somewhat dubious depiction of
-    serpent handling in Appalachia. Thomas G. Burton, ed., The Serpent
-    and the Spirit: Glenn Summerford's Story (Knoxville: University of
-    Tennessee Press, 2004) retells the events through interviews and
-    court documents, offering a useful supplement to Covington's memoir.
+    handling than Dennis Covington's *Salvation on Sand Mountain: Snake
+    Handling and Redemption in Southern Appalachia* (Cambridge, Mass.:
+    Da Capo Press, 2009). Covington's memoir of his time covering the
+    trial of Glenn Summerford, a serpent handler who tried to kill his
+    wife with his snakes, offers a vivid if somewhat dubious depiction
+    of serpent handling in Appalachia. Thomas G. Burton, ed., *The
+    Serpent and the Spirit: Glenn Summerford's Story* (Knoxville:
+    University of Tennessee Press, 2004) retells the events through
+    interviews and court documents, offering a useful supplement to
+    Covington's memoir.
 
 [^4]: For recent examples of news stories in national periodicals, see
     Julia Duin, "In West Virginia, Snake Handling Is Still Considered a
-    Sign of Faith," Washington Post, November 10, 2011, accessed April
+    Sign of Faith," *Washington Post*, November 10, 2011, accessed April
     8, 2013,
-    http://www.washingtonpost.com/lifestyle/magazine/in-wva-snake-handling-is-still-considered-a-sign-of-faith/2011/10/18/gIQAmiqL9M\_print.html;
-    Julia Duin, "Reviving Faith by 'Taking Up Serpents,'" Wall Street
-    Journal, April 6, 2012, accessed April 8, 2013,
-    http://online.wsj.com/article/SB10001424052702303816504577309570173259662.html?mod=WSJ\_hp\_LEFTTopStories;
+    [http://www.washingtonpost.com/lifestyle/magazine/in-wva-snake-handling-is-still-considered-a-sign-of-faith/2011/10/18/gIQAmiqL9M\\\_print.html][];
+    Julia Duin, "Reviving Faith by 'Taking Up Serpents,'" *Wall Street
+    Journal*, April 6, 2012, accessed April 8, 2013,
+    <http://online.wsj.com/article/SB10001424052702303816504577309570173259662.html>;
     Julia Duin, "Serpent-handling Pastor Profiled Earlier in Washington
-    Post Dies from Rattlesnake Bite," Washington Post, May 29, 2012,
+    Post Dies from Rattlesnake Bite," *Washington Post*, May 29, 2012,
     accessed April 8, 2013,
-    http://www.washingtonpost.com/lifestyle/style/serpent-handling-pastor-profiled-earlier-in-washington-post-dies-from-rattlesnake-bite/2012/05/29/gJQAJef5zU\_print.html;
+    [http://www.washingtonpost.com/lifestyle/style/serpent-handling-pastor-profiled-earlier-in-washington-post-dies-from-rattlesnake-bite/2012/05/29/gJQAJef5zU\\\_print.html][];
     and, Bob Smietana, "Young Snake Handlers Say They Grasp the Power of
-    Faith," USA Today, June 3, 2012, accessed April 8, 2013,
-    http://www.usatoday.com/news/religion/story/2012-06-03/snake-handlers-pentecostal-tennessee/55354206/1.
-    Novels discussing the practice include, Lee Smith, Saving Grace (New
-    York: Ballantine Books, 1996); and Vincent Louis Carrella, Serpent
-    Box: A Novel (New York: Harper Perennial, 2008). Notable television
-    representations include The X-Files, Episode 148, "Signs & Wonders,"
-    FOX, January 23, 2000, written by Jeffrey Bell; City Confidential,
-    Episode 023, "Scottsboro: Foul Play In The Bible Belt," A&E,
-    originally aired February 21, 2000; Snake Man of Appalachia, Animal
-    Planet, first broadcast January, 1 2012; and, most recently,
-    Justified, Episodes 40–52, FX, season 4, January 8–April 2, 2013.
+    Faith," *USA Today*, June 3, 2012, accessed April 8, 2013,
+    <http://www.usatoday.com/news/religion/story/2012-06-03/snake-handlers-pentecostal-tennessee/55354206/1>.
+    Novels discussing the practice include Lee Smith, *Saving Grace*
+    (New York: Ballantine Books, 1996); and Vincent Louis Carrella,
+    *Serpent Box: A Novel* (New York: Harper Perennial, 2008). Notable
+    television representations include *The X-Files*, Episode 148,
+    "Signs & Wonders," FOX, January 23, 2000, written by Jeffrey Bell;
+    *City Confidential*, Episode 023, "Scottsboro: Foul Play In The
+    Bible Belt," A&E, originally aired February 21, 2000; *Snake Man of
+    Appalachia*, Animal Planet, first broadcast January, 1 2012; and,
+    most recently, *Justified*, Episodes 40--52, FX, season 4, January
+    8--April 2, 2013.
 
-[^5]: See, respectively, Weston La Barre, They Shall Take Up Serpents:
-    Psychology of the Southern Snake-Handling Cult (Minneapolis:
+[^5]: See, respectively, Weston La Barre, *They Shall Take Up Serpents:
+    Psychology of the Southern Snake-Handling Cult* (Minneapolis:
     University of Minnesota Press, 1962); Kenneth Paul Ambrose, "A
     Serpent-Handling Church in a Midwestern City: A Study of Commitment"
     (PhD diss., Ohio State University, 1978); and Ralph W. Hood Jr. and
     David L. Kimbrough, "Serpent-Handling Holiness Sects: Theoretical
-    Considerations," Journal for the Scientific Study of Religion 34.3
-    (1995): 311–322.
+    Considerations," *Journal for the Scientific Study of Religion* 34.3
+    (1995): 311--322.
 
 [^6]: Folklorists and ethnographers have done some of the best work in
     the humanities on serpent handling. Excellent works include Mary Lee
-    Daugherty, "Serpent-Handling as Sacrament," Theology Today 33.3
-    (1976): 232–243; Thomas G. Burton, Serpent-Handling Believers
+    Daugherty, "Serpent-Handling as Sacrament," *Theology Today* 33.3
+    (1976): 232--243; Thomas G. Burton, Serpent-Handling Believers
     (Knoxville: University of Tennessee Press, 1993); Birckhead,
     "Reading 'Snake Handling'"; Robert A. Orsi, "Snakes Alive:
-    Resituating the Moral in the Study of Religion," in Women, Gender,
-    Religion: A Reader, ed. Elizabeth A. Castelli and Rosamond C. Rodman
-    (New York: Palgrave, 2001), 98–118; David L. Kimbrough, Taking Up
-    Serpents: Snake Handlers of Eastern Kentucky (Macon, Ga.: Mercer
-    University Press, 2002); and Jim Birckhead, "'There's Power in the
-    Blood:' Writing Serpent Handling as Everyday Life," in Personal
-    Knowledge and Beyond: Reshaping the Ethnography of Religion, ed.
-    James V. Spickard, J. Shawn Landres, and Meredith B. McGuire (New
-    York: New York University Press, 2002), 134–145. Interestingly, most
-    of this material (with the exception of Burton's and Kimbrough's
-    important historical work) focuses on interpreting the significance
-    of serpent handling for its practitioners or using it to illustrate
-    academic disputes. Much of this work shows little concern for the
-    historical development of the practice. Social scientists have been
-    most active in piecing together the historical development and
-    diffusion of handling. Anthropologist Steven M. Kane and
-    psychologists Ralph W. Hood Jr. and W. Paul Williamson pioneered
+    Resituating the Moral in the Study of Religion," in *Women, Gender,
+    Religion: A Reader*, ed. Elizabeth A. Castelli and Rosamond C.
+    Rodman (New York: Palgrave, 2001), 98--118; David L. Kimbrough,
+    *Taking Up Serpents: Snake Handlers of Eastern Kentucky* (Macon,
+    Ga.: Mercer University Press, 2002); and Jim Birckhead, "'There's
+    Power in the Blood:' Writing Serpent Handling as Everyday Life," in
+    *Personal Knowledge and Beyond: Reshaping the Ethnography of
+    Religion*, ed. James V. Spickard, J. Shawn Landres, and Meredith B.
+    McGuire (New York: New York University Press, 2002), 134--145.
+    Interestingly, most of this material (with the exception of Burton's
+    and Kimbrough's important historical work) focuses on interpreting
+    the significance of serpent handling for its practitioners or using
+    it to illustrate academic disputes. Much of this work shows little
+    concern for the historical development of the practice. Social
+    scientists have been most active in piecing together the historical
+    development and diffusion of handling. Anthropologist Steven M. Kane
+    and psychologists Ralph W. Hood Jr. and W. Paul Williamson pioneered
     most of the historical research. For Kane's earliest work, see
     "Aspects of Holy Ghost Religion: The Snake-Handling Sect of the
     American Southeast" (MA thesis, University of North Carolina at
     Chapel Hill, 1973); and, "Snake Handlers of Southern Appalachia"
     (PhD diss., Princeton University, 1979). For the most recent
-    synthesis of Hood and Williamson's research, see Them That Believe:
-    The Power and Meaning of the Christian Serpent-Handling Tradition
+    synthesis of Hood and Williamson's research, see *Them That Believe:
+    The Power and Meaning of the Christian Serpent-Handling Tradition*
     (Berkeley: University of California Press, 2008).
 
-[^7]: Deborah Vansau McCauley, Appalachian Mountain Religion: A History
-    (Champaign: University of Illinois Press, 1995); and, Randall J.
-    Stephens, The Fire Spreads: Holiness and Pentecostalism in the
-    American South (Cambridge, Mass.: Harvard University Press, 2008).
+[^7]: Deborah Vansau McCauley, *Appalachian Mountain Religion: A
+    History* (Champaign: University of Illinois Press, 1995); and,
+    Randall J. Stephens, *The Fire Spreads: Holiness and Pentecostalism
+    in the American South* (Cambridge, Mass.: Harvard University Press,
+    2008).
 
 [^8]: Hood and Williamson have studied the ways in which serpent
     handling destabilized the Church of God, but their research has
@@ -1414,7 +1417,7 @@ suicides, cultists and criminals, preachers and performance artists.
     organized, hierarchical denominations. Within this framework, Hood
     and Williamson recovered serpent handling's place in the early
     Church of God and tabulated the frequency of its citations in the
-    church's early publications, such as The Church of God Evangel.
+    church's early publications, such as *The Church of God Evangel*.
     Thus, they established the church's initial embrace of serpent
     handling, recorded the data indicating the rise and fall of the
     practice, and explained the subsequent rejection of the handling.
@@ -1423,20 +1426,20 @@ suicides, cultists and criminals, preachers and performance artists.
     quantitative project to mine the accounts for relevant factual
     information regarding the who, what, when, and where contained in
     the articles. Their rich bibliography of material on serpent
-    handling in the Evangel comprises the core primary sources that I
+    handling in the *Evangel* comprises the core primary sources that I
     rely on in this essay. Hood and Williamson have blazed a trail that
     anyone interested in some of the oldest printed primary sources on
     serpent handling must follow. See W. Paul Williamson and Ralph W.
     Hood, Jr., "Differential Maintenance and Growth of Religious
     Organizations Based Upon High-Cost Behaviors: Serpent Handling
-    Within the Church Of God," Review of Religious Research 46.2 (2004):
-    150–168; and Hood and Williamson, Them That Believe. Also essential
-    is W. Paul Williamson, "Index of Serpent-Handling Articles found in
-    the Church of God Evangel," available in the Hood-Williamson
-    Research Archives for the Holiness Serpent Handling Sects, Lupton
-    Library, University of Tennessee, Chattanooga.
+    Within the Church Of God," *Review of Religious Research* 46.2
+    (2004): 150--168; and Hood and Williamson, *Them That Believe*. Also
+    essential is W. Paul Williamson, "Index of Serpent-Handling Articles
+    found in the Church of God Evangel," available in the
+    Hood-Williamson Research Archives for the Holiness Serpent Handling
+    Sects, Lupton Library, University of Tennessee, Chattanooga.
 
-[^9]: The full text of Mark 16:15–18 (KJV) reads: "Go ye into all the
+[^9]: The full text of Mark 16:15--18 (KJV) reads: "Go ye into all the
     world, and preach the gospel to every creature. He that believeth
     and is baptized shall be saved; but he that believeth not shall be
     damned. And these signs shall follow them that believe; In my name
@@ -1450,57 +1453,57 @@ suicides, cultists and criminals, preachers and performance artists.
     unique to the Appalachians. Specifically, he argued that strident
     textual literalism, revival practices, and a geographically specific
     "folk culture of self-medication" converged into the serpent
-    handling traditions of the South. John B. Rehder, Appalachian
-    Folkways (Baltimore: John Hopkins University Press, 2004), 230–240;
-    244.
+    handling traditions of the South. John B. Rehder, *Appalachian
+    Folkways* (Baltimore: John Hopkins University Press, 2004),
+    230--240; 244.
 
 [^11]: In contrast to the dismissive tone of these earlier works, more
     recent important studies by Grant Wacker and Harvey Cox on the
     American (and global) pentecostal movement largely ignore the
-    practice. Grant Wacker, Heaven Below: Early Pentecostals and
-    American Culture (Cambridge, Mass.: Harvard University Press, 2001)
+    practice. Grant Wacker, *Heaven Below: Early Pentecostals and
+    American Culture* (Cambridge, Mass.: Harvard University Press, 2001)
     dedicated a single sentence to snake handling (74). In an article
     published two decades earlier Wacker did situate snake handling
     within the context of the "conceptual ahistoricism" prevalent among
     fundamentalists and other popular theologically conservative
     movements of the early 1900s. Grant Wacker, "The Functions of Faith
-    in Primitive Pentecostalism," The Harvard Theological Review 77.3–4
-    (1984): 353–375. Harvey Cox, Fire from Heaven: The Rise of
+    in Primitive Pentecostalism," *The Harvard Theological Review*
+    77.3--4 (1984): 353--375. Harvey Cox, *Fire from Heaven: The Rise of
     Pentecostal Spirituality and the Reshaping of Religion in the
-    Twenty-First Century (Cambridge, Mass.: Da Capo Press, 2001) does
+    Twenty-First Century* (Cambridge, Mass.: Da Capo Press, 2001) does
     not mention serpent handling.
 
-[^12]: Vinson Synan, The Holiness-Pentecostal Movement in the United
-    States, 1st ed. (Grand Rapids: Eerdmans, 1971), 185–186. Vinson
-    Synan, The Holiness-Pentecostal Tradition: Charismatic Movements in
-    the Twentieth Century, 2nd ed.\
-    (Grand Rapids, Mich.: Eerdmans, 1997) slightly augmented the
-    discussion from the first edition by adding updated sources, but the
-    basic presentation of serpent handling remained unchanged.
+[^12]: Vinson Synan, *The Holiness-Pentecostal Movement in the United
+    States*, 1st ed. (Grand Rapids: Eerdmans, 1971), 185--186. Vinson
+    Synan, *The Holiness-Pentecostal Tradition: Charismatic Movements in
+    the Twentieth Century*, 2nd ed. (Grand Rapids, Mich.: Eerdmans,
+    1997) slightly augmented the discussion from the first edition by
+    adding updated sources, but the basic presentation of serpent
+    handling remained unchanged.
 
-[^13]: Synan, The Holiness-Pentecostal Movement, 186.
+[^13]: Synan, *The Holiness-Pentecostal Movement*, 186.
 
-[^14]: Robert Mapes Anderson, Vision of the Disinherited: The Making of
-    American Pentecostalism (New York: Oxford University Press, 1979),
+[^14]: Robert Mapes Anderson, *Vision of the Disinherited: The Making of
+    American Pentecostalism* (New York: Oxford University Press, 1979),
     92. The assertion that handling was limited to the rural fringe of
     Appalachia has not withstood historical scrutiny. A review of
     primary sources reveals that handling spread rapidly throughout the
     South and was common in small towns and cities. Indeed, it was
     handling in the city limits of Chattanooga that led to some of the
     most notable conflicts with handlers and public officials. Mickey
-    Crews, The Church of God: A Social History (Knoxville: University of
-    Tennessee Press, 1990), and Hood and Williamson, Them That Believe,
-    have documented the spread of the practice to urban areas. Further,
-    as I document later in this essay, the practice originally developed
-    outside of the South and emerged, rhizomatically, in urban spaces
-    such as Hutchinson, Kansas, and rural areas in the Ozarks and
+    Crews, *The Church of God: A Social History* (Knoxville: University
+    of Tennessee Press, 1990), and Hood and Williamson, *Them That
+    Believe*, have documented the spread of the practice to urban areas.
+    Further, as I document later in this essay, the practice originally
+    developed outside of the South and emerged, rhizomatically, in urban
+    spaces such as Hutchinson, Kansas, and rural areas in the Ozarks and
     southern Appalachia.
 
-[^15]: Anderson, Vision of the Disinherited, 93.
+[^15]: Anderson, *Vision of the Disinherited*, 93.
 
-[^16]: McCauley, Appalachian Mountain Religion, 18.
+[^16]: McCauley, *Appalachian Mountain Religion*, 18.
 
-[^17]: Stephens, The Fire Spreads, 254.
+[^17]: Stephens, *The Fire Spreads*, 254.
 
 [^18]: As has been well documented by cultural historians, following the
     Civil War, northern magazines and newspapers "discovered" Appalachia
@@ -1510,15 +1513,15 @@ suicides, cultists and criminals, preachers and performance artists.
     "Yesterday's people," members of the "other America," residents of a
     land "where time stood still," and as "Our Contemporary Ancestors"
     with Mountaineers likened to the sturdy but backward highlanders of
-    sixteenth-century Scotland. See Henry D. Shapiro, Appalachia on Our
+    sixteenth-century Scotland. See Henry D. Shapiro, *Appalachia on Our
     Mind: The Southern Mountains and Mountaineers in the American
-    Consciousness, 1870–1920 (Chapel Hill: University of North Carolina
-    Press, 1978); Robert D. Eller, "Industrialization and Social Change
-    in Appalachia, 1880–1930: A Look at the Static Image," in
-    Colonialism in Modern America: The Appalachian Case, ed. Helen
-    Matthews Lewis, Linda Johnson, and Donald Askins (Boone, N.C.:
-    Appalachian Consortium Press, 1978), 37; and John Alexander
-    Williams, Appalachia: A History (Chapel Hill: University of North
+    Consciousness, 1870--1920* (Chapel Hill: University of North
+    Carolina Press, 1978); Robert D. Eller, "Industrialization and
+    Social Change in Appalachia, 1880--1930: A Look at the Static
+    Image," in *Colonialism in Modern America: The Appalachian Case*,
+    ed. Helen Matthews Lewis, Linda Johnson, and Donald Askins (Boone,
+    N.C.: Appalachian Consortium Press, 1978), 37; and John Alexander
+    Williams, *Appalachia: A History* (Chapel Hill: University of North
     Carolina Press, 2002), 201.
 
     While these popular imaginings have been challenged by generations
@@ -1526,21 +1529,22 @@ suicides, cultists and criminals, preachers and performance artists.
     isolated "foothills" and "hollers" of the region remain a hard trope
     for scholars to abandon. The irony of "isolated" Appalachia, of
     course, is that it was the very processes of
-    modernization—especially industrialization and specialized forms of
-    knowledge production—that allowed generations of non-Appalachians to
-    imagine the region in this way. In the early 1900s even some of the
-    most prolific and productive authors of Appalachian otherness had
-    come to recognize that their project was simultaneously the product
-    of and producer of the penetration of the region by modernizing
-    forces. For example, in Christian Reconstruction in the South
-    (Boston: Pilgrim Press, 1909), H. Paul Douglass wrote:
+    modernization---especially industrialization and specialized forms
+    of knowledge production---that allowed generations of
+    non-Appalachians to imagine the region in this way. In the early
+    1900s even some of the most prolific and productive authors of
+    Appalachian otherness had come to recognize that their project was
+    simultaneously the product of and producer of the penetration of the
+    region by modernizing forces. For example, in *Christian
+    Reconstruction in the South* (Boston: Pilgrim Press, 1909), H. Paul
+    Douglass wrote:
 
     > I have sometimes taken friends, representatives of completer
     > civilizations, on hunting or fishing trips through this back
     > country and have afterward been chagrined at the accounts of it
-    > they have written for Eastern papers…. They described it as
+    > they have written for Eastern papers.... They described it as
     > picturesquely primitive as they saw it, but forgot to record the
-    > commonplace—that there were also electric lights, colleges,
+    > commonplace---that there were also electric lights, colleges,
     > wealth, and an extremely self-conscious life which thought itself
     > as good as any in America (303).
 
@@ -1550,82 +1554,82 @@ suicides, cultists and criminals, preachers and performance artists.
     the region was predicated on this previous exposure to the forces of
     progress.
 
-[^19]: The Church of God Evangel was published by the Church of God
+[^19]: *The Church of God Evangel* was published by the Church of God
     under several titles in Cleveland, Tennessee, from 1910 to 1950.
     This essay cites Evangel issues from the early 1910s until the late
-    1940s. The Stone Church's The Latter Rain Evangel appeared from
-    1908–1939, and citations in this essay cover 1911–1929. Finally, the
-    Assemblies of God's The Pentecostal Evangel ran from 1908–2002. This
-    essay cites material referencing serpent handling published between
-    1919 and 1958.
+    1940s. The Stone Church's *The Latter Rain Evangel* appeared from
+    1908--1939, and citations in this essay cover 1911--1929. Finally,
+    the Assemblies of God's *The Pentecostal Evangel* ran from
+    1908--2002. This essay cites material referencing serpent handling
+    published between 1919 and 1958.
 
-[^20]: Hood and Williamson, Them That Believe, 68.
+[^20]: Hood and Williamson, *Them That Believe*, 68.
 
 [^21]: Charles F. Parham, "The Latter Rain: The Story of the Original
-    Apostolic or Pentecostal Movements," in The Life of Charles F.
-    Parham, Founder of the Apostolic Faith Movement, ed. Sarah E. Parham
-    (1930; New York: Garland, 1985), 51–52.
+    Apostolic or Pentecostal Movements," in *The Life of Charles F.
+    Parham, Founder of the Apostolic Faith Movement*, ed. Sarah E.
+    Parham (1930; New York: Garland, 1985), 51--52.
 
 [^22]: Ibid.
 
-[^23]: Vinson Synan, "The Pentecostal Century: An Overview," in The
+[^23]: Vinson Synan, "The Pentecostal Century: An Overview," in *The
     Century of the Holy Spirit: 100 Years of Pentecostal and Charismatic
-    Renewal, 1901–2001, ed. Vinson Synan (Nashville: Thomas Nelson,
+    Renewal, 1901--2001*, ed. Vinson Synan (Nashville: Thomas Nelson,
     2001), 4.
 
-[^24]: "Weird Babel of Tongues," Los Angeles Times, April 18, 1906, 1;
+[^24]: "Weird Babel of Tongues," *Los Angeles Times*, April 18, 1906, 1;
     and, Parham, "The Latter Rain," 53.
 
-[^25]: Michel de Certeau, The Practice of Everyday Life, trans. Steven
+[^25]: Michel de Certeau, *The Practice of Everyday Life*, trans. Steven
     Rendall, 2nd ed. (Berkeley: University of California Press, 1988),
     xxi.
 
 [^26]: John C. Thomas and Kimberly Ervin Alexander, "'And the Signs Are
-    Following': Mark 16:9–20: A Journey into Pentecostal Hermeneutics,"
-    Journal of Pentecostal Theology 11.2 (2003): 150.
+    Following': Mark 16:9--20: A Journey into Pentecostal Hermeneutics,"
+    *Journal of Pentecostal Theology* 11.2 (2003): 150.
 
 [^27]: Ibid., 152. As a number of religion scholars have pointed out,
     sociologist Pierre Bourdieu's concept of embodied "cultural capital"
     is instructive for understanding how "dispositions of the mind and
-    body"—such as the embodied Markan "signs" of pentecostal
-    experience—are convertible into institutional and social power. See
-    Pierre Bourdieu, "The Forms of Capital," in Education: Culture,
-    Economy, and Society, ed. A. H. Halsey (New York: Oxford University
+    body"---such as the embodied Markan "signs" of pentecostal
+    experience---are convertible into institutional and social power.
+    See Pierre Bourdieu, "The Forms of Capital," in *Education: Culture,
+    Economy, and Society*, ed. A. H. Halsey (New York: Oxford University
     Press, 1997), 47. For useful explorations of Bourdieu in religious
     studies, see Hugh B. Urban, "Sacred Capital: Pierre Bourdieu and the
-    Study of Religion," Method & Theory in the Study of Religion 15.4
-    (2003): 354–389; Terry Rey, Bourdieu on Religion: Imposing Faith and
-    Legitimacy (Oakville, Conn.: Equinox, 2007); and Sean McCloud,
-    Divine Hierarchies: Class in American Religion and Religious Studies
-    (Chapel Hill: University of North Carolina Press, 2007). Within the
-    system of pentecostal signs, the circulation of the manifestations
-    of the Holy Spirit represents "cultural capital in the embodied
-    state… [and] presupposes a process of embodiment…. The work of
-    acquisition is work on oneself (self-improvement), an effort that
-    presupposes a personal cost…, an investment, above all of time, but
-    also of that socially constituted form of libido,… with all the
-    privation, renunciation, and sacrifice that it may entail"
-    (Bourdieu, "The Forms of Capital," 48). Thus, religion scholar Lynne
-    Gerber uses Bourdieu's ideas to argue that the body is "a critical
-    site for the cultivation of cultural capital," especially among
-    those seeking to consolidate material and institutional resources.
-    See Lynne Gerber, "Fat Christians and Fit Elites: Negotiating Class
-    and Status in Evangelical Christian Weight-Loss Culture," American
-    Quarterly 64.1 (2012): 69.
+    Study of Religion," *Method & Theory in the Study of Religion* 15.4
+    (2003): 354--389; Terry Rey, *Bourdieu on Religion: Imposing Faith
+    and Legitimacy* (Oakville, Conn.: Equinox, 2007); and Sean McCloud,
+    *Divine Hierarchies: Class in American Religion and Religious
+    Studies* (Chapel Hill: University of North Carolina Press, 2007).
+    Within the system of pentecostal signs, the circulation of the
+    manifestations of the Holy Spirit represents "cultural capital in
+    the embodied state... [and] presupposes a process of embodiment....
+    The work of acquisition is work on oneself (self-improvement), an
+    effort that presupposes a personal cost..., an investment, above all
+    of time, but also of that socially constituted form of libido,...
+    with all the privation, renunciation, and sacrifice that it may
+    entail" (Bourdieu, "The Forms of Capital," 48). Thus, religion
+    scholar Lynne Gerber uses Bourdieu's ideas to argue that the body is
+    "a critical site for the cultivation of cultural capital,"
+    especially among those seeking to consolidate material and
+    institutional resources. See Lynne Gerber, "Fat Christians and Fit
+    Elites: Negotiating Class and Status in Evangelical Christian
+    Weight-Loss Culture," *American Quarterly* 64.1 (2012): 69.
 
     Following these analytical insights, Tomlinson attempted to exploit
-    the cultivation of embodied cultural capital—especially in the most
-    risky practices such as serpent handling—to help create, maintain,
-    and reorder barriers between holiness-pentecostal groups and within
-    them.
+    the cultivation of embodied cultural capital---especially in the
+    most risky practices such as serpent handling---to help create,
+    maintain, and reorder barriers between holiness-pentecostal groups
+    and within them.
 
-[^28]: R. G. Robins, A. J. Tomlinson: Plainfolk Modernist (New York:
-    Oxford University Press, 2004), 184; and Charles W. Conn, Like a
-    Mighty Army: A History of the Church of God, 1886–1995 (Cleveland,
-    Tenn.: Pathway Press, 1996), 3–9.
+[^28]: R. G. Robins, *A. J. Tomlinson: Plainfolk Modernist* (New York:
+    Oxford University Press, 2004), 184; and Charles W. Conn, *Like a
+    Mighty Army: A History of the Church of God, 1886--1995* (Cleveland,
+    Tenn.: Pathway Press, 1996), 3--9.
 
-[^29]: A. J. Tomlinson, The Last Great Conflict (Cleveland, Tenn.: White
-    Wing Publishing, 1984), 107.
+[^29]: A. J. Tomlinson, *The Last Great Conflict* (Cleveland, Tenn.:
+    White Wing Publishing, 1984), 107.
 
 [^30]: Ibid., 232.
 
@@ -1635,14 +1639,14 @@ suicides, cultists and criminals, preachers and performance artists.
     doctrine of the church rather than a proper, scripturally sanctioned
     name. After combing the New Testament for such a name, the church
     settled on the "Church of God" referred to in Paul's letters to the
-    Corinthians (1 Cor. 1:2, and 2 Cor. 1:1). See Conn, Like a Mighty
-    Army, 86–88. The mountain communities are from Crews, The Church Of
-    God, 5.
+    Corinthians (1 Cor. 1:2, and 2 Cor. 1:1). See Conn, *Like a Mighty
+    Army*, 86--88. The mountain communities are from Crews, *The Church
+    Of God*, 5.
 
-[^32]: Crews, The Church Of God, 5.
+[^32]: Crews, *The Church Of God*, 5.
 
 [^33]: Of all the lacunae in scholarship on serpent handling, the
-    "whiteness" of the handlers is perhaps the most underexplored. That
+    "whiteness" of the handlers is perhaps the most under-explored. That
     serpent handling is nearly unheard of in black holiness-pentecostal
     congregations is an interesting fact deserving far more attention
     than it has garnered. Given the mutually reinforcing practices and
@@ -1660,26 +1664,26 @@ suicides, cultists and criminals, preachers and performance artists.
     handling remain largely understudied, undertheorized, and
     unproblematized.
 
-[^34]: Ann Taves, Fits, Trances, and Visions: Experiencing Religion and
-    Explaining Experience from Wesley to James (Princeton: Princeton
+[^34]: Ann Taves, *Fits, Trances, and Visions: Experiencing Religion and
+    Explaining Experience from Wesley to James* (Princeton: Princeton
     University Press, 1999), 330.
 
 [^35]: Ibid., 332. Some of the earliest sources from the Azusa Street
     Revival claimed that all of the signs followed believers at the
-    revival. For example, a note in the Apostolic Faith did not
+    revival. For example, a note in the *Apostolic Faith* did not
     explicitly claim that snakes were handled, but insisted, "All the
     signs in Mark 16:16-18 have followed except the raising of the dead"
-    ("Signs Follow," The Apostolic Faith, November 1906, 4, in
+    ("Signs Follow," *The Apostolic Faith*, November 1906, 4, in
     Consortium of Pentecostal Archives (hereafter cited as CPA),
     accessed June 28, 2013,
-    http://pentecostalarchives.org/digitalPublications/USA/Independent/Apostolic%20Faith%20%28Azusa%20Street%29/Unregistered/1906/FPHC/1906\_11.pdf.
+    [http://pentecostalarchives.org/digitalPublications/USA/Independent/Apostolic%20Faith%20%28Azusa%20Street%29/Unregistered/1906/FPHC/1906\\\_11.pdf][].
     See also, Thomas and Alexander, "'And the Signs Are Following,'"
-    150–151.
+    150--151.
 
-[^36]: A. J. Tomlinson, The Signs That Follow (Cleveland, Tenn.: White
+[^36]: A. J. Tomlinson, *The Signs That Follow* (Cleveland, Tenn.: White
     Wing Publishing House, 1948), 7.
 
-[^37]: W. W. Harmon, "Signboards," Church of God Evangel, February 25,
+[^37]: W. W. Harmon, "Signboards," *Church of God Evangel*, February 25,
     1928, 3.
 
 [^38]: Ibid., 1.
@@ -1688,32 +1692,33 @@ suicides, cultists and criminals, preachers and performance artists.
 
 [^40]: Randall J. Stephens, "'There Is Magic in Print:' The
     Holiness-Pentecostal Press and the Origins of Southern
-    Pentecostalism, Part 1," Journal of Southern Religion 5 (2002):
-    http://jsr.fsu.edu/2002/Stephens.htm; and Randall J. Stephens,
+    Pentecostalism, Part 1," *Journal of Southern Religion* 5 (2002):
+    <http://jsr.fsu.edu/2002/Stephens.htm>; and Randall J. Stephens,
     "'There Is Magic in Print:' The Holiness-Pentecostal Press and the
-    Origins of Southern Pentecostalism, Part 2," The Journal of Southern
-    Religion 5 (2002): http://jsr.fsu.edu/2002/Stephens.htm ; Stephens,
-    The Fire Spreads.
+    Origins of Southern Pentecostalism, Part 2," *The Journal of
+    Southern Religion* 5 (2002): <http://jsr.fsu.edu/2002/Stephens.htm>;
+    Stephens, *The Fire Spreads*.
 
 [^41]: Stephens, "'There Is Magic in Print,' Part 1," note 15.
 
 [^42]: Stephens, "'There Is Magic in Print:' Part 2."
 
-[^43]: The Evening Light and Church of God Evangel began as a monthly
-    publication in March 1910. In 1911 the title was shortened to The
-    Church of God Evangel. By 1912, it claimed 2,135 subscribers and the
-    church built its first publishing house in 1913 to accommodate the
-    growing enterprise. At the end of the decade Evangel had a print run
-    of 16,500, nearly 16,000 subscribers, a full-time editorial staff of
-    fifteen, and a constantly growing office complex. C. T. Davidson,
-    Upon This Rock, 3 vols. (Cleveland, Tenn.: White Wing Publishing
-    House and Press, 1973), 1:375, 383, 397, 418, 434, 502, 512.
+[^43]: *The Evening Light and Church of God Evangel* began as a monthly
+    publication in March 1910. In 1911 the title was shortened to *The
+    Church of God Evangel*. By 1912, it claimed 2,135 subscribers and
+    the church built its first publishing house in 1913 to accommodate
+    the growing enterprise. At the end of the decade *Evangel* had a
+    print run of 16,500, nearly 16,000 subscribers, a full-time
+    editorial staff of fifteen, and a constantly growing office complex.
+    C. T. Davidson, *Upon This Rock*, 3 vols. (Cleveland, Tenn.: White
+    Wing Publishing House and Press, 1973), 1:375, 383, 397, 418, 434,
+    502, 512.
 
-[^44]: "Bro. George Hensley," Church of God Evangel, September 12, 1914,
-    6. This reference to serpent handling is not the earliest in the
-    Evangel. There are at least three earlier notes, but these did not
-    mention specific handlers or events. First, James Benton Ellis,
-    "Oneonta, AL," Church of God Evangel, May 9, 1914, 8, offered a
+[^44]: "Bro. George Hensley," *Church of God Evangel*, September 12,
+    1914, 6. This reference to serpent handling is not the earliest in
+    the Evangel. There are at least three earlier notes, but these did
+    not mention specific handlers or events. First, James Benton Ellis,
+    "Oneonta, AL," *Church of God Evangel*, May 9, 1914, 8, offered a
     stern warning to handlers (discussed in a following subsection). A
     second simply noted, "Bro. W. F. Bryant preached to a congregation
     at Banker Hill, Tenn. Sunday. It had been rumored that a snake was
@@ -1722,21 +1727,21 @@ suicides, cultists and criminals, preachers and performance artists.
     Bryant Preached," Church of God Evangel, September 5, 1914, 3). The
     cryptic scriptural reference seems to suggest either a) no snake was
     brought, or b) the author did not support the manifestation of such
-    a sign. Finally, the earliest reference in the Evangel is a list the
-    signs of Spirit baptism and it includes handling ("The Church of
-    God: Teaching," Church of God Evangel, August 15, 1910, 3).
+    a sign. Finally, the earliest reference in the *Evangel* is a list
+    the signs of Spirit baptism and it includes handling ("The Church of
+    God: Teaching," *Church of God Evangel*, August 15, 1910, 3).
 
 [^45]: The earliest stories mentioning Hensley's association with the
     practice appeared in papers published in and around Chattanooga,
     Tennessee, in 1914: "'Holy Rollers' Handle Snakes with Impunity,"
-    Chattanooga News, September 10, 1914, 12; "He Can Handle Snakes but
-    Will He Walk the River?" Chattanooga Daily News, September 24, 1914,
-    3; and, "Holy Rollers Anoint One of Their Patients," Chattanooga
-    Times, September 27, 1914, 2.
+    *Chattanooga News*, September 10, 1914, 12; "He Can Handle Snakes
+    but Will He Walk the River?" *Chattanooga Daily News*, September 24,
+    1914, 3; and, "Holy Rollers Anoint One of Their Patients,"
+    *Chattanooga Times*, September 27, 1914, 2.
 
 [^46]: In 1915 Hensley was recommended for ministry in the Church of God
-    and received an "Evangelist Certificate" (Burton, Serpent-Handling
-    Believers, 153). Hensley passed the Church of God's official
+    and received an "Evangelist Certificate" (Burton, *Serpent-Handling
+    Believers*, 153). Hensley passed the Church of God's official
     evangelist examination on September 10, 1917 ("Examination
     Certificate," September 10, 1917, Hensley, George Went folder, Hal
     Bernard Dixon Jr. Pentecostal Research Center, Cleveland, Tennessee
@@ -1745,65 +1750,66 @@ suicides, cultists and criminals, preachers and performance artists.
     Hensley, George Went folder, HBD). By 1922 or 1923 Hensley
     officially left the church citing "much trouble at home" in the
     official church records ("Revocation of Ministry," Hensley, George
-    Went folder, HBD; see also Kimbrough, Taking Up Serpents, 46–47, for
-    details of Hensley's decision to leave the church). His withdrawal
-    from an official position did not end Hensley's commitment to
-    serpent handling or the Church of God's relationship to the
-    practice. In the years before his death of a snakebite in 1955
-    Hensley travelled throughout the South as an independent preacher
-    spreading the practice.
+    Went folder, HBD; see also Kimbrough, *Taking Up Serpents*, 46--47,
+    for details of Hensley's decision to leave the church). His
+    withdrawal from an official position did not end Hensley's
+    commitment to serpent handling or the Church of God's relationship
+    to the practice. In the years before his death of a snakebite in
+    1955 Hensley traveled throughout the South as an independent
+    preacher spreading the practice.
 
-[^47]: Jimmy Morrow, Handling Serpents: Pastor Jimmy Morrow's Narrative
-    History of His Appalachian Jesus' Name Tradition, ed. Ralph W. Hood
+[^47]: Jimmy Morrow, *Handling Serpents: Pastor Jimmy Morrow's Narrative
+    History of His Appalachian Jesus' Name Tradition*, ed. Ralph W. Hood
     Jr. (Macon, Ga.: Mercer University Press, 2005) suggested that there
     was a long-established folk tradition of handling snakes that
     predated Hensley taking up snakes by more than a decade. Other
     anecdotal stories from serpent handlers similarly suggest the
-    practice has origins independent of Hensley. Kimbrough, Taking up
-    Serpents, 49–50, argued that other preachers took up snakes without
-    knowing of Hensley, a fact that suggests that the focus on "signs"
-    in the early pentecostal movement made taking up serpents an
+    practice has origins independent of Hensley. Kimbrough, *Taking up
+    Serpents*, 49--50, argued that other preachers took up snakes
+    without knowing of Hensley, a fact that suggests that the focus on
+    "signs" in the early pentecostal movement made taking up serpents an
     important problem for many literal-minded believers.
 
 [^48]: That is, the earliest reference this author has uncovered.
 
-[^49]: "Worshipers Are Bitten," Cleveland Plain Dealer, June 18, 1909,
+[^49]: "Worshipers Are Bitten," *Cleveland Plain Dealer*, June 18, 1909,
     in America's Historical Newspapers database (hereafter cited as
-    AHN); "Serpents in Their Religion," The Kansas City Times, June 22,
-    1909, AHN; "Snake Worshipers Are Found in Kansas," Kalamazoo
-    Gazette, June 25, 1909, AHN; "Snake Worshippers," Fort Worth
-    Star-Telegram, June 27, 1909 AHN; "Queer Sect Not Afraid Of Snakes,"
-    Trenton Evening Times, August 25, 1909, AHN; "Queer Sect Immune from
-    Snake Poison," Fort Worth Star-Telegram, August 27, 1909, AHN.
+    AHN); "Serpents in Their Religion," *The Kansas City Times*, June
+    22, 1909, AHN; "Snake Worshipers Are Found in Kansas," *Kalamazoo
+    Gazette*, June 25, 1909, AHN; "Snake Worshippers," *Fort Worth
+    Star-Telegram*, June 27, 1909 AHN; "Queer Sect Not Afraid Of
+    Snakes," Trenton Evening Times, August 25, 1909, AHN; "Queer Sect
+    Immune from Snake Poison," *Fort Worth Star-Telegram*, August 27,
+    1909, AHN.
 
 [^50]: The stories wrongly identified the biblical source as Luke 6, but
     quoted Mark 16 in their reports.
 
-[^51]: "Child Plays with Snake Without Being Harmed," The Columbus
-    Ledger, September 4, 1913, AHN.
+[^51]: "Child Plays with Snake Without Being Harmed," *The Columbus
+    Ledger*, September 4, 1913, AHN.
 
-[^52]: "Snake Bites Test of Faith by Sect Act of Alabama Preacher," Fort
-    Worth Star-Telegram, October 17, 1913, AHN; "Was He Snake Bite
-    Proof? No," Aberdeen Daily American, November 4, 1913, AHN. But, as
-    noted above, the 1909 accounts strongly imply a death among the True
-    Followers of Jesus of Christ in Kansas. Given the spotty reporting
-    and regional nature of the practice during the 1900s and 1910s, it's
-    quite likely that the number of deaths associated with handling
-    during this period were underreported.
+[^52]: "Snake Bites Test of Faith by Sect Act of Alabama Preacher,"
+    *Fort Worth Star-Telegram*, October 17, 1913, AHN; "Was He Snake
+    Bite Proof? No," Aberdeen Daily American, November 4, 1913, AHN.
+    But, as noted above, the 1909 accounts strongly imply a death among
+    the True Followers of Jesus of Christ in Kansas. Given the spotty
+    reporting and regional nature of the practice during the 1900s and
+    1910s, it's quite likely that the number of deaths associated with
+    handling during this period were underreported.
 
 [^53]: The present essay, because of its focus on serpent handling in
     South and the practice's relationship to the development of
     pentecostalism, cannot deal with these earliest accounts in any
-    depth. In fact, it would take an entire article—or perhaps more—to
-    sort out this earlier pre-Hensley history of serpent handling. For
-    the purposes of this essay, I follow the conventional trend of
-    depicting Hensley as the source of the practice. This is simply a
-    matter of narrative convenience. As more archival material becomes
-    available in searchable databases, such a America's Historical
-    Newspapers, it seems likely that researchers will uncover that many
-    expressions of serpent handling emerged spontaneously and
+    depth. In fact, it would take an entire article---or perhaps
+    more---to sort out this earlier pre-Hensley history of serpent
+    handling. For the purposes of this essay, I follow the conventional
+    trend of depicting Hensley as the source of the practice. This is
+    simply a matter of narrative convenience. As more archival material
+    becomes available in searchable databases, such a America's
+    Historical Newspapers, it seems likely that researchers will uncover
+    that many expressions of serpent handling emerged spontaneously and
     independently of one another as preachers speculated on the
-    significance of Mark 16:17–18 during the late nineteenth and early
+    significance of Mark 16:17--18 during the late nineteenth and early
     twentieth centuries. Hensley is associated with the origination of
     the practice for two reasons. First, the intense religious and
     secular press coverage of his revival in Cleveland in 1914 assured
@@ -1816,23 +1822,23 @@ suicides, cultists and criminals, preachers and performance artists.
     Tomlinson argued that he was personally responsible for converting
     Hensley and this conversion led directly to the practice's origin.
     Homer also lavished praise on serpent handling. See Homer A.
-    Tomlinson, "It Came to Pass in Those Days:" The Shout of a King (New
-    York: The Church of God, 1968), 35–44. Similarly, Milton A.
+    Tomlinson, *"It Came to Pass in Those Days:" The Shout of a King*
+    (New York: The Church of God, 1968), 35--44. Similarly, Milton A.
     Tomlinson, who followed his father as the Second Overseer of the
     Church of God of Prophecy, kept his father's writings on serpent
     handling in print until the late 1940s by distributing a short tract
-    on the subject. See Tomlinson, The Signs That Follow.
+    on the subject. See Tomlinson, *The Signs That Follow*.
 
 [^54]: Burton, Serpent-Handling Believers, 41.
 
 [^55]: Anton T. Boisen, "Economic Distress and Religious Experience: A
-    Study of Holy Rollers," Psychiatry 2 (1939): 185–194; John B. Holt,
-    “Holiness Religion: Cultural Shock and Social Reorganization,”
-    American Sociological Review 5.5 (1940): 740–747; and, Kimbrough,
-    Taking Up Serpents, 73–116.
+    Study of Holy Rollers," *Psychiatry* 2 (1939): 185--194; John B.
+    Holt, "Holiness Religion: Cultural Shock and Social Reorganization,"
+    *American Sociological Review* 5.5 (1940): 740--747; and, Kimbrough,
+    *Taking Up Serpents*, 73--116.
 
-[^56]: A. J. Tomlinson, "Sensational Demonstrations," Church of God
-    Evangel, September 19, 1914, 1.
+[^56]: A. J. Tomlinson, "Sensational Demonstrations," *Church of God
+    Evangel*, September 19, 1914, 1.
 
 [^57]: Ibid., 2.
 
@@ -1848,16 +1854,16 @@ suicides, cultists and criminals, preachers and performance artists.
 
 [^63]: Ibid.
 
-[^64]: General Assembly Minutes, 1906–1914 (Cleveland, Tenn.: White Wing
-    Publishing House, 1992), 15.
+[^64]: *General Assembly Minutes*, 1906--1914 (Cleveland, Tenn.: White
+    Wing Publishing House, 1992), 15.
 
-[^65]: A. J. Tomlinson, "Walk Softly Before God," Church of God Evangel,
-    January 9, 1915, 1.
+[^65]: A. J. Tomlinson, "Walk Softly Before God," *Church of God
+    Evangel*, January 9, 1915, 1.
 
-[^66]: Book of Minutes: A Compiled History of the Work of the General
-    Assemblies of the Church of God (Cleveland, Tenn.: Church of God
-    Publishing House, 1922), 268, quoted in Burton, Serpent-Handling
-    Believers, 72. This statement concludes with Tomlinson noting that
+[^66]: *Book of Minutes: A Compiled History of the Work of the General
+    Assemblies of the Church of God* (Cleveland, Tenn.: Church of God
+    Publishing House, 1922), 268, quoted in Burton, *Serpent-Handling
+    Believers*, 72. This statement concludes with Tomlinson noting that
     serpent handling should be practiced, but never as a test for
     salvation or the holiness of the believer.
 
@@ -1876,45 +1882,46 @@ suicides, cultists and criminals, preachers and performance artists.
     of reporting on handling, a pattern that has remained remarkably
     stable for nearly a century.
 
-[^68]: Hood and Williamson, Them That Believe, 64–65.
+[^68]: Hood and Williamson, *Them That Believe*, 64--65.
 
-[^69]: T. F. McGuire, "Summerville, Ga.," Church of God Evangel, June 5,
-    1915, 3.
+[^69]: T. F. McGuire, "Summerville, Ga.," *Church of God Evangel*, June
+    5, 1915, 3.
 
-[^70]: J. H. Lord, "Knoxville, Tenn.," Church of God Evangel, September
-    8, 1917, 4.
+[^70]: J. H. Lord, "Knoxville, Tenn.," *Church of God Evangel*,
+    September 8, 1917, 4.
 
 [^71]: On swollen limbs, see J. L. Scott, "Ridgedale, Tenn.," Church of
     God Evangel, August 26, 1916; Florence Long, "Sale Creek, Tenn.,"
-    Church of God Evangel, August 21, 1915, 3. For vomiting saints, see
-    Henry Kinsey, "Report," Church of God Evangel, August 5, 1916, 3. As
-    another report explained, "One night a copperhead snake was brought
-    in and handled by about seven of the saints. It placed its fangs
-    into the hand of one of the brethren just to show that he was
+    *Church of God Evangel*, August 21, 1915, 3. For vomiting saints,
+    see Henry Kinsey, "Report," *Church of God Evangel*, August 5, 1916,
+    3. As another report explained, "One night a copperhead snake was
+    brought in and handled by about seven of the saints. It placed its
+    fangs into the hand of one of the brethren just to show that he was
     fighting stock. The hand swelled slightly, but the Lord healed him
     without leaving a scar or the least sign" (C. C. Martin,
-    "Hayesville, N.C.," Church of God Evangel, September 22, 1917, 2).
+    "Hayesville, N.C.," *Church of God Evangel*, September 22, 1917, 2).
 
-[^72]: J. Cagle, "Ooltewah, Tenn.," Church of God Evangel, August 21,
-    1915, 4; J. Aylor, "Report," Church of God Evangel, October 14,
-    1916, 3; and, G. T. Brouayer, "Report from Ladonia, Texas," Church
-    of God Evangel, June 23, 1917, 4.
+[^72]: J. Cagle, "Ooltewah, Tenn.," *Church of God Evangel*, August 21,
+    1915, 4; J. Aylor, "Report," *Church of God Evangel*, October 14,
+    1916, 3; and, G. T. Brouayer, "Report from Ladonia, Texas," *Church
+    of God Evangel*, June 23, 1917, 4.
 
 [^73]: Passive constructions such as O. T. Morgan, "Walhalla, S.C.,"
-    Church of God Evangel, September 22, 1917, 4, make it difficult to
+    *Church of God Evangel*, September 22, 1917, 4, make it difficult to
     sort out if members of the church frequently brought their own
     snakes, as is now the norm in most serpent handling churches, or if
     challengers and skeptics brought snakes to challenge members of the
     church. Some sources indicate outsiders brought the majority of the
     snakes. See, G. T. Stragel, W. A. Capshaw, and Daughter, "Report,"
-    Church of God Evangel, July 22, 1916, 2; Aylor, "Report," 3; and, W.
-    A. Capshaw, "Erastus, N.C.," Church of God Evangel, August 11, 1917,
-    2.
+    *Church of God Evangel*, July 22, 1916, 2; Aylor, "Report," 3; and,
+    W. A. Capshaw, "Erastus, N.C.," *Church of God Evangel*, August 11,
+    1917, 2.
 
-[^74]: A. J. Tomlinson, "Another Good Opportunity," Church of God
-    Evangel, August 26, 1916, 1.
+[^74]: A. J. Tomlinson, "Another Good Opportunity," *Church of God
+    Evangel*, August 26, 1916, 1.
 
-[^75]: E. D. Hopkins, "Report," Church of God Evangel, July 12, 1919, 3.
+[^75]: E. D. Hopkins, "Report," *Church of God Evangel*, July 12, 1919,
+    3.
 
 [^76]: Ibid.
 
@@ -1922,66 +1929,66 @@ suicides, cultists and criminals, preachers and performance artists.
 
 [^78]: From a close reading of reports from 1914 to 1930, Hood and
     Williamson have estimated that serpent handling resulted either
-    directly or indirectly in 482 conversions. Hood and Williamson, Them
-    That Believe, 65.
+    directly or indirectly in 482 conversions. Hood and Williamson,
+    *Them That Believe*, 65.
 
-[^79]: A. J. Tomlinson, "Guilty or Not Guilty?" Church of God Evangel,
+[^79]: A. J. Tomlinson, "Guilty or Not Guilty?" *Church of God Evangel*,
     October 4, 1916, 1.
 
-[^80]: Membership information is from Charles W. Conn, Like a Mighty
-    Army: A History of the Church of God, 1886-1995 (Cleveland, Tenn.:
-    Pathway Press, 1996), 580–581; subscriber information can be found
-    in Robins, A. J. Tomlinson, 222.
+[^80]: Membership information is from Charles W. Conn, *Like a Mighty
+    Army: A History of the Church of God, 1886-1995* (Cleveland, Tenn.:
+    Pathway Press, 1996), 580--581; subscriber information can be found
+    in Robins, *A. J. Tomlinson*, 222.
 
-[^81]: Robins, A. J. Tomlinson, 226, estimates that about 6,000 of the
+[^81]: Robins, *A. J. Tomlinson*, 226, estimates that about 6,000 of the
     Church of God's 21,000 members followed Tomlinson in his new
     venture. Robins concludes, "as the two sides clarified their
     boundaries it became clear that Tomlinson had lost the lion's share
-    of his denomination.”
+    of his denomination."
 
-[^82]: William J. Taylor, "The Vipers That Come Out of the Fire," The
-    Latter Rain Evangel, December 1917, 5–9, CPA, accessed April 8,
+[^82]: William J. Taylor, "The Vipers That Come Out of the Fire," *The
+    Latter Rain Evangel*, December 1917, 5--9, CPA, accessed April 8,
     2013,
-    http://pentecostalarchives.org/digitalPublications/USA/Independent/Latter%20Rain%20Evangel/Unregistered/1917/FPHC/1917\_12.pdf
-    .
+    [http://pentecostalarchives.org/digitalPublications/USA/Independent/Latter%20Rain%20Evangel/Unregistered/1917/FPHC/1917\\\_12.pdf][].
 
 [^83]: For a representative of this genre see, F. F. Bosworth, "'For
     This Cause Was the Son of God Manifest That He Might Destroy the
-    Works of the Devil,'" The Latter Rain Evangel, July 1921, 6–9, CPA,
-    accessed April 8, 2013,
-    http://pentecostalarchives.org/digitalPublications/USA/Independent/Latter%20Rain%20Evangel/Unregistered/1921/FPHC/1921\_07.pdf.
+    Works of the Devil,'" *The Latter Rain Evangel*, July 1921, 6--9,
+    CPA, accessed April 8, 2013,
+    [http://pentecostalarchives.org/digitalPublications/USA/Independent/Latter%20Rain%20Evangel/Unregistered/1921/FPHC/1921\\\_07.pdf][].
 
-[^84]: R. G. Robins, Pentecostalism in America (Santa Barbara: ABC-CLIO,
-    2010), 34.
+[^84]: R. G. Robins, *Pentecostalism in America* (Santa Barbara:
+    ABC-CLIO, 2010), 34.
 
-[^85]: "In the Great Mission Field," The Latter Rain Evangel, April
+[^85]: "In the Great Mission Field," *The Latter Rain Evangel*, April
     1913, 13-14, CPA, accessed April 8, 2013,
-    http://pentecostalarchives.org/digitalPublications/USA/Independent/Latter%20Rain%20Evangel/Unregistered/1913/FPHC/1913\_04.pdf.
+    [http://pentecostalarchives.org/digitalPublications/USA/Independent/Latter%20Rain%20Evangel/Unregistered/1913/FPHC/1913\\\_04.pdf][].
 
 [^86]: George R. Berg, "'At Last the Light Is Shining in My Country:'
-    Miracles of Healing Wrought in South India," The Latter Rain
-    Evangel, September 1911, 2–8, CPA, accessed April 9, 2013,
-    http://pentecostalarchives.org/digitalPublications/USA/Independent/Latter
-    Rain Evangel/Unregistered/1911/FPHC/1911\_09.pdf.
+    Miracles of Healing Wrought in South India," *The Latter Rain
+    Evangel*, September 1911, 2--8, CPA, accessed April 9, 2013,
+    <http://pentecostalarchives.org/digitalPublications/USA/Independent/Latter
+    Rain Evangel/Unregistered/1911/FPHC/1911\_09.pdf>.
 
 [^87]: See, for example, Ralph W. Burnett, "Victory over Snake Bite,"
-    The Pentecostal Evangel, July 28, 1923, CPA, accessed April 8, 2013,
-    http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1923/FPHC/1923\_07\_28.pdf
-    ; Lucy A. Luttrull, "Healed of Snake Bite," The Pentecostal Evangel,
-    September 8, 1923, CPA, accessed April 8, 2013,
-    http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1923/FPHC/1923\_09\_08.pdf;
-    E. N. Smith, "A Good Testimony," The Pentecostal Evangel, September
-    15, 1923, CPA, accessed April 8, 2013,
-    http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1923/FPHC/1923\_09\_15.pdf;
-    Alice Hannah, "Healed of the Bite of a Serpent," The Pentecostal
-    Evangel, April 19, 1924, CPA, accessed April 8, 2013,
-    http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1924/FPHC/1924\_04\_19.pdf;
-    "Healed of Snake Bite," The Pentecostal Evangel, August 20, 1927,
+    *The Pentecostal Evangel*, July 28, 1923, CPA, accessed April 8,
+    2013,
+    [http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1923/FPHC/1923\\\_07\\\_28.pdf][]
+    ; Lucy A. Luttrull, "Healed of Snake Bite," *The Pentecostal
+    Evangel*, September 8, 1923, CPA, accessed April 8, 2013,
+    [http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1923/FPHC/1923\\\_09\\\_08.pdf][];
+    E. N. Smith, "A Good Testimony," *The Pentecostal Evangel*,
+    September 15, 1923, CPA, accessed April 8, 2013,
+    [http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1923/FPHC/1923\\\_09\\\_15.pdf][];
+    Alice Hannah, "Healed of the Bite of a Serpent," *The Pentecostal
+    Evangel*, April 19, 1924, CPA, accessed April 8, 2013,
+    [http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1924/FPHC/1924\\\_04\\\_19.pdf][];
+    "Healed of Snake Bite," *The Pentecostal Evangel*, August 20, 1927,
     CPA, accessed April 8, 2013,
-    http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1927/FPHC/1927\_08\_27.pdf;
-    "Healed of Snakebite," The Pentecostal Evangel, September 21, 1929,
-    CPA, accessed April 8, 2013,
-    http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1929/FPHC/1929\_09\_21.pdf.
+    [http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1927/FPHC/1927\\\_08\\\_27.pdf][];
+    "Healed of Snakebite," *The Pentecostal Evangel*, September 21,
+    1929, CPA, accessed April 8, 2013,
+    [http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1929/FPHC/1929\\\_09\\\_21.pdf][].
 
 [^88]: Burnett, "Victory over Snake Bite," 8.
 
@@ -1994,25 +2001,24 @@ suicides, cultists and criminals, preachers and performance artists.
     of Snakebite."
 
 [^92]: Joseph Tunmore, "Why Jesus Took Our Humanity: The Infinite God
-    Needs Men to Carry Out His Purpose," The Latter Rain Evangel, June
+    Needs Men to Carry Out His Purpose," *The Latter Rain Evangel*, June
     1929, 11, CPA, accessed April 8, 2013,
-    http://pentecostalarchives.org/digitalPublications/USA/Independent/Latter%20Rain%20Evangel/Unregistered/1929/FPHC/1929\_06.pdf.\
+    [http://pentecostalarchives.org/digitalPublications/USA/Independent/Latter%20Rain%20Evangel/Unregistered/1929/FPHC/1929\\\_06.pdf][].
     This was hardly a novel position. It had been adopted by many
-    pentecostals nearly two decades earlier; see, for example, V. P.\
-    Simmons, "Casting Out Devils," The Bridegroom's Messenger, March 1,
-    1910, 2, CPA, accessed April 8, 2013,
-    http://pentecostalarchives.org/digitalPublications/USA/International%20Pentecostal%20Church%20of%20Christ/Bridegroom%27s%20Messenger/Unregistered/1910/FPHC/1910\_03\_01.pdf.
+    pentecostals nearly two decades earlier; see, for example, V. P.
+    Simmons, "Casting Out Devils," *The Bridegroom's Messenger*, March
+    1, 1910, 2, CPA, accessed April 8, 2013,
+    [http://pentecostalarchives.org/digitalPublications/USA/International%20Pentecostal%20Church%20of%20Christ/Bridegroom%27s%20Messenger/Unregistered/1910/FPHC/1910\\\_03\\\_01.pdf][].
 
 [^93]: E. N. Bell, "To Act in the Name of Another: What Does the Bible
-    Mean by It?" The Weekly Evangel, May 1, 1915, 2; E. N. Bell,
-    "Questions and Answers," The Christian Evangel, August 9, 1919, 5,
+    Mean by It?" *The Weekly Evangel*, May 1, 1915, 2; E. N. Bell,
+    "Questions and Answers," *The Christian Evangel*, August 9, 1919, 5,
     CPA, accessed April 8, 2013,
-    http://pentecostalarchives.org/digitalPublications/USA/Assemblies of
-    God USA/Pentecostal Evangel/Unregistered/1919/FPHC/1919\_08\_09.pdf;
-    and E. N. Bell, "Questions and Answers," The Pentecostal Evangel,
+    <http://pentecostalarchives.org/digitalPublications/USA/Assemblies of
+    God USA/Pentecostal Evangel/Unregistered/1919/FPHC/1919\_08\_09.pdf>;
+    and E. N. Bell, "Questions and Answers," *The Pentecostal Evangel*,
     December 13, 1919, 5, CPA, accessed April 8, 2013,
-    http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1919/FPHC/1919\_12\_13.pdf
-    .
+    [http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1919/FPHC/1919\\\_12\\\_13.pdf][].
 
 [^94]: Ellis, "Oneonta, AL," 8.
 
@@ -2025,11 +2031,11 @@ suicides, cultists and criminals, preachers and performance artists.
     HBD). Later, in his 1941 autobiography, Ellis wrote, "Frankly, I
     would rather [serpent handling] never occurred in my meetings. Be
     very careful because it is unsafe unless you are sure God is with
-    you and will protect you.” See James Benton Ellis, Blazing the
-    Gospel Trail (Plainfield, N.J.: Logos International, 1976), 71.
+    you and will protect you." See James Benton Ellis, *Blazing the
+    Gospel Trail* (Plainfield, N.J.: Logos International, 1976), 71.
 
-[^96]: M. S. Lemons, "A Misappropriation of His Power," Church of God
-    Evangel, May 3, 1919, 2.
+[^96]: M. S. Lemons, "A Misappropriation of His Power," *Church of God
+    Evangel*, May 3, 1919, 2.
 
 [^97]: Ibid.
 
@@ -2039,121 +2045,121 @@ suicides, cultists and criminals, preachers and performance artists.
 
 [^100]: Ibid., 3.
 
-[^101]: Pentecostal Holiness Advocate, May 10, 1917, 12–13.
+[^101]: Pentecostal Holiness Advocate, May 10, 1917, 12--13.
 
 [^102]: Kane, "Snake Handlers of Southern Appalachia," argued that
     serpent handling was at least partially responsible for drawing
     converts to the Church of God and was seen as direct threat to the
     Pentecostal Holiness Church (53-55). W. J. Noble, "Beware of the
-    Church God," Pentecostal Holiness Advocate, October 11, 1917, seems
-    to support Kane's argument (2-3).
+    Church God," *Pentecostal Holiness Advocate*, October 11, 1917,
+    seems to support Kane's argument (2-3).
 
-[^103]: Hattie M. Barth, "Misdirected Power," The Bridegroom's
-    Messenger, April 1919, 1, CPA, accessed April 8, 2013,
-    http://pentecostalarchives.org/digitalPublications/USA/International
+[^103]: Hattie M. Barth, "Misdirected Power," *The Bridegroom's
+    Messenger*, April 1919, 1, CPA, accessed April 8, 2013,
+    <http://pentecostalarchives.org/digitalPublications/USA/International
     Pentecostal Church of Christ/Bridegroom's
-    Messenger/Unregistered/1919/FPHC/1919\_04.pdf.
+    Messenger/Unregistered/1919/FPHC/1919\_04.pdf>.
 
-[^104]: See Acts 28:1–6.
+[^104]: See Acts 28:1--6.
 
 [^105]: Barth, "Misdirected Power," 1.
 
 [^106]: Hattie M. Barth, "To Our Friends: Who Have Made Objection to Our
     Article in the Bridegroom's Messenger, April Issue, Entitled
     'Misdirected Power,'" June 1919, 2, CPA, accessed April 8, 2013,
-    http://pentecostalarchives.org/digitalPublications/USA/International
+    <http://pentecostalarchives.org/digitalPublications/USA/International
     Pentecostal Church of Christ/Bridegroom's
-    Messenger/Unregistered/1919/FPHC/1919\_06.pdf.
+    Messenger/Unregistered/1919/FPHC/1919_06.pdf>.
 
 [^107]: Ibid.
 
-[^108]: W. Jethro Walthall, "Bro. Walthall's Good Report," The Weekly
-    Evangel, September 29, 1917, 13, CPA, accessed April 8, 2013,
-    http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1917/FPHC/1917\_09\_29.pdf.
+[^108]: W. Jethro Walthall, "Bro. Walthall's Good Report," *The Weekly
+    Evangel*, September 29, 1917, 13, CPA, accessed April 8, 2013,
+    [http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1917/FPHC/1917\\\_09\\\_29.pdf][].
 
-[^109]: Crews, The Church of God, 90-101.
+[^109]: Crews, *The Church of God*, 90-101.
 
 [^110]: Tomlinson neither suggested that handling snakes was essential
     for church fellowship nor that it was a necessary indication of Holy
     Spirit baptism. The only necessary evidence of the latter was
-    speaking in tongues (Robins, A. J. Tomlinson, 190). Many historians
-    have suggested that the Church of God "officially" banned serpent
-    handling in 1928, yet as Hood and Williamson point out, the church
-    never made an explicit statement on the practice and instead
+    speaking in tongues (Robins, *A. J. Tomlinson*, 190). Many
+    historians have suggested that the Church of God "officially" banned
+    serpent handling in 1928, yet as Hood and Williamson point out, the
+    church never made an explicit statement on the practice and instead
     downplayed its importance as a manifestation of Holy Spirit baptism
-    (Hood and Williamson, Them that Believe, 72).
+    (Hood and Williamson, *Them that Believe*, 72).
 
 [^111]: Heath supported of the sign of handling if it is properly
     preformed. He wrote, "Let God do the saving and taking care of the
     signs. If it becomes necessary to convince an unbeliever, He can
     furnish the serpent and the man" (S. J. Heath, "Signs Following
-    Believers," Church of God Evangel, June 28, 1928, 3).
+    Believers," *Church of God Evangel*, June 28, 1928, 3).
 
 [^112]: Ibid.
 
-[^113]: Ernest S. Williams, "Unbelief," The Pentecostal Evangel, July 4,
-    1925, 27. Williams would return to the topic multiple times in his
-    career: Ernest S. Williams, "Workers Together With Him," The
-    Pentecostal Evangel, February 4, 1939, 2, CPA, accessed April 8,
+[^113]: Ernest S. Williams, "Unbelief," *The Pentecostal Evangel*, July
+    4, 1925, 27. Williams would return to the topic multiple times in
+    his career: Ernest S. Williams, "Workers Together With Him," *The
+    Pentecostal Evangel*, February 4, 1939, 2, CPA, accessed April 8,
     2013,
-    http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1939/FPHC/1939\_02\_04.pdf
-    ; Ernest S. Williams, "Your Questions," The Pentecostal Evangel,
+    \<<http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1939/FPHC/1939_02_04.pdf>;
+    Ernest S. Williams, "Your Questions," *The Pentecostal Evangel*,
     January 12, 1958, 23, CPA, accessed April 8, 2013,
-    http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1958/FPHC/1958\_01\_12.pdf;
+    <http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1958/FPHC/1958_01_12.pdf>;
     Ernest S. Williams, "Your Questions," The Pentecostal Evangel,
     August 17, 1958, 19, CPA, accessed April 8, 2013,
-    http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1958/FPHC/1958\_08\_17.pdf.\
+    <http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1958/FPHC/1958_08_17.pdf>.
     The fact that he returned to the topic in his "Your Questions"
     columns indicates that the issue remained a matter of some
     curiosity.
 
-[^114]: C. E. Robinson, "What Should a Christian Do?" The Pentecostal
-    Evangel, August 10, 1929, 9, CPA, accessed April 8, 2013,
-    http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1929/FPHC/1929\_08\_10.pdf
-    . See also, J. Narver Gortner, "They Shall Take Up Serpents," The
-    Pentecostal Evangel, January 28, 1928, 3, CPA, accessed April 8,
+[^114]: C. E. Robinson, "What Should a Christian Do?" *The Pentecostal
+    Evangel*, August 10, 1929, 9, CPA, accessed April 8, 2013,
+    <http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1929/FPHC/1929_08_10.pdf>.
+    See also, J. Narver Gortner, "They Shall Take Up Serpents," *The
+    Pentecostal Evangel*, January 28, 1928, 3, CPA, accessed April 8,
     2013,
-    http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1928/FPHC/1928\_01\_28.pdf.
+    <http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1928/FPHC/1928_01_28.pdf>.
 
 [^115]: The last positive reference to serpent handling appears to be J.
-    S. Robert, "Signs Following Believers," Church of God Evangel,
+    S. Robert, "Signs Following Believers," *Church of God Evangel*,
     November 30, 1935, 3.
 
-[^116]: E. L. Simmons, "Believers and Signs," Church of God Evangel,
+[^116]: E. L. Simmons, "Believers and Signs," *Church of God Evangel*,
     November 11, 1939, 4; emphasis mine.
 
-[^117]: Quoted in Burton, Serpent-Handling Believers, 81.
+[^117]: Quoted in Burton, *Serpent-Handling Believers*, 81.
 
 [^118]: Coverage of deaths included Charles Pennington, "Snake-Handling
-    'Preacher' Dies of Rattler's Bite in Ceremony," Chattanooga Times,
+    'Preacher' Dies of Rattler's Bite in Ceremony," *Chattanooga Times*,
     September 5, 1945, 1; and, "Tennessee Preacher, Virginia Woman Die
-    of Snake Bites in Rites of Religious Sect," New York Times,
+    of Snake Bites in Rites of Religious Sect," *New York Times*,
     September 5, 1945, 25. Local coverage of conflicts between handlers
     and state and municipal authorities include Fred Travis, "Bradley
-    Baffled by Snake Problem," Chattanooga Times, August 28, 1946, 9;
-    and, "Bradley Paper Seeks to 'Ban' Snake Handling," Chattanooga
-    News-Free Press, September 4, 1946, 5. In one notable story, police
+    Baffled by Snake Problem," *Chattanooga Times*, August 28, 1946, 9;
+    and, "Bradley Paper Seeks to 'Ban' Snake Handling," *Chattanooga
+    News-Free Press*, September 4, 1946, 5. In one notable story, police
     promptly arrested G. W. Hensley and another preacher, Tom Harden,
     for handling poisonous snakes within the city limits at an East
     Chattanooga revival. A detective "blasted the head from the snake
     with a shotgun," then kept the snake's rattlers as a trophy and
     proudly showed off the creature's fangs to curious observers. Alex
     Corliss, "2 'Faith-Healing' Ministers Held for Handling Snake in
-    City Limits," Chattanooga Times, September 24, 1945, 1.
+    City Limits," *Chattanooga Times*, September 24, 1945, 1.
 
-[^119]: Quoted in Burton, Serpent-Handling Believers, 75.
+[^119]: Quoted in Burton, *Serpent-Handling Believers*, 75.
 
 [^120]: See, respectively, "Religion: They Shall Take Up Serpents,"
-    Newsweek, August 21, 1944, 88–89; "Americana," Time, March 10, 1947,
-    22–23; "Sect Leader Indignant at Darden Threat," The Washington
-    Post, July 25, 1945, 3; Archie Robertson, That Old-Time Religion
-    (Boston: Houghton Mifflin, 1950), 169–181.
+    Newsweek, August 21, 1944, 88--89; "Americana," *Time*, March 10,
+    1947, 22--23; "Sect Leader Indignant at Darden Threat," *Washington
+    Post*, July 25, 1945, 3; Archie Robertson, *That Old-Time Religion*
+    (Boston: Houghton Mifflin, 1950), 169--181.
 
 [^121]: The derision and contempt in these stories is palpable. One
     story reported on the "[r]attlers and copperheads" "being passed
     about in a meeting with as much sangfroid" as a society lady
-    "serving tea to her guest" ("Proselyting with Snakes," Chattanooga
-    Daily Times, September 16, 1914, 3). Several papers reported that
+    "serving tea to her guest" ("Proselyting with Snakes," *Chattanooga
+    Daily Times*, September 16, 1914, 3). Several papers reported that
     Hensley had promised to walk across the Tennessee River only to
     eventually abandon the miraculous project much to the cynical
     pleasure of the stories' authors ("He Can Handle Snakes but Will He
@@ -2161,16 +2167,16 @@ suicides, cultists and criminals, preachers and performance artists.
     Others reported on the sadistic ways skeptics hoped to test the
     authenticity of the handlers' signs, including accounts of Hensley
     being challenged to drink carbolic acid ("Snakes in Demand,"
-    Cleveland Herald, September 17, 1914, 1; and, "Reptile in the
-    Meetin'," Chattanooga Daily Times, September 21, 1914, 3).
+    *Cleveland Herald*, September 17, 1914, 1; and, "Reptile in the
+    Meetin'," *Chattanooga Daily Times*, September 21, 1914, 3).
 
 [^122]: The church went so far as to pass a resolution at the Eleventh
     General Assembly in 1915 that "disclaim[ed] and repudiate[d] the
     title 'Holy Rollers' in reference to the Church of God" (quoted in
-    Davidson, Upon This Rock, 1:448). See also Paul Harvey, Freedom's
+    Davidson, Upon This Rock, 1:448). See also Paul Harvey, *Freedom's
     Coming: Religious Culture and the Shaping of the South from the
-    Civil War Through the Civil Rights Era (Chapel Hill: University of
-    North Carolina Press, 2005), 140–141.
+    Civil War Through the Civil Rights Era* (Chapel Hill: University of
+    North Carolina Press, 2005), 140--141.
 
 [^123]: "Proselyting with Snakes," 3.
 
@@ -2179,68 +2185,101 @@ suicides, cultists and criminals, preachers and performance artists.
     for decades, but it became progressively less visible, especially in
     reporting on snake handling.
 
-[^125]: Hood and Williamson, Them That Believe, 212, noted that the
+[^125]: Hood and Williamson, *Them That Believe*, 212, noted that the
     family that owned the New York Times also owned local Tennessee
-    papers, a fact that contributed to the Times's frequent coverage of
-    the practice and also helps explain why the Times was one of the
-    earliest national publications to adopt "snake handling" to label
-    the practice.
+    papers, a fact that contributed to the *Times*'s frequent coverage
+    of the practice and also helps explain why the *Times* was one of
+    the earliest national publications to adopt "snake handling" to
+    label the practice.
 
-[^126]: See, respectively, "Snake-rite Leaders Fast," New York Times,
-    August 4, 1940, 31; "Wave Rattler in Frenzy," New York Times, August
-    19, 1935, 17; "Snakes Kill Preacher," New York Times, October 1,
-    1936, 15; and, "Snake Defiers Jailed," New York Times, August 1,
-    1940, 18; and, "Snake-bitten Child Remains Untreated," New York
-    Times, August 3, 1940, 28; "Snake at Service Bites 3 Cultists," New
-    York Times, August 6, 1940, 21.
+[^126]: See, respectively, "Snake-rite Leaders Fast," *New York Times*,
+    August 4, 1940, 31; "Wave Rattler in Frenzy," *New York Times*,
+    August 19, 1935, 17; "Snakes Kill Preacher," *New York Times*,
+    October 1, 1936, 15; and, "Snake Defiers Jailed," *New York Times*,
+    August 1, 1940, 18; and, "Snake-bitten Child Remains Untreated,"
+    *New York Times*, August 3, 1940, 28; "Snake at Service Bites 3
+    Cultists," *New York Times*, August 6, 1940, 21.
 
-[^127]: "Snake-Handling Cultists Resemble Other Groups," The Science
-    News-Letter 38.7 (1940): 103.
+[^127]: "Snake-Handling Cultists Resemble Other Groups," *The Science
+    News-Letter* 38.7 (1940): 103.
 
 [^128]: Richard Golden, "Snake-handling' Woman Bitten Because of Lack of
-    Faith, She Declares," Knoxville News-Sentinel, September 1939,
+    Faith, She Declares," *Knoxville News-Sentinel*, September 1939,
     Clipping File, Chattanooga Public Library, Chattanooga, Tennessee
     (hereafter cited as CPL). Golden also used the term in
-    "Snake-handlers Are Like Jitterbugs, Psychologist Says," Knoxville
-    News-Sentinel, September 1939, CPL.
+    "Snake-handlers Are Like Jitterbugs, Psychologist Says," *Knoxville
+    News-Sentinel*, September 1939, CPL.
 
 [^129]: "Serpent-Handling Preacher Here, Bitten by Deadly Snake, Refuses
     Medical Attention, Says 'Faith Will Heal' Him of Poisonous Venom,"
-    Knoxville News-Sentinel, July 3, 1940, 1; "Many Healthy Men Could
-    'Take' Snakebite Says U-T Man—But He Doesn't Advise It," Knoxville
-    News-Sentinel, July 9, 1940, 1, CPL.
+    *Knoxville News-Sentinel*, July 3, 1940, 1; "Many Healthy Men Could
+    'Take' Snakebite Says U-T Man---But He Doesn't Advise It,"
+    *Knoxville News-Sentinel*, July 9, 1940, 1, CPL.
 
 [^130]: See, respectively, "Many Healthy Men Could 'Take' Snakebite," 1;
     "Snake-Handling Cultists Resemble Other Groups;" Golden,
     "Snake-handlers Are Like Jitterbugs, Psychologist Says," and Thomas
     Barensfeld, "Brain-Washing No Monopoly of Reds, Author Points Out,"
-    Cleveland Plain Dealer, June 23, 1957, AHN.
+    *Cleveland Plain Dealer*, June 23, 1957, AHN.
 
-[^131]: E. L. Simmons, "Religion and Snakes," Church of God Evangel,
+[^131]: E. L. Simmons, "Religion and Snakes," *Church of God Evangel*,
     June 1, 1940, 4.
 
 [^132]: Ibid.
 
-[^133]: Crews, The Church of God, 138–139.
+[^133]: Crews, *The Church of God*, 138--139.
 
-[^134]: Jonathan Z. Smith, "Classification," in Guide to the Study of
-    Religion, ed. Willi Braun and Russell T. McCutcheon (New York:
+[^134]: Jonathan Z. Smith, "Classification," in *Guide to the Study of
+    Religion*, ed. Willi Braun and Russell T. McCutcheon (New York:
     Cassell, 2000), 38.
 
 [^135]: Jonathan Z. Smith, "Differential Equations: On Constructing the
-    Other," in Relating Religion: Essays in the Study of Religion
-    (Chicago: University of Chicago Press, 2004), 230–250.
+    Other," in *Relating Religion: Essays in the Study of Religion*
+    (Chicago: University of Chicago Press, 2004), 230--250.
 
-[^136]: "Snake Kills Cultist," New York Times, July 26, 1955, 12;
+[^136]: "Snake Kills Cultist," *New York Times*, July 26, 1955, 12;
     "Cultist Dies of Snakebite; Believed Dolley Pond Leader,"
     Chattanooga Times, July 25, 1955, 3.
 
-[^137]: Kimbrough, Taking up Serpents, 133; Burton, Serpent-Handling
-    Believers, 57.
+[^137]: Kimbrough, *Taking up Serpents*, 133; Burton, *Serpent-Handling
+    Believers*, 57.
 
 [^138]: "Snakebitten Preacher Dies; Listed as Suicide for Shunning
-    Medicine," Chattanooga Times, July 26, 1955, 9. Hensley was hardly
+    Medicine," *Chattanooga Times*, July 26, 1955, 9. Hensley was hardly
     alone; see, for example, "Snakebite Death Is Ruled Suicide,"
     Times-Picayune, July 28, 1959, AHN; and, "Judge Bans Handling of
-    Snakes, but Okays Drinking Strychnine," Times-Picayune, April 22,
+    Snakes, but Okays Drinking Strychnine," *Times-Picayune*, April 22,
     1973, AHN.
+
+  [http://www.washingtonpost.com/lifestyle/magazine/in-wva-snake-handling-is-still-considered-a-sign-of-faith/2011/10/18/gIQAmiqL9M\\\_print.html]:
+    http://www.washingtonpost.com/lifestyle/magazine/in-wva-snake-handling-is-still-considered-a-sign-of-faith/2011/10/18/gIQAmiqL9M\_print.html
+  [http://www.washingtonpost.com/lifestyle/style/serpent-handling-pastor-profiled-earlier-in-washington-post-dies-from-rattlesnake-bite/2012/05/29/gJQAJef5zU\\\_print.html]:
+    http://www.washingtonpost.com/lifestyle/style/serpent-handling-pastor-profiled-earlier-in-washington-post-dies-from-rattlesnake-bite/2012/05/29/gJQAJef5zU\_print.html
+  [http://pentecostalarchives.org/digitalPublications/USA/Independent/Apostolic%20Faith%20%28Azusa%20Street%29/Unregistered/1906/FPHC/1906\\\_11.pdf]:
+    http://pentecostalarchives.org/digitalPublications/USA/Independent/Apostolic%20Faith%20%28Azusa%20Street%29/Unregistered/1906/FPHC/1906\_11.pdf
+  [http://pentecostalarchives.org/digitalPublications/USA/Independent/Latter%20Rain%20Evangel/Unregistered/1917/FPHC/1917\\\_12.pdf]:
+    http://pentecostalarchives.org/digitalPublications/USA/Independent/Latter%20Rain%20Evangel/Unregistered/1917/FPHC/1917\_12.pdf
+  [http://pentecostalarchives.org/digitalPublications/USA/Independent/Latter%20Rain%20Evangel/Unregistered/1921/FPHC/1921\\\_07.pdf]:
+    http://pentecostalarchives.org/digitalPublications/USA/Independent/Latter%20Rain%20Evangel/Unregistered/1921/FPHC/1921\_07.pdf
+  [http://pentecostalarchives.org/digitalPublications/USA/Independent/Latter%20Rain%20Evangel/Unregistered/1913/FPHC/1913\\\_04.pdf]:
+    http://pentecostalarchives.org/digitalPublications/USA/Independent/Latter%20Rain%20Evangel/Unregistered/1913/FPHC/1913\_04.pdf
+  [http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1923/FPHC/1923\\\_07\\\_28.pdf]:
+    http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1923/FPHC/1923\_07\_28.pdf
+  [http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1923/FPHC/1923\\\_09\\\_08.pdf]:
+    http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1923/FPHC/1923\_09\_08.pdf
+  [http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1923/FPHC/1923\\\_09\\\_15.pdf]:
+    http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1923/FPHC/1923\_09\_15.pdf
+  [http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1924/FPHC/1924\\\_04\\\_19.pdf]:
+    http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1924/FPHC/1924\_04\_19.pdf
+  [http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1927/FPHC/1927\\\_08\\\_27.pdf]:
+    http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1927/FPHC/1927\_08\_27.pdf
+  [http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1929/FPHC/1929\\\_09\\\_21.pdf]:
+    http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1929/FPHC/1929\_09\_21.pdf
+  [http://pentecostalarchives.org/digitalPublications/USA/Independent/Latter%20Rain%20Evangel/Unregistered/1929/FPHC/1929\\\_06.pdf]:
+    http://pentecostalarchives.org/digitalPublications/USA/Independent/Latter%20Rain%20Evangel/Unregistered/1929/FPHC/1929\_06.pdf
+  [http://pentecostalarchives.org/digitalPublications/USA/International%20Pentecostal%20Church%20of%20Christ/Bridegroom%27s%20Messenger/Unregistered/1910/FPHC/1910\\\_03\\\_01.pdf]:
+    http://pentecostalarchives.org/digitalPublications/USA/International%20Pentecostal%20Church%20of%20Christ/Bridegroom%27s%20Messenger/Unregistered/1910/FPHC/1910\_03\_01.pdf
+  [http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1919/FPHC/1919\\\_12\\\_13.pdf]:
+    http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1919/FPHC/1919\_12\_13.pdf
+  [http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1917/FPHC/1917\\\_09\\\_29.pdf]:
+    http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1917/FPHC/1917\_09\_29.pdf
