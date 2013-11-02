@@ -13,19 +13,19 @@ vol: 15
 year: 2013
 ---
 
-> "Well, bless ye little heart, honey, ye say ye is wan' me to tell ye
-> 'bout how de people lived way back dere in slavery time. Honey, I
-> dunno wha' to tell ye cause I ain' never been treated no ways but good
-> in my life by my Missus."[^1] These are the supposed first words
-> spoken by Mom Hester Hunter, a maternal eighty-five-year-old former
-> slave from Marion, South Carolina, to her interviewer, Annie Ruth
-> Davis, a white Works Progress Administration (W.P.A.) employee. Davis
-> interviewed Hunter on three occasions between May and October 1937.
-> Through these three interviews, Davis and Hunter engaged in lively
-> discussion, with the latter recalling many fond, personally emotional
-> memories about her mistress, Sara Davis Bethea. At the conclusion of
-> the first interview Hunter revealed, "I know my Missus gone to Hebbun,
-> honey, en I hope se restin' dere."[^2]
+"Well, bless ye little heart, honey, ye say ye is wan' me to tell ye
+'bout how de people lived way back dere in slavery time. Honey, I
+dunno wha' to tell ye cause I ain' never been treated no ways but good
+in my life by my Missus."[^1] These are the supposed first words
+spoken by Mom Hester Hunter, a maternal eighty-five-year-old former
+slave from Marion, South Carolina, to her interviewer, Annie Ruth
+Davis, a white Works Progress Administration (W.P.A.) employee. Davis
+interviewed Hunter on three occasions between May and October 1937.
+Through these three interviews, Davis and Hunter engaged in lively
+discussion, with the latter recalling many fond, personally emotional
+memories about her mistress, Sara Davis Bethea. At the conclusion of
+the first interview Hunter revealed, "I know my Missus gone to Hebbun,
+honey, en I hope se restin' dere."[^2]
 
 Mom Hester Hunter remembered her mistress consoling her in times of
 sorrow, accompanying her to the slave graveyard to pay homage to the
@@ -40,7 +40,7 @@ shared with her mistress on Sundays in church, expressing gratitude for
 the ways by which evangelical Christianity had enriched her life. Hunter
 forever associated her religious identity and beliefs with her mistress:
 
-> "My God, child, people never know nothin but to go to church on de big
+> My God, child, people never know nothin but to go to church on de big
 > Sunday in dat day en time. No, mam, dey know dat dey Massa rule en
 > didn' nobody have no mind to question nothin bout it. My Old Missus
 > was a dear old soul en she would see to it dat all her niggers wash en
@@ -52,7 +52,7 @@ forever associated her religious identity and beliefs with her mistress:
 > somewhe'. I recollects just as bright as de stars be shinin old Missus
 > would carry me en Bob to de same little seats we been sit in every
 > Sunday en den she en old Massa would go to dey certain pew in de front
-> part of de church."[^4]
+> part of de church.[^4]
 
 Later recalling the importance of white-directed Christian instruction
 in her life and the lives of other slaves on the Bethea plantation,
@@ -71,7 +71,7 @@ long as she live too. Didn' want no better livin den I was gettin right
 dere. It was a Paradise, be dat what I calls it."[^7] This illuminates
 an especially close mistress-slave relationship—one obviously influenced
 by the scriptural and theological traditions of evangelical
-Christianity—as remembered many decades later by one former bondswoman.
+Christianity—as *remembered many decades later* by one former bondswoman.
 It is an idealized portrait of antebellum slavery that would support any
 southern apologist's contentions about the benevolent nature of the
 institution. Such a portrayal though does not align with most scholarly
@@ -109,7 +109,7 @@ In fact, plantation mistresses were seldom reticent to record feelings
 of frustration, anger, or indifference about their respective roles as
 religious educators in their diaries.[^9] Likewise, antebellum
 African-American sources collectively suggest that many white plantation
-women were not high-minded, kind, or supportive in their efforts as
+women were *not* high-minded, kind, or supportive in their efforts as
 Christian educators and role models.[^10] For example, antebellum black
 sources highlight disturbing contradictions between mistress religious
 instruction and mistress behavior and attitude. Not surprisingly, many
@@ -197,7 +197,7 @@ decades before to evangelize their slaves.[^20] As late as 1922,
 Elizabeth W. Allston Pringle, a former South Carolina mistress,
 reflected upon advice imparted to her mother by her mother's aunt:
 
-> "It is a very noble life, if a woman does her full duty in it. It is
+> It is a very noble life, if a woman does her full duty in it. It is
 > the life of a missionary, really; one must teach, train, uplift,
 > encourage—always encourage, even in reproof. I grant you it is a life
 > of effort, but, my child, it is our life; the life of those who have
@@ -205,7 +205,7 @@ reflected upon advice imparted to her mother by her mother's aunt:
 > our Master for not only their bodies, but their souls; and never must
 > we for one moment forget that. To be the wife of a rice-planter is no
 > place for a pleasure-loving, indolent woman, but for an earnest,
-> true-hearted woman it is a great opportunity."[^21]
+> true-hearted woman it is a great opportunity.[^21]
 
 The degree to which former mistresses selectively remembered, or even
 revised their personal histories, takes on new meaning when compared to
@@ -217,16 +217,16 @@ and hostility toward their slaves, all of which was consistent with
 those expressed in antebellum diaries. For example, Ella Gertrude Thomas
 of Georgia, still distraught over the outcome of the Civil War, wrote in
 October 1865: "I did not know until then how intimately my faith in
-Revelations and my faith in the institution of slavery had been woven
+*Revelations* and my faith in the institution of slavery had been woven
 together—true I had seen the evil of the latter but if the Bible was
-right then slavery must be—Slavery was done away with and my faith in
+right then slavery *must* be—Slavery was done away with and my faith in
 God's Holy Book was terribly shaken. For a time, I doubted God."[^22]
 One should not be surprised about the intensity of feeling. Many elite
 whites were facing life with vastly diminished resources and in a
 different social order.
 
 Thus, one must consider the reasons why aging former slaveholding women
-chose to portray themselves—and more generally the antebellum South—in a
+*chose* to portray themselves—and more generally the antebellum South—in a
 "better" light long after the Civil War. Some wished to preserve in
 memory a life and a culture that were irrecoverable. In other ways,
 their reiteration of antebellum defenses of slavery was an indirect
@@ -375,7 +375,7 @@ they gave them, whether they had received a bath and suitable clothing
 for the holy day."[^34] Shortly after her inspection of her young
 slaves, Clayton then waited for "the larger children [to] present
 themselves to be taught the Catechism," where she used the "little
-Calvary Catechism, prepared by Mrs. D. C. Weston."[^35] In her memoir,
+*Calvary Catechism*, prepared by Mrs. D. C. Weston."[^35] In her memoir,
 Clayton recorded more details about the adult slaves' religious
 experiences: "When the evening meal was over my dining room was in
 readiness for the reception of all the grown members of the family. They
@@ -567,23 +567,23 @@ with mistresses. Some of them even expressed affection and gratitude
 toward those women, habitually using adjectives like "dutiful,"
 "angelic," and "holy."[^50]
 
-> Walter Long, born in 1852, remembered his slave days near Columbia,
-> South Carolina, and his mistress who, by the example of her life and
-> her own personal deeds, facilitated his life-long relationship with
-> God. He said: "Mistress was mighty ‘ticular ‘bout our ‘ligion, ‘cause
-> she knowed dere was no nigger any too good no how. Us slaves ‘sorbed
-> all de good us had in us from our mistress, I really believes. She was
-> so kind and gentle, she moved ‘mong us a livin' benediction,
-> deliverin' us to God."[^51] Other slaves lamented the spiritual
-> condition of African Americans in the 1930s, regretting that they did
-> not possess the piety that mistresses had instilled in them during
-> slavery. Minerva Wells, born about 1853 in Pinola, Mississippi,
-> recalled that "Now I thinks ‘o de slave days an' ob my Ole Missus, she
-> sho' wuz a fine, holy purson…. I wishes de young colored folks would
-> settle down an' think like we wuz by Ole Missus."[^52] At least in
-> memory by the 1930s, many ex-slaves often held up the plantation
-> mistress as a positive moral example in part due to her attempts at
-> Christian instruction.
+Walter Long, born in 1852, remembered his slave days near Columbia,
+South Carolina, and his mistress who, by the example of her life and
+her own personal deeds, facilitated his life-long relationship with
+God. He said: "Mistress was mighty ‘ticular ‘bout our ‘ligion, ‘cause
+she knowed dere was no nigger any too good no how. Us slaves ‘sorbed
+all de good us had in us from our mistress, I really believes. She was
+so kind and gentle, she moved ‘mong us a livin' benediction,
+deliverin' us to God."[^51] Other slaves lamented the spiritual
+condition of African Americans in the 1930s, regretting that they did
+not possess the piety that mistresses had instilled in them during
+slavery. Minerva Wells, born about 1853 in Pinola, Mississippi,
+recalled that "Now I thinks ‘o de slave days an' ob my Ole Missus, she
+sho' wuz a fine, holy purson…. I wishes de young colored folks would
+settle down an' think like we wuz by Ole Missus."[^52] At least in
+memory by the 1930s, many ex-slaves often held up the plantation
+mistress as a positive moral example in part due to her attempts at
+Christian instruction.
 
 * * * * *
 
@@ -632,8 +632,8 @@ introducing Christ to her bondspeople that they gladly continued to live
 with their "white family" even when offered their freedom.
 
 Few scholars, if any, would concur with the rosy picture of plantation
-life that Pringle described. In Them Dark Days: Slavery in the American
-Rice Swamps, historian William Dusinberre described the Pringle
+life that Pringle described. In *Them Dark Days: Slavery in the American
+Rice Swamps*, historian William Dusinberre described the Pringle
 plantations, as well as those belonging to their neighbors in coastal
 South Carolina and Georgia—the Allstons, Manigaults, and Butlers—as
 inhumane "charnel houses" for slaves, adding that for those in
@@ -1040,12 +1040,12 @@ whites continued to control the master narrative. Meanwhile, stemming
 from the complementary realties of racism and deference, African
 Americans felt compelled to affirm the saccharine and sentimental master
 narrative of white southerners. In accounting for the politics of
-memory, we are one step closer to understanding why similar, often
+memory, we are one step closer to understanding *why* similar, often
 converging black and white post-bellum narratives concealed different
 social realities.
 
-[^1]: George P. Rawick, ed., The American Slave: A Composite
-    Autobiography, vol. 2, parts 1 and 2 (Westport, Conn.: Greenwood
+[^1]: George P. Rawick, ed., *The American Slave: A Composite
+    Autobiography, vol. 2, parts 1 and 2* (Westport, Conn.: Greenwood
     Press, 1972), Part 2, 331.
 
 [^2]: Ibid., 334.
@@ -1060,24 +1060,24 @@ social realities.
 
 [^7]: Ibid.
 
-[^8]: See Catherine Clinton, The Plantation Mistress: Woman's World in
-    the Old South (New York: Pantheon Books, 1982); Drew Gilpin Faust,
-    Mothers of Invention: Women of the Slaveholding South in the
-    American Civil War (Chapel Hill: University of North Carolina Press,
-    2004); Elizabeth Fox-Genovese, Within the Plantation Household:
-    Black and White Women of the Old South (Chapel Hill: University of
-    North Carolina Press, 1988); Thavolia Glymph, Out of the House of
-    Bondage: The Transformation of the Plantation Household (New York:
-    Cambridge University Press, 2008); Minrose Gwin, Black and White
+[^8]: See Catherine Clinton, *The Plantation Mistress: Woman's World in
+    the Old South* (New York: Pantheon Books, 1982); Drew Gilpin Faust,
+    *Mothers of Invention: Women of the Slaveholding South in the
+    American Civil War* (Chapel Hill: University of North Carolina Press,
+    2004); Elizabeth Fox-Genovese, *Within the Plantation Household:
+    Black and White Women of the Old South* (Chapel Hill: University of
+    North Carolina Press, 1988); Thavolia Glymph, *Out of the House of
+    Bondage: The Transformation of the Plantation Household* (New York:
+    Cambridge University Press, 2008); Minrose Gwin, *Black and White
     Women of the Old South: The Peculiar Sisterhood in American
-    Literature (Knoxville: University of Tennessee Press, 1985); Anne
-    Firor Scott, The Southern Lady: From Pedestal to Politics, 1830–1930
+    Literature* (Knoxville: University of Tennessee Press, 1985); Anne
+    Firor Scott, *The Southern Lady: From Pedestal to Politics, 1830–1930*
     (Chicago: University of Chicago Press, 1970); Brenda E. Stevenson,
-    Life in Black and White: Family and Community in the Slave South
-    (Oxford: Oxford University Press, 1997); Marli Weiner, Mistresses
-    and Slaves: Plantation Women in South Carolina, 1830–1880
+    *Life in Black and White: Family and Community in the Slave South*
+    (Oxford: Oxford University Press, 1997); Marli Weiner, *Mistresses
+    and Slaves: Plantation Women in South Carolina, 1830–1880*
     (Champaign: University of Illinois Press, 1997); and Deborah Gray
-    White, Ar'n't I a Woman: Female Slaves in the Old South (New York:
+    White, *Ar'n't I a Woman: Female Slaves in the Old South* (New York:
     Norton, 1999).
 
 [^9]: This is not to suggest that there were not extant antebellum
@@ -1089,36 +1089,36 @@ social realities.
     paternalistic ways.
 
 [^10]: Such antebellum African-American sources include slave narratives
-    and black newspapers. See William Wells Brown, Narrative of the Life
-    of William W. Brown, A Fugitive Slave (Boston: Anti-Slavery Society
-    Office, 1848), Lewis and Milton Clarke, Narratives of the Sufferings
+    and black newspapers. See William Wells Brown, *Narrative of the Life
+    of William W. Brown, A Fugitive Slave* (Boston: Anti-Slavery Society
+    Office, 1848), Lewis and Milton Clarke, *Narratives of the Sufferings
     of Lewis and Milton Clarke, Sons of a Soldier of the Revolution,
     During a Captivity of More than Twenty Years Among the Slaveholders
     of Kentucky, One of the So Called Christian States of North America.
-    Dictated by Themselves (Boston: Published by Bela Marsh, 1846) and
-    Harriet Ann Jacobs, Incidents in the Life of a Slave Girl, Written
-    by Herself, ed. Jean Fagin Yellin (1861; New York: Harcourt Brace
-    Company, 1973). See also John B. Boles, ed., Masters and Slaves in
+    Dictated by Themselves* (Boston: Published by Bela Marsh, 1846) and
+    Harriet Ann Jacobs, *Incidents in the Life of a Slave Girl, Written
+    by Herself*, ed. Jean Fagin Yellin (1861; New York: Harcourt Brace
+    Company, 1973). See also John B. Boles, ed., *Masters and Slaves in
     the House of the Lord: Race and Religion in the American South,
-    1740–1870 (Lexington: University Press of Kentucky, 1988).
+    1740–1870* (Lexington: University Press of Kentucky, 1988).
 
-[^11]: See Janet Duitsman Cornelius, Slave Missions and the Black Church
-    in the Antebellum South (Columbia: University of South Carolina
-    Press, 1999); Alonzo Johnson and Paul Jersild, eds., "Ain't Gonna
-    Lay My ‘Ligion Down": African American Religion in the South
+[^11]: See Janet Duitsman Cornelius, *Slave Missions and the Black Church
+    in the Antebellum South* (Columbia: University of South Carolina
+    Press, 1999); Alonzo Johnson and Paul Jersild, eds., *"Ain't Gonna
+    Lay My ‘Ligion Down": African American Religion in the South*
     (Columbia: University of South Carolina Press, 1996); Albert J.
-    Raboteau, Slave Religion: The "Invisible Institution" in the
-    Antebellum South (New York: Oxford University Press, 1978); and
-    Milton C. Sernett, Black Religion and American Evangelicalism: White
+    Raboteau, *Slave Religion: The "Invisible Institution" in the
+    Antebellum South* (New York: Oxford University Press, 1978); and
+    Milton C. Sernett, *Black Religion and American Evangelicalism: White
     Protestants, Plantation Missions and the Flowering of Negro
-    Christianity, 1787–1865 (Metuchen, N.J.: Scarecrow Press, 1975).
+    Christianity, 1787–1865* (Metuchen, N.J.: Scarecrow Press, 1975).
     Nonetheless, not all scholars accept this characterization of slave
     religious life. For example, Charles F. Irons argues that
     significant interaction between black and white Virginians existed
     relative to the development of evangelical Christianity in the
-    antebellum South. See Charles F. Irons, The Origins of Proslavery
+    antebellum South. See Charles F. Irons, *The Origins of Proslavery
     Christianity: White and Black Evangelicals in Colonial and
-    Antebellum Virginia (Chapel Hill: University of North Carolina
+    Antebellum Virginia* (Chapel Hill: University of North Carolina
     Press, 2008).
 
 [^12]: These post-bellum sources are of tantamount importance for what
@@ -1131,19 +1131,19 @@ social realities.
     names to appear in print. This mentality partially accounts for the
     paucity of known post-Civil War memoirs.
 
-[^13]: See David W. Blight, Race and Reunion: The Civil War in American
-    Memory (Cambridge, Mass.: Harvard University Press, 2001); W.
-    Fitzhugh Brundage, The Southern Past: A Clash in Race and Memory
+[^13]: See David W. Blight, *Race and Reunion: The Civil War in American
+    Memory* (Cambridge, Mass.: Harvard University Press, 2001); W.
+    Fitzhugh Brundage, *The Southern Past: A Clash in Race and Memory*
     (Cambridge, Mass.: Belknap Press of Harvard University Press, 2008);
-    Kathleen Ann Clark, Defining Moments: African American Commemoration
-    and Political Culture in the South, 1865–1913 (Chapel Hill:
-    University of North Carolina Press, 2005); Gaines Foster, Ghosts of
+    Kathleen Ann Clark, *Defining Moments: African American Commemoration
+    and Political Culture in the South, 1865–1913* (Chapel Hill:
+    University of North Carolina Press, 2005); Gaines Foster, *Ghosts of
     the Confederacy: Defeat, the Lost Cause and the Emergence of the New
-    South, 1865–1913 (New York: Oxford University Press, 1988); Sarah E.
-    Gardner, Blood & Irony: Southern White Women's Narratives of the
-    Civil War, 1861–1937 (Chapel Hill: University of North Carolina
-    Press, 2004); and Nina Silber, The Romance of Reunion: Northerners
-    and the South, 1865–1900 (Chapel Hill: University of North Carolina
+    South, 1865–1913* (New York: Oxford University Press, 1988); Sarah E.
+    Gardner, *Blood & Irony: Southern White Women's Narratives of the
+    Civil War, 1861–1937* (Chapel Hill: University of North Carolina
+    Press, 2004); and Nina Silber, *The Romance of Reunion: Northerners
+    and the South, 1865–1900* (Chapel Hill: University of North Carolina
     Press, 1997). Among the most influential and prolific members in
     this group is David Blight, who has argued that white Americans from
     both the North and South redefined their understanding of the causes
@@ -1174,17 +1174,17 @@ social realities.
     Emancipation Day and Fourth of July ceremonies—served as
     opportunities for African Americans to assert their own
     understandings of the antebellum South and slavery, the Civil War,
-    and Emancipation. See Blight, Race and Reunion; and Brundage, The
-    Southern Past.
+    and Emancipation. See Blight, *Race and Reunion*; and Brundage, *The
+    Southern Past*.
 
 [^15]: David Blight, Fitzhugh Brundage and Kathleen Clark are among
     those scholars who focus on historical memory difference.
 
-[^16]: See Karen L. Cox, Dixie's Daughters: The United Daughters of the
-    Confederacy and the Preservation of Confederate Culture
+[^16]: See Karen L. Cox, *Dixie's Daughters: The United Daughters of the
+    Confederacy and the Preservation of Confederate Culture*
     (Gainesville: University Press of Florida, 2003).
 
-[^17]: Gardner, Blood & Irony.
+[^17]: Gardner, *Blood & Irony*.
 
 [^18]: Although one may reasonably assume that former slaveholding women
     purposely remembered their lives as mistresses in idealized terms,
@@ -1200,28 +1200,28 @@ social realities.
     written by a woman who published a post-bellum memoir. It would have
     been very revealing had I been able to identify such women.
 
-[^20]: See Ulrich Bonnell Phillips, American Negro Slavery: A Survey of
+[^20]: See Ulrich Bonnell Phillips, *merican Negro Slavery: A Survey of
     the Supply, Employment, and Control of Negro Labor, as Determined by
-    the Plantation Regime (New York: D. Appleton and Company, 1918).
+    the Plantation Regime* (New York: D. Appleton and Company, 1918).
 
-[^21]: Elizabeth W. Allston Pringle, Chronicles of Chicora Wood (New
+[^21]: Elizabeth W. Allston Pringle, *Chronicles of Chicora Wood* (New
     York: Charles Scribner's Sons, 1922), 77. Historian William Kauffman
     Scarborough provides further analysis and contextualization of
     Allston female responsibilities and duties with regards to their
-    bondspeople. See William Kauffman Scarborough, The Allstons of
+    bondspeople. See William Kauffman Scarborough, *The Allstons of
     Chicora Wood: Wealth, Honor, and Gentility in the South Carolina
-    Lowcountry (Baton Rouge: Louisiana State University Press, 2011).
+    Lowcountry* (Baton Rouge: Louisiana State University Press, 2011).
 
-[^22]: Virginia Ingraham Burr, ed., The Secret Eye: The Journal of Ella
-    Gertrude Clanton Thomas, 1848–1889 (Chapel Hill: University of North
+[^22]: Virginia Ingraham Burr, ed., *The Secret Eye: The Journal of Ella
+    Gertrude Clanton Thomas, 1848–1889* (Chapel Hill: University of North
     Carolina Press, 1990), 276–77.
 
 [^23]: Such assumptions, original to me (the author), were inspired by
     those scholars who have examined the lives and psychologies of
-    post-bellum elite white southern women. See Cox, Dixie's Daughter;
-    Jane Turner Censer, The Reconstruction of White Southern Womanhood,
-    1865–1895 (Baton Rouge: Louisiana State University Press, 2003);
-    Gardner, Blood & Irony; and Scott, The Southern Lady. Censer, in
+    post-bellum elite white southern women. See Cox, *Dixie's Daughter*;
+    Jane Turner Censer, *The Reconstruction of White Southern Womanhood,
+    1865–1895* (Baton Rouge: Louisiana State University Press, 2003);
+    Gardner, *Blood & Irony*; and Scott, *The Southern Lady*. Censer, in
     particular, explores those reasons why elite, white, southern women
     embraced roles as writers. Censer's focus, however, is upon southern
     white women who published fiction, not memoirs. Nonetheless, Censer
@@ -1237,8 +1237,8 @@ social realities.
     1) conditions of life in slavery (including religion, food, work,
     clothing, resistance, care of the sick, and relationships with
     owners), 2) lives during the Civil War and Reconstruction, and 3)
-    lives in more contemporary times. Paul D. Escott, Slavery
-    Remembered: A Record of Twentieth-Century Slave Narratives (Chapel
+    lives in more contemporary times. Paul D. Escott, *Slavery
+    Remembered: A Record of Twentieth-Century Slave Narratives* (Chapel
     Hill: University of North Carolina Press, 1979).
 
 [^25]: Particularly significant is that fact that those subjects at the
@@ -1276,39 +1276,39 @@ social realities.
     their inability to recall many details from so long in the past.
     Thus, it is the interviews taken from persons born in that 15 year
     window (1845–1860) which comprise the most usable portion of the
-    W.P.A. collection. See Escott, Slavery Remembered. On the 1930s
+    W.P.A. collection. See Escott, *Slavery Remembered*. On the 1930s
     African-American experience in the South, see Kenneth J. Bindas,
-    Remembering the Great Depression in the Rural South (Gainesville:
-    University Press of Florida, 2009); Douglas A. Blackmon, Slavery by
+    *Remembering the Great Depression in the Rural South* (Gainesville:
+    University Press of Florida, 2009); Douglas A. Blackmon, *Slavery by
     Another Name: The Re-Enslavement of Black Americans from the Civil
-    War to World War II (New York: Doubleday, 2008); James C. Cobb, The
+    War to World War II* (New York: Doubleday, 2008); James C. Cobb, *The
     Most Southern Place on Earth: The Mississippi Delta and the Roots of
-    Regional Identity (New York: Oxford University Press, 1992); Robin
-    D. G. Kelley, Hammer and Hoe: Alabama Communists During the Great
-    Depression (Chapel Hill: University of North Carolina Press, 1990);
-    and Jay R. Mandle, Not Slave, Not Free: The African American
-    Economic Experience Since the Civil War (Durham: Duke University
+    Regional Identity* (New York: Oxford University Press, 1992); Robin
+    D. G. Kelley, *Hammer and Hoe: Alabama Communists During the Great
+    Depression* (Chapel Hill: University of North Carolina Press, 1990);
+    and Jay R. Mandle, *Not Slave, Not Free: The African American
+    Economic Experience Since the Civil War* (Durham: Duke University
     Press, 1992).
 
 [^26]: Other scholars have made similar arguments. See Ira Berlin, Marc
-    Favreau, and Steven F. Millers, eds., Remembering Slavery: African
+    Favreau, and Steven F. Millers, eds., *Remembering Slavery: African
     Americans Talk About Their Personal Experiences of Slavery and
-    Freedom (New York: The New Press, 1998); and Escott, Slavery
-    Remembered.
+    Freedom* (New York: The New Press, 1998); and Escott, *Slavery
+    Remembered*.
 
 [^27]: James C. Scott explores the ways by which subordinate or
     subaltern peoples resist authority. More specifically, Scott
     provides scholars with a theoretical approach to read, interpret,
     and ultimately appreciate the words or actions of subordinate
-    individuals, for example, ex-slaves. He assigns the term public
-    transcript to describe the open, public interactions between
-    dominators and oppressed and the term hidden transcript for the
+    individuals, for example, ex-slaves. He assigns the term *public
+    transcript* to describe the open, public interactions between
+    dominators and oppressed and the term *hidden transcript* for the
     critique of power that goes on "offstage," about which those in
     power are typically clueless. Thus, in order to study the systems of
     domination and the voices of subordinates, Scott maintains that
     scholars must pay careful attention to what lies beneath the surface
     of evident, public behavior. According to Scott, those who are
-    oppressed typically accept their domination in public—perhaps out of
+    oppressed typically accept their domination *in public*—perhaps out of
     fear if nothing else—but they will far more openly question their
     domination offstage. If one accepts Scott's theoretical framework
     and applies it to the ex-slaves considered in this article, one
@@ -1317,19 +1317,18 @@ social realities.
     employment or other financial assistance via their white W.P.A.
     interviewer—will present a gentler, less acrimonious version of
     his/her life in bondage than may have been reality. I thus take
-    caution when using such sources. James C. Scott, Domination and the
-    Arts of Resistance: Hidden Transcripts (New Haven: Yale University
+    caution when using such sources. James C. Scott, *Domination and the
+    Arts of Resistance: Hidden Transcripts* (New Haven: Yale University
     Press, 1990).
 
-[^28]: Escott, Slavery Remembered, 7–8.
+[^28]: Escott, *Slavery Remembered*, 7–8.
 
 [^29]: See Hamp Simmons (born in Pontotoc County, Mississippi in about
-    1854) in George P. Rawick, ed., The American Slave: A Composite
-    Autobiography, Vol. 5. (Westport, Conn.: Greenwood Press, 1979),
+    1854) in George P. Rawick, ed., *The American Slave: A Composite
+    Autobiography, Vol. 5* (Westport, Conn.: Greenwood Press, 1979),
     1938; Malindy Smith (born in Webster County, Mississippi in 1860) in
-    Rawick, ed., The American Slave, Vol. 5. (Westport, Conn.: Greenwood
-    Press, 1979), 1994; and Alice Alexander (born in Jackson Parrish,
-    Louisiana in 1831) in Rawick, ed., American Slave, Vol. 12
+    Rawick, ed., *The American Slave, Vol. 5*, 1994; and Alice Alexander (born in Jackson Parrish,
+    Louisiana in 1831) in Rawick, ed., *The American Slave, Vol. 12*
     (Westport, Conn.: Greenwood Press, 1979).
 
 [^30]: Elizabeth Craven, in her study of the relationship between
@@ -1345,20 +1344,20 @@ social realities.
     55 percent of them elicited were from males and 45 percent of them
     elicited were from females. Note: Elizabeth Craven's manuscript, as
     far as can be ascertained, was never published. Catherine Clinton
-    cited Elizabeth Craven's study in The Plantation Mistress, 188.
+    cited Elizabeth Craven's study in *The Plantation Mistress*, 188.
 
 [^31]: Although most southern states passed anti-literacy laws, these
     were difficult to enforce. In some instances, both for practical
     reasons and benevolence, members of some white families taught
     favored slaves rudimentary reading, writing, and arithmetic.
 
-[^32]: John C. Hall, "When Stars Fell on Alabama," Alabama Heritage 55
+[^32]: John C. Hall, "When Stars Fell on Alabama," *Alabama Heritage* 55
     (Winter 2000): 16–23.
 
-[^33]: Edmund K. Goldsborough, Ole Mars An' Ole Miss (1900; Freeport,
+[^33]: Edmund K. Goldsborough, *Ole Mars An' Ole Miss* (1900; Freeport,
     N.Y.: Books for Libraries Press, 1972), 77.
 
-[^34]: Victoria V. Clayton, White and Black under the Old Regime
+[^34]: Victoria V. Clayton, *White and Black under the Old Regime*
     (Milwaukee: The Young Churchman Co., 1899), 58.
 
 [^35]: Ibid.,
@@ -1367,13 +1366,13 @@ social realities.
 
 [^37]: Ibid., 58–59.
 
-[^38]: See Boles, ed., Masters and Slaves in the House of the Lord;
-    Christine Leigh Heyrman, Southern Cross: The Beginnings of the Bible
-    Belt (Chapel Hill: University of North Carolina Press, 1997);
-    Johnson and Jersild, eds., "Ain't Gonna Lay My "'Ligion Down"; and
-    Raboteau, Slave Religion.
+[^38]: See Boles, ed., *Masters and Slaves in the House of the Lord*;
+    Christine Leigh Heyrman, *Southern Cross: The Beginnings of the Bible
+    Belt* (Chapel Hill: University of North Carolina Press, 1997);
+    Johnson and Jersild, eds., *"Ain't Gonna Lay My "'Ligion Down"*; and
+    Raboteau, *Slave Religion*.
 
-[^39]: Brown, Narrative of the Life of William W. Brown, 83.
+[^39]: Brown, *Narrative of the Life of William W. Brown*, 83.
 
 [^40]: An important frustration related to the plantation mistress
     sources was the fact that mistresses, in both their pre- and
@@ -1388,29 +1387,29 @@ social realities.
 [^41]: There were statutes that prohibited teaching enslaved and/or free
     blacks in the following states: Alabama, Georgia, Louisiana,
     Mississippi, Missouri, North Carolina, South Carolina, and Virginia.
-    See Heather Andrea Williams, Self-Taught: African American Education
-    in Slavery and Freedom (Chapel Hill: University of North Carolina
+    See Heather Andrea Williams, *Self-Taught: African American Education
+    in Slavery and Freedom* (Chapel Hill: University of North Carolina
     Press, 2005).
 
-[^42]: George P. Rawick, ed., The American Slave: A Composite
-    Autobiography, Vol. 16 (Westport, Conn.: Greenwood Press, 1972),
+[^42]: George P. Rawick, ed., *The American Slave: A Composite
+    Autobiography, Vol. 16* (Westport, Conn.: Greenwood Press, 1972),
     4–5.
 
 [^43]: Ibid., 85.
 
-[^44]: George P. Rawick, ed., The American Slave: A Composite
-    Autobiography, Supplement Series 2., Vol. 1 (Westport, Conn.:
+[^44]: George P. Rawick, ed., *The American Slave: A Composite
+    Autobiography, Supplement Series 2., Vol. 1* (Westport, Conn.:
     Greenwood Press, 1979), 2186, 2188.
 
-[^45]: George P. Rawick,, ed., The American Slave: A Composite
-    Autobiography: Supplement Series 1, Vol. 11 (Westport, Conn.:
+[^45]: George P. Rawick,, ed., *The American Slave: A Composite
+    Autobiography: Supplement Series 1, Vol. 11* (Westport, Conn.:
     Greenwood Press, 1977), 19
 
-[^46]: George P. Rawick, ed., The American Slave: A Composite
-    Autobiography, Vol. 3 (Westport, Conn.: Greenwood Press, 1972), 53.
+[^46]: George P. Rawick, ed., *The American Slave: A Composite
+    Autobiography, Vol. 3* (Westport, Conn.: Greenwood Press, 1972), 53.
 
-[^47]: George P. Rawick, ed., The American Slave: A Composite
-    Autobiography: Supplement, Series 1, Vol. 12 (Westport, Conn.:
+[^47]: George P. Rawick, ed., *The American Slave: A Composite
+    Autobiography: Supplement, Series 1, Vol. 12* (Westport, Conn.:
     Greenwood Press, 1977), 130.
 
 [^48]: Although "benign" and paternalistic, Phillips was nonetheless a
@@ -1423,7 +1422,7 @@ social realities.
     Nonetheless, some historians have argued that Phillips moved away
     from strictly racist doctrines as he gradually accepted the new
     anthropological and biological research of the 1920s. Phillips,
-    American Negro Slavery.
+    *American Negro Slavery*.
 
 [^49]: A significant group of African Americans in the antebellum days,
     Reconstruction era, and particularly in the years after that, who
@@ -1432,45 +1431,45 @@ social realities.
     primary mission upon arrival in Africa was to bring civilization to
     that continent. Most significantly, in 1858, prominent abolitionist
     Henry Highland Garnet founded the African Civilization Society
-    (AfCS) which stressed such ideas. See Kenneth C. Barnes, Journey of
-    Hope: The Back-to-Africa Movement in Arkansas in the Late 1800s
+    (AfCS) which stressed such ideas. See Kenneth C. Barnes, *Journey of
+    Hope: The Back-to-Africa Movement in Arkansas in the Late 1800s*
     (Chapel Hill: University of North Carolina Press, 2004); and Martin
-    B. Pasternak, Rise Now and Fly to Arms: The Life of Henry Highland
-    Garnet (New York: Garland Pub., 1995). Former slaveholding women who
+    B. Pasternak, *Rise Now and Fly to Arms: The Life of Henry Highland
+    Garnet*(New York: Garland Pub., 1995). Former slaveholding women who
     expressed interest in former slaves embracing missionary roles in
-    Africa include Letitia M. Burwell, A Girl's Life in Virginia Before
-    the War (New York: Frederick A. Stokes Company, 1895); and Nancy
-    Bostwick DeSaussure, Old Plantation Days: Being Recollections of
-    Southern Life Before the Civil War (New York: Duffield & Company,
+    Africa include Letitia M. Burwell, *A Girl's Life in Virginia Before
+    the War* (New York: Frederick A. Stokes Company, 1895); and Nancy
+    Bostwick DeSaussure, *Old Plantation Days: Being Recollections of
+    Southern Life Before the Civil War* (New York: Duffield & Company,
     1909).
 
-[^50]: See Octavia V. Rogers Albert, The House of Bondage, or, Charlotte
+[^50]: See Octavia V. Rogers Albert, *The House of Bondage, or, Charlotte
     Brooks and Other Slaves, Original and Life Like, As They Appeared in
     Their Old Plantation and City Slave Life; Together with Pen-Pictures
     of the Peculiar Institution, with Sights and Insights into Their New
-    Relations as Freedmen, Freemen, and Citizens (New York: Hunt &
-    Eaton, 1890); Nina Hill Robinson, Aunt Dice: The Story of a Faithful
-    Slave (Nashville, Tenn.: Publishing House of the M. E. Church South,
-    1897); Alfred William Nicholson, Brief Sketch of the Life and Labors
+    Relations as Freedmen, Freemen, and Citizens* (New York: Hunt &
+    Eaton, 1890); Nina Hill Robinson, *Aunt Dice: The Story of a Faithful
+    Slave* (Nashville, Tenn.: Publishing House of the M. E. Church South,
+    1897); Alfred William Nicholson, *Brief Sketch of the Life and Labors
     of Rev. Alexander Bettis. Also an Account of the Founding and
-    Development of the Bettis Academy (Trenton, S.C.: Published by the
-    Author, 1916); and Amanda Smith, An Autobiography. The Story of the
+    Development of the Bettis Academy* (Trenton, S.C.: Published by the
+    Author, 1916); and Amanda Smith, *An Autobiography. The Story of the
     Lord's Dealings with Mrs. Amanda Smith the Colored Evangelist;
     Containing an Account of Her Life Work of Faith, and Her Travels in
     America, England, Ireland, Scotland, India, and Africa, As an
-    Independent Missionary (Chicago: Meyer & Brother, 1893).
+    Independent Missionary* (Chicago: Meyer & Brother, 1893).
 
-[^51]: Rawick, ed., The American Slave: A Composite Autobiography, Vol.
-    3, 119.
+[^51]: Rawick, ed., *The American Slave: A Composite Autobiography, Vol.
+    3*, 119.
 
-[^52]: George P. Rawick, ed., The American Slave: A Composite
-    Autobiography: Supplement, Series I, Vol. 10 (Westport, Conn.:
+[^52]: George P. Rawick, ed., *The American Slave: A Composite
+    Autobiography: Supplement, Series I, Vol. 10* (Westport, Conn.:
     Greenwood Press, 1977), 2261.
 
-[^53]: Margaret Devereux, Plantation Sketches (Cambridge, Mass.:
+[^53]: Margaret Devereux, *Plantation Sketches* (Cambridge, Mass.:
     Riverside Press, 1906), 47.
 
-[^54]: Pringle, Chronicles of Chicora Wood, 48.
+[^54]: Pringle, *Chronicles of Chicora Wood*, 48.
 
 [^55]: Ibid., 54. This quotation was allegedly spoken to a child. I have
     no way of knowing if Maum Maria softened her reply because she was
@@ -1485,8 +1484,8 @@ social realities.
 
 [^57]: Ibid., 55.
 
-[^58]: William Dusinberre, Them Dark Days: Slavery in the American Rice
-    Swamps (New York: Oxford University Press, 1996), viii.
+[^58]: William Dusinberre, *Them Dark Days: Slavery in the American Rice
+    Swamps* (New York: Oxford University Press, 1996), viii.
 
 [^59]: Dusinberre does, in fact, rely on the mistresses' own words,
     albeit their sources from the antebellum years. The author draws
@@ -1500,77 +1499,77 @@ social realities.
     consider to what extent Pringle "revised" her memories for her
     memoir.
 
-[^60]: Mary Norcott Bryan, A Grandmother's Recollection of Dixie (New
+[^60]: Mary Norcott Bryan, *A Grandmother's Recollection of Dixie* (New
     Bern, N.C.: Owen G. Dunn, [1912?]), 15.
 
 [^61]: Ibid., 15.
 
 [^62]: Ibid., 16.
 
-[^63]: Berlin, Favreau, and Millers, eds., Remembering Slavery. For
+[^63]: Berlin, Favreau, and Millers, eds., *Remembering Slavery*. For
     examples of antebellum slave narratives—written by both ex-house
     slaves ex-field slaves—that portray white Christianity negatively,
-    see William J. Anderson, Life and Narrative of William J. Anderson,
+    see William J. Anderson, *Life and Narrative of William J. Anderson,
     Twenty-four Years a Slave; Sold Eight Times! In Jail Sixty Times!!
     Whipped Three Hundred Times!!! or The Dark Deeds of American Slavery
     Revealed. Containing Scriptural Views of the Origin of the Black and
     of the White Man. Also, a Simple and Easy Plan to Abolish Slavery in
     the United States. Together with an Account of the Services of
     Colored Men in the Revolutionary War--Day and Date, and Interesting
-    Facts (Chicago: Daily Tribune Book and Job Printing Office, 1857);
-    Leonard Black, The Life and Sufferings of Leonard Black: A Fugitive
-    from Slavery (New Bedford: Press of Benjamin Lindsey, 1847); Brown,
-    Narrative of the Life of William W. Brown, William and Ellen Craft,
-    Running a Thousand Miles for Freedom; Or, the Escape of William and
-    Ellen Craft from Slavery (London: William Tweedie, 1860); Jacobs,
-    Incidents in the Life of a Slave Girl, Written by Herself; and
-    Lunsford Lane, The Narrative of Lunsford Lane, Formerly of Raleigh,,
+    Facts* (Chicago: Daily Tribune Book and Job Printing Office, 1857);
+    Leonard Black, *The Life and Sufferings of Leonard Black: A Fugitive
+    from Slavery* (New Bedford: Press of Benjamin Lindsey, 1847); Brown,
+    *Narrative of the Life of William W. Brown*, William and Ellen Craft,
+    *Running a Thousand Miles for Freedom; Or, the Escape of William and
+    Ellen Craft from Slavery* (London: William Tweedie, 1860); Jacobs,
+    *Incidents in the Life of a Slave Girl, Written by Herself*; and
+    Lunsford Lane, *The Narrative of Lunsford Lane, Formerly of Raleigh,,
     N.C. Embracing an Account of His Early Life, the Redemption by
     Purchase of Himself and Family from Slavery, and His Banishment from
     the Place of His Birth for the Crime of Wearing a Colored Skin.
-    Published by Himself. (Boston: J.G. Torrey, Printer, 1842).
+    Published by Himself.* (Boston: J.G. Torrey, Printer, 1842).
 
-[^64]: Nicholson, Brief Sketch of the Life and Labors of Rev. Alexander
-    Bettis, 7.
+[^64]: Nicholson, *Brief Sketch of the Life and Labors of Rev. Alexander
+    Bettis*, 7.
 
 [^65]: Ibid., 10–12.
 
-[^66]: H. M. Hamill, D.D., The Old South, A Monograph (Dallas, Texas:
+[^66]: H. M. Hamill, D.D., *The Old South, A Monograph* (Dallas, Texas:
     Smith & Lamar, 1904), 32.
 
-[^67]: Rawick, ed., The American Slave: A Composite Autobiography:
-    Supplement, Series I, Vol. 10, 2233
+[^67]: Rawick, ed., *The American Slave: A Composite Autobiography:
+    Supplement, Series I, Vol. 10*, 2233
 
 [^68]: Ibid., 2235.
 
-[^69]: Rawick, ed., The American Slave: A Composite Autobiography:
-    Supplement, Series 2, Vol. 1, 38.
+[^69]: Rawick, ed., *The American Slave: A Composite Autobiography:
+    Supplement, Series 2, Vol. 1*, 38.
 
-[^70]: Rawick, ed., The American Slave: A Composite Autobiography, Vol.
-    3, 2210.
+[^70]: Rawick, ed., *The American Slave: A Composite Autobiography, Vol.
+    3*, 2210.
 
-[^71]: Clayton, White and Black under the Old Regime, 57.
+[^71]: Clayton, *White and Black under the Old Regime*, 57.
 
-[^72]: Burwell, A Girl's Life in Virginia Before the War, 43–46;
-    DeSaussure, Old Plantation Days, 29–36; Mrs. Burton Harrison,
-    Recollections Grave and Gay (New York: Charles Scribner's and Sons,
+[^72]: Burwell, *A Girl's Life in Virginia Before the War*, 43–46;
+    DeSaussure, *Old Plantation Days*, 29–36; Mrs. Burton Harrison,
+    *Recollections Grave and Gay* (New York: Charles Scribner's and Sons,
     1911), 143–44.
 
 [^73]: Ibid., 59–60.
 
 [^74]: Ibid., 95.
 
-[^75]: Pringle, Chronicles of Chicora Wood, 64.
+[^75]: Pringle, *Chronicles of Chicora Wood*, 64.
 
 [^76]: Ibid., 92.
 
-[^77]: Rawick, ed., The American Slave: A Composite Autobiography, Vol.
-    3, 108.
+[^77]: Rawick, ed., *The American Slave: A Composite Autobiography, Vol.
+    3*, 108.
 
-[^78]: Rawick, ed., The American Slave: A Composite Autobiography:
-    Supplement, Series I, Vol. 10, 2087.
+[^78]: Rawick, ed., *The American Slave: A Composite Autobiography:
+    Supplement, Series I, Vol. 10*, 2087.
 
-[^79]: William Henry Singleton, Recollections of My Slavery Days
+[^79]: William Henry Singleton, *Recollections of My Slavery Days*
     (Peekskill, N.Y.: Highland Democrat, 1922), 6.
 
-[^80]: Smith, An Autobiography, 19–21.
+[^80]: Smith, *An Autobiography*, 19–21.
