@@ -5,8 +5,8 @@ epub-cover-image: jsr.ebook-cover.png
 epub-stylesheet: stylesheet.css
 epub-metadata: metadata.xml
 epub-filename: ../_source/assets/ebooks/jsr.vol14.epub
-epub-dir: /Users/lmullen/dev/jsr/epubs/
-content-dir: /Users/lmullen/dev/jsr/_source/issues/vol14/
+epub-dir: /home/lmullen/dev/jsr/epubs/
+content-dir: /home/lmullen/dev/jsr/_source/issues/vol14/
 header-items:
 - title
 - author
