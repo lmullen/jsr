@@ -1,0 +1,60 @@
+title: The Journal of Southern Religion
+author: Volume 15 (2013)
+date: "<a href='http://jsr.fsu.edu'>http://jsr.fsu.edu</a><br/><br/>ISSN 1094-5253"
+epub-cover-image: jsr.ebook-cover.png
+epub-stylesheet: stylesheet.css
+epub-metadata: metadata.xml
+epub-filename: ../_source/assets/ebooks/jsr.vol15.epub
+epub-dir: /Users/lmullen/dev/jsr/epubs/
+content-dir: /Users/lmullen/dev/jsr/_source/issues/vol15/
+header-items:
+- title
+- author
+- author-note
+- book-reviewed
+contents: 
+  - section-title: "About the <em>JSR</em>"
+    files: 
+    - ../../about/masthead.html
+    - ../../about/policies-and-submissions.markdown
+  - section-title: "Articles"
+    files:
+    - graham.markdown
+    - green.markdown
+    - mcvicar.markdown
+    - rohrer.markdown
+  - section-title: Author's Reflection
+    files:
+    - trevino.markdown
+  - section-title: Reviews
+    files:
+    - angell.markdown
+    - ashcraft.markdown
+    - baldwin.markdown
+    - beasley.markdown
+    - bennett.markdown
+    - brenneman.markdown
+    - brown.markdown
+    - coker.markdown
+    - elder.markdown
+    - evans.markdown
+    - feldman.markdown
+    - harvey.markdown
+    - johnson.markdown
+    - kedrowski.markdown
+    - lee.markdown
+    - marlett.markdown
+    - pasquier.markdown
+    - patterson.markdown
+    - shearer.markdown
+    - sizer.markdown
+    - stemp-morlock.markdown
+    - thibodeaux.markdown
+    - vann.markdown
+    - walker.markdown
+    - wallace.markdown
+    - weaver.markdown
+    - williams-h.markdown
+    - williams.markdown
+    - woods.markdown
+    - yancey.markdown
