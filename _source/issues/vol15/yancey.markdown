@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Review: "
+title: "Review: A Most Stirring and Significant Episode"
 author-first: 
 author-last: 
 author: 
