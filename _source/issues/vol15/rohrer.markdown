@@ -1200,7 +1200,7 @@ social realities.
     written by a woman who published a post-bellum memoir. It would have
     been very revealing had I been able to identify such women.
 
-[^20]: See Ulrich Bonnell Phillips, *merican Negro Slavery: A Survey of
+[^20]: See Ulrich Bonnell Phillips, *American Negro Slavery: A Survey of
     the Supply, Employment, and Control of Negro Labor, as Determined by
     the Plantation Regime* (New York: D. Appleton and Company, 1918).
 
