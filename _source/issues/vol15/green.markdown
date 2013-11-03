@@ -1262,7 +1262,7 @@ vision.
 [^47]: "Book Reviews and Notes," *The South Atlantic Quarterly* 4 (July
     1905): 299.
     
-[^48]: Jones, Strange Talk, 1–7.
+[^48]: Jones, *Strange Talk*, 1–7.
 
 [^49]: Holton, *Down Home and Uptown*, 87. It is worth mentioning that
     the use of dialect continues to be seen as a means of depicting
