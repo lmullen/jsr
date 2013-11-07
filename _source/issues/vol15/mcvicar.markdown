@@ -287,9 +287,9 @@ United States, including popular imaginings of Appalachia as a site of
 regional otherness and normative conceptions of the limits of religious
 practice. The remainder of this essay seeks to outline how the contested
 explanations and justifications for handling poisonous snakes in
-religious meetings led to the creation of *snake* or *serpent* handling as a
-distinct form of worship both in the minds of pentecostals and in the
-minds of the wider American public.
+religious meetings led to the creation of *snake* or *serpent* handling
+as a distinct form of worship both in the minds of pentecostals and in
+the minds of the wider American public.
 
 ### Living Signboards
 
@@ -568,7 +568,7 @@ preached on all of the signs listed in Mark 16:18. Next he prophesied
 that some rabble-rouser would bring a snake for the saints to handle.
 The following night an unbeliever brought a rattlesnake which several
 saints handled "and no one was injured by it. Some were bitten, but with
-no damage to them." [^58] After this successful sign, "outsiders got
+no damage to them." [^59] After this successful sign, "outsiders got
 enthused and wanted to test the matter further. So on Sunday night Sept.
 sixth they took in a 'Copperhead.'" [^60] The saints successfully
 handled this snake too. News of these demonstrations generated "large
@@ -1106,7 +1106,7 @@ Collection.*
 Following Tennessee’s 1947 ban on serpent handling, officials in
 Hamilton County arrested twelve members of the independent Dolley Pond
 Church of God with Signs Following, including its head preacher Tom
-Harden and Hensley. The case ended in convictions and $50 fines for the
+Harden and Hensley. The case ended in convictions and \$50 fines for the
 handlers, both of which the Tennessee State Supreme Court later upheld.
 The media spectacle turned Hensley and the other handlers regional
 celebrities and aroused national interest in the “strange religious
@@ -1160,11 +1160,11 @@ outreach:
 
 > There are evidences that the leaders of the Holy Rollers in this
 > vicinity are conducting a thorough campaign to win strength of a
-> financial and material sort to their organization. In a little house in
-> the northern part of Cleveland one man, one woman and two girls are kept
-> busy setting type. Between takes they invite you to church, explaining
-> that, perhaps, as a special inducement, there'll be a rattlesnake to
-> give tone to the meeting. [^124]
+> financial and material sort to their organization. In a little house
+> in the northern part of Cleveland one man, one woman and two girls are
+> kept busy setting type. Between takes they invite you to church,
+> explaining that, perhaps, as a special inducement, there'll be a
+> rattlesnake to give tone to the meeting. [^124]
 
 No doubt the typesetters identified here played an important role in
 publishing many of the accounts of serpent handling that appeared in
@@ -1222,17 +1222,17 @@ trial, with many wire sources relying on the images and stories produced
 by J. B. Collins for the Chattanooga News-Free Press. Popular interest
 in the trial helped propagate usage of the phrases *snake-handling*
 (adjective), *snake handler*, and *snake handling* (nouns), although
-Collins also used *cult* and *cultist* in his reporting.
-This image is the cover to a 32-page booklet containing Collins’s
-reporting on the history of the Dolley Pond church and an account of the
-1947 trial. Drug stores and newstands in Chattanooga, Dayton, and
-Cleveland sold the book. At the height of the trial, Collins autographed
-a copy for Tom Harden, an event recorded in September 11, 1947, issue of
-the *Chattanooga News-Free Press*. The book is unique for Collin’s access to the
-church, the vivid photos of worship services, and an in-depth interview
-with George Went Hensley. Collins’s interview with Hensley is one of
-only a handful with the preacher who would die eight years later of
-snakebite.
+Collins also used *cult* and *cultist* in his reporting. This image is
+the cover to a 32-page booklet containing Collins’s reporting on the
+history of the Dolley Pond church and an account of the 1947 trial. Drug
+stores and newstands in Chattanooga, Dayton, and Cleveland sold the
+book. At the height of the trial, Collins autographed a copy for Tom
+Harden, an event recorded in September 11, 1947, issue of the
+*Chattanooga News-Free Press*. The book is unique for Collin’s access to
+the church, the vivid photos of worship services, and an in-depth
+interview with George Went Hensley. Collins’s interview with Hensley is
+one of only a handful with the preacher who would die eight years later
+of snakebite.
 
 * * * * *
 
@@ -1252,8 +1252,8 @@ Church of God to deal with, but rather belonged to the secular courts:
 > provides protection to all parties, so when people are displaying
 > poisonous snakes in meetings they are not upholding the rights of all
 > people. ... True Church of God people will not be disturbed nor
-> carried away with any such fanatical display as these people \["snake"
-> handlers\] put on for showmanship. [^133]
+> carried away with any such fanatical display as these people ["snake"
+> handlers] put on for showmanship. [^133]
 
 Rather than defend the sign, he argued that the serpent---the creature
 that caused the "trouble" and the "first break made in the beautiful
@@ -1383,10 +1383,10 @@ suicides, cultists and criminals, preachers and performance artists.
     the serpent handlers who welcomed me into their churches, a hearty
     thanks is also warranted.
 
-[^2]: In the course of this essay, I shift back and forth between *snake*
-    and *serpent* handling. My use of these terms is not arbitrary and
-    they should not be read synonymously. For Christians who handle
-    poisonous snakes in churches and revival meetings, the
+[^2]: In the course of this essay, I shift back and forth between
+    *snake* and *serpent* handling. My use of these terms is not
+    arbitrary and they should not be read synonymously. For Christians
+    who handle poisonous snakes in churches and revival meetings, the
     self-conscious use of the term serpent directly appeals to
     scriptural references to *serpent*. Because of their reliance on the
     King James Version of the Bible and its use of the word serpent in
@@ -1536,9 +1536,41 @@ suicides, cultists and criminals, preachers and performance artists.
     not hurt them; they shall lay hands on the sick, and they shall
     recover."
 
-[^10]: The theoretical framework of this essay leans heavily on Jon R. Stone's work on the formation of social boundaries between fundamentalists and neo-evangelicals during the second half of the twentieth century. Stone has argued that students of the wider structure of American Protestantism "tend to focus on the theological differences between rival Protestant groups.” With this point in mind, he warned that scholars need to take into account "the way evangelicals have sought to delimit the evangelical community and the social structural dynamics this definitional process entails.” Stone's challenge is especially relevant to understanding snake or serpent handling precisely because the development of these categories grew out of a process of theological differentiation that eventually solidified into sociological boundaries between various holiness-pentecostal factions. See Jon R. Stone, *On the Boundaries of American Evangelicalism: The Postwar Evangelical Coalition* (New York: St. Martin's Press, 1997), quotes 3, 13.
-
-Along with Stone's work, this essay also borrows the method of controversy tracking developed by French sociologist Bruno Latour. Latour has suggested that the "starting point" for students of group formation "begins precisely with the controversies about which grouping one pertains to" because "[g]roup formations leave many more traces in their wake than already established connections which, by definition, might remain mute and invisible.” This challenges scholars to reject the presumed unity of established, freestanding interpretive categories in order follow the social controversies that generated them. Controversy, according to Latour, "generates much more data since every time a new grouping is alluded to the fabrication mechanism necessary to keep it alive is made visible and thus traceable." Thus, as groups work to define their boundaries via performative definition, they create tiny discursive "cracks" or "traces" in history that may have long-term implications. See Bruno Latour, *Reassembling the Social: An Introduction to Actor-Network-Theory* (New York: Oxford University Press, 2005), 31.	
+[^10]: The theoretical framework of this essay leans heavily on Jon R.
+    Stone's work on the formation of social boundaries between
+    fundamentalists and neo-evangelicals during the second half of the
+    twentieth century. Stone has argued that students of the wider
+    structure of American Protestantism "tend to focus on the
+    theological differences between rival Protestant groups.” With this
+    point in mind, he warned that scholars need to take into account
+    "the way evangelicals have sought to delimit the evangelical
+    community and the social structural dynamics this definitional
+    process entails.” Stone's challenge is especially relevant to
+    understanding snake or serpent handling precisely because the
+    development of these categories grew out of a process of theological
+    differentiation that eventually solidified into sociological
+    boundaries between various holiness-pentecostal factions. See Jon R.
+    Stone, *On the Boundaries of American Evangelicalism: The Postwar
+    Evangelical Coalition* (New York: St. Martin's Press, 1997), quotes
+    3, 13. 
+    
+    Along with Stone's work, this essay also borrows the method of
+    controversy tracking developed by French sociologist Bruno Latour.
+    Latour has suggested that the "starting point" for students of group
+    formation "begins precisely with the controversies about which grouping
+    one pertains to" because "[g]roup formations leave many more traces in
+    their wake than already established connections which, by definition,
+    might remain mute and invisible.” This challenges scholars to reject the
+    presumed unity of established, freestanding interpretive categories in
+    order follow the social controversies that generated them. Controversy,
+    according to Latour, "generates much more data since every time a new
+    grouping is alluded to the fabrication mechanism necessary to keep it
+    alive is made visible and thus traceable." Thus, as groups work to
+    define their boundaries via performative definition, they create tiny
+    discursive "cracks" or "traces" in history that may have long-term
+    implications. See Bruno Latour, *Reassembling the Social: An
+    Introduction to Actor-Network-Theory* (New York: Oxford University
+    Press, 2005), 31.
 
 [^11]: For example, geographer and folklorist John B. Rehder situated
     snake handling within a network of religious and cultural practices
@@ -1648,10 +1680,10 @@ Along with Stone's work, this essay also borrows the method of controversy track
 
 [^20]: *The Church of God Evangel* was published by the Church of God
     under several titles in Cleveland, Tennessee, from 1910 to 1950.
-    This essay cites *Evangel* issues from the early 1910s until the late
-    1940s. The Stone Church's *The Latter Rain Evangel* appeared from
-    1908--1939, and citations in this essay cover 1911--1929. Finally,
-    the Assemblies of God's *The Pentecostal Evangel* ran from
+    This essay cites *Evangel* issues from the early 1910s until the
+    late 1940s. The Stone Church's *The Latter Rain Evangel* appeared
+    from 1908--1939, and citations in this essay cover 1911--1929.
+    Finally, the Assemblies of God's *The Pentecostal Evangel* ran from
     1908--2002. This essay cites material referencing serpent handling
     published between 1919 and 1958.
 
@@ -1767,10 +1799,8 @@ Along with Stone's work, this essay also borrows the method of controversy track
     signs in Mark 16:16-18 have followed except the raising of the dead"
     ("Signs Follow," *The Apostolic Faith*, November 1906, 4, in
     Consortium of Pentecostal Archives (hereafter cited as CPA),
-    accessed June 28, 2013, 
-    [PDF](http://pentecostalarchives.org/digitalPublications/USA/Independent/Apostolic%20Faith%20%28Azusa%20Street%29/Unregistered/1906/FPHC/1906_11.pdf).
-    See also, Thomas and Alexander, "'And the Signs Are Following,'"
-    150--151.
+    accessed June 28, 2013, [PDF][]. See also, Thomas and Alexander,
+    "'And the Signs Are Following,'" 150--151.
 
 [^37]: A. J. Tomlinson, *The Signs That Follow* (Cleveland, Tenn.: White
     Wing Publishing House, 1948), 7.
@@ -1788,8 +1818,9 @@ Along with Stone's work, this essay also borrows the method of controversy track
     <http://jsr.fsu.edu/2002/Stephens.htm>; and Randall J. Stephens,
     "'There Is Magic in Print:' The Holiness-Pentecostal Press and the
     Origins of Southern Pentecostalism, Part 2," *The Journal of
-    Southern Religion* 5 (2002): <http://jsr.fsu.edu/2002/Stephens2.htm>;
-    Stephens, *The Fire Spreads*.
+    Southern Religion* 5 (2002):
+    <http://jsr.fsu.edu/2002/Stephens2.htm>; Stephens, *The Fire
+    Spreads*.
 
 [^42]: Stephens, "'There Is Magic in Print,' Part 1," note 15.
 
@@ -1816,12 +1847,13 @@ Along with Stone's work, this essay also borrows the method of controversy track
     at Banker Hill, Tenn. Sunday. It had been rumored that a snake was
     going to be handled. Jesus said, 'An evil and adulterous generation
     seekth after a sign, and no sign shall be given &c" ("Bro. W. F.
-    Bryant Preached," *Church of God Evangel*, September 5, 1914, 3). The
-    cryptic scriptural reference seems to suggest either a) no snake was
-    brought, or b) the author did not support the manifestation of such
-    a sign. Finally, the earliest reference in the *Evangel* is a list
-    the signs of Spirit baptism and it includes handling ("The Church of
-    God: Teaching," *Church of God Evangel*, August 15, 1910, 3).
+    Bryant Preached," *Church of God Evangel*, September 5, 1914, 3).
+    The cryptic scriptural reference seems to suggest either a) no snake
+    was brought, or b) the author did not support the manifestation of
+    such a sign. Finally, the earliest reference in the *Evangel* is a
+    list the signs of Spirit baptism and it includes handling ("The
+    Church of God: Teaching," *Church of God Evangel*, August 15, 1910,
+    3).
 
 [^46]: The earliest stories mentioning Hensley's association with the
     practice appeared in papers published in and around Chattanooga,
@@ -1934,7 +1966,7 @@ Along with Stone's work, this essay also borrows the method of controversy track
 
 [^58]: Ibid., 2.
 
-[^59]: Ibid.
+[^59]: Ibid., 2.
 
 [^60]: Ibid., 3.
 
@@ -2040,47 +2072,36 @@ Along with Stone's work, this essay also borrows the method of controversy track
 
 [^83]: William J. Taylor, "The Vipers That Come Out of the Fire," *The
     Latter Rain Evangel*, December 1917, 5--9, CPA, accessed April 8,
-    2013,
-    [PDF](http://pentecostalarchives.org/digitalPublications/USA/Independent/Latter%20Rain%20Evangel/Unregistered/1917/FPHC/1917_12.pdf).
+    2013, [PDF][1].
 
 [^84]: For a representative of this genre see, F. F. Bosworth, "'For
     This Cause Was the Son of God Manifest That He Might Destroy the
     Works of the Devil,'" *The Latter Rain Evangel*, July 1921, 6--9,
-    CPA, accessed April 8, 2013,
-    [PDF](http://pentecostalarchives.org/digitalPublications/USA/Independent/Latter%20Rain%20Evangel/Unregistered/1921/FPHC/1921_07.pdf).
+    CPA, accessed April 8, 2013, [PDF][2].
 
 [^85]: R. G. Robins, *Pentecostalism in America* (Santa Barbara:
     ABC-CLIO, 2010), 34.
 
 [^86]: "In the Great Mission Field," *The Latter Rain Evangel*, April
-    1913, 13-14, CPA, accessed April 8, 2013,
-    [PDF](http://pentecostalarchives.org/digitalPublications/USA/Independent/Latter%20Rain%20Evangel/Unregistered/1913/FPHC/1913_04.pdf).
+    1913, 13-14, CPA, accessed April 8, 2013, [PDF][3].
 
 [^87]: George R. Berg, "'At Last the Light Is Shining in My Country:'
     Miracles of Healing Wrought in South India," *The Latter Rain
     Evangel*, September 1911, 2--8, CPA, accessed April 9, 2013,
-    [PDF](http://pentecostalarchives.org/digitalPublications/USA/Independent/Latter 
-    Rain Evangel/Unregistered/1911/FPHC/1911\_09.pdf).
+    [PDF][4].
 
 [^88]: See, for example, Ralph W. Burnett, "Victory over Snake Bite,"
     *The Pentecostal Evangel*, July 28, 1923, CPA, accessed April 8,
-    2013,
-    [PDF](http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1923/FPHC/1923_07_28.pdf).
-    ; Lucy A. Luttrull, "Healed of Snake Bite," *The Pentecostal
-    Evangel*, September 8, 1923, CPA, accessed April 8, 2013,
-    [PDF](http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1923/FPHC/1923_09_08.pdf);
-    E. N. Smith, "A Good Testimony," *The Pentecostal Evangel*,
-    September 15, 1923, CPA, accessed April 8, 2013,
-    [PDF](http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1923/FPHC/1923_09_15.pdf);
+    2013, [PDF][5]. ; Lucy A. Luttrull, "Healed of Snake Bite," *The
+    Pentecostal Evangel*, September 8, 1923, CPA, accessed April 8,
+    2013, [PDF][6]; E. N. Smith, "A Good Testimony," *The Pentecostal
+    Evangel*, September 15, 1923, CPA, accessed April 8, 2013, [PDF][7];
     Alice Hannah, "Healed of the Bite of a Serpent," *The Pentecostal
-    Evangel*, April 19, 1924, CPA, accessed April 8, 2013,
-    [PDF](http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1924/FPHC/1924_04_19.pdf);
+    Evangel*, April 19, 1924, CPA, accessed April 8, 2013, [PDF][8];
     "Healed of Snake Bite," *The Pentecostal Evangel*, August 20, 1927,
-    CPA, accessed April 8, 2013,
-    [PDF](http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1927/FPHC/1927_08_27.pdf);
-    "Healed of Snakebite," *The Pentecostal Evangel*, September 21,
-    1929, CPA, accessed April 8, 2013,
-    [PDF](http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1929/FPHC/1929_09_21.pdf).
+    CPA, accessed April 8, 2013, [PDF][9]; "Healed of Snakebite," *The
+    Pentecostal Evangel*, September 21, 1929, CPA, accessed April 8,
+    2013, [PDF][10].
 
 [^89]: Burnett, "Victory over Snake Bite," 8.
 
@@ -2094,22 +2115,18 @@ Along with Stone's work, this essay also borrows the method of controversy track
 
 [^93]: Joseph Tunmore, "Why Jesus Took Our Humanity: The Infinite God
     Needs Men to Carry Out His Purpose," *The Latter Rain Evangel*, June
-    1929, 11, CPA, accessed April 8, 2013,
-    [PDF](http://pentecostalarchives.org/digitalPublications/USA/Independent/Latter%20Rain%20Evangel/Unregistered/1929/FPHC/1929_06.pdf).
-    This was hardly a novel position. It had been adopted by many
-    pentecostals nearly two decades earlier; see, for example, V. P.
-    Simmons, "Casting Out Devils," *The Bridegroom's Messenger*, March
-    1, 1910, 2, CPA, accessed April 8, 2013,
-    [PDF](http://pentecostalarchives.org/digitalPublications/USA/International%20Pentecostal%20Church%20of%20Christ/Bridegroom%27s%20Messenger/Unregistered/1910/FPHC/1910_03_01.pdf).
+    1929, 11, CPA, accessed April 8, 2013, [PDF][11]. This was hardly a
+    novel position. It had been adopted by many pentecostals nearly two
+    decades earlier; see, for example, V. P. Simmons, "Casting Out
+    Devils," *The Bridegroom's Messenger*, March 1, 1910, 2, CPA,
+    accessed April 8, 2013, [PDF][12].
 
 [^94]: E. N. Bell, "To Act in the Name of Another: What Does the Bible
     Mean by It?" *The Weekly Evangel*, May 1, 1915, 2; E. N. Bell,
     "Questions and Answers," *The Christian Evangel*, August 9, 1919, 5,
-    CPA, accessed April 8, 2013,
-    [PDF](http://pentecostalarchives.org/digitalPublications/USA/Assemblies of God USA/Pentecostal Evangel/Unregistered/1919/FPHC/1919\_08\_09.pdf);
-    and E. N. Bell, "Questions and Answers," *The Pentecostal Evangel*,
-    December 13, 1919, 5, CPA, accessed April 8, 2013,
-    [PDF](http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1919/FPHC/1919_12_13.pdf).
+    CPA, accessed April 8, 2013, [PDF][13]; and E. N. Bell, "Questions
+    and Answers," *The Pentecostal Evangel*, December 13, 1919, 5, CPA,
+    accessed April 8, 2013, [PDF][14].
 
 [^95]: Ellis, "Oneonta, AL," 8.
 
@@ -2120,7 +2137,7 @@ Along with Stone's work, this essay also borrows the method of controversy track
     the practice." In this letter Ellis claims that he first witnessed
     handling in 1913 (J. B. Ellis to A. B. Adams, November 23, 1915,
     HBD). Later, in his 1941 autobiography, Ellis wrote, "Frankly, I
-    would rather \[serpent handling\] never occurred in my meetings. Be
+    would rather [serpent handling] never occurred in my meetings. Be
     very careful because it is unsafe unless you are sure God is with
     you and will protect you." See James Benton Ellis, *Blazing the
     Gospel Trail* (Plainfield, N.J.: Logos International, 1976), 71.
@@ -2147,7 +2164,9 @@ Along with Stone's work, this essay also borrows the method of controversy track
 
 [^104]: Hattie M. Barth, "Misdirected Power," *The Bridegroom's
     Messenger*, April 1919, 1, CPA, accessed April 8, 2013,
-    [PDF](http://pentecostalarchives.org/digitalPublications/USA/International Pentecostal Church of Christ/Bridegroom's Messenger/Unregistered/1919/FPHC/1919\_04.pdf).
+    [PDF](http://pentecostalarchives.org/digitalPublications/USA/International
+    Pentecostal Church of Christ/Bridegroom's
+    Messenger/Unregistered/1919/FPHC/1919\_04.pdf).
 
 [^105]: See Acts 28:1--6.
 
@@ -2156,13 +2175,15 @@ Along with Stone's work, this essay also borrows the method of controversy track
 [^107]: Hattie M. Barth, "To Our Friends: Who Have Made Objection to Our
     Article in the Bridegroom's Messenger, April Issue, Entitled
     'Misdirected Power,'" June 1919, 2, CPA, accessed April 8, 2013,
-    [PDF](http://pentecostalarchives.org/digitalPublications/USA/International Pentecostal Church of Christ/Bridegroom's Messenger/Unregistered/1919/FPHC/1919_06.pdf).
+    [PDF](http://pentecostalarchives.org/digitalPublications/USA/International
+    Pentecostal Church of Christ/Bridegroom's
+    Messenger/Unregistered/1919/FPHC/1919\_06.pdf).
 
 [^108]: Ibid.
 
 [^109]: W. Jethro Walthall, "Bro. Walthall's Good Report," *The Weekly
     Evangel*, September 29, 1917, 13, CPA, accessed April 8, 2013,
-    [PDF](http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1917/FPHC/1917\\\_09\\\_29.pdf).
+    [PDF][15].
 
 [^110]: Crews, *The Church of God*, 90-101.
 
@@ -2188,25 +2209,19 @@ Along with Stone's work, this essay also borrows the method of controversy track
     4, 1925, 27. Williams would return to the topic multiple times in
     his career: Ernest S. Williams, "Workers Together With Him," *The
     Pentecostal Evangel*, February 4, 1939, 2, CPA, accessed April 8,
-    2013,
-    [PDF](http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1939/FPHC/1939_02_04.pdf);
-    Ernest S. Williams, "Your Questions," *The Pentecostal Evangel*,
-    January 12, 1958, 23, CPA, accessed April 8, 2013,
-    [PDF](http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1958/FPHC/1958_01_12.pdf);
-    Ernest S. Williams, "Your Questions," The Pentecostal Evangel,
-    August 17, 1958, 19, CPA, accessed April 8, 2013,
-    [PDF](http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1958/FPHC/1958_08_17.pdf).
-    The fact that he returned to the topic in his "Your Questions"
-    columns indicates that the issue remained a matter of some
-    curiosity.
+    2013, [PDF][16]; Ernest S. Williams, "Your Questions," *The
+    Pentecostal Evangel*, January 12, 1958, 23, CPA, accessed April 8,
+    2013, [PDF][17]; Ernest S. Williams, "Your Questions," The
+    Pentecostal Evangel, August 17, 1958, 19, CPA, accessed April 8,
+    2013, [PDF][18]. The fact that he returned to the topic in his "Your
+    Questions" columns indicates that the issue remained a matter of
+    some curiosity.
 
 [^115]: C. E. Robinson, "What Should a Christian Do?" *The Pentecostal
     Evangel*, August 10, 1929, 9, CPA, accessed April 8, 2013,
-    [PDF](http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1929/FPHC/1929_08_10.pdf).
-    See also, J. Narver Gortner, "They Shall Take Up Serpents," *The
-    Pentecostal Evangel*, January 28, 1928, 3, CPA, accessed April 8,
-    2013,
-    [PDF](http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1928/FPHC/1928_01_28.pdf).
+    [PDF][19]. See also, J. Narver Gortner, "They Shall Take Up
+    Serpents," *The Pentecostal Evangel*, January 28, 1928, 3, CPA,
+    accessed April 8, 2013, [PDF][20].
 
 [^116]: The last positive reference to serpent handling appears to be J.
     S. Robert, "Signs Following Believers," *Church of God Evangel*,
@@ -2243,7 +2258,7 @@ Along with Stone's work, this essay also borrows the method of controversy track
     (Boston: Houghton Mifflin, 1950), 169--181.
 
 [^122]: The derision and contempt in these stories is palpable. One
-    story reported on the "\[r\]attlers and copperheads" "being passed
+    story reported on the "[r]attlers and copperheads" "being passed
     about in a meeting with as much sangfroid" as a society lady
     "serving tea to her guest" ("Proselyting with Snakes," *Chattanooga
     Daily Times*, September 16, 1914, 3). Several papers reported that
@@ -2258,7 +2273,7 @@ Along with Stone's work, this essay also borrows the method of controversy track
     Meetin'," *Chattanooga Daily Times*, September 21, 1914, 3).
 
 [^123]: The church went so far as to pass a resolution at the Eleventh
-    General Assembly in 1915 that "disclaim\[ed\] and repudiate\[d\] the
+    General Assembly in 1915 that "disclaim[ed] and repudiate[d] the
     title 'Holy Rollers' in reference to the Church of God" (quoted in
     Davidson, *Upon This Rock*, 1:448). See also Paul Harvey, *Freedom's
     Coming: Religious Culture and the Shaping of the South from the
@@ -2342,3 +2357,24 @@ Along with Stone's work, this essay also borrows the method of controversy track
   [Image 2]: 02_Church_of_God_Elders_Council_1917.jpg
   [Image 3]: 03_JB_Collins_1.jpg
   [Image 4]: 04_JB_Collins_2.jpg
+  [PDF]: http://pentecostalarchives.org/digitalPublications/USA/Independent/Apostolic%20Faith%20%28Azusa%20Street%29/Unregistered/1906/FPHC/1906_11.pdf
+  [1]: http://pentecostalarchives.org/digitalPublications/USA/Independent/Latter%20Rain%20Evangel/Unregistered/1917/FPHC/1917_12.pdf
+  [2]: http://pentecostalarchives.org/digitalPublications/USA/Independent/Latter%20Rain%20Evangel/Unregistered/1921/FPHC/1921_07.pdf
+  [3]: http://pentecostalarchives.org/digitalPublications/USA/Independent/Latter%20Rain%20Evangel/Unregistered/1913/FPHC/1913_04.pdf
+  [4]: http://pentecostalarchives.org/digitalPublications/USA/Independent/Latter%20Rain%20Evangel/Unregistered/1911/FPHC/1911_09.pdf
+  [5]: http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1923/FPHC/1923_07_28.pdf
+  [6]: http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1923/FPHC/1923_09_08.pdf
+  [7]: http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1923/FPHC/1923_09_15.pdf
+  [8]: http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1924/FPHC/1924_04_19.pdf
+  [9]: http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1927/FPHC/1927_08_27.pdf
+  [10]: http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1929/FPHC/1929_09_21.pdf
+  [11]: http://pentecostalarchives.org/digitalPublications/USA/Independent/Latter%20Rain%20Evangel/Unregistered/1929/FPHC/1929_06.pdf
+  [12]: http://pentecostalarchives.org/digitalPublications/USA/International%20Pentecostal%20Church%20of%20Christ/Bridegroom%27s%20Messenger/Unregistered/1910/FPHC/1910_03_01.pdf
+  [13]: http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1919/FPHC/1919_08_09.pdf
+  [14]: http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1919/FPHC/1919_12_13.pdf
+  [15]: http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1917/FPHC/1917\_09\_29.pdf
+  [16]: http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1939/FPHC/1939_02_04.pdf
+  [17]: http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1958/FPHC/1958_01_12.pdf
+  [18]: http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1958/FPHC/1958_08_17.pdf
+  [19]: http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1929/FPHC/1929_08_10.pdf
+  [20]: http://pentecostalarchives.org/digitalPublications/USA/Assemblies%20of%20God%20USA/Pentecostal%20Evangel/Unregistered/1928/FPHC/1928_01_28.pdf
