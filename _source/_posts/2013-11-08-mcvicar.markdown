@@ -1,0 +1,28 @@
+---
+title: "Interview with Michael McVicar"
+layout: podcast
+categories:
+- new-media
+- podcast
+author: Art Remillard
+podcast-filename: "jsr.ep022.mcvicar.mp3"
+podcast-filesize: 11840
+podcast-running-time: "12:36"
+podcast-episode: 22
+---
+
+In this episode, [Art Remillard][] talks with [Michael McVicar][] about
+his article in [Volume 15][] of the JSR, "[Take Away the Serpents from
+Us: The Sign of Serpent Handling and the Development of Southern
+Pentecostalism][]." McVicar is an assistant professor of religion at
+Florida State University. The podcast begins with McVicar explaining how
+he became interested in this topic. He then offers an overview of the
+discussions and debates about serpent handling practices among early
+pentecostals. McVicar concludes by reflecting on the ways that his essay
+sheds light on how we contextualize and interpret marginal religious
+practices more broadly.
+
+  [Art Remillard]: http://francis.edu/arthur-remillard/
+  [Michael McVicar]: http://religion.fsu.edu/faculty_michael_mcvicar.html
+  [Volume 15]: http://jsr.fsu.edu/issues/vol15/
+  [Take Away the Serpents from Us: The Sign of Serpent Handling and the Development of Southern Pentecostalism]: http://jsr.fsu.edu/issues/vol15/mcvicar.html
