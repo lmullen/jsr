@@ -1,0 +1,29 @@
+---
+title: "Interview with Christopher Graham"
+layout: podcast
+categories:
+- new-media
+- podcast
+author: Art Remillard
+podcast-filename: "jsr.ep023.graham.mp3"
+podcast-filesize: 12596
+podcast-running-time: "13:25"
+podcast-episode: 23
+---
+
+In this podcast, [Art Remillard][] talks with [Christopher Graham][]
+about his article in [Volume 15][] of the *JSR*, "[Evangelicals and
+'Domestic Felicity' in the Non-Elite South][]." Graham just completed
+his doctorate in history at the University of North Carolina at
+Greensboro. The discussion begins with Graham talking about how this
+article grew out of his broader interest in the lives of "common people"
+in the Civil War era. He then describes the evangelical print culture of
+the era and its influence on domestic life in Piedmont North Carolina.
+Graham concludes by thinking about how the "evangelical domestic ethos"
+forged in the 1850s might complicate our understanding of secession and
+Confederate nationhood.
+
+  [Art Remillard]: http://francis.edu/arthur-remillard/
+  [Christopher Graham]: http://uncg.academia.edu/ChristopherGraham/CurriculumVitae
+  [Volume 15]: http://jsr.fsu.edu/issues/vol15/
+  [Evangelicals and 'Domestic Felicity' in the Non-Elite South]: http://jsr.fsu.edu/issues/vol15/graham.html
