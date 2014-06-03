@@ -139,9 +139,9 @@ might best reshape our work.
 
 Book reviews should be between 500 and 1,000 words, but we have no
 formal limit. Scholars interested in submitting book reviews to JSR
-should contact the book review editor Art Remillard.
+should contact the book review editor Carolyn Dupont.
 
--	Art Remillard, [aremillard@francis.edu](mailto:aremillard@francis.edu)
+-	Carolyn Dupont, [carolyn.dupont@eku.edu](mailto:carolyn.dupont@eku.edu)
 
 When you receive your review copy, please send a short confirmation
 message to the book review editor. Within eight weeks, please email your
