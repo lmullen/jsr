@@ -85,9 +85,9 @@ constitute a single journal volume.
 
 Submissions to the *JSR* are fully peer-reviewed by members of the
 editorial board and their designees. Electronic submissions are
-preferred. Please submit via email to the *JSR* managing editor.
+preferred. Please submit via email to the *JSR* Associate Editor.
 
--	Emily Suzanne Clark, [esclark@fsu.edu](mailto:esclark@fsu.edu)
+-	Emily Suzanne Clark, [clarke2@gonzaga.edu](mailto:clarke2@gonzaga.edu)
 
 Unsolicited manuscripts should fit broadly into one or more of the
 categories outlined by the journal's editorial policies. Materials
