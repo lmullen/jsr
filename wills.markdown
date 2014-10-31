@@ -11,7 +11,7 @@
 +---
 With this book, coeditors Wendy Reed and Jennifer Horne follow up on their 2006 collection of essays, *All Out of Faith: Southern Women on Spirituality* (University of Alabama Press, 2006). They explain in the new volume’s introduction that a reader emailed them after finishing *All Out of Faith* to say that she felt less alone. This message affirmed their efforts in gathering those essays together and inspired this new collection.
 
-That story reveals a lot about the audience and objectives of Circling Faith. The book will be most interesting to readers embracing quests of their own. Reed and Horne desire to “inspire conversation and encourage vulnerability” (8). Readers looking for that kind of inspiration, like many of the women here, may have grown up inside religious traditions that now constrict and need altering (to pick up on the frequent clothing metaphors in the book). 
+That story reveals a lot about the audience and objectives of *Circling Faith*. The book will be most interesting to readers embracing quests of their own. Reed and Horne desire to “inspire conversation and encourage vulnerability” (8). Readers looking for that kind of inspiration, like many of the women here, may have grown up inside religious traditions that now constrict and need altering (to pick up on the frequent clothing metaphors in the book). 
 
 The book’s title suggests that the subject of faith cannot be approached head-on, and these authors do not. But, as frequently happens with edited collections on any subject, Circling Faith may be too allusive, too sidelong, too idiosyncratic to advance substantive conversation. Is this loose collection enough to catalyze women’s community? 
 
