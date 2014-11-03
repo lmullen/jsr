@@ -10,7 +10,7 @@ vol: 16
 year: 2014
 ---
 
-	Southern gentle lady,
+Southern gentle lady,
 Do not swoon.
 They’ve just hung a nigger
 
@@ -27,7 +27,7 @@ Be good! Be good!
 	
 - Langston Hughes, “Three Songs About Lynching,” 1936
 
-* *	*
+* * *
 
 
 “We the undersigned women . . . believe that the crime of lynching undermines all ideals of government and religion which we hold sacred and which we try by our lives and our conduct to implant in the minds of our youth. We recognize that all lynching will be defended so long as the public generally accepts the assumption that it is for the protection of white women.”
@@ -37,6 +37,8 @@ Be good! Be good!
 *****
 
 “Do not look at the Negro. His earthly problems are ended.” Such was the appeal of a circular issued by the National Association for the Advancement of Colored People in late 1935. Printed directly below a halftone photograph of Rubin Stacy, “the Negro” who had been lynched in Fort Lauderdale, FL, in July of that year for “threatening and frightening a white woman,” the N.A.A.C.P.’s petition was a calculated gesture. Of course folks would look at the lifeless body hanging in the center of the image dominating the page (fig. 1). Photographs of lynched corpses had long circulated as relics of the “barbarous practice,” to use a contemporary euphemism, but there were other people in the frame, and these were the bodies the N.A.A.C.P. wanted you to see: “Instead, look at the seven WHITE children who gaze at this gruesome spectacle.” Drawing our eyes—the power of the image still captivates—to the spectators, the text asks “Is the tiny four-year-old on the left old enough, one wonders, to comprehend the barbarism her elders have perpetrated? . . . Into what kinds of citizens will they grow up? What kind of America will they help to make after being familiarized with such an inhuman, law-destroying practice as lynching?” Lynching, here, was not a matter unique to the American South or to “the Negro.” It was a national scourge that threatened white Americans and the very success of American democracy. The flier’s question—“into what kind of citizens will they grow up” to be?—was intended to haunt anyone who recalled the gruesome photograph of Rubin Stacy.[^1]
+
+[**image should go here or hereabouts**]
 
 The N.A.A.C.P. circular was, among other things, a campaign flier pitching a direct appeal to the voting public to support federal antilynching legislation currently stalled in Congress. For more than a decade antilynching bills had languished in committees and been filibustered on the Senate floor. In March 1935, just months before the lynched Rubin Stacy was photographed with an audience of schoolchildren, a bill drafted by Senators Edward P. Costigan (D-CO) and Robert F. Wagner (D-NY) was presented with the enthusiastic endorsement of the Senate Committee on the Judiciary: “It is the opinion of the committee that the proposed legislation is ‘appropriate legislation’ to prevent the evil of lynching wherever in the United States that evil exists or may be committed” and that, in a bid to assuage cries of regional bias, “the measure is an aid to the several [i.e., all] States in assuring to their citizens the equal protection of the laws, both State and Federal, to which all citizens are entitled.” Still, the bill again succumbed to filibuster in early May.[^2] It was scheduled to come back to the floor the following session and the N.A.A.C.P. was marshaling public support, turning attention away from legislative stalemate by placing the burden of action—and the spark of inquiry—in the hands of everyday Americans: “What, you may ask, can YOU do?” 
 
