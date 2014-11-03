@@ -10,20 +10,20 @@ vol: 16
 year: 2014
 ---
 
-Southern gentle lady,
-Do not swoon.
-They’ve just hung a nigger
-
-In the dark of the moon.
-They’ve hung a black nigger
-To a roadside tree
-In the dark of the moon
-For the world to see
-How Dixie protects
-Its white womanhood.
-
-Southern gentle lady,
-Be good! Be good!
++Southern gentle lady,
++Do not swoon.
++They’ve just hung a nigger
++
++In the dark of the moon.
++They’ve hung a black nigger
++To a roadside tree
++In the dark of the moon
++For the world to see
++How Dixie protects
++Its white womanhood.
++
++Southern gentle lady,
++Be good! Be good!
 	
 - Langston Hughes, “Three Songs About Lynching,” 1936
 
