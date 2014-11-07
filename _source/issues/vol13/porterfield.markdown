@@ -8,9 +8,7 @@ author-note: "Amanda Porterfield is a professor of religion at Florida
 State University."
 vol: 13
 year: 2011
-book-reviewed: "Charles Reagan Wilson. <em>Flashes of a Southern Spirit: Meanings of the
-Spirit in the U.S. South.</em> Athens: University of Georgia Press, 2011.
-249 pp. ISBN 9780820338309. 
+book-reviewed: "Charles Reagan Wilson. <em>Flashes of a Southern Spirit: Meanings of the Spirit in the U.S. South.</em> Athens: University of Georgia Press, 2011.  249 pp. ISBN 9780820338309."
 ---
 
 This well-composed and gracefully written volume addresses the cultural

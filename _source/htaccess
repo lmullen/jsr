@@ -1,5 +1,5 @@
 ---
-layout: none
+layout: null
 permalink: /.htaccess
 ---
 # Rewrite www links to no www

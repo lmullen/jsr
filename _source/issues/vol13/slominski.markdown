@@ -8,9 +8,7 @@ author-note: "Kristy L. Slominski is a doctoral student in religious
 studies at the University of California at Santa Barbara."
 vol: 13
 year: 2011
-book-reviewed: "Scott Stephan. <em>Redeeming the Southern Family: Evangelical Women and
-Domestic Devotion in the Antebellum South.</em> Athens: University of Georgia
-Press, 2008. 304 pp. ISBN 9780820332222. 
+book-reviewed: "Scott Stephan. <em>Redeeming the Southern Family: Evangelical Women and Domestic Devotion in the Antebellum South.</em> Athens: University of Georgia Press, 2008. 304 pp. ISBN 9780820332222."
 ---
 
 Scott Stephan's *Redeeming the Southern Family*explores the centrality

@@ -8,9 +8,7 @@ author-note: "Monica C. Reed is a doctoral candidate in religion at
 Florida State University."
 vol: 13
 year: 2011
-book-reviewed: "Edward E. Baptist and Stephanie M. H. Camp, eds. <em>New Studies in the
-History of American Slavery</em>. Athens: University of Georgia Press, 2006.
-308 pp. ISBN 0820326941. 
+book-reviewed: "Edward E. Baptist and Stephanie M. H. Camp, eds. <em>New Studies in the History of American Slavery</em>. Athens: University of Georgia Press, 2006.  308 pp. ISBN 0820326941. "
 ---
 
 In his 1990 work, *African Americans in the Colonial Era*, Donald R.
