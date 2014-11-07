@@ -21,10 +21,5 @@ email-subscribe-standalone: http://eepurl.com/llKWT
 source: ./_source
 destination: ./public
 plugins: ./_plugins
-exclude: _working/, Rakefile, _bootstrap/, _backups/, public
-markdown: maruku
-auto: false
-server: false
-server_port: 5000
 permalink: /:categories/:title.html
 # baseurl and url are passed as command line options

@@ -48,12 +48,7 @@ end
 
 desc 'preview site using POW'
 task :pow do
-  # Generates the site locally, does not launch a server but uses POW 
-  puts 'Regenerating site for POW server.'
-  puts 'Use CTRL+C to interrupt.'
-  sh 'jekyll --auto  --base-url / --url http://jsr.dev'
-  # after the server is interrupted
-  puts 'Finished previewing the site with POW.'
+  sh 'jekyll build --watch'
 end
 
 
