@@ -22,4 +22,5 @@ source: ./_source
 destination: ./public
 plugins: ./_plugins
 permalink: /:categories/:title.html
-# baseurl and url are passed as command line options
+
+baseurl: http://jsreligion.org

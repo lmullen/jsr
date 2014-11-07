@@ -5,7 +5,7 @@ end
 
 task :dev_gen do
 	puts 'Generating the development site.'
-	sh "jekyll --base-url http://jsreligion.org/dev/ --url http://jsreligion.org/dev/ --no-auto"
+  sh 'jekyll build --config _config.yml,_config-dev.yml'
 	puts 'Successfully built site!'
 end
 
@@ -48,7 +48,7 @@ end
 
 desc 'preview site using POW'
 task :pow do
-  sh 'jekyll build --watch'
+  sh 'jekyll build --watch --config _config.yml,_config-pow.yml'
 end
 
 
