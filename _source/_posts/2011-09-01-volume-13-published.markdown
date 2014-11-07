@@ -16,4 +16,4 @@ Christian Right*, and Monica Najar reflects on her book *Evangelizing
 the South: A Social History of Church and State*. Finally, this issues
 includes twenty-six reviews of recent books in the field.
 
-  [Volume 13 (2011)]: {{site.url}}/issues/vol13/
+  [Volume 13 (2011)]: {{site.baseurl}}/issues/vol13/

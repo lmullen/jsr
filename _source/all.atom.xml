@@ -5,10 +5,10 @@ layout: null
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[{{ site.title }} - All Updates]]></title>
-  <link href="{{ site.url }}/all.atom.xml" rel="self"/>
-  <link href="{{ site.url }}/"/>
+  <link href="{{ site.baseurl }}/all.atom.xml" rel="self"/>
+  <link href="{{ site.baseurl }}/"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
-  <id>{{ site.url }}/all.atom.xml</id>
+  <id>{{ site.baseurl }}/all.atom.xml</id>
   <author>
     <name><![CDATA[{{ site.editors | strip_html }}]]></name>
     {% if site.webmaster_email %}<email><![CDATA[{{ site.webmaster_email }}]]></email>{% endif %}
@@ -18,10 +18,10 @@ layout: null
   {% for post in site.posts %}
   <entry>
     <title type="html"><![CDATA[{{ post.title | cdata_escape }}]]></title>
-    <link href="{{ site.url }}{{ post.url }}"/>
+    <link href="{{ site.baseurl }}/{{ post.url }}"/>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
-    <id>{{ site.url }}{{ post.id }}</id>
-    <content type="html"><![CDATA[{{ post.content | expand_urls: site.url | cdata_escape }}]]></content>
+    <id>{{ site.baseurl }}/{{ post.id }}</id>
+    <content type="html"><![CDATA[{{ post.content | expand_urls: site.baseurl | cdata_escape }}]]></content>
   </entry>
   {% endfor %}
 </feed>

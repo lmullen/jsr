@@ -28,4 +28,4 @@ Romney’s candidacy might mean for Mormons in the South and nationally.
   [Art Remillard]: http://www.francis.edu/Remillard.htm
   [Patrick Mason]: http://www.claremontmormonstudies.org/hunter-chair/
   [The Mormon Menace: Violence and Anti-Mormonism in the Postbellum South]: http://www.oup.com/us/catalog/general/subject/ReligionTheology/American/?view=usa&ci=9780199740024
-  [reviewed in volume 13]: {{site.url}}/issues/vol13/lindell.html
+  [reviewed in volume 13]: {{site.baseurl}}/issues/vol13/lindell.html

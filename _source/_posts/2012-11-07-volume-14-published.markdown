@@ -20,4 +20,4 @@ reviews of recent books in the field.
 This latest issue is available both on this website and as e-books for 
 Amazon Kindle, Apple iOS, and other e-readers and tablets.
 
-  [Volume 14 (2012)]: {{site.url}}/issues/vol14/
+  [Volume 14 (2012)]: {{site.baseurl}}/issues/vol14/

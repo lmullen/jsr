@@ -22,7 +22,7 @@ beginning these publications with a podcast.
 		</p>
 	</div>
 	<div class="span3">
-		<img src="{{site.url}}/assets/img/jsr.logo.podcast.small.jpg" 
+		<img src="{{site.baseurl}}/assets/img/jsr.logo.podcast.small.jpg" 
 		width=200 height=200 class="thumbnail">
 	</div>
 </div>
@@ -31,7 +31,7 @@ beginning these publications with a podcast.
 	{% for post in site.categories.podcast %}
 		<li>
 		<p>
-		<strong><a href="{{site.url}}{{post.url}}">Episode {{post.podcast-episode}}: {{post.title}}</a></strong><br/>
+		<strong><a href="{{site.baseurl}}/{{post.url}}">Episode {{post.podcast-episode}}: {{post.title}}</a></strong><br/>
 		<span class="hanging">
 			<span class="label label-info">Podcast</span>
 			<small> <i class="icon-calendar"></i> {{ post.date | date: "%m/%d/%Y" }}</small>

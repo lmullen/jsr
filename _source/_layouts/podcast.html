@@ -18,10 +18,10 @@ layout: default
 		<p class="post-date">{{ page.date | date_to_long_string }}</p>
 		<ul class="breadcrumb">
 			<li>
-			<a href="{{site.url}}">JSR</a> <span class="divider">/</span>
+			<a href="{{site.baseurl}}">JSR</a> <span class="divider">/</span>
 			</li>
 			<li>
-			<a href="{{site.url}}/new-media/">New Media</a> 
+			<a href="{{site.baseurl}}/new-media/">New Media</a> 
 			</li>
 		</ul>
 
@@ -35,14 +35,14 @@ layout: default
 	<div class="span7"> <!-- article column -->
 		<p class="audio-player" id="audio-player_{{page.podcast-filename}}">
 		<audio controls="controls">
-		<source src="{{site.baseurl}}assets/podcast/{{page.podcast-filename}}" type="audio/mpeg" />
+		<source src="{{site.baseurl}}/assets/podcast/{{page.podcast-filename}}" type="audio/mpeg" />
 		Your browser supports neither Flash nor embedded 
 		audio. Please download the <a 
-			href="{{site.baseurl}}assets/podcast/{{page.podcast-filename}}">.mp3</a> instead.
+			href="{{site.baseurl}}/assets/podcast/{{page.podcast-filename}}">.mp3</a> instead.
 		</audio> 
 		</p>
 		<p class="muted lead"><i class="icon-download-alt"></i> Download the <a 
-			href="{{site.baseurl}}assets/podcast/{{page.podcast-filename}}">.mp3</a> 
+			href="{{site.baseurl}}/assets/podcast/{{page.podcast-filename}}">.mp3</a> 
 		&nbsp;&nbsp;&nbsp; <i class="icon-time"></i> 
 		Running time: {{page.podcast-running-time}}</p>
 

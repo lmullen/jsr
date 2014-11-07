@@ -36,8 +36,8 @@ We hope you enjoy the new *JSR*.
   [COinS embedded metadata]: http://ocoins.info/
   [Zotero]: http://www.zotero.org/
   [GitHub]: {{site.github-repo}}
-  [JSR Podcast]: {{site.url}}/new-media/
-  [first an interview with Paul Harvey]: {{site.url}}/new-media/podcast/paul-harvey.html
-  [interview with Patrick Mason]: {{site.url}}/new-media/podcast/patrick-mason.html
-  [blog]: {{site.url}}/blog/
+  [JSR Podcast]: {{site.baseurl}}/new-media/
+  [first an interview with Paul Harvey]: {{site.baseurl}}/new-media/podcast/paul-harvey.html
+  [interview with Patrick Mason]: {{site.baseurl}}/new-media/podcast/patrick-mason.html
+  [blog]: {{site.baseurl}}/blog/
   [e-mail]: mailto:lincoln+jsr@lincolnmullen.com

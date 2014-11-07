@@ -8,7 +8,7 @@ layout: default
 
 			{% include front-about.html %}
 			<p><strong><a class="chevron-link" 
-					href="{{site.baseurl}}about/">About the JSR <i 
+					href="{{site.baseurl}}/about/">About the JSR <i 
 						class="icon-chevron-right"></i></a></strong></p>
 
 		</div>
@@ -20,9 +20,9 @@ layout: default
 		{% include current-issue-description.html %}
 
 		<p><strong><a 
-				class="chevron-link" href="{{site.baseurl}}issues/{{site.currentissue}}/index.html">Current 
+				class="chevron-link" href="{{site.baseurl}}/issues/{{site.currentissue}}/index.html">Current 
 				issue <i class="icon-chevron-right"></i></a> <a 
-				class="chevron-link" href="{{site.baseurl}}issues/">All 
+				class="chevron-link" href="{{site.baseurl}}/issues/">All 
 				issues <i 
 					class="icon-chevron-right"></i></a></strong></p>
 
@@ -34,9 +34,9 @@ layout: default
 						<li>
 						<p>
 						{% if post.categories contains 'podcast' %}
-							<strong><a href="{{site.url}}{{post.url}}">Episode {{post.podcast-episode}}: {{post.title}}</a></strong><br/>
+							<strong><a href="{{site.baseurl}}/{{post.url}}">Episode {{post.podcast-episode}}: {{post.title}}</a></strong><br/>
 						{% else %}
-							<strong><a href="{{site.url}}{{post.url}}">{{post.title}}</a></strong><br/>
+							<strong><a href="{{site.baseurl}}/{{post.url}}">{{post.title}}</a></strong><br/>
 						{% endif %}
 						<span class="hanging">
 							{% if post.categories contains 'podcast' %}
@@ -57,7 +57,7 @@ layout: default
 					{% for post in site.categories.blog limit: 5 %}
 						<li>
 						<p>
-						<strong><a href="{{site.url}}{{post.url}}">{{post.title}}</a></strong><br/>
+						<strong><a href="{{site.baseurl}}/{{post.url}}">{{post.title}}</a></strong><br/>
 						<span class="hanging">
 							{% if post.categories contains 'new-issue' %}
 								<span class="label label-important">New Issue</span>

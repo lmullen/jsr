@@ -15,7 +15,7 @@ journal proper.</p>
 	{% for post in site.categories.blog %}
 		<li>
 		<p>
-		<strong><a href="{{site.url}}{{post.url}}">{{post.title}}</a></strong><br/>
+		<strong><a href="{{site.baseurl}}/{{post.url}}">{{post.title}}</a></strong><br/>
 		<span class="hanging">
 			{% if post.categories contains 'new-issue' %}
 				<span class="label label-important">New Issue</span>
