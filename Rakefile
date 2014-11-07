@@ -6,7 +6,6 @@ end
 task :dev_gen do
 	puts 'Generating the development site.'
 	sh "jekyll --base-url http://jsreligion.org/dev/ --url http://jsreligion.org/dev/ --no-auto"
-	Rake::Task["tidy"].invoke
 	puts 'Successfully built site!'
 end
 
@@ -27,7 +26,6 @@ task :production_gen do
 	puts 'Generating the production site.'
 	Rake::Task["assets"].invoke
 	sh "jekyll --base-url http://jsr.fsu.edu/ --url http://jsr.fsu.edu --no-auto"
-	Rake::Task["tidy"].invoke
 	puts 'Successfully built production site!'
 end
 
@@ -67,13 +65,6 @@ task :ebookgen do
   Dir.glob( '_source/assets/ebooks/*.epub').each do |f|
     system "bin/kindlegen #{f}"
   end
-end
-
-desc 'tidy HTML in public'
-task :tidy do
-	puts 'Tidying the HTML in public/.'
-	sh 'find ./public/ -type f -name "*.html" -exec tidy -config _tidy.config -modify -i {} \;'
-	puts 'Done tidying.'
 end
 
 desc 'clean generated files in public'
