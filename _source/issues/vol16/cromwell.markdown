@@ -6,9 +6,9 @@ author-note: |
     Matt Cromwell holds a Master of Arts in history from San Diego State
     University.
 book-reviewed: |
-    John Stauffer and Benjamin Soskis. *The Battle Hymn of the Republic: A
-    Biography of the Song that Marches On*. New York, NY: Oxford University
-    Press, 2013. ISBN 978-0-19-983743-4.
+    John Stauffer and Benjamin Soskis. <em>The Battle Hymn of the Republic:
+    A Biography of the Song that Marches On</em>. New York, NY: Oxford
+    University Press, 2013. ISBN 978-0-19-983743-4.
 layout: article
 title: 'Review: The Battle Hymn of the Republic'
 vol: 16
