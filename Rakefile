@@ -14,8 +14,16 @@ task :dev_deploy do
 end
 
 desc 'generate and deploy the production site'
-task :production => [:production_gen, :production_deploy] do
+task :production => [:check_deploy, :production_gen, :production_deploy] do
 	puts 'Generated and deployed the production site.'
+end
+
+task :check_deploy do
+  puts "Are you sure that you want to deploy to production? (yes to proceed)"
+  input = STDIN.gets.strip
+  if input != "yes"
+    abort("You didn't confirm that you want to deploy to production.")
+  end
 end
 
 task :production_gen do
