@@ -3,7 +3,7 @@ author: Anne Blue Wills
 author-first: Anne Blue
 author-last: Wills
 author-note: |
-    Anne Blue Wills is an associate professor of religion at Davidson
+    Anne Blue Wills is an associate professor of Religion at Davidson
     College.
 book-reviewed: |
     Wendy Reed and Jennifer Horne, eds. <em>Circling Faith: Southern Women
@@ -32,7 +32,7 @@ clothing metaphors in the book).
 
 The book's title suggests that the subject of faith cannot be approached
 head-on, and these authors do not. But, as frequently happens with
-edited collections on any subject, Circling Faith may be too allusive,
+edited collections on any subject, *Circling Faith* may be too allusive,
 too sidelong, too idiosyncratic to advance substantive conversation. Is
 this loose collection enough to catalyze women's community?
 
@@ -59,6 +59,6 @@ their original habitats.
 
 With such a variety of voices, a reader may meet a chapter here or there
 that makes her feel less alone. Yet without a clearer sense from the
-editors of the distinctive Southern, religious, or female networks
+editors of the distinctive southern, religious, or female networks
 giving rise to and welcoming the insights collected here, that reader
 may end up by feeling caught in a relationship that is going nowhere.
