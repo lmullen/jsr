@@ -25,7 +25,7 @@ opinion either way. It's all just one, big bundle of cholesterol to me.
 If all of this wasn't enough, I hadn't even *heard* of Charles Reagan
 Wilson's *Baptized in Blood* until my third year of graduate school at
 Florida State University. I was enrolled in [Amy Koehlinger's]
-(http://liberalarts.oregonstate.edu/users/amy-koehlinger) seminar on
+[http://liberalarts.oregonstate.edu/users/amy-koehlinger] seminar on
 religion and social change. If my memory is correct, [Kelly Baker][] was
 assigned to begin the class with a general overview of the book. My job
 was to distill her insights into a series of conversation points. That's
@@ -40,8 +40,8 @@ project on its own might not fly in the job market. He wisely suggested
 that I gain a secondary specialty on something "more conventional."
 
 I took his advice (always a good idea), and promptly located the path of
-least resistance. Corrigan was then the editor of the Journal of
-Southern Religion, and as his graduate assistant, I had helped with the
+least resistance. Corrigan was then the editor of the *Journal of
+Southern Religion*, and as his graduate assistant, I had helped with the
 book reviews. This gave me a vague sense of the emerging literature in
 the field (I knew, for example, that [Paul Harvey][] wasn't just a
 folksy radio personality). Also, my two closest friends---[Mike
@@ -58,7 +58,7 @@ Woodward worked on the railroads before becoming a well-known preacher
 in north Florida. He was also an author, writing a regular column in a
 Tallahassee newspaper. As I sifted through the folders, I sometimes
 perceived Woodward as an ardent Lost Causer, someone who could have
-easily been featured in Baptized in Blood. And yet elsewhere, Woodward
+easily been featured in *Baptized in Blood*. And yet elsewhere, Woodward
 positioned himself as a prototypical New South progressive, a man of
 education and refinement who idealized the railways and championed an
 industrial economy. In these settings, I could see Woodward matching the
