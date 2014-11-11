@@ -3,7 +3,7 @@ author: 'Samuel C. Smith'
 author-first: 'Samuel C.'
 author-last: Smith
 author-note: |
-    Samuel C. Smith is an associate professor of history at Liberty
+    Samuel C. Smith is an associate professor of History at Liberty
     University.
 book-reviewed: |
     Thomas J. Little, <em>The Origins of Southern Evangelicalism: Religious
