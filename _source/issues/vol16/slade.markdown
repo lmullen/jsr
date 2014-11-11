@@ -6,7 +6,7 @@ author-note: 'Peter Slade is a professor of religious studies at Ashland Univers
 book-reviewed: |
     J. Russell Hawkins and Phillip Luke Sinitiere, eds. <em>Christians and the
     Color Line: Race and Religion after Divided by Faith</em>. New York: Oxford
-    University Press, 2014. 278. 978-0-19-932950-2.
+    University Press, 2014. 278 pp. 978-0-19-932950-2.
 layout: article
 title: 'Review: Christians and the Color Line'
 vol: 16
