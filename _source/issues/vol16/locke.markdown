@@ -6,8 +6,8 @@ author-note: |
     Joseph Locke is an assistant professor of History at the University of
     Houston-Victoria.
 book-reviewed: |
-    Robert Wuthnow. <em>Rough Country: How Texas Became America's Most Powerful
-    Bible-Belt State</em>. Princeton: Princeton University Press, 2014. 654 pp.
+    Robert Wuthnow. <em>[Rough Country: How Texas Became America's Most Powerful
+    Bible-Belt State](http://press.princeton.edu/titles/10327.html)</em>. Princeton: Princeton University Press, 2014. 654 pp.
     ISBN 978-0-691-15989-8.
 layout: article
 title: 'Review: Rough Country'
