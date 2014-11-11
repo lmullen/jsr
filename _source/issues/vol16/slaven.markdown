@@ -8,7 +8,7 @@ author-note: |
 book-reviewed: |
     Anthony Dyer Hoefer. <em>Apocalypse South: Judgment, Cataclysm, and
     Resistance in the Regional Imaginary</em>. Columbus: Ohio State
-    University Press, 2012. 208 pages. ISBN 978-0814212011.
+    University Press, 2012. 208 pp. ISBN 978-0814212011.
 layout: article
 title: |
     Review: Apocalypse South: Judgment, Cataclysm, and Resistance in the
