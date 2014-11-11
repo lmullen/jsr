@@ -6,9 +6,10 @@ author-note: |
     Gary Richards is an associate professor of English at the University of
     Mary Washington.
 book-reviewed: |
-    Jay Watson. <em>[Reading for the Body: The Recalcitrant Materiality of
-    Southern Fiction, 1893-1985](http://www.ugapress.org/index.php/books/reading_for_the_body/)</em>. Athens and London: University of Georgia
+    Jay Watson. <em>Reading for the Body: The Recalcitrant Materiality of
+    Southern Fiction, 1893-1985</em>. Athens and London: University of Georgia
     Press, 2012. Pp. x + 412. 978-0-8203-4338-9.
+book-link: http://www.ugapress.org/index.php/books/reading_for_the_body/
 layout: article
 title: 'Review: Reading for the Body'
 vol: 16
