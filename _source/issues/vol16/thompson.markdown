@@ -28,14 +28,13 @@ the help of two graduate students at Florida State University, Adam
 Brasich and Charlie McCrary, to do the important work of copy editing
 for the journal. One final transition is in process as I write. Lincoln
 Mullen, web editor, will step down after we have set up the new server
-and launch Volume 16. In many ways, this newly designed site is his
-vision. By the time you reach the end of this paragraph, Lincoln will be
+and launch Volume 16. In many ways, the changes coming to *JSR* over the next few years are part of Lincoln's vision for the journal. By the time you reach the end of this paragraph, Lincoln will be
 on to new adventures in digital history at George Mason University.
 
 We hope this platform allows us to carve out space between peer-reviewed
 print journals and the ever-expanding world of blogs for the
 interdisciplinary home of religious life in the American South. The
-fifteen-year history of the journal's online presence reveals two
+sixteen-year history of the journal's online presence reveals two
 important aspects of *JSR*: dedicated staff and technological
 innovation. There are a group of dedicated folks who understand the need
 for helping scholars and non-scholars alike understand the wonderfully
@@ -60,7 +59,7 @@ in the sense of academic disciplines and how journals respond to the
 waves of social media. The early advocates of this platform can rejoice
 because the avenue of content delivery has come to the platform. We,
 however, need to utilize the platform in ways that benefit all who come
-to the site. In order to make his move, however, we needed something we
+to the site. In order to make this move, however, we needed something we
 had not had: money. To begin to rectify this situation, *JSR* received a
 seed grant from Mercer University's Office of the Provost to find new
 ways to support the work of the journal. Under that grant, we have
@@ -91,7 +90,7 @@ obvious discipline where we can expand our content. The list is longer,
 however, than just that one area. We would like to bring sociologists,
 geographers, political scientists, and fine arts into the fold. There
 are a group of scholars exploring the contours of southern religion
-across the many professional conferences, which means three editors
+across the many professional conferences, which means two editors
 cannot engage the journal beyond the small number of meetings we go to
 in a year. Rather than wait for articles and other content to come to
 us, we will be going out through the work of these assistant editors to
@@ -113,5 +112,5 @@ presence to bring more folks into contact with the good work of scholars
 whose time in archives, with texts, and through interviews sheds light
 on the variety of religious expressions in the American South.
 
-> Douglas E. Thompson Editor,  
+> Douglas E. Thompson, Editor  
 > *Journal of Southern Religion*
