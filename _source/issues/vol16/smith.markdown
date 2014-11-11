@@ -7,7 +7,7 @@ author-note: |
     University.
 book-reviewed: |
     Thomas J. Little, <em>[The Origins of Southern Evangelicalism: Religious
-    Revivalism in the South Carolina Lowcountry, 1670-1760](http://www.sc.edu/uscpress/books/2013/7274.html)</em>. Columbia: The
+    Revivalism in the South Carolina Lowcountry, 1670-1760](http://www.sc.edu/uscpress/books/2013/7274.html)</em>. Columbia: 
     University of South Carolina Press, 2013. 280 pp. ISBN
     978-1-611-17274-4.
 layout: article
