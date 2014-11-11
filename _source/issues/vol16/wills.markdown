@@ -16,8 +16,7 @@ year: 2014
 ...
 
 With this book, coeditors Wendy Reed and Jennifer Horne follow up on
-their 2006 collection of essays, *All Out of Faith: Southern Women on
-Spirituality* (University of Alabama Press, 2006). They explain in the
+their 2006 collection of essays, *All Out of Faith: Southern Women on Spirituality* (University of Alabama Press, 2006). They explain in the
 new volume's introduction that a reader emailed them after finishing
 *All Out of Faith* to say that she felt less alone. This message
 affirmed their efforts in gathering those essays together and inspired
