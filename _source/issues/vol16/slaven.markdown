@@ -6,8 +6,8 @@ author-note: |
     Craig Slaven is a Ph.D. candidate in English at the University of
     Kentucky.
 book-reviewed: |
-    Anthony Dyer Hoefer. <em>Apocalypse South: Judgment, Cataclysm, and
-    Resistance in the Regional Imaginary</em>. Columbus: Ohio State
+    Anthony Dyer Hoefer. <em>[Apocalypse South: Judgment, Cataclysm, and
+    Resistance in the Regional Imaginary](https://ohiostatepress.org/index.htm?books/book%20pages/hoefer%20apocalypse.html)</em>. Columbus: Ohio State
     University Press, 2012. 208 pp. ISBN 978-0814212011.
 layout: article
 title: |
