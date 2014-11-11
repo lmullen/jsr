@@ -6,9 +6,10 @@ author-note: |
     Andrew R. McKee is a Ph.D. student in American religious history at
     Florida State University.
 book-reviewed: |
-    Chad E. Seales. <em>[The Secular Spectacle: Performing Religion in a
-    Southern Town](https://global.oup.com/academic/product/the-secular-spectacle-9780199860289?cc=ru&lang=en)</em>. Oxford: Oxford University Press, 2013. 256 pp.  
+    Chad E. Seales. <em>The Secular Spectacle: Performing Religion in a
+    Southern Town</em>. Oxford: Oxford University Press, 2013. 256 pp.  
     ISBN: 978-0-19-986028-9.
+book-link: https://global.oup.com/academic/product/the-secular-spectacle-9780199860289?cc=ru&lang=en
 layout: article
 title: 'Review: The Secular Spectacle'
 vol: 16
