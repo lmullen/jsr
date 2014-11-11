@@ -384,7 +384,7 @@ remained clear. A "Creator" breathed life into the world, they argued,
 and there was little more to the story than that. The book did teach
 evolution; however, it also included an entire unit that called into
 question basic tenets of the theory. The ideas presented by *Biology: A
-Search For Order* in Complexity were far less dependent on Biblical
+Search For Order in Complexity* were far less dependent on Biblical
 literalism than was Artist's own self-published textbook from 1959, but
 the basic concepts were remarkably similar. Both books portrayed
 evolution as an unprovable philosophical theory riddled with errors,
