@@ -16,7 +16,7 @@ year: 2014
 ...
 
 **Editor's Note**: Prior to her appointment as book review editor with
-JSR, Carolyn Dupont had been assigned Stephen Haynes's *The Last
+*JSR*, Carolyn Dupont had been assigned Stephen Haynes's *The Last
 Segregated Hour* to review. Her own work on white Christians in
 Mississippi during the Civil Rights era made her a good choice for Art
 Remillard, who served as our book review editor. Since Haynes had been
