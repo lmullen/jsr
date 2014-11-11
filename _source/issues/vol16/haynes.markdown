@@ -7,7 +7,7 @@ book-reviewed: |
     Carolyn Renėe Dupont. <em>Mississippi Praying: Southern White Evangelicals
     and the Civil Rights Movement, 1945-1975</em>. New York and London: New York
     University Press, 2013. 290 pp. 978-0-8147-0841-5.
-book-link: https://global.oup.com/academic/product/the-last-segregated-hour-9780195395051?cc=us&lang=en&
+book-link: http://nyupress.org/books/9780814708415/
 layout: article
 title: 'Review Essay: Mississippi Praying'
 vol: 16
