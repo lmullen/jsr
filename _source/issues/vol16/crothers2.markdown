@@ -6,8 +6,8 @@ author-note: |
     A. Glenn Crothers is an associate professor of history at the University
     of Louisville and director of research at the Filson Historical Society.
 book-reviewed: |
-    Ben Wright and Zachary W. Dresser, eds. <em>Apocalypse and the Millennium
-    in the American Civil War Era</em>. Baton Rouge: Louisiana State University,
+    Ben Wright and Zachary W. Dresser, eds. <em>[Apocalypse and the Millennium
+    in the American Civil War Era](http://lsupress.org/books/detail/apocalypse-and-the-millennium-in-the-american-civil-war-era/)</em>. Baton Rouge: Louisiana State University,
     2013. 296 pp. ISBN: 978-0-80-715192-1.
 layout: article
 title: 'Review: Apocalypse and the Millennium in the American Civil War Era'
