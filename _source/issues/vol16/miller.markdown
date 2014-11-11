@@ -2,7 +2,7 @@
 author: 'Randall M. Miller'
 author-first: 'Randall M.'
 author-last: Miller
-author-note: 'Randall M. Miller is a professor of history at St. John''s University.'
+author-note: 'Randall M. Miller is a professor of History at St. John''s University.'
 book-reviewed: |
     Luke E. Harlow. <em>Religion, Race, and the Making of Confederate Kentucky,
     1830-1880</em>. New York: Cambridge University Press, 2014. 242pp. ISBN
