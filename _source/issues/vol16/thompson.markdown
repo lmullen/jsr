@@ -2,7 +2,7 @@
 author: 'Douglas E. Thompson'
 author-first: 'Douglas E.'
 author-last: Thompson
-author-note: Douglas E. Thompson is an associate professor in Southern Studies at Mercer University. He serves as editor of *JSR*.
+author-note: Douglas E. Thompson is an associate professor in Southern Studies at Mercer University. He serves as editor of <em>JSR</em>.
 layout: article
 title: "Editor's Note: Technology and the <em>Journal of Southern Religion</em>"
 vol: 16
