@@ -3,7 +3,7 @@ author: Joseph Locke
 author-first: Joseph
 author-last: Locke
 author-note: |
-    Joseph Locke is an assistant professor of history at the University of
+    Joseph Locke is an assistant professor of History at the University of
     Houston-Victoria.
 book-reviewed: |
     Robert Wuthnow. <em>Rough Country: How Texas Became America's Most Powerful
