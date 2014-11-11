@@ -3,7 +3,7 @@ author: 'Carolyn R. Dupont'
 author-first: 'Carolyn R.'
 author-last: Dupont
 author-note: |
-    Carolyn R. Dupont is an assistant professor of history at Eastern
+    Carolyn R. Dupont is an assistant professor of History at Eastern
     Kentucky University.
 book-reviewed: |
     Stephen R. Haynes. <em>The Last Segregated Hour: The Memphis Kneel-Ins and
