@@ -8,7 +8,7 @@ author-note: |
 book-reviewed: |
     Chad E. Seales. <em>The Secular Spectacle: Performing Religion in a
     Southern Town</em>. Oxford: Oxford University Press, 2013. 256 pp.  
-    ISBN: 9780199860289.
+    ISBN: 978-0-19-986028-9.
 layout: article
 title: 'Review: The Secular Spectacle'
 vol: 16
