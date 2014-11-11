@@ -38,8 +38,8 @@ philosophy of the somatic developed by Elaine Scarry" (24-25). Watson
 also draws eclectically on the work of historians and fellow literary
 critics, with Patricia Yaeger's *Dirt and Desire: Reconstructing
 Southern Women's Writing, 1930-1990* (2000) and its complementary
-publications deemed the "truest precursor" (24) of *Reading for the
-Body*. Watson writes for fellow scholars of southern literature and
+publications deemed the "truest precursor" of *Reading for the
+Body* (24). Watson writes for fellow scholars of southern literature and
 smartly weaves into the study most of the energizing
 twenty-first-century debates within this subfield of American literary
 history; however, this incorporation makes for a densely allusive
@@ -48,8 +48,8 @@ justified pause to readers outside the subfield.
 
 Launched by a nuanced reading of Jean Toomer's "Portrait in Georgia,"
 Watson argues that depictions of the southern body expose the "lifeless
-condition of U.S. political subjectivity" (11), what Russ Castronovo
-deems "necro citizenship" (11), and have done so since the colonial era.
+condition of U.S. political subjectivity," what Russ Castronovo
+deems "necro citizenship," and have done so since the colonial era (11).
 In particular, Watson's brief survey of the literary terrain leading up
 to 1893 spotlights the "hypermaterialized" (14) southern bodies of
 slavery, the frontier, and disability that cast the region as "a zone of
@@ -82,14 +82,14 @@ true that that we are never only our bodies" (319).
 
 Watson himself identifies the limits of his study, cautioning in his
 introduction that the book, despite its length, "bears no pretense of
-being an exhaustive one" (26) in either the texts or the embodiments
-interrogated. The desiring body, much less the queer desiring body, for
+being an exhaustive one" in either the texts or the embodiments
+interrogated (26). The desiring body, much less the queer desiring body, for
 instance, is notably absent, as is the southern body outside a reified
 black/white racial dichotomy. Likewise, Watson stresses that "*Reading
-for the Body* is as much critical casebook as scholarly monograph" (27),
+for the Body* is as much critical casebook as scholarly monograph,"
 and, despite the introduction's provocative assertions, the study does
 not forcefully draw conclusions about what these representations as a
-whole may say about the South. Finally, the book's long gestation seems
+whole may say about the South (27). Finally, the book's long gestation seems
 to have fostered awkward moments, with Watson's now-dated frame of the
 AIDS pandemic for his chapter on blood in *Light in August* being
 perhaps the most obvious.
