@@ -8,7 +8,7 @@ author-note: |
 book-reviewed: |
     Ben Wright and Zachary W. Dresser, eds. <em>Apocalypse and the Millennium
     in the American Civil War Era</em>. Baton Rouge: Louisiana State University,
-    2013. 296 pp. ISBN: 9780807151921.
+    2013. 296 pp. ISBN: 978-0-80-715192-1.
 layout: article
 title: 'Review: Apocalypse and the Millennium in the American Civil War Era'
 vol: 16
