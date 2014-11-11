@@ -6,8 +6,8 @@ author-note: |
     Andrew Stern is Assistant Professor of Religious Studies at North
     Carolina Wesleyan College
 book-reviewed: |
-    Bryan Giemza. <em>Irish Catholic Writers and the Invention of the
-    American South</em>. Baton Rouge: Louisiana State University Press,
+    Bryan Giemza. <em>[Irish Catholic Writers and the Invention of the
+    American South](http://lsupress.org/books/detail/irish-catholic-writers-and-the-invention-of-the-american-south/)</em>. Baton Rouge: Louisiana State University Press,
     2013. 361 pp. ISBN 978-0-8071-5090-0.
 layout: article
 title: 'Review: Irish Catholic Writers and the Invention of the American South'
