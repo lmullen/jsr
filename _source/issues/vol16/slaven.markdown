@@ -31,7 +31,7 @@ considers an array of extraliterary material and cultural artifacts that
 frequently invoke apocalypse, such as popular and folk music, sermons,
 and political speeches. He also explores various contextual passages,
 including the tragic legacy of lynching reflected in *Light in August*,
-the anti-nationalist views of Seventh Day Adventist millennialism that
+the anti-nationalist views of Seventh-day Adventist millennialism that
 influenced Wright, the elusive histories of maroon colonies in Kennan's
 fictional world, and the mobilizing gospel circuits of *Bastard Out of Carolina*. Notably, the epilogue shows how "the discourses of cataclysm
 and destruction, rebirth and renewal, judgment and justice have been
