@@ -2,7 +2,7 @@
 author: 'Stephen R. Haynes'
 author-first: 'Stephen R.'
 author-last: Haynes
-author-note: 'Stephen R. Haynes is a professor of religious studies at Rhodes College.'
+author-note: 'Stephen R. Haynes is a professor of Religious Studies at Rhodes College.'
 book-reviewed: |
     Carolyn Renėe Dupont. <em>Mississippi Praying: Southern White Evangelicals
     and the Civil Rights Movement, 1945-1975</em>. New York and London: New York
