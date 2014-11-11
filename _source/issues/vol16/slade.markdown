@@ -2,7 +2,7 @@
 author: Peter Slade
 author-first: Peter
 author-last: Slade
-author-note: 'Peter Slade is a professor of religious studies at Ashland University.'
+author-note: 'Peter Slade is a professor of Religious Studies at Ashland University.'
 book-reviewed: |
     J. Russell Hawkins and Phillip Luke Sinitiere, eds. <em>Christians and the
     Color Line: Race and Religion after Divided by Faith</em>. New York: Oxford
