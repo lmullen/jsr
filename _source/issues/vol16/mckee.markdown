@@ -86,7 +86,7 @@ race, and gender, privatization cultivated a new form of secular power.
 Seales concludes that in moving to a backyard, this new private affair
 helps retain the social power of religion "for a select public" (113).
 
-The final chapter, "Migration," brings Seales' narrative through the
+The final chapter, "Migration," brings Seales's narrative through the
 1990s and early 2000s. This chapter moves back to the public spaces of
 City Hall, the Courthouse, and public schools, as well as to new
 Catholic churches constructed by Latino migrants. It weaves together the
