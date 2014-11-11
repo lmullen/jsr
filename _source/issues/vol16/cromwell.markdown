@@ -8,7 +8,7 @@ author-note: |
 book-reviewed: |
     John Stauffer and Benjamin Soskis. <em>The Battle Hymn of the Republic:
     A Biography of the Song that Marches On</em>. New York, NY: Oxford
-    University Press, 2013. ISBN 978-0-19-983743-4.
+    University Press, 2013. 392 pp. ISBN 978-0-19-983743-4.
 layout: article
 title: 'Review: The Battle Hymn of the Republic'
 vol: 16
