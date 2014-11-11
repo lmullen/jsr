@@ -4,8 +4,8 @@ author-first: 'Randall M.'
 author-last: Miller
 author-note: 'Randall M. Miller is a professor of History at St. John''s University.'
 book-reviewed: |
-    Luke E. Harlow. <em>Religion, Race, and the Making of Confederate Kentucky,
-    1830-1880</em>. New York: Cambridge University Press, 2014. 242pp. ISBN
+    Luke E. Harlow. <em>[Religion, Race, and the Making of Confederate Kentucky,
+    1830-1880](http://www.cambridge.org/us/academic/subjects/history/early-republic-and-antebellum-history/religion-race-and-making-confederate-kentucky-18301880?format=HB)</em>. New York: Cambridge University Press, 2014. 242pp. ISBN
     978-1-107-00089-6.
 layout: article
 title: |
