@@ -25,7 +25,7 @@ documented East Coast Friends' short-lived efforts in Virginia and South
 Carolina, but they have paid little attention to Midwest Friends' much
 lengthier endeavors in Arkansas. Beginning in 1863 and continuing for
 over sixty years, Indiana Quakers sponsored and supported the black
-college of Southland. Thomas Kennedy's A History of Southland College
+college of Southland. Thomas Kennedy's *A History of Southland College*
 offers an exhaustive account of Friends' long struggle to sustain the
 school and improve race relations in post-Civil War Arkansas, but the
 wealth of detail in the narrative often overwhelms the story's
@@ -62,7 +62,7 @@ But the Clarks also faced an array of problems that plagued the school
 throughout its life. Above all, the Southland community developed amidst
 a white community hostile to black education and advancement and to the
 Quaker outsiders. This antagonism---and associated violence---increased
-after the mid-1870s when the collapse of reconstruction enabled former
+after the mid-1870s when the collapse of Reconstruction enabled former
 Confederates to recapture political power. In addition, black poverty
 undermined the school's efforts to achieve financial self-sufficiency
 and limited the ability of local blacks to attend. Friends' commitment
