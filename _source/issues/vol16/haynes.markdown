@@ -4,8 +4,8 @@ author-first: 'Stephen R.'
 author-last: Haynes
 author-note: 'Stephen R. Haynes is a professor of Religious Studies at Rhodes College.'
 book-reviewed: |
-    Carolyn Renėe Dupont. <em>Mississippi Praying: Southern White Evangelicals
-    and the Civil Rights Movement, 1945-1975</em>. New York and London: New York
+    Carolyn Renėe Dupont. <em>[Mississippi Praying: Southern White Evangelicals
+    and the Civil Rights Movement, 1945-1975](http://nyupress.org/books/9780814708415/)</em>. New York and London: New York
     University Press, 2013. 290 pp. 978-0-8147-0841-5.
 layout: article
 title: 'Review Essay: Mississippi Praying'
@@ -23,7 +23,7 @@ the *JSR*, we have followed a different protocol for these two reviews.
 The Editor handled all publication decisions regarding these reviews,
 which is typically left to the book review editor's discretion.
 
----
+
 
 "As a religious history of white Southern Baptists, Methodists and
 Presbyterians during the civil rights era, [this book] examines
