@@ -17,9 +17,9 @@ vol: 16
 year: 2014
 ...
 
-Apocalypse South examines the various rhetorical applications of
+*Apocalypse South* examines the various rhetorical applications of
 apocalypse in the works of William Faulkner, Richard Wright, Randall
-Kenan, and Dorothy Allison. By focusing on apocalyptic rhetoric, Hoefer
+Kenan, and Dorothy Allison. By focusing on apocalyptic *rhetoric*, Hoefer
 recovers the concept of apocalypse as a prevalent yet often neglected
 southern idiom. Toward that end, the author brings a fresh perspective
 to works whose form and content we might not otherwise have considered
@@ -30,11 +30,10 @@ a broader interest in southern cultural history. Throughout, Hoefer
 considers an array of extraliterary material and cultural artifacts that
 frequently invoke apocalypse, such as popular and folk music, sermons,
 and political speeches. He also explores various contextual passages,
-including the tragic legacy of lynching reflected in Light in August,
+including the tragic legacy of lynching reflected in *Light in August*,
 the anti-nationalist views of Seventh Day Adventist millennialism that
 influenced Wright, the elusive histories of maroon colonies in Kennan's
-fictional world, and the mobilizing gospel circuits of Bastard Out of
-Carolina. Notably, the epilogue shows how "the discourses of cataclysm
+fictional world, and the mobilizing gospel circuits of *Bastard Out of Carolina*. Notably, the epilogue shows how "the discourses of cataclysm
 and destruction, rebirth and renewal, judgment and justice have been
 indispensable in the rhetoric of postdiluvian New Orleans" (156).
 
@@ -49,7 +48,7 @@ judgment" can also become "a powerful tool of marginalization when it is
 invoked to condemn those who might violate the prevailing social order"
 (3-4).
 
-Light in August uses these opposing terms of apocalypse to interpret the
+*Light in August* uses these opposing terms of apocalypse to interpret the
 story of Joe Christmas, whose ambiguous racial identity threatens the
 southern white community's essentialist view that individuals are either
 black or white. Hoefer reads Christmas' murder as a ritual sacrifice
@@ -61,7 +60,7 @@ of the epistemological limitations of their bivalent worldview,"
 precipitates cataclysm (23-24).
 
 Whereas Faulkner's novel primarily invokes apocalypse as a means of
-condemnation and damnation, Wright's Uncle Tom's Children suggests a
+condemnation and damnation, Wright's *Uncle Tom's Children* suggests a
 more emancipatory application. According to Hoefer, this cycle of short
 stories demonstrates how an apocalyptic sense of time offers "the
 possibility of making sense of black suffering, at least provisionally,
@@ -77,8 +76,7 @@ restructured. These two distinct influences on Wright's worldview merge,
 at moments, into a vision of resistance that is neither fully Marxist
 nor fully apocalyptic.
 
-Part II of the book shifts focus to two late-century novels: Kenan's A
-Visitation of Spirits and Allison's Bastard Out of Carolina. Kenan's
+Part II of the book shifts focus to two late-century novels: Kenan's *A Visitation of Spirits* and Allison's *Bastard Out of Carolina*. Kenan's
 novel is set in the fictional town of Tims Creek, a predominantly black
 community. But while its residents "have been relatively successful in
 their efforts to create a black-controlled space," Hoefer explains,
@@ -113,7 +111,7 @@ change, it does provide characters like Bones with "the spiritual and
 psychological sustenance" they need to endure oppression so that they
 might one day rise above it (152).
 
-One final note: Apocalypse South comes as the first installment of Ohio
+One final note: *Apocalypse South* comes as the first installment of Ohio
 State University Press's critical series, "Literature, Religion, and
 Postsecular Studies." One of the aims of this series is to investigate
 "the emerging identity of postsecular studies" (189). While Hoefer does
