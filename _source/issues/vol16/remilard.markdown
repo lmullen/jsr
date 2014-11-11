@@ -24,8 +24,7 @@ opinion either way. It's all just one, big bundle of cholesterol to me.
 
 If all of this wasn't enough, I hadn't even *heard* of Charles Reagan
 Wilson's *Baptized in Blood* until my third year of graduate school at
-Florida State University. I was enrolled in [Amy Koehlinger's]
-[http://liberalarts.oregonstate.edu/users/amy-koehlinger] seminar on
+Florida State University. I was enrolled in [Amy Koehlinger's](http://liberalarts.oregonstate.edu/users/amy-koehlinger) seminar on
 religion and social change. If my memory is correct, [Kelly Baker][] was
 assigned to begin the class with a general overview of the book. My job
 was to distill her insights into a series of conversation points. That's
@@ -37,7 +36,7 @@ work and had planned to write a dissertation that built upon an essay
 that I wrote on the FSU mascot controversy.[^1] I pitched this to my
 advisor, [John Corrigan][], who expressed a valid concern that such a
 project on its own might not fly in the job market. He wisely suggested
-that I gain a secondary specialty on something "more conventional."
+that I gain a secondary specialty in something "more conventional."
 
 I took his advice (always a good idea), and promptly located the path of
 least resistance. Corrigan was then the editor of the *Journal of
@@ -173,9 +172,9 @@ a museum, or, better yet, euthanized out of compassion for this aged and
 frail idea.
 
 And yet, my crisis of clarity refused to resolve itself...until I
-stumbled upon a book review in the Journal of the American Academy of
-Religion. "Here is a very rare bird indeed," [Ira Chernus said][] of
-Richard Hughes's Myths Americans Live By, "a new book on U.S. civil
+stumbled upon a book review in the *Journal of the American Academy of
+Religion*. "Here is a very rare bird indeed," [Ira Chernus said][] of
+Richard Hughes's *Myths Americans Live By*, "a new book on U.S. civil
 religion, written by a credentialed scholar in the academic study of
 religion. People still write about U.S. civil religion. But the academic
 study of religion largely abandoned this subject years ago, and with
@@ -228,9 +227,9 @@ As the title of my book would indicate, I decided to hold on to civil
 religion, while mixing in the language of "the good society." After much
 deliberation, I was certain that civil religion still has a place in
 scholarly and popular outlets. Put another way, I concluded that civil
-religion was more like Led Zeppelin than Winger. While "Stairway to
+religion is more like Led Zeppelin than Winger. While "Stairway to
 Heaven" might have been overplayed on the radio, when I listen to the
-newest box set, I hear something that still resonates. I was willing to
+newest box set, I hear something that still resonates. I had been willing to
 gamble that civil religion was not a one hit wonder.
 
 To my good fortune, civil religion has seen something of a revival since
@@ -251,7 +250,7 @@ So my book came out at a good time, and captured upon a series of
 intersecting forces that are shaping how historians, religious studies
 scholars, sociologists, and many others are thinking about the South,
 southern religion, and civil religion. Ultimately, and perhaps
-paradoxically, it is my hope that future studies of civil religion leave
+paradoxically, it is my hope that future studies of civil religion will leave
 us with a murkier sense of what civil religion is. That is, I want
 mentions of civil religion to come with a host of qualifiers, taking
 careful note of the person, group, topic, and time. One person or
@@ -260,6 +259,8 @@ dignity of honoring their distinctiveness. In doing this, we will be
 left with an uneven, messy, and unpredictable picture of civil
 religion---one that better captures the uneven, messy, and unpredictable
 realities of America.
+
+**Editors' Note:** Read Edward Ayers's review of *Southern Civil Religions* in the *JSR* [here](http://jsreligion.org/dev/issues/vol14/ayers.html).
 
 [^1]: Arthur J. Remillard, "Holy War on the Football Field: Religion and
     the Florida State University Mascot Controversy," in *Horsehide,
