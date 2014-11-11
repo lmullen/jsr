@@ -3,7 +3,7 @@ author: Arthur Remillard
 author-first: Arthur
 author-last: Remillard
 author-note: |
-    Arthur Remillard is an Associate Professor of Religious Studies at Saint
+    Arthur Remillard is an associate professor of Religious Studies at Saint
     Francis University.
 layout: article
 title: |
