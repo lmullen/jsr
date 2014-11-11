@@ -25,6 +25,8 @@ the *JSR*, we have followed a different protocol for these two reviews.
 The Editor handled all publication decisions regarding these reviews,
 which is typically left to the book review editor's discretion.
 
+---
+
 On Palm Sunday 1964, leaders at the prestigious and prosperous all-white
 Second Presbyterian Church in Memphis, Tennessee turned away a black
 worshipper. When more African Americans returned on subsequent Sundays,
