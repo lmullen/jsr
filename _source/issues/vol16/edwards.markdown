@@ -3,7 +3,7 @@ author: Kari Edwards
 author-first: Kari
 author-last: Edwards
 author-note: |
-    Kari Edwards is a Ph.D. student in history at the University of
+    Kari Edwards is a Ph.D. student in History at the University of
     Mississippi.
 layout: article
 title: |
