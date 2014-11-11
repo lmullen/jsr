@@ -23,6 +23,8 @@ the *JSR*, we have followed a different protocol for these two reviews.
 The Editor handled all publication decisions regarding these reviews,
 which is typically left to the book review editor's discretion.
 
+---
+
 "As a religious history of white Southern Baptists, Methodists and
 Presbyterians during the civil rights era, [this book] examines
 [Mississippi] evangelicals' two great enthusiasms---ardent devotion to
