@@ -6,10 +6,11 @@ author-note: |
     Samuel C. Smith is an associate professor of History at Liberty
     University.
 book-reviewed: |
-    Thomas J. Little, <em>[The Origins of Southern Evangelicalism: Religious
-    Revivalism in the South Carolina Lowcountry, 1670-1760](http://www.sc.edu/uscpress/books/2013/7274.html)</em>. Columbia: 
+    Thomas J. Little, <em>The Origins of Southern Evangelicalism: Religious
+    Revivalism in the South Carolina Lowcountry, 1670-1760</em>. Columbia: 
     University of South Carolina Press, 2013. 280 pp. ISBN
     978-1-611-17274-4.
+book-link: http://www.sc.edu/uscpress/books/2013/7274.html
 layout: article
 title: 'Review: The Origins of Southern Evangelicalism'
 vol: 16
