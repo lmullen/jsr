@@ -13,19 +13,19 @@ vol: 16
 year: 2014
 ...
 
-> Southern gentle lady,\
-> Do not swoon.\
+> Southern gentle lady,
+> Do not swoon.
 > They've just hung a nigger
 
-> In the dark of the moon.\
-> They've hung a black nigger\
-> To a roadside tree\
-> In the dark of the moon\
-> For the world to see\
-> How Dixie protects\
+> In the dark of the moon.
+> They've hung a black nigger
+> To a roadside tree
+> In the dark of the moon
+> For the world to see
+> How Dixie protects
 > Its white womanhood.
 
-> Southern gentle lady,\
+> Southern gentle lady,
 > Be good! Be good!
 
 > --- Langston Hughes, "Three Songs About Lynching," 1936
@@ -81,7 +81,7 @@ Wagner (D-NY) was presented with the enthusiastic endorsement of the
 Senate Committee on the Judiciary: "It is the opinion of the committee
 that the proposed legislation is 'appropriate legislation' to prevent
 the evil of lynching wherever in the United States that evil exists or
-may be committed" and that, in a bid to assuage cries of regional bias,
+may be committed" and that, leaning on the Constitutinal promise of the Fourteenth Amendment,
 "the measure is an aid to the several [i.e., all] States in assuring to
 their citizens the equal protection of the laws, both State and Federal,
 to which all citizens are entitled." Still, the bill again succumbed to
@@ -129,7 +129,7 @@ abroad over the previous decades, traveling throughout Europe, South
 Africa, and India. Despite her best efforts to focus on the
 international ramifications of lynching---on "the prestige that we as a
 nation are losing in the eyes of the world"---at a hearing deliberating
-whether the crime of lynching warranted federal oversight, however, her
+whether the crime of lynching warranted federal oversight, her
 testimony was bookended by subcommittee chairman Frederick Van Nuys
 reminding his colleagues that O'Day was "a native of the Southland."
 "Now, I am from the South," O'Day responded, "but I am not speaking for
@@ -381,7 +381,7 @@ of the South Carolina, North Carolina, Tennessee, and Texas Baptist
 Conventions.[^26] The bold print of denominational representation,
 however, was that the women were "invited . . . <u>not to represent
 their organizations</u> [to the Association], but <u>to represent the
-movement to their organizations</u>."[^27] Una Roberts, president of the
+movement to their organizations</u>."[^27] Una Roberts Lawrence, president of the
 Woman's Missionary Union of the Southern Baptist Convention throughout
 the thirties, put a different spin on the issue of representation when
 she emphasized "one of the assets that comes out of this denominational
@@ -445,7 +445,7 @@ white peers to greater resolve, to build their efforts on a surer
 foundation? Was she subtly registering her concerns about the guarded
 approach the women were taking? While white men and women were lynched
 as well, particularly in the 1880s and 1890s, 89% of persons lynched
-between 1926 and 1937 were Negro, rocking racial communities in very
+between 1926 and 1937 were of African descent, rocking racial communities in very
 different ways.[^36] Nevertheless, it does seem as though Moton shared
 points of commonality with her fellow conferees. In addition to sharing
 a regional identity---the "South of ours that we love so dearly"---Moton
@@ -739,7 +739,7 @@ The Association's disaffection from dominant interpretive traditions was
 also demonstrated by a companion resolution adopted at the first
 conference, in which the women expressed that they "deplore[d] making
 the Birth of a Nation into movietone." D. W. Griffith's 1915 silent film
-based on Thomas Dixon's novel *The Clansman* had, by 1930, become a
+based on Thomas Dixon's novel *The Clansman* had, by by the late 1930s, become a
 candidate for the "talky" revolution. The women of the conference were
 appalled. "Recalling with horror," the telegrammed resolution thundered
 as only a resolution lacking prepositions, definite articles, and verbs
@@ -748,11 +748,11 @@ film with emotional appeal we feel with added effect of human voice
 consequences will be even more tragic and appeal to . . . prevent this
 picture being shown throughout Southern States." As the first film to
 promote the Southern virtues of chivalry---and the racialized
-connotations that it entailed---Birth of a Nation remained the
+connotations that it entailed---*Birth of a Nation* remained the
 quintessential iconography of white supremacy in American popular
 culture through the 1930s, and arguably beyond. The antilynching
-conference's appeal to Alice Ames Winter, president of the Federation of
-Women's Clubs at the time of the resolution, positioned the nascent
+conference's appeal to Alice Ames Winter, former president of the Federation of
+Women's Clubs and current director of community service for the Motion Pictures Producers and Distributors of America at the time of the resolution, positioned the nascent
 Association in no equivocal terms in opposition to the racialized logics
 of Southern chivalry.[^59]
 
