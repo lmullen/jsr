@@ -9,7 +9,7 @@ book-reviewed: |
     Stephen R. Haynes. <em>The Last Segregated Hour: The Memphis Kneel-Ins and
     the Campaign for Southern Church Desegregation</em>. New York: Oxford
     University Press, 2012. 314 pp. 978-0-19-539505-1.
-book-link: http://lsupress.org/books/detail/apocalypse-and-the-millennium-in-the-american-civil-war-era/
+book-link: https://global.oup.com/academic/product/the-last-segregated-hour-9780195395051?cc=us&lang=en&
 layout: article
 title: 'Review: The Last Segregated Hour'
 vol: 16
