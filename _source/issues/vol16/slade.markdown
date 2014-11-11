@@ -24,7 +24,7 @@ of Smith and Emerson's work and offer continued research in the area of
 race and religion in America.
 
 It is worth briefly revisiting Smith and Emerson's work to understand
-the value of this volume. In Divided by Faith, the two sociologists
+the value of this volume. In *Divided by Faith*, the two sociologists
 concluded that African American and white evangelicals are less likely
 to have common ground when it comes to understanding the causes and
 possible solutions to racial inequality than their non-church-going
