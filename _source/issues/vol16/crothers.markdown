@@ -6,9 +6,10 @@ author-note: |
     A. Glenn Crothers is assistant professor of History at the University of
     Louisville and director of research at the Filson Historical Society.
 book-reviewed: |
-    Thomas C. Kennedy. <em>[A History of Southland College: The Society of
-    Friends and Black Education in Arkansas](http://muse.jhu.edu/books/9781610750011)</em>. Fayetteville: The
+    Thomas C. Kennedy. <em>A History of Southland College: The Society of
+    Friends and Black Education in Arkansas</em>. Fayetteville: The
     University of Arkansas Press, 2009. 424 pp. ISBN: 978-1-55-728916-2.
++ book-link: http://muse.jhu.edu/books/9781610750011
 layout: article
 title: |
     Review: A History of Southland College: The Society of Friends and Black
