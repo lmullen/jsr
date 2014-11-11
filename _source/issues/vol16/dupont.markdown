@@ -6,8 +6,8 @@ author-note: |
     Carolyn R. Dupont is an assistant professor of History at Eastern
     Kentucky University.
 book-reviewed: |
-    Stephen R. Haynes. <em>The Last Segregated Hour: The Memphis Kneel-Ins and
-    the Campaign for Southern Church Desegregation</em>. New York: Oxford
+    Stephen R. Haynes. <em>[The Last Segregated Hour: The Memphis Kneel-Ins and
+    the Campaign for Southern Church Desegregation](https://global.oup.com/academic/product/the-last-segregated-hour-9780195395051?cc=us&lang=en&)</em>. New York: Oxford
     University Press, 2012. 314 pp. 978-0-19-539505-1.
 layout: article
 title: 'Review: The Last Segregated Hour'
