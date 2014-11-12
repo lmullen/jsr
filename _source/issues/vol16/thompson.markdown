@@ -49,7 +49,7 @@ by volunteers willing to learn html and other coding processes. In our
 efforts to bring digital content that is open to all, we make one more
 transition with Volume 16 that highlights both dedication and
 technological innovation. *JSR* now resides on a dynamic server with a
-dedicated URL, <JSRelgion.org>.
+dedicated URL, `http://jsrelgion.org`.
 
 The *JSR*'s mission for the past sixteen years has been to create a
 place for important work on understanding the American South's many

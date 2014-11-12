@@ -37,6 +37,11 @@ layout: default
 		{% if page.book-reviewed %}
 			<div class="book-reviewed">
 				<p>{{page.book-reviewed}}</p>
+        {% if page.book-link %}
+          <p>
+            <a href="{{ page.book-link }}">Publisher's website</a>
+          </p>
+        {% endif %}
 			</div>
 		{% endif %}
 

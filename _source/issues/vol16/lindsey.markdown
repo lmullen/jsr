@@ -13,19 +13,19 @@ vol: 16
 year: 2014
 ...
 
-> Southern gentle lady,
-> Do not swoon.
-> They've just hung a nigger
+> Southern gentle lady,<br/>
+> Do not swoon.<br/>
+> They've just hung a nigger<br/>
 
-> In the dark of the moon.
-> They've hung a black nigger
-> To a roadside tree
-> In the dark of the moon
-> For the world to see
-> How Dixie protects
+> In the dark of the moon.<br/>
+> They've hung a black nigger<br/>
+> To a roadside tree<br/>
+> In the dark of the moon<br/>
+> For the world to see<br/>
+> How Dixie protects<br/>
 > Its white womanhood.
 
-> Southern gentle lady,
+> Southern gentle lady,<br/>
 > Be good! Be good!
 
 > --- Langston Hughes, "Three Songs About Lynching," 1936
@@ -68,7 +68,7 @@ of American democracy. The flier's question---"into what kind of
 citizens will they grow up" to be?---was intended to haunt anyone who
 recalled the gruesome photograph of Rubin Stacy.[^1]
 
-[**image should go here or hereabouts**]
+![]({{site.baseurl}}/issues/vol16/lindsey.png)
 
 The N.A.A.C.P. circular was, among other things, a campaign flier
 pitching a direct appeal to the voting public to support federal
