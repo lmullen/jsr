@@ -440,7 +440,7 @@ Carter penned a note in his weekly "Capitol Report" column in the local
 paper saying he would like to be the House sponsor of the bill. "This
 will be a complicated piece of legislation, and might be difficult to
 pass," he warned, "but its passage means a lot to me and I know it does
-to a large number of Rhea Countians."[39] Although Carter eventually
+to a large number of Rhea Countians." Although Carter eventually
 served only as a co-sponsor, he nevertheless had a particular interest
 in the bill from its inception because of its unique link with the
 community he served. "Since I unsuccessfully opposed the repeal of the
@@ -517,7 +517,7 @@ nitpickers. You know, like barefoot Tennesseans."[^43]
 Another senator, James White of Memphis, captured the mood in both the
 Capitol and in Dayton when faced with more national ridicule over the
 state's seemingly endless battle with Darwin. "Gentlemen," he began,
-"today, a half a century after the Scopes Trial, when the eyes of the
+"today, a half century after the Scopes Trial, when the eyes of the
 nation---" He was cut off by a motion to cease his objection, but the
 Speaker of the Senate allowed him to continue. The chamber grew quiet.
 "---when the eyes of the nation were turned toward Tennessee for comic
@@ -606,8 +606,8 @@ the idle speculation they are implied to be in some sermons I've heard."
 The signature at the bottom said simply, "Christian love, Dale Cannon,
 PhD."[^48] It was this final statement about "theory vs. fact" that
 prompted Artist to reply. The premise of the Genesis Bill centered on
-the distinction between theories and facts in the science classroom,
-however Cannon raised an important objection to this seemingly basic
+the distinction between theories and facts in the science classroom;
+however, Cannon raised an important objection to this seemingly basic
 assumption. Was it really accurate to label all stories about the
 origins of life on earth as theories in the scientific sense? Would the
 Genesis account of creation hold up to the same kind of scrutiny that
