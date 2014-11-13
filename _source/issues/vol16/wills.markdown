@@ -8,7 +8,7 @@ author-note: |
 book-reviewed: |
     Wendy Reed and Jennifer Horne, eds. <em>Circling Faith: Southern Women
     on Spirituality</em>. Tuscaloosa: University of Alabama Press, 2012. 230
-    pages. ISBN 978-0-8173-1767-6.
+    pp. ISBN 978-0-8173-1767-6.
 book-link: http://www.uapress.ua.edu/Catalog/ProductSearch.aspx?search=+978-0-8173-1767-6
 layout: article
 title: 'Review: Circling Faith'

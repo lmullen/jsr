@@ -8,7 +8,7 @@ author-note: |
 book-reviewed: |
     Jay Watson. <em>Reading for the Body: The Recalcitrant Materiality of
     Southern Fiction, 1893-1985</em>. Athens and London: University of Georgia
-    Press, 2012. Pp. x + 412. 978-0-8203-4338-9.
+    Press, 2012. x + 412 pp. 978-0-8203-4338-9.
 book-link: http://www.ugapress.org/index.php/books/reading_for_the_body/
 layout: article
 title: 'Review: Reading for the Body'
