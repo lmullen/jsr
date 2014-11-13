@@ -62,7 +62,7 @@ of American democracy. The flier's question---"into what kind of
 citizens will they grow up" to be?---was intended to haunt anyone who
 recalled the gruesome photograph of Rubin Stacy.[^1]
 
-![][]
+![]({{site.baseurl}}/issues/vol16/lindsey.png)
 
 The N.A.A.C.P. circular was, among other things, a campaign flier
 pitching a direct appeal to the voting public to support federal
@@ -1298,4 +1298,3 @@ to studies of the region.
 [^66]: T. [?] S. Richards to Ames, February 11, 1937, ASWPL Papers, Reel
     4.
 
-  []: {{site.baseurl}}/issues/vol16/lindsey.png
