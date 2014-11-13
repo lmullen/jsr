@@ -13,20 +13,14 @@ vol: 16
 year: 2014
 ...
 
-> Southern gentle lady,<br/>
-> Do not swoon.<br/>
-> They've just hung a nigger<br/>
+> Southern gentle lady,<br/> Do not swoon.<br/> They've just hung a
+> nigger<br/>
 
-> In the dark of the moon.<br/>
-> They've hung a black nigger<br/>
-> To a roadside tree<br/>
-> In the dark of the moon<br/>
-> For the world to see<br/>
-> How Dixie protects<br/>
-> Its white womanhood.
+> In the dark of the moon.<br/> They've hung a black nigger<br/> To a
+> roadside tree<br/> In the dark of the moon<br/> For the world to
+> see<br/> How Dixie protects<br/> Its white womanhood.
 
-> Southern gentle lady,<br/>
-> Be good! Be good!
+> Southern gentle lady,<br/> Be good! Be good!
 
 > --- Langston Hughes, "Three Songs About Lynching," 1936
 
@@ -68,7 +62,7 @@ of American democracy. The flier's question---"into what kind of
 citizens will they grow up" to be?---was intended to haunt anyone who
 recalled the gruesome photograph of Rubin Stacy.[^1]
 
-![]({{site.baseurl}}/issues/vol16/lindsey.png)
+![][]
 
 The N.A.A.C.P. circular was, among other things, a campaign flier
 pitching a direct appeal to the voting public to support federal
@@ -81,15 +75,16 @@ Wagner (D-NY) was presented with the enthusiastic endorsement of the
 Senate Committee on the Judiciary: "It is the opinion of the committee
 that the proposed legislation is 'appropriate legislation' to prevent
 the evil of lynching wherever in the United States that evil exists or
-may be committed" and that, leaning on the Constitutinal promise of the Fourteenth Amendment,
-"the measure is an aid to the several [i.e., all] States in assuring to
-their citizens the equal protection of the laws, both State and Federal,
-to which all citizens are entitled." Still, the bill again succumbed to
-filibuster in early May.[^2] It was scheduled to come back to the floor
-the following session and the N.A.A.C.P. was marshaling public support,
-turning attention away from legislative stalemate by placing the burden
-of action---and the spark of inquiry---in the hands of everyday
-Americans: "What, you may ask, can YOU do?"
+may be committed" and that, leaning on the Constitutinal promise of the
+Fourteenth Amendment, "the measure is an aid to the several [i.e., all]
+States in assuring to their citizens the equal protection of the laws,
+both State and Federal, to which all citizens are entitled." Still, the
+bill again succumbed to filibuster in early May.[^2] It was scheduled to
+come back to the floor the following session and the N.A.A.C.P. was
+marshaling public support, turning attention away from legislative
+stalemate by placing the burden of action---and the spark of
+inquiry---in the hands of everyday Americans: "What, you may ask, can
+YOU do?"
 
 The N.A.A.C.P. flier attempted to rouse public attention by framing
 racially-motivated vigilantism as crime threatening white communities as
@@ -129,14 +124,13 @@ abroad over the previous decades, traveling throughout Europe, South
 Africa, and India. Despite her best efforts to focus on the
 international ramifications of lynching---on "the prestige that we as a
 nation are losing in the eyes of the world"---at a hearing deliberating
-whether the crime of lynching warranted federal oversight, her
-testimony was bookended by subcommittee chairman Frederick Van Nuys
-reminding his colleagues that O'Day was "a native of the Southland."
-"Now, I am from the South," O'Day responded, "but I am not speaking for
-myself alone." Pulling out an ASWPL pamphlet, O'Day proceeded to read
-the Association's declaration against lynching as "an indefensible
-crime" that is "not confined to any one section of the United
-States."[^6]
+whether the crime of lynching warranted federal oversight, her testimony
+was bookended by subcommittee chairman Frederick Van Nuys reminding his
+colleagues that O'Day was "a native of the Southland." "Now, I am from
+the South," O'Day responded, "but I am not speaking for myself alone."
+Pulling out an ASWPL pamphlet, O'Day proceeded to read the Association's
+declaration against lynching as "an indefensible crime" that is "not
+confined to any one section of the United States."[^6]
 
 Ironies aside, this episode tells us quite a bit about the political
 world of antilynching activism in the 1930s. The often torrid dalliance
@@ -381,12 +375,12 @@ of the South Carolina, North Carolina, Tennessee, and Texas Baptist
 Conventions.[^26] The bold print of denominational representation,
 however, was that the women were "invited . . . <u>not to represent
 their organizations</u> [to the Association], but <u>to represent the
-movement to their organizations</u>."[^27] Una Roberts Lawrence, president of the
-Woman's Missionary Union of the Southern Baptist Convention throughout
-the thirties, put a different spin on the issue of representation when
-she emphasized "one of the assets that comes out of this denominational
-machinery" is that "an issue like this [lynching] vitalizes
-machinery.[^28]
+movement to their organizations</u>."[^27] Una Roberts Lawrence,
+president of the Woman's Missionary Union of the Southern Baptist
+Convention throughout the thirties, put a different spin on the issue of
+representation when she emphasized "one of the assets that comes out of
+this denominational machinery" is that "an issue like this [lynching]
+vitalizes machinery.[^28]
 
 Despite these intentions, the distinction between representing one's
 organization and representing the Association to one's organization was
@@ -430,29 +424,31 @@ Christ died to establish among his children here."[^34] In the published
 Minutes of this meeting, Moton's oration is followed by a transcription
 of Matthew 7: 24-27 of the Christian scriptures, although it is unclear
 whether Moton quoted this passage at the meeting or whether it was
-subsequently added. The verses read: \> Therefore whosoever heareth
-these sayings of mine, and doeth them, I will liken him unto a wise man,
-which built his house upon a rock: And the rain descended, and the
-floods came, and the winds blew, and beat upon that house; and it fell
-not: for it was founded upon a rock. And every one that heareth these
-sayings of mine, and doeth them not, shall be likened unto a foolish
-man, which built his house upon the sand: And the rain descended, and
-the floods came, and the winds blew, and beat upon that house; and it
-fell: and great was the fall of it.[^35]
+subsequently added. The verses read:
+
+> Therefore whosoever heareth these sayings of mine, and doeth them, I
+> will liken him unto a wise man, which built his house upon a rock: And
+> the rain descended, and the floods came, and the winds blew, and beat
+> upon that house; and it fell not: for it was founded upon a rock. And
+> every one that heareth these sayings of mine, and doeth them not,
+> shall be likened unto a foolish man, which built his house upon the
+> sand: And the rain descended, and the floods came, and the winds blew,
+> and beat upon that house; and it fell: and great was the fall of
+> it.[^35]
 
 Was Moton, a prominent African American woman, urging her predominantly
 white peers to greater resolve, to build their efforts on a surer
 foundation? Was she subtly registering her concerns about the guarded
 approach the women were taking? While white men and women were lynched
 as well, particularly in the 1880s and 1890s, 89% of persons lynched
-between 1926 and 1937 were of African descent, rocking racial communities in very
-different ways.[^36] Nevertheless, it does seem as though Moton shared
-points of commonality with her fellow conferees. In addition to sharing
-a regional identity---the "South of ours that we love so dearly"---Moton
-also grounds the committee's efforts in a shared narrative history,
-presuming that the passing reference to Protestant logics of
-redemption---"a life that Jesus Christ died to establish"---would be
-picked up by those who had ears to hear.[^37]
+between 1926 and 1937 were of African descent, rocking racial
+communities in very different ways.[^36] Nevertheless, it does seem as
+though Moton shared points of commonality with her fellow conferees. In
+addition to sharing a regional identity---the "South of ours that we
+love so dearly"---Moton also grounds the committee's efforts in a shared
+narrative history, presuming that the passing reference to Protestant
+logics of redemption---"a life that Jesus Christ died to
+establish"---would be picked up by those who had ears to hear.[^37]
 
 In addition to her hermeneutical contribution, Moton's presence at the
 afternoon session is important to note because it signifies the
@@ -739,22 +735,24 @@ The Association's disaffection from dominant interpretive traditions was
 also demonstrated by a companion resolution adopted at the first
 conference, in which the women expressed that they "deplore[d] making
 the Birth of a Nation into movietone." D. W. Griffith's 1915 silent film
-based on Thomas Dixon's novel *The Clansman* had, by by the late 1930s, become a
-candidate for the "talky" revolution. The women of the conference were
-appalled. "Recalling with horror," the telegrammed resolution thundered
-as only a resolution lacking prepositions, definite articles, and verbs
-can thunder, "increase mob violence follwing [*sic*] showing as silent
-film with emotional appeal we feel with added effect of human voice
-consequences will be even more tragic and appeal to . . . prevent this
-picture being shown throughout Southern States." As the first film to
-promote the Southern virtues of chivalry---and the racialized
-connotations that it entailed---*Birth of a Nation* remained the
-quintessential iconography of white supremacy in American popular
+based on Thomas Dixon's novel *The Clansman* had, by by the late 1930s,
+become a candidate for the "talky" revolution. The women of the
+conference were appalled. "Recalling with horror," the telegrammed
+resolution thundered as only a resolution lacking prepositions, definite
+articles, and verbs can thunder, "increase mob violence follwing [*sic*]
+showing as silent film with emotional appeal we feel with added effect
+of human voice consequences will be even more tragic and appeal to . . .
+prevent this picture being shown throughout Southern States." As the
+first film to promote the Southern virtues of chivalry---and the
+racialized connotations that it entailed---*Birth of a Nation* remained
+the quintessential iconography of white supremacy in American popular
 culture through the 1930s, and arguably beyond. The antilynching
-conference's appeal to Alice Ames Winter, former president of the Federation of
-Women's Clubs and current director of community service for the Motion Pictures Producers and Distributors of America at the time of the resolution, positioned the nascent
-Association in no equivocal terms in opposition to the racialized logics
-of Southern chivalry.[^59]
+conference's appeal to Alice Ames Winter, former president of the
+Federation of Women's Clubs and current director of community service
+for the Motion Pictures Producers and Distributors of America at the
+time of the resolution, positioned the nascent Association in no
+equivocal terms in opposition to the racialized logics of Southern
+chivalry.[^59]
 
 Whereas whiteness was debated in the discourse of chivalry and the
 displaced arena of Fox Movietone, "the Negro" was rendered a spectacle
@@ -1299,3 +1297,5 @@ to studies of the region.
 
 [^66]: T. [?] S. Richards to Ames, February 11, 1937, ASWPL Papers, Reel
     4.
+
+  []: {{site.baseurl}}/issues/vol16/lindsey.png
