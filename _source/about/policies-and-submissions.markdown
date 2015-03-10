@@ -105,21 +105,6 @@ all submitted materials are clear of copyright claims or that they
 obtain permission as required by law. *JSR* reserves copyright
 privileges for all materials published.
 
-### Accepted Manuscripts
-
-Acceptance: If a submission is accepted, the author will sign a contract
-with *JSR* assigning copyright to the *Journal of Southern Religion*.
-After making corrections and revisions, the author should submit the
-accepted manuscript via email to the editors as a Microsoft Word file
-(.doc or .docx) or as valid HTML. Please include at the top of the first
-page of the manuscript, the title, your name, your current academic rank
-(or equivalent), and your institutional affiliation. The revised
-manuscript will be copyedited and uploaded to the *JSR* site for the
-succeeding annual issue, usually published in the fall. At the present
-time, *JSR* does not provide authors with offprints of published
-materials, but we will notify you by email when your manuscript is
-published online.
-
 Solicited essays should conform to the same criteria but are not
 restricted by word length requirements.
 
