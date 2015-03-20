@@ -4,7 +4,7 @@ author-first: 'A. Glenn'
 author-last: Crothers
 author-note: |
     A. Glenn Crothers is an associate professor of history at the University
-    of Louisville and director of research at the Filson Historical Society.
+    of Louisville.
 book-reviewed: |
     Ben Wright and Zachary W. Dresser, eds. <em>Apocalypse and the Millennium
     in the American Civil War Era</em>. Baton Rouge: Louisiana State University,

@@ -3,8 +3,8 @@ author: 'A. Glenn Crothers'
 author-first: 'A. Glenn'
 author-last: Crothers
 author-note: |
-    A. Glenn Crothers is assistant professor of History at the University of
-    Louisville and director of research at the Filson Historical Society.
+    A. Glenn Crothers is an associate professor of history at the University of
+    Louisville.
 book-reviewed: |
     Thomas C. Kennedy. <em>A History of Southland College: The Society of
     Friends and Black Education in Arkansas</em>. Fayetteville: The
