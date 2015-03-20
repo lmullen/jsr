@@ -96,8 +96,7 @@ for publication elsewhere while under review by *JSR* editors.
 
 All submissions should be accompanied by the author's name, current
 institutional affiliation, postal and e-mail addresses. In most cases,
-authors will be notified within ninety days whether or not their 
-submission has been accepted.
+authors will be notified within ninety days of the editors' decision.
 
 Electronic publication allows for the addition of images and other
 visual or auditory aids, and the editors encourage authors to include
@@ -105,21 +104,6 @@ such with articles when appropriate. Authors should make certain that
 all submitted materials are clear of copyright claims or that they
 obtain permission as required by law. *JSR* reserves copyright
 privileges for all materials published.
-
-### Accepted Manuscripts
-
-Acceptance: If a submission is accepted, the author will sign a contract
-with *JSR* assigning copyright to the *Journal of Southern Religion*.
-After making corrections and revisions, the author should submit the
-accepted manuscript via email to the editors as a Microsoft Word file
-(.doc or .docx) or as valid HTML. Please include at the top of the first
-page of the manuscript, the title, your name, your current academic rank
-(or equivalent), and your institutional affiliation. The revised
-manuscript will be copyedited and uploaded to the *JSR* site for the
-succeeding annual issue, usually published in the fall. At the present
-time, *JSR* does not provide authors with offprints of published
-materials, but we will notify you by email when your manuscript is
-published online.
 
 Solicited essays should conform to the same criteria but are not
 restricted by word length requirements.
@@ -138,7 +122,7 @@ scholarly talk" that assess where we are, where we are going, and how we
 might best reshape our work.
 
 Book reviews should be between 500 and 1,000 words, but we have no
-formal limit. Scholars interested in submitting book reviews to JSR
+formal limit. Scholars interested in submitting book reviews to *JSR*
 should contact the book review editor Carolyn Dupont.
 
 -	Carolyn Dupont, [carolyn.dupont@eku.edu](mailto:carolyn.dupont@eku.edu)
@@ -204,7 +188,7 @@ Questions should be directed to the book review editor.
 
 Professional ethics dictate that a scholar can publish only one review
 of a book. *Journal of Southern Religion* reviews count as that one
-review. As indicated above, Journal reviewers have permission to
+review. As indicated above, journal reviewers have permission to
 republish their reviews provided that proper credit is given to the
 *Journal of Southern Religion*, but should not agree to write a separate
 review of the same work for a print journal.
