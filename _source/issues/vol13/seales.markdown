@@ -59,7 +59,7 @@ bloomed most furiously in the New South, creating the Bible Belt in a
 place and time when the region was most deeply affected by
 industrialization and urbanization."[^5]
 
-This essay uses the material history of indoor baptisteries in the
+This article uses the material history of indoor baptisteries in the
 American South to blur categorical boundaries between old and new,
 primitive and modern, and religious and secular by showing how seemingly
 "old-time" southern Baptists embraced what they considered the modern
@@ -74,7 +74,7 @@ and continued to grow stronger in New South "city churches" like FBC
 Sanford that sprung up in manufacturing towns along railroad lines
 crisscrossing the southern landscape.
 
-This article addresses five interrelated themes concerning the promotion
+The article addresses five interrelated themes concerning the promotion
 and construction of indoor baptisteries in the American South: the
 juxtaposition of primitive baptism and the modern world, the
 relationship between church authority and racial segregation, the
@@ -184,7 +184,7 @@ practice of Baptism by immersion, and it connected the nineteenth or
 twentieth century Baptist congregation to what they considered the true
 New Testament church of early Christianity. In that way, the practice
 transcended time and space and transported the believer back to the very
-moment when Paul baptized Jesus. Baptists like Hinton ladled the
+moment when Paul was immersed. Baptists like Hinton ladled the
 baptismal river and poured it into the city church.
 
 ### Church Authority and Racial Segregation ###
