@@ -6,7 +6,7 @@ author-note: |
 	Michael D. Hammond is Associate Professor of History at Southeastern University, Lakeland, Florida.
 book-reviewed: |
 	Steven P. Miller. <em>The Age of Evangelicalism: America’s Born-Again Years</em>. New York: Oxford University Press, 2014. 221 pp. 978-0-19-977795-2
-book-link: https://global.oup.com/academic/product/the-age-of-evangelicalism-9780199777952?cc=us&lang=en&
+book-link: [Publisher's Website](https://global.oup.com/academic/product/the-age-of-evangelicalism-9780199777952?cc=us&lang=en&)
 layout: article
 title: 'Review: The Age of Evangelicalism'
 vol: 17
