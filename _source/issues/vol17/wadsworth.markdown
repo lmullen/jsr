@@ -5,7 +5,7 @@ author-last: Slade
 author-note: |
 	Peter Slade is Professor and Chair of Religion at Ashland University.
 book-reviewed: |
-	Wadsworth, Nancy D. Ambivalent Miracles: Evangelicals and the Politics of Racial Healing. Race, Ethnicity, and Politics. Charlottesville, VA: University of Virginia Press, 2014. 320. 978-0813935317
+	Wadsworth, Nancy D. <em>Ambivalent Miracles: Evangelicals and the Politics of Racial Healing. Race, Ethnicity, and Politics</em>. Charlottesville, VA: University of Virginia Press, 2014. 320. 978-0813935317
 book-link: [Publisher's Website](http://books.upress.virginia.edu/detail%2Fbooks%2Fgroup-4608.xml)
 layout: article
 title: 'Review: Ambivalent Miracles'
