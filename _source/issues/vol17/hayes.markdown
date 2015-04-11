@@ -1,0 +1,29 @@
+---
+author: Patrick J. Hayes
+author-first: Patrick J.
+author-last: Hayes
+author-note: |
+	Patrick J. Hayes is Archivist of the Baltimore Province of the Redemptorists in Brooklyn, New York
+book-reviewed: |
+	Sally Dwyer-McNulty. <em>Common Threads: A Cultural History of Clothing in American Catholicism<em/>. Chapel Hill: University of North Carolina Press, 2014. xiii + 257 pp., ISBN: 978-1-4696-1409-0
+book-link: [Publisher's Website](http://uncpress.unc.edu/books/T-7971.html)
+layout: article
+title: 'Review: Common Threads'
+vol: 17
+year: 2015
+...
+
+Catholics, especially, have long displayed a distinct investment in cultural and iconic forms of dress. To explain clothing’s role in the American Catholic context, Sally Dwyer McNulty offers *Common Threads:  A Cultural History of Clothing in American Catholicism*. In this fresh and thought-provoking book, the author traces the evolution of clothing for priests, nuns and schoolchildren. Catholic’s distinctive clothing served as a source of unity and identity but also frequently became the locus of contention in the church’s larger struggles.
+
+In the first chapter, Dwyer-McNulty takes up the importance of clerical and liturgical garments between the 1830s and 1930s, driving home the point that the priest had to be nattily attired without showing ostentation. How they pulled it off was a haphazard affair. Street clothes tended to blend in with everyone else and invited “disguise, vanity, and slovenliness” (23). Employing civilian garments was a deliberate strategy, she argues, to assimilate into the wider culture and to serve as a tonic against nativist reprisals. The Plenary Councils of Baltimore in 1866 and 1884 established regulations on clerical dress: cassocks were to be worn both at home and in church, and the Roman collar and long black coat in public (29). By the turn of the century, and fortified by their ordinaries’ preferences for washed silk, magenta piping, and top hats, most seminarians reconciled themselves to wearing for the rest of their lives the staid black suit and white collar, which “bestowed professional privileges and confirmed the legitimacy of the priestly service” (41). 
+
+Chapter Two highlights the centrality of the habit to the identities of nineteenth-century women religious. Despite the wishes of local clergy that they should modify or adapt to the needs of the age, sisters often resisted both clerical and cultural whims. For example, nuns who instructed public school children in their habits rankled some in these communities who regarded this garb as tools for proselytization. When officials, with the backing of some priests, asked the sisters to wear something other than their usual habits, the sisters refused. The author suggests that the sisters could be considered “ultramontanists” over against “Americanist” priests who sought to make accommodations with local school boards (70-77). However, such terms do not adequately describe the tussle and in fact can be confusing for readers unfamiliar with them. 
+
+While the author presents some interesting data on the economics of production and sales of Catholic school uniforms, she draws some tendentious conclusions from uniformed children. What proof do we have that “children in Catholic asylums and industrial schools wore uniforms as a mark of undesirable distinction” (128)? Further, how can we affirm that “uniforms drew children and teenagers closer to the religious and the bureaucratic structuring of the church” (128)? The author asserts that by wearing a uniform female teens received “a taste of the routine and sacrifice that came with religious life” (128) and yet no evidence is advanced to support this.
+
+Dwyer-McNulty examines the ecclesiological concept of the mystical body of Christ in relation to the use of apparel in shaping Catholic culture. The idea of the mystical body had been ascendant throughout the 1930s, but gained papal ratification in Pope Pius XII’s *Mystici Corporis Christi* in 1943. Dwyer-McNulty asserts that a church understood as transcending time and place, culture and class, but uniform in its thought and attire, could be a kind of army for Christ and nation. Appearing to be in lock step with their visible leaders—priests and nuns—a message was “conveyed to American society, [viz.,] the willingness of Catholic youth to submit to authority and wear their religious priorities proudly” (136). 
+
+The best chapter relates the ambivalence and experimentation with the nun’s habit in the wake of the Second Vatican Council. Spurred on by Cardinal Josef Suenens of Belgium, particularly through his book *The Nun in the World*, as well as the rise of the Sister Formation Movement, congregations of women religious worldwide attempted to modernize their manner of life while still maintaining a unique identity, often without the habit. Relaxed rules for clergy dress also fomented some confusion.  
+
+It is difficult to get a sense of the importance of clothing in other parts of the nation because Dwyer-McNulty confines her research mainly to Philadelphia and New York, with occasional nods to Chicago. One wonders, for instance, whether the habits of the Black Catholic sisters who comprised the Oblates of Divine Providence made any difference to their reception in southern towns where they taught.  Neither does she discuss how things like mourning dress, which has been given considerable treatment in Victorian studies, helped to shape a Catholic sensibility of fashion on occasions that are common to all. Still, this is an important and novel treatment that takes up an aspect of Catholic life with clear significance for many generations of the faithful.  Indeed, in the words of the nineteenth-century pastor William Henry Foote, “A church-going people are a dress-loving people.”
+
