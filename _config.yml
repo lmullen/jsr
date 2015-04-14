@@ -23,4 +23,4 @@ destination: ./public
 plugins: ./_plugins
 permalink: /:categories/:title.html
 
-baseurl: http://jsreligion.org
+# baseurl: http://jsreligion.org

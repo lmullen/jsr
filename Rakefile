@@ -28,7 +28,7 @@ end
 
 task :production_gen do
 	puts 'Generating the production site.'
-  sh 'jekyll build --config _config.yml'
+  sh 'jekyll build --config _config.yml,_config-production.yml'
 end
 
 task :production_deploy do
@@ -38,7 +38,7 @@ end
 
 desc 'preview site locally'
 task :preview do
-	sh 'jekyll --auto --server --base-url / --url http://localhost:5000'
+  sh 'jekyll serve --watch --config _config.yml,_config-preview.yml'
 end
 
 desc 'preview site using POW'
