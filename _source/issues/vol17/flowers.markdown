@@ -2,7 +2,7 @@
 author: Elizabeth Flowers
 author-first: Elizabeth
 author-last: Flowers
-author-note: |
+author-note:|
 	Elizabeth Flowers is Associate Professor of Religion at Texas Christian University.
 book-reviewed: |
      Randall Balmer. <em>Redeemer: The Life of Jimmy Carter</em>. New York: Basic Books, 2014. 273 pp. ISBN 978-0-465-02958-7
