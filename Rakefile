@@ -38,7 +38,7 @@ end
 
 desc 'preview site locally'
 task :preview do
-  sh 'jekyll serve --watch --config _config.yml,_config-preview.yml'
+  sh 'jekyll serve --watch --config _config.yml'
 end
 
 desc 'preview site using POW'
