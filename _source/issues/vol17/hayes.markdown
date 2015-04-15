@@ -7,12 +7,11 @@ book-reviewed: "Sally Dwyer-McNulty. <em>Common Threads: A Cultural History of C
 book-link: "<a href='http://uncpress.unc.edu/books/T-7971.html'>Publisher's Website</a>"
 layout: article
 title: 'Review: Common Threads'
-book-reviewed: 
 vol: 17
 year: 2015
 ...
 
-Catholics, especially, have long displayed a distinct investment in cultural and iconic forms of dress. To explain clothing’s role in the American Catholic context, Sally Dwyer McNulty offers Common Threads:  A Cultural History of Clothing in American Catholicism. In this fresh and thought-provoking book, the author traces the evolution of clothing for priests, nuns and schoolchildren. Catholics distinctive clothing served as a source of unity and identity but also frequently became the locus of contention in the church’s larger struggles.
+Catholics, especially, have long displayed a distinct investment in cultural and iconic forms of dress. To explain clothing’s role in the American Catholic context, Sally Dwyer McNulty offers *Common Threads:  A Cultural History of Clothing in American Catholicism*. In this fresh and thought-provoking book, the author traces the evolution of clothing for priests, nuns and schoolchildren. Catholics distinctive clothing served as a source of unity and identity but also frequently became the locus of contention in the church’s larger struggles.
 
 In the first chapter, Dwyer-McNulty takes up the importance of clerical and liturgical garments between the 1830s and 1930s, driving home the point that the priest had to be nattily attired without showing ostentation. How they pulled it off was a haphazard affair. Street clothes tended to blend in with everyone else and invited “disguise, vanity, and slovenliness” (23). Employing civilian garments was a deliberate strategy, she argues, to assimilate into the wider culture and to serve as a tonic against nativist reprisals. The Plenary Councils of Baltimore in 1866 and 1884 established regulations on clerical dress: cassocks were to be worn both at home and in church, and the Roman collar and long black coat in public (29). By the turn of the century, and fortified by their ordinaries’ preferences for washed silk, magenta piping, and top hats, most seminarians reconciled themselves to wearing for the rest of their lives the staid black suit and white collar, which “bestowed professional privileges and confirmed the legitimacy of the priestly service” (41). 
 
