@@ -3,7 +3,7 @@ author: Michael D. Hammond
 author-first: Michael D
 author-last: Hammond
 author note: "Michael D. Hammond is Associate Professor of history and chair of the Deparment of Historical, Legal, and Leadership Studies at Southeastern University.
-book reviewed: "Steven P. Miller. The Age of Evangelicalism: America’s Born-Again Years. New York: Oxford University Press, 2014. 221 pp. 978-0-19-977795-2"
+book reviewed: "Steven P. Miller. The Age of Evangelicalism: America’s Born-Again Years. New York: Oxford University Press, 2014. 221 pp. 978-0-19-977795-2."
  book link: "<a href='https://global.oup.com/academic/product/the-age-of-evangelicalism-9780199777952?cc=us&lang=en&'>Publisher's Website</a>"
  layout: article
  title: 'Review: The Age of Evangelicalism'
@@ -11,7 +11,7 @@ book reviewed: "Steven P. Miller. The Age of Evangelicalism: America’s Born-Ag
  year: 2015
  ...
 
-In The Age of Evangelicalism: America’s Born-Again Years, Steven P. Miller rejects the idea that evangelicals comprised a subculture of beleaguered outsiders knocking on the door of a secularized culture. He also argues with observers who wish to write off evangelical Christians as insignificant. Rather than measuring evangelical Christianity by its size, volume, or reach, Miller turns to a narrative model that examines the chronology of American history from the 1970s to the present as an age of evangelical influence. The result offers a more extensive interpretation of this phenomenon, as well as a clear argument that recent changes in evangelical tone and influence may mark the setting of that age. 
+In *The Age of Evangelicalism: America’s Born-Again Years*, Steven P. Miller rejects the idea that evangelicals comprised a subculture of beleaguered outsiders knocking on the door of a secularized culture. He also argues with observers who wish to write off evangelical Christians as insignificant. Rather than measuring evangelical Christianity by its size, volume, or reach, Miller turns to a narrative model that examines the chronology of American history from the 1970s to the present as an age of evangelical influence. The result offers a more extensive interpretation of this phenomenon, as well as a clear argument that recent changes in evangelical tone and influence may mark the setting of that age. 
 
 Miller proposes that this age of evangelicalism was not merely the creation of a few religious leaders intent on evangelistic, political, or cultural outcomes. Rather, opponents of evangelicalism shaped this age as much as champions of the movement. Thus, television producer Norman Lear’s People for the American Way drove its growth as much as Baptist televangelist Jerry Falwell. This approach broadens the interpretation and grants a place of influence for the evangelical left and, indeed, opponents of evangelicalism. For this reason, Miller’s book will appeal not only to historians, but also to students of politics, religious studies, and popular culture. It is an ideal text for understanding the 1970s to the present. 
 
