@@ -4,14 +4,12 @@ author-first: Kate
 author-last: Bowler
 author-note: "Kate Bowler is Assistant Professor of the History of Christianity in North America at Duke Divinity School."
 book-reviewed: "Amy DeRogatis. <em>Saving Sex:  Sexuality and Salvation in American Evangelicalism</em>. New York: Oxford University Press, 2014. 224 pp. ISBN 978-019994225-1."
-book-link: "<a href='http://www.oupcanada.com/catalog/9780199942251.html'> Publisher's Website </a>"
+book-link: "<a href='http://www.oupcanada.com/catalog/9780199942251.html'>Publisher's Website </a>"
 layout: article
 title: 'Review: Saving Sex'
 vol: 17
 year: 2015
 ...
-
-Amy DeRogatis. *Saving Sex:  Sexuality and Salvation in American Evangelicalism*. New York: Oxford University Press, 2014. 224 pp. ISBN 978-019994225-1. 
 
 At last, someone has put the tired myth of prudish and sex-shy evangelicals to bed. Amy DeRogatis's highly readable book introduces readers to the evangelical world of purity balls, virginity pledges, sex manuals and megachurch "sexperiments," and the resounding conclusion that "evangelicals cannot stop talking about sex." Rather than being tight-lipped, evangelicals produce an almost endless stream of theological teaching on the hazards and joys of sexuality in the Christian life.
 
