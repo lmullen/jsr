@@ -1,17 +1,15 @@
 ---
 author: Michael D. Hammond
-author-first: Michael D.
+author-first: Michael D
 author-last: Hammond
-author-note: |
-	Michael D. Hammond is Associate Professor of History at Southeastern University, Lakeland, Florida.
-book-reviewed: |
-	Steven P. Miller. <em>The Age of Evangelicalism: America’s Born-Again Years</em>. New York: Oxford University Press, 2014. 221 pp. 978-0-19-977795-2
-book-link: [Publisher's Website](https://global.oup.com/academic/product/the-age-of-evangelicalism-9780199777952?cc=us&lang=en&)
-layout: article
-title: 'Review: The Age of Evangelicalism'
-vol: 17
-year: 2015
-...
+author note: "Michael D. Hammond is Associate Professor of history and chair of the Deparment of Historical, Legal, and Leadership Studies at Southeastern University.
+book reviewed: "Steven P. Miller. The Age of Evangelicalism: America’s Born-Again Years. New York: Oxford University Press, 2014. 221 pp. 978-0-19-977795-2."
+ book link: "<a href='https://global.oup.com/academic/product/the-age-of-evangelicalism-9780199777952?cc=us&lang=en&'>Publisher's Website</a>"
+ layout: article
+ title: 'Review: The Age of Evangelicalism'
+ vol: 17
+ year: 2015
+ ...
 
 In *The Age of Evangelicalism: America’s Born-Again Years*, Steven P. Miller rejects the idea that evangelicals comprised a subculture of beleaguered outsiders knocking on the door of a secularized culture. He also argues with observers who wish to write off evangelical Christians as insignificant. Rather than measuring evangelical Christianity by its size, volume, or reach, Miller turns to a narrative model that examines the chronology of American history from the 1970s to the present as an age of evangelical influence. The result offers a more extensive interpretation of this phenomenon, as well as a clear argument that recent changes in evangelical tone and influence may mark the setting of that age. 
 
@@ -21,4 +19,4 @@ Miller’s well-written and extensively researched narrative demonstrates the ce
 
 Miller’s detailed look at the evangelical left as well as the religious right supports his contention that more than one evangelical presence shaped American life during this period. As Americans accepted the post-Watergate suggestion that religion play a larger role in public life, debates over the proper amount of faith sustained the influence of evangelicalism in politics, commerce, and communications. Miller chronicles two major crises for evangelicalism: one just after the election of Ronald Reagan in the early 1980s, and a second in 2005, after George W. Bush’s reelection. In each moment, the growing power and influence of the evangelical conservative movement led its opponents to call for reforms. Rarely, however, did critics call for a complete withdrawal of religious themes from public discourse. 
 
-Though the religious right won most of its battles with the evangelical left, America had already accepted the proposition that evangelicalism would shape the culture. Mitt Romney and Barack Obama’s lack of evangelical credentials might suggest that the 2012 election marked an end to the age of evangelicalism, though Miller leaves this question open. Tellingly, the strongest grassroots opponents of Barack Obama’s first term came not from evangelical social conservatives, but from the libertarian-tinged Tea Party movement. If the age of evangelicalism is over, scholars will have to account for the sustaining power of religious commerce and the resurgence of the evangelical left. As Miller makes clear, the age of evangelicalism was broader and deeper than the electoral politics of religious conservatives. Perhaps evangelicalism will shift, enabling conservative Protestants to find an outlet for social involvement not aimed at the White House.
+Though the religious right won most of its battles with the evangelical left, America had already accepted the proposition that evangelicalism would shape the culture. Mitt Romney and Barack Obama’s lack of evangelical credentials might suggest that the 2012 election marked an end to the age of evangelicalism, though Miller leaves this question open. Tellingly, the strongest grassroots opponents of Barack Obama’s first term came not from evangelical social conservatives, but from the libertarian-tinged Tea Party movement. If the age of evangelicalism is over, scholars will have to account for the sustaining power of religious commerce and the resurgence of the evangelical left. As Miller makes clear, the age of evangelicalism was broader and deeper than the electoral politics of religious conservatives. Perhaps evangelicalism will shift, enabling conservative Protestants to find an outlet for social involvement not aimed at the White House. 

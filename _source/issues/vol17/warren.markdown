@@ -2,11 +2,9 @@
 author: Jamie Warren
 author-first: Jamie
 author-last: Warren
-author-note: |
-	Jamie Warren is Assistant Professor of History at Borough of Manhattan Community College.
-book-reviewed: |
-	Kate Sweeney. <em>American Afterlife: Encounters in the Customs of American Mourning</em>. Athens: University of Georgia Press, 2014. xiv + 216 pp. 978-0-8203-4600-7
-book-link: [Publisher's Website](http://www.ugapress.org/index.php/books/american_afterlife)
+author-note: "Jamie Warren is Assistant Professor of History at Borough of Manhattan Community College."
+book-reviewed: "Kate Sweeney. <em>American Afterlife: Encounters in the Customs of American Mourning</em>. Athens: University of Georgia Press, 2014. xiv + 216 pp. 978-0-8203-4600-7."
+book-link: "<a href='http://www.ugapress.org/index.php/books/american_afterlife'>Publisher's Website </a>"
 layout: article
 title: 'Review: American Afterlife'
 vol: 17
