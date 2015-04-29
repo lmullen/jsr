@@ -2,11 +2,9 @@
 author: Stephen R. Haynes
 author-first: Stephen R.
 author-last: Haynes
-author-note: |
-    Stephen R. Haynes is a Professor of Religious Studies at Rhodes College.
+author-note: "Stephen R. Haynes is a Professor of Religious Studies at Rhodes College."
 layout: article
-title: |
-    Distinction and Dispersal: Folk Theology and the Maintenance of White Supremacy
+title: "Distinction and Dispersal: Folk Theology and the Maintenance of White Supremacy"
 vol: 17
 year: 2015
 ...
@@ -284,6 +282,3 @@ Without doubt the religious argument for segregation was more tentative and mute
 In these scholars’ defense, it should be observed that even Christians who were fighting battles over the Bible at the time tended to misunderstand the way Genesis 9–11 functioned for segregationists. Arkansan Dale Cowling, for example, complained that segregationists were “greatly mistaken in their efforts to prove that God has marked the Negro race and relegated it to the role of servant.” Mississippian Clyde Gordon wrote in a similar vein, condemning the idea that “Noah placed a curse on Ham and he became black.” However, few if any of the segregationist Christians whose writings are extant, even among non-elite folk theologians, actually made such claims (See Chappell, *A Stone of Hope*, 116). Chappell acknowledges as much when he writes that “antisegregationists and moderates refer to Bible stories like the curse on Ham more often than prominent segregationists do” (ibid).
 
 [^61]: Chappell, A Stone of Hope, 115, 117, 126, 250n20.
-
-
-
