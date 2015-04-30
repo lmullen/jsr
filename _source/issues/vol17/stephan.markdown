@@ -1,5 +1,5 @@
 ---
-author: Scott Stehan
+author: Scott Stephan
 author-first: Scott
 author-last: Stephan
 author-note: "Scott Stephan is Associate Professor of History at Ball State University."
