@@ -1,5 +1,5 @@
 ---
-author-name: Alyssa N. Gerhardt
+author: Alyssa N. Gerhardt
 author-first: Alyssa N.
 author-last: Gerhardt
 author-note: "Alyssa N. Gerhardt is a PhD student in the history department at Baylor University."
