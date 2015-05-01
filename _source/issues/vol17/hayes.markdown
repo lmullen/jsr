@@ -1,5 +1,5 @@
 ---
-author-name: Patrick Hayes
+author: Patrick Hayes
 author-first: Patrick
 author-last: Hayes
 author-note: "Patrick J. Hayes is Archivist of the Baltimore Province of the Redemptorists in Brooklyn, New York."
