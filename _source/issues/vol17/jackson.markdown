@@ -1,5 +1,5 @@
 ---
-author-name: Patrick Jackson
+author: Patrick Jackson
 author-first: Patrick
 author-last: Jackson
 author-note: "Patrick Jackson is Visiting Professor of Religious Studies and History at Allegheny College."
