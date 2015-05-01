@@ -1,5 +1,5 @@
 ---
-author-name: Andrea McComb Sanchez
+author: Andrea McComb Sanchez
 author-first: Andrea McComb
 author-last: Sanchez
 author-note: "Andrea McComb Sanchez is an assistant professor of Religious Studies at the University of Arizona."
