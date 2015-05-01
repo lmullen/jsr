@@ -2,7 +2,7 @@
 author: Michael D. Hammond
 author-first: Michael D.
 author-last: Hammond
-author note: "Michael D. Hammond is Associate Professor of history and chair of the Deparment of Historical, Legal, and Leadership Studies at Southeastern University."
+author-note: "Michael D. Hammond is Associate Professor of history and chair of the Deparment of Historical, Legal, and Leadership Studies at Southeastern University."
 book reviewed: "Steven P. Miller. The Age of Evangelicalism: America’s Born-Again Years. New York: Oxford University Press, 2014. 221 pp. 978-0-19-977795-2."
 book link: "<a href='https://global.oup.com/academic/product/the-age-of-evangelicalism-9780199777952?cc=us&lang=en&'>Publisher's Website</a>"
  layout: article
