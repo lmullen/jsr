@@ -1,5 +1,5 @@
 ---
-author-name: Joseph T. Reiff
+author: Joseph T. Reiff
 author-first: Joseph T.
 author-last: Reiff
 author-note: "Joseph T. Reiff is Professor of Religion at Emory & Henry College."
