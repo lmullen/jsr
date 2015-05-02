@@ -5,11 +5,11 @@ author-last: Hammond
 author-note: "Michael D. Hammond is Associate Professor of history and chair of the Deparment of Historical, Legal, and Leadership Studies at Southeastern University."
 book-reviewed: "Steven P. Miller. <em>The Age of Evangelicalism: America’s Born-Again Years</em>. New York: Oxford University Press, 2014. 221 pp. 978-0-19-977795-2."
 book-link: "<a href='https://global.oup.com/academic/product/the-age-of-evangelicalism-9780199777952?cc=us&lang=en&'>Publisher's Website</a>"
- layout: article
- title: 'Review: The Age of Evangelicalism'
- vol: 17
- year: 2015
- ...
+layout: article
+title: 'Review: The Age of Evangelicalism'
+vol: 17
+year: 2015
+...
 
 In *The Age of Evangelicalism: America’s Born-Again Years*, Steven P. Miller rejects the idea that evangelicals comprised a subculture of beleaguered outsiders knocking on the door of a secularized culture. He also argues with observers who wish to write off evangelical Christians as insignificant. Rather than measuring evangelical Christianity by its size, volume, or reach, Miller turns to a narrative model that examines the chronology of American history from the 1970s to the present as an age of evangelical influence. The result offers a more extensive interpretation of this phenomenon, as well as a clear argument that recent changes in evangelical tone and influence may mark the setting of that age. 
 
