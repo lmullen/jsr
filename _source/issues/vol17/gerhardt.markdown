@@ -3,7 +3,7 @@ author: Alyssa N. Gerhardt
 author-first: Alyssa N.
 author-last: Gerhardt
 author-note: "Alyssa N. Gerhardt is a PhD student in the History department at Baylor University."
-book-reviewed: "Linford D. Fisher, J. Stanley Lemons, Lucas Mason-Brown. <em>Decoding Roger Williams: The Lost Essay of Rhode Island’s Founding Father</em>. Waco, TX: Baylor University Press, 2014. xiii +198 pp. ISBN 978-1-4813-0104-6."
+book-reviewed: "Linford D. Fisher, J. Stanley Lemons, and Lucas Mason-Brown. <em>Decoding Roger Williams: The Lost Essay of Rhode Island’s Founding Father</em>. Waco, TX: Baylor University Press, 2014. xiii +198 pp. ISBN 978-1-4813-0104-6."
 book-link: "<a href='http://www.baylorpress.com/Book/418/Decoding_Roger_Williams.html'>Publisher's Website</a>"
 layout: article
 title: 'Review: Decoding Roger Williams'
