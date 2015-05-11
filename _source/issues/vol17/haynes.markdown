@@ -2,7 +2,7 @@
 author: Stephen R. Haynes
 author-first: Stephen R.
 author-last: Haynes
-author-note: "Stephen R. Haynes is a Professor of Religious Studies at Rhodes College."
+author-note: "Stephen R. Haynes is a professor of Religious Studies at Rhodes College."
 layout: article
 title: "Distinction and Dispersal: Folk Theology and the Maintenance of White Supremacy"
 vol: 17
