@@ -3,7 +3,7 @@ author: Patrick Hayes
 author-first: Patrick
 author-last: Hayes
 author-note: "Patrick J. Hayes is Archivist of the Baltimore Province of the Redemptorists in Brooklyn, New York."
-book-reviewed: "Sally Dwyer-McNulty. <em>Common Threads: A Cultural History of Clothing in American Catholicism</em>. Chapel Hill: University of North Carolina Press, 2014. xiii + 257 pp. ISBN: 978-1-4696-1409-0."
+book-reviewed: "Sally Dwyer-McNulty. <em>Common Threads: A Cultural History of Clothing in American Catholicism</em>. Chapel Hill: University of North Carolina Press, 2014. xiii + 257 pp. ISBN 978-1-4696-1409-0."
 book-link: "<a href='http://uncpress.unc.edu/books/T-7971.html'>Publisher's Website</a>"
 layout: article
 title: 'Review: Common Threads'
