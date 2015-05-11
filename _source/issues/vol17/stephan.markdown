@@ -2,7 +2,7 @@
 author: Scott Stephan
 author-first: Scott
 author-last: Stephan
-author-note: "Scott Stephan is Associate Professor of History at Ball State University."
+author-note: "Scott Stephan is associate professor of History at Ball State University."
 layout: article
 title: "A Sectarian’s Success in the Evangelical South:  J. R. Graves and the <em>Tennessee Baptist</em>, 1846–1860"
 vol: 17
