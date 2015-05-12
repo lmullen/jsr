@@ -10,7 +10,7 @@ end
 
 task :dev_deploy do
 	puts 'Deploying dev preview to <jsreligion.org/dev/> with rsync.'
-  sh 'rsync --size-only -avzpe ssh public/ jsreligi@jsreligion.org:/home/jsreligi/public_html/dev/'
+  sh 'rsync -avzpe ssh public/ jsreligi@jsreligion.org:/home/jsreligi/public_html/dev/'
 end
 
 desc 'generate and deploy the production site'
@@ -33,7 +33,7 @@ end
 
 task :production_deploy do
 	sh "cp -R public/* ../jsr-production/"
-  sh 'rsync --size-only --exclude=dev/ -avze ssh public/ jsreligi@jsreligion.org:/home/jsreligi/public_html/'
+  sh 'rsync --exclude=dev/ -avze ssh public/ jsreligi@jsreligion.org:/home/jsreligi/public_html/'
 end
 
 desc 'preview site locally'
