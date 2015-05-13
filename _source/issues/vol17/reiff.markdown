@@ -2,7 +2,7 @@
 author: Joseph T. Reiff
 author-first: Joseph T.
 author-last: Reiff
-author-note: "Joseph T. Reiff is Professor of Religion at Emory & Henry College."
+author-note: "Joseph T. Reiff is professor of Religion at Emory & Henry College."
 book-reviewed: "Davis W. Houck and David E. Dixon, eds. <em>Rhetoric, Religion, and the Civil Rights Movement,1954-1965</em>, Volume 2. Waco: Baylor University Press, 2014. 511 pp. ISBN 978-1-60258-965-0."
 book-link: "<a href='http://www.baylorpress.com/Book/377/Rhetoric,_Religion,_and_the_Civil_Rights_Movement,_1954-1965.html'>Publisher's Website </a>"
 layout: article
