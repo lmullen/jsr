@@ -231,7 +231,7 @@ Scott Stephan wishes to thank the Southern Baptist Historical Library and Archiv
 
 [^53]: “Still They Come,” *Tennessee Baptist*, April 24, 1850, p. 2.
 
-[^54]: “Still They Come,” *Tennessee Baptist*, Sept. 4, 1852, p. 1. Whether New Hampshire, Indiana, or Pennsylvania, the conversion of any clergyman from another Protestant faith to the Baptists, gave cause for celebration. See, for example, “Still They Come,” Tennessee Baptist, Jan. 24, 1852, p. 2; “Still They Come,” *Tennessee Baptist*, June 22, 1850, p. 2.
+[^54]: “Still They Come,” *Tennessee Baptist*, Sept. 4, 1852, p. 1. Whether New Hampshire, Indiana, or Pennsylvania, the conversion of any clergyman from another Protestant faith to the Baptists, gave cause for celebration. See, for example, “Still They Come,” *Tennessee Baptist*, Jan. 24, 1852, p. 2; “Still They Come,” *Tennessee Baptist*, June 22, 1850, p. 2.
 
 [^55]: “Increase of Baptists in Tennessee for 1850-1,” *Tennessee Baptist*, Jan. 24, 1852, p. 2. 
 
@@ -337,7 +337,7 @@ Scott Stephan wishes to thank the Southern Baptist Historical Library and Archiv
 
 [^106]: Patterson, *James Robinson Graves*, 153. As Patterson notes, Graves would continue to wield tremendous power through his newspaper, crafting alliances with Baptist Associations that held an affinity for his views. Thus, he may have lost the battle for control over Nashville’s influential First Baptist Church and the Southern Baptist denomination, but he maintained a large power base in the Southwest. Indeed, thanks to Graves’s supporters, First Baptist Church lost its standing in the Concord Association and the General Association. See, ibid., 145–146.
 
-[^107]: Quoted from Gregory A. Wills, *Southern Baptist Theological Seminary, 1859–2009*, 98.
+[^107]: Quoted from Wills, *Southern Baptist Theological Seminary*, 98.
 
 [^108]: In his history of the Southern Baptist Theological Seminary, an institution that Graves opposed, Gregory A. Wills writes, Graves’s “standing and power derived largely from his role as leader of minority dissent in the denomination. He could have led a splinter movement outside the denomination, but he preferred the larger stage afforded by remaining within.” See Wills, *Southern Baptist Theological Seminary*, 98. Splinter denominations that celebrated the values of Landmarkism would emerge in the early twentieth century after Graves’s death. See “Landmark Movement,” in *Encyclopedia of Religion in the South*, 399–401; and Patterson, *James Robinson Graves*, 189–203.
 
