@@ -4,7 +4,7 @@ author-first: Andrea McComb
 author-last: Sanchez
 author-note: "Andrea McComb Sanchez is an Assistant Professor of Religious Studies at the University of Arizona."
 book-reviewed: "Angela Tarango. <em>Choosing the Jesus Way: American Indian Pentecostals and the Fight for the Indigenous Principle</em>. Chapel Hill: The University of North Carolina Press, 2014. 219 pp. ISBN 978-1-4696-1292-8."
-book-link: "<a href='http://uncpress.unc.edu/books/12180.html'>Publisher's Website</a>"
+book-link: http://uncpress.unc.edu/books/12180.html
 layout: article
 title: 'Review: Choosing the Jesus Way'
 vol: 17
