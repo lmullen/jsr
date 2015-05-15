@@ -4,7 +4,7 @@ author-first: Zachary W.
 author-last: Dresser
 author-note: "Zachary W. Dresser is Visiting Assistant Professor of Religion and Culture at Virginia Polytechnic Institute and State University."
 book-reviewed: "Kevin Pelletier. <em>Apocalyptic Sentimentalism: Love and Fear in U.S. Antebellum Literature</em>. Athens and London: University of Georgia Press, 2015. xiv+256 pp. ISBN 978-0-8203-3948-1." 
-book-link: "<a href='http://www.ugapress.org/index.php/books/apocalyptic_sentimentalism'>Publisher's Website </a>"
+book-link: http://www.ugapress.org/index.php/books/apocalyptic_sentimentalism
 layout: article
 title: 'Review: Apocalyptic Sentimentalism'
 vol: 17
