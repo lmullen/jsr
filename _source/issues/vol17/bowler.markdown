@@ -2,7 +2,7 @@
 author: Kate Bowler
 author-first: Kate
 author-last: Bowler
-author-note: "Kate Bowler is assistant professor of the History of Christianity in North America at Duke Divinity School."
+author-note: "Kate Bowler is Assistant Professor of the History of Christianity in North America at Duke Divinity School."
 book-reviewed: "Amy DeRogatis. <em>Saving Sex:  Sexuality and Salvation in American Evangelicalism</em>. New York: Oxford University Press, 2014. 224 pp. ISBN 978-019994225-1."
 book-link: "<a href='http://www.oupcanada.com/catalog/9780199942251.html'>Publisher's Website </a>"
 layout: article
