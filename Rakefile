@@ -32,8 +32,9 @@ task :production_gen do
 end
 
 task :production_deploy do
-	sh "cp -R public/* ../jsr-production/"
-  sh 'rsync --exclude=dev/ -avze ssh public/ jsreligi@jsreligion.org:/home/jsreligi/public_html/'
+	# sh "cp -R public/* ../jsr-production/"
+  # sh 'rsync --exclude=dev/ -avze ssh public/ jsreligi@jsreligion.org:/home/jsreligi/public_html/'
+  sh 'rsync --exclude=dev/ -avzpe ssh public/ jsreligi@jsreligion.org:/home/jsreligi/public_html/'
 end
 
 desc 'preview site locally'
