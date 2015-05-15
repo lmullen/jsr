@@ -4,7 +4,7 @@ author-first: Patrick
 author-last: Jackson
 author-note: "Patrick Jackson is Visiting Professor of Religious Studies and History at Allegheny College."
 book-reviewed: "Molly Worthen. <em>Apostles of Reason: The Crisis of Authority in American Evangelicalism</em>. New York: Oxford University Press, 2014. 352 pp. ISBN 978-0-19-989646-2." 
-book-link: "<a href='https://global.oup.com/academic/product/apostles-of-reason-9780199896462?cc=us&lang=en&'>Publisher's Website</a>"
+book-link: https://global.oup.com/academic/product/apostles-of-reason-9780199896462?cc=us&lang=en&
 layout: article
 title: 'Review: Apostles of Reason'
 vol: 17
