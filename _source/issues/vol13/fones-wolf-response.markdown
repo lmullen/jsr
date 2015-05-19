@@ -109,5 +109,4 @@ and Methodist churches. Regardless, we also need to expand our study of
 social movements and acknowledge that the poor might strive to assert
 power in both the spiritual as well as the temporal realm.
 
-[^1]:  E. P. Thompson, *The Making of the English Working Class* (New
-York: Vintage Books, 1966), 9--10.
+[^1]:  E. P. Thompson, *The Making of the English Working Class* (New York: Vintage Books, 1966), 9--10.
