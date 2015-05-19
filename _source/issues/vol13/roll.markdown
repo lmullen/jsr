@@ -226,8 +226,5 @@ deep and scholars have only just begun to understand its fullness.
 Historians of southern religion should be encouraged that they work in a
 field at the cutting edge of that endeavor.
 
-[^1]:  For the full argument, see Jarod Roll, "Garveyism and the
-Eschatology of African Redemption in the Rural South, 1920-1936,"
-*Religion and American Culture: A Journal of Interpretation* 20 (Winter
-2010): 27--56.
+[^1]:  For the full argument, see Jarod Roll, "Garveyism and the Eschatology of African Redemption in the Rural South, 1920-1936," *Religion and American Culture: A Journal of Interpretation* 20 (Winter 2010): 27--56.
  
