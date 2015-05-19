@@ -148,7 +148,4 @@ but is not analytical in the harmonic sense, so it remains accessible to
 non-musical historians.
 
 
-[^1]:  Carder's dissertation was a similar title (Carder, Polly.
-George Frederick Root: Pioneer Music Educator: His Contributions to Mass
-Instruction in Music. Diss. University of Maryland, 1971).
-
+[^1]:  Carder's dissertation was a similar title (Carder, Polly. George Frederick Root: Pioneer Music Educator: His Contributions to Mass Instruction in Music. Diss. University of Maryland, 1971).
