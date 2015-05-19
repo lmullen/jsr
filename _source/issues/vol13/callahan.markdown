@@ -296,61 +296,24 @@ major shaping force, as it must be in a capitalist economy, then class
 will be an essential category of analysis for understanding southern
 religion.
 
-[^1]:  Larry the Cable Guy provided the voice of Mater; Texas native
-Owen Wilson provided the voice of Lightning McQueen.
+[^1]:  Larry the Cable Guy provided the voice of Mater; Texas native Owen Wilson provided the voice of Lightning McQueen.
 
-[^2]:  Allen W. Batteau, *The Invention of Appalachia* (Tucson:
-University of Arizona Press, 1990); Henry D. Shapiro, *Appalachia on Our
-Mind: The Southern Mountains and Mountaineers in the American
-Consciousness, 1879–1920* (Chapel Hill: University of North Carolina
-Press, 1978); Anonymous, "Poor White Trash," *Cornhill Magazine* 45 (May
-1882): 688.
+[^2]:  Allen W. Batteau, *The Invention of Appalachia* (Tucson: University of Arizona Press, 1990); Henry D. Shapiro, *Appalachia on Our Mind: The Southern Mountains and Mountaineers in the American Consciousness, 1879–1920* (Chapel Hill: University of North Carolina Press, 1978); Anonymous, "Poor White Trash," *Cornhill Magazine* 45 (May 1882): 688.
 
-[^3]:  See Deborah Vansau McCauley, *Appalachian Mountain Religion:
-A History* (Urbana: University of Illinois Press, 1995). One influential
-example is Weston La Barre, *They Shall Take Up Serpents: Psychology of
-the Southern Snake-Handling Cult* (Minneapolis: University of Minnesota
-Press, 1962).
+[^3]:  See Deborah Vansau McCauley, *Appalachian Mountain Religion: A History* (Urbana: University of Illinois Press, 1995). One influential example is Weston La Barre, *They Shall Take Up Serpents: Psychology of the Southern Snake-Handling Cult* (Minneapolis: University of Minnesota Press, 1962).
 
-[^4]:  Sean McCloud, "The Ghost of Marx and the Stench of
-Deprivation: Cutting the Ties that Bind in the Study of Religion and
-Class," in *Religion and Class in America: Culture, History, and
-Politics*, ed. McCloud and William A. Mirola (Leiden: Brill, 2009), 97.
-See also Sean McCloud, *Divine Hierarchies: Class in American Religion
-and Religious Studies* (Chapel Hill: University of North Carolina Press,
-2009).
+[^4]:  Sean McCloud, "The Ghost of Marx and the Stench of Deprivation: Cutting the Ties that Bind in the Study of Religion and Class," in *Religion and Class in America: Culture, History, and Politics*, ed. McCloud and William A. Mirola (Leiden: Brill, 2009), 97. See also Sean McCloud, *Divine Hierarchies: Class in American Religion and Religious Studies* (Chapel Hill: University of North Carolina Press, 2009).
 
-[^5]:  E. P. Thompson, *The Making of the English Working Class*
-(New York: Random House, 1963), 11.
+[^5]:  E. P. Thompson, *The Making of the English Working Class* (New York: Random House, 1963), 11.
 
-[^6]:  Olive Dame Campbell, "Flame of a New Future for the
-Highlands," *Southern Mountain Life and Work* 1 (April 1925): 11.
+[^6]:  Olive Dame Campbell, "Flame of a New Future for the Highlands," *Southern Mountain Life and Work* 1 (April 1925): 11.
 
 [^7]:  McCauley, *Appalachian Mountain Religion*, 265–67.
 
-[^8]:  John Gaventa *Power and Powerlessness: Quiescence and
-Rebellion in an Appalachian Valley* (Urbana: University of Illinois
-Press, 1980); Helen Matthews Lewis, Sue Easterling Kobak, and Linda
-Johnson, "Family, Religion and Colonialism in Central Appalachia, or
-Bury My Rifle at Big Stone Gap," in *Colonialism in Modern America: The
-Appalachian Case*, ed. Helen Matthews Lewis, Linda Johnson, and Donald
-Askins (Boone, N.C.: Appalachian Consortium Press, 1978); Dwight B.
-Billings, "Religion as Opposition: A Gramscian Analysis," *American
-Journal of Sociology* 96 (July 1990): 1–31.
+[^8]:  John Gaventa *Power and Powerlessness: Quiescence and Rebellion in an Appalachian Valley* (Urbana: University of Illinois Press, 1980); Helen Matthews Lewis, Sue Easterling Kobak, and Linda Johnson, "Family, Religion and Colonialism in Central Appalachia, or Bury My Rifle at Big Stone Gap," in *Colonialism in Modern America: The Appalachian Case*, ed. Helen Matthews Lewis, Linda Johnson, and Donald Askins (Boone, N.C.: Appalachian Consortium Press, 1978); Dwight B. Billings, "Religion as Opposition: A Gramscian Analysis," *American Journal of Sociology* 96 (July 1990): 1–31.
 
 [^9]:  Billings, "Religion as Opposition," 27.
 
-[^10]:  See Richard J. Callahan Jr., *Work and Faith in the
-Kentucky Coal Fields: Subject to Dust* (Bloomington: Indiana University
-Press, 2009), and Richard J. Callahan Jr., "Sensing Class: Religion,
-Aesthetics, and Formations of Class in Eastern Kentucky's Coal Fields,"
-in *Religion and Class in America*, 175–96.
+[^10]:  See Richard J. Callahan Jr., *Work and Faith in the Kentucky Coal Fields: Subject to Dust* (Bloomington: Indiana University Press, 2009), and Richard J. Callahan Jr., "Sensing Class: Religion, Aesthetics, and Formations of Class in Eastern Kentucky's Coal Fields," in *Religion and Class in America*, 175–96.
 
-[^11]:  For example, see Susan Curtis, *A Consuming Faith: The
-Social Gospel and Modern American Culture* (Columbia: University of
-Missouri Press, 2001); Richard J. Callahan Jr., Kathryn Lofton, and Chad
-Seales, "Allegories of Progress: Industrial Religion in the United
-States," *Journal of the American Academy of Religion* 88 (2010): 1–39;
-John M. Giggie and Diane H. Winston, eds., *Faith in the Market:
-Religion and the Rise of Urban Commercial Culture* (New Brunswick:
-Rutgers University Press, 2002).
+[^11]:  For example, see Susan Curtis, *A Consuming Faith: The Social Gospel and Modern American Culture* (Columbia: University of Missouri Press, 2001); Richard J. Callahan Jr., Kathryn Lofton, and Chad Seales, "Allegories of Progress: Industrial Religion in the United States," *Journal of the American Academy of Religion* 88 (2010): 1–39; John M. Giggie and Diane H. Winston, eds., *Faith in the Market: Religion and the Rise of Urban Commercial Culture* (New Brunswick: Rutgers University Press, 2002).
