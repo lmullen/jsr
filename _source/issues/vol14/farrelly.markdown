@@ -677,165 +677,43 @@ with some creative massaging of the surviving sources, a bit of
 genealogical research (so as to find the Catholics in the sources that
 are not specifically church-related), and a whole lot of dedication.
 
-[^1]: Paul E. Hoffman, *A New Andalucia and a Way to the Orient: The
-  American Southeast During the Sixteenth Century* (Baton Rouge:
-  Louisiana State University Press, 2004), 205--231; Stephen Adams,
-  *The Best and Worst Country in the World: Perspectives on the Early
-  Virginia Landscape* (Charlottesville: University of Virginia Press,
-  2001), 61; and Jon F. Sensbach, "Religion and the Early South in an
-  Age of Atlantic Empire," *Journal of Southern History*  LXXII, no. 3
-  (2007), 632.
+[^1]: Paul E. Hoffman, *A New Andalucia and a Way to the Orient: The American Southeast During the Sixteenth Century* (Baton Rouge: Louisiana State University Press, 2004), 205--231; Stephen Adams, *The Best and Worst Country in the World: Perspectives on the Early Virginia Landscape* (Charlottesville: University of Virginia Press, 2001), 61; and Jon F. Sensbach, "Religion and the Early South in an Age of Atlantic Empire," *Journal of Southern History*  LXXII, no. 3 (2007), 632.
 
-[^2]:  J.F. Regis Canevin, "Loss and Gain in the Catholic Church in the
-United States, 1800--1916," *Catholic Historical Review* (January
-1917), 380--81; Jay Dolan, *In Search of an American Catholicism: A
-History of Religion and Culture in Tension*  (New York: Oxford
-University Press, 2001), 58; and Michael Pasquier, *Fathers on the
-Frontier: French Missionaries and the Roman Catholic Priesthood in
-the United States, 1789--1870*  (New York: Oxford University Press,
-2010), 58.
+[^2]:  J.F. Regis Canevin, "Loss and Gain in the Catholic Church in the United States, 1800--1916," *Catholic Historical Review* (January 1917), 380--81; Jay Dolan, *In Search of an American Catholicism: A History of Religion and Culture in Tension*  (New York: Oxford University Press, 2001), 58; and Michael Pasquier, *Fathers on the Frontier: French Missionaries and the Roman Catholic Priesthood in the United States, 1789--1870*  (New York: Oxford University Press, 2010), 58.
 
-[^3]:  Christine Leigh Heyrman, *Southern Cross: The Origins of the
-Bible Belt*  (Chapel Hill: University of North Carolina Press,
-1998).
+[^3]:  Christine Leigh Heyrman, *Southern Cross: The Origins of the Bible Belt*  (Chapel Hill: University of North Carolina Press, 1998).
 
-[^4]:  Dolan, *American Catholicism*, 58; and Benjamin J. Blied,
-*Catholics and the Civil War*  (Milwaukee: n.p., 1945), 53.
+[^4]:  Dolan, *American Catholicism*, 58; and Benjamin J. Blied, *Catholics and the Civil War*  (Milwaukee: n.p., 1945), 53.
 
-[^5]:  For more on ultramontanism, and particularly its expression
-within the immigrant communities that came to the United States, see
-Patricia Byrne, "American Ultramontanism," *Theological Studies*  56
-(1995): 301--338; David J. O'Brien, *Isaac Hecker: An American
-Catholic*  (Mahwah, NJ: Paulist Press, 1993), 242--320; John T.
-McGreevy, *Catholicism and American Freedom*  (New York: W. W.
-Norton, 2003), 12--13, 28--29; and Dolan, *In Search of an American
-Catholicism*, 44--49.
+[^5]:  For more on ultramontanism, and particularly its expression within the immigrant communities that came to the United States, see Patricia Byrne, "American Ultramontanism," *Theological Studies*  56 (1995): 301--338; David J. O'Brien, *Isaac Hecker: An American Catholic*  (Mahwah, NJ: Paulist Press, 1993), 242--320; John T. McGreevy, *Catholicism and American Freedom*  (New York: W. W. Norton, 2003), 12--13, 28--29; and Dolan, *In Search of an American Catholicism*, 44--49.
 
-[^6]:  Garry Wills, *Bare, Ruined Choirs: Doubt, Prophecy, and Radical
-Religion*  (Garden City, NY: Doubleday, 1971), 15. For more on this
-Catholic parochialism, see Mark Massa, *Catholics and American
-Culture: Fulton Sheen, Dorothy Day, and the Notre Dame Football
-Team*  (New York: Crossroad, 2001), 1--20; and Patricia K. Good,
-"Irish Adjustment to American Society: Integration or Separation? A
-Portrait of an Irish Catholic Parish: 1863--1886," *Records of the
-American Catholic Historical Society of Philadelphia*  (1975):
-7--23.
+[^6]:  Garry Wills, *Bare, Ruined Choirs: Doubt, Prophecy, and Radical Religion*  (Garden City, NY: Doubleday, 1971), 15. For more on this Catholic parochialism, see Mark Massa, *Catholics and American Culture: Fulton Sheen, Dorothy Day, and the Notre Dame Football Team*  (New York: Crossroad, 2001), 1--20; and Patricia K. Good, "Irish Adjustment to American Society: Integration or Separation? A Portrait of an Irish Catholic Parish: 1863--1886," *Records of the American Catholic Historical Society of Philadelphia*  (1975): 7--23.
 
-[^7]:  See, for example, James O'Toole, *The Faithful: A History of
-Catholics in America*  (Cambridge: Harvard University Press, 2008);
-Paula M. Kane, *Separatism and Subculture: Boston Catholicism,
-1900--1920*  (Chapel Hill: University of North Carolina Press,
-1994); Ann Taves, *The*  *Household of Faith: Roman Catholic
-Devotions in Mid-Nineteenth-Century America*  (Notre Dame:
-University of Notre Dame Press, 1986); and Robert Orsi*, The Madonna
-of 115th Street: Faith and Community in Italian Harlem, 1880--1950*
-(New Haven: Yale University Press, 1985).
+[^7]:  See, for example, James O'Toole, *The Faithful: A History of Catholics in America*  (Cambridge: Harvard University Press, 2008); Paula M. Kane, *Separatism and Subculture: Boston Catholicism, 1900--1920*  (Chapel Hill: University of North Carolina Press, 1994); Ann Taves, *The*  *Household of Faith: Roman Catholic Devotions in Mid-Nineteenth-Century America*  (Notre Dame: University of Notre Dame Press, 1986); and Robert Orsi*, The Madonna of 115th Street: Faith and Community in Italian Harlem, 1880--1950* (New Haven: Yale University Press, 1985).
 
-[^8]:  The interest in American Catholicism among non-Catholic scholars
-is not completely new, of course. Rueben Gold Thwaites, who was
-raised as a Congregationalist, broke that ground more than a century
-ago, with his 73-volume English translation of the *Jesuit
-Relations* . In the 1980s, Martin Marty made significant
-contributions to the field, in spite of his ardent Lutheranism.
-Nevertheless, the study of American Catholicism has consistently
-been dominated by Catholics---many acting as apologists, some
-not---and that reality is changing to some degree. Emily Clark's
-book on the Ursuline sisters of New Orleans, Kevin Schultz's book on
-Catholic contributions to the American climate of religious
-pluralism, Tracy Neal Leavelle's book on relations between the
-Jesuits and the Illinois and Ottawa Indians, and Amy Koehlinger's
-book on the involvement of nuns in the civil rights movement all
-stand as recent examples of the great work that has been done on
-American Catholic history by non-Catholics. See Reuben Gold
-Thwaites, ed., *The Jesuit Relations and Allied Documents: Travels
-and Explorations of the Jesuit Missionaries in New France,
-1610--1791*  (Cleveland: Burrows Bros., 1896--1901), 73 vols.;
-Martin F. Marty, *An Invitation to American Catholic History*
-(Chicago: Thomas More, 1986); Emily Clark, *Masterless Mistresses:
-The New Orleans Ursulines and the Development of a New World
-Society, 1727--1834*  (Chapel Hill: University of North Carolina
-Press, 2007); Kevin M. Schultz, *Tri-Faith America: How Catholics
-and Jews Held Post-War America to its Protestant Promise*  (New
-York: Oxford University Press, 2011); Tracy Neal Leavelle, *The
-Catholic Calumet: Catholic Conversions in French and Indian North
-America*  (Philadelphia: University of Pennsylvania Press, 2011);
-and Amy Koehlinger, *The New Nuns: Racial Justice and Religious
-Reform in the 1960s*  (Cambridge: Harvard University Press, 2007).
+[^8]:  The interest in American Catholicism among non-Catholic scholars is not completely new, of course. Rueben Gold Thwaites, who was raised as a Congregationalist, broke that ground more than a century ago, with his 73-volume English translation of the *Jesuit Relations* . In the 1980s, Martin Marty made significant contributions to the field, in spite of his ardent Lutheranism. Nevertheless, the study of American Catholicism has consistently been dominated by Catholics---many acting as apologists, some not---and that reality is changing to some degree. Emily Clark's book on the Ursuline sisters of New Orleans, Kevin Schultz's book on Catholic contributions to the American climate of religious pluralism, Tracy Neal Leavelle's book on relations between the Jesuits and the Illinois and Ottawa Indians, and Amy Koehlinger's book on the involvement of nuns in the civil rights movement all stand as recent examples of the great work that has been done on American Catholic history by non-Catholics. See Reuben Gold Thwaites, ed., *The Jesuit Relations and Allied Documents: Travels and Explorations of the Jesuit Missionaries in New France, 1610--1791*  (Cleveland: Burrows Bros., 1896--1901), 73 vols.; Martin F. Marty, *An Invitation to American Catholic History* (Chicago: Thomas More, 1986); Emily Clark, *Masterless Mistresses: The New Orleans Ursulines and the Development of a New World Society, 1727--1834*  (Chapel Hill: University of North Carolina Press, 2007); Kevin M. Schultz, *Tri-Faith America: How Catholics and Jews Held Post-War America to its Protestant Promise*  (New York: Oxford University Press, 2011); Tracy Neal Leavelle, *The Catholic Calumet: Catholic Conversions in French and Indian North America*  (Philadelphia: University of Pennsylvania Press, 2011); and Amy Koehlinger, *The New Nuns: Racial Justice and Religious Reform in the 1960s*  (Cambridge: Harvard University Press, 2007).
 
-[^9]:  Sensbach, "Religion and the Early South in an Age of Atlantic
-Empire," 634.
+[^9]:  Sensbach, "Religion and the Early South in an Age of Atlantic Empire," 634.
 
-[^10]:  Joseph P. Chinnici, "Freedom's Freedom: A Conversation with John
-McGreevy," *U.S. Catholic Historian*  21, no. 4 (2003): 93--99; Luca
-Codignola, "Roman Catholic Conservatism in a New North Atlantic
-World, 1760--1829," *William and Mary Quarterly*  64, no. 4 (2007):
-717--756; Peter D'Agostino, *Rome in America: Transnational Catholic
-Ideology from the Risorgimento to Fascism*  (Chapel Hill: University
-of North Carolina Press, 2004), 5, 315; and Pasquier, *Fathers on
-the Frontier*, 11.
+[^10]:  Joseph P. Chinnici, "Freedom's Freedom: A Conversation with John McGreevy," *U.S. Catholic Historian*  21, no. 4 (2003): 93--99; Luca Codignola, "Roman Catholic Conservatism in a New North Atlantic World, 1760--1829," *William and Mary Quarterly*  64, no. 4 (2007): 717--756; Peter D'Agostino, *Rome in America: Transnational Catholic Ideology from the Risorgimento to Fascism*  (Chapel Hill: University of North Carolina Press, 2004), 5, 315; and Pasquier, *Fathers on the Frontier*, 11.
 
-[^11]:  Arthur O'Leary, "Address to the Common People of the Roman
-Catholic Religion," (1779), in O'Leary, *The Life and Writings of
-the Rev. Arthur O'Leary*, ed. Michael Bernard Buckley (Dublin:
-James Duffy, 1868), 103; and William Henry Drayton, "Charge of
-William Henry Drayton," in *American Archives, Fourth Series*,
-Peter Force, ed. (Washington, DC, 1837) 6:959.
+[^11]:  Arthur O'Leary, "Address to the Common People of the Roman Catholic Religion," (1779), in O'Leary, *The Life and Writings of the Rev. Arthur O'Leary*, ed. Michael Bernard Buckley (Dublin: James Duffy, 1868), 103; and William Henry Drayton, "Charge of William Henry Drayton," in *American Archives, Fourth Series*, Peter Force, ed. (Washington, DC, 1837) 6:959.
 
-[^12]:  Maura Jane Farrelly, "American Slavery, American Freedom,
-American Catholicism," *Early American*  *Studies*  10 (2012), n.
-24.
+[^12]:  Maura Jane Farrelly, "American Slavery, American Freedom, American Catholicism," *Early American*  *Studies*  10 (2012), n. 24.
 
-[^13]:  Robert M. Calhoon, "Loyalism and Neutrality," in Jack P. Greene
-and J. R. Pole, eds., *A Companion to the American Revolution*
-(Malden, MA: Wiley-Blackwell, 2000), 235; William Hand Brown et al.,
-eds., *Archives of Maryland* (Baltimore: Maryland Historical
-Society, 1883--), 9:315, 25:258--59; M. Christopher Newton,
-*Maryland Loyalists in the American Revolution*  (Centreville, MD:
-Tidewater, 1996); Ronald Hoffman, *A Spirit of Dissension:
-Economics, Politics,*  *and the Revolution in Maryland* (Baltimore:
-Johns Hopkins University Press, 1973), 80--82, 98--100; and David
-Curtis Skaggs, "Maryland's Impulse toward Social Revolution,
-1750--1776," *Journal of American History* 54 (1968): 771--86.
+[^13]:  Robert M. Calhoon, "Loyalism and Neutrality," in Jack P. Greene and J. R. Pole, eds., *A Companion to the American Revolution* (Malden, MA: Wiley-Blackwell, 2000), 235; William Hand Brown et al., eds., *Archives of Maryland* (Baltimore: Maryland Historical Society, 1883--), 9:315, 25:258--59; M. Christopher Newton, *Maryland Loyalists in the American Revolution*  (Centreville, MD: Tidewater, 1996); Ronald Hoffman, *A Spirit of Dissension: Economics, Politics,*  *and the Revolution in Maryland* (Baltimore: Johns Hopkins University Press, 1973), 80--82, 98--100; and David Curtis Skaggs, "Maryland's Impulse toward Social Revolution, 1750--1776," *Journal of American History* 54 (1968): 771--86.
 
-[^14]:  Patrick Carey, *People,*  *Priests, and Prelates: Ecclesiastical
-Democracy and the Tensions of Trusteeism*  (Notre Dame: University
-of Notre Dame Press, 1987), 156; O'Toole, *The Faithful*, 59. Kevin
-Roberts, the founder of Catholic Families for America, and Timothy
-Dolan, the current Archbishop of New York, have both written that
-the age of lay trusteeism in the American church was a time of
-"rebellion" and "heresy." See Kevin Roberts, "Modern Lessons from
-America's First Bishop," *National Catholic Register,* October 2,
-2009; and Timothy M. Dolan, "Right from the Start: John Carroll, Our
-First Bishop," lecture lecture given at the Archdiocese of Baltimore
-Bicentennial Celebration, Baltimore, April 22, 2008, available at
-*Catholic Culture,*
-http://www.catholicculture.org/culture/library/view.cfm?id\_8269&CFID\_60966295&
+[^14]:  Patrick Carey, *People,*  *Priests, and Prelates: Ecclesiastical Democracy and the Tensions of Trusteeism*  (Notre Dame: University of Notre Dame Press, 1987), 156; O'Toole, *The Faithful*, 59. Kevin Roberts, the founder of Catholic Families for America, and Timothy Dolan, the current Archbishop of New York, have both written that the age of lay trusteeism in the American church was a time of "rebellion" and "heresy." See Kevin Roberts, "Modern Lessons from America's First Bishop," *National Catholic Register,* October 2, 2009; and Timothy M. Dolan, "Right from the Start: John Carroll, Our First Bishop," lecture lecture given at the Archdiocese of Baltimore Bicentennial Celebration, Baltimore, April 22, 2008, available at *Catholic Culture,* http://www.catholicculture.org/culture/library/view.cfm?id\_8269&CFID\_60966295&
 
-[^15]:  Maura Jane Farrelly, *Papist Patriots: The Making of an American
-Catholic Identity*  (New York: Oxford University Press, 2012).
+[^15]:  Maura Jane Farrelly, *Papist Patriots: The Making of an American Catholic Identity*  (New York: Oxford University Press, 2012).
 
-[^16]:  Peter Atwood, "Liberty and Property, or the Beauty of Maryland
-Displayed," rpt., *United States Catholic Historical Magazine*
-3(1889--90): 252, 242.
+[^16]:  Peter Atwood, "Liberty and Property, or the Beauty of Maryland Displayed," rpt., *United States Catholic Historical Magazine* 3(1889--90): 252, 242.
 
-[^17]:  Fr. George Hunter to John Tichbourn, no date (but between 1747
-and 1756), "Hunter Letterbook," Maryland Province Archives (MPA),
-Box 2, Fol. 10, Special Collections, Georgetown University (SCGU);
-"Notes and Comments," *Catholic Historical Review*  (Washington, DC,
-1917), 2:238--239; and Charles Warren Currier, *Carmel in America: A
-Centennial History of the Discalced Carmelites in the United States*
-(Baltimore: John Murphy, 1890), 56--59, 70--86.
+[^17]:  Fr. George Hunter to John Tichbourn, no date (but between 1747 and 1756), "Hunter Letterbook," Maryland Province Archives (MPA), Box 2, Fol. 10, Special Collections, Georgetown University (SCGU); "Notes and Comments," *Catholic Historical Review*  (Washington, DC, 1917), 2:238--239; and Charles Warren Currier, *Carmel in America: A Centennial History of the Discalced Carmelites in the United States* (Baltimore: John Murphy, 1890), 56--59, 70--86.
 
-[^18]:  Currier, *Carmel in America*, 191; "The Restorers of Mount
-Carmel in Maryland, Inc.,"
-[http://www.restorersmtcarmelmd.org/Nuns\_of\_Mt\_Carmel.html][] (accessed
-9 July 2012).
+[^18]:  Currier, *Carmel in America*, 191; "The Restorers of Mount Carmel in Maryland, Inc.," [http://www.restorersmtcarmelmd.org/Nuns\_of\_Mt\_Carmel.html][] (accessed 9 July 2012).
 
-[^19]:  From the convent's founding until the sale of Louisiana to the
-Jefferson administration in 1803, sixty-nine women served in the
-Ursuline Convent. Clark's book, however, does briefly consider the
-experiences of additional nuns who were serving in the convent as
-late as 1834.
+[^19]:  From the convent's founding until the sale of Louisiana to the Jefferson administration in 1803, sixty-nine women served in the Ursuline Convent. Clark's book, however, does briefly consider the experiences of additional nuns who were serving in the convent as late as 1834.
 
 [^20]: Clark, *Masterless Mistresses*, 150, 156.
 
@@ -845,139 +723,49 @@ late as 1834.
 
 [^23]:  Ibid., 264, 4.
 
-[^24]:  Jacques Guilhaumou and Martine Lapied, "Women's Political Action
-During the French Revolution," in *Political and Historical
-Encyclopedia of Women*, ed. Christine Faure, (New York: Routledge,
-2003), 124.
+[^24]:  Jacques Guilhaumou and Martine Lapied, "Women's Political Action During the French Revolution," in *Political and Historical Encyclopedia of Women*, ed. Christine Faure, (New York: Routledge, 2003), 124.
 
-[^25]:  Ibid.; Timothy Tackett and Claude Langlois, "Ecclesiastical
-Structures and Clerical Geography on the Eve of the French
-Revolution," *French Historical Studies*  11 (1980): 357; and
-Pasquier, *Fathers on the Frontier*, 27, 15.
+[^25]:  Ibid.; Timothy Tackett and Claude Langlois, "Ecclesiastical Structures and Clerical Geography on the Eve of the French Revolution," *French Historical Studies*  11 (1980): 357; and Pasquier, *Fathers on the Frontier*, 27, 15.
 
-[^26]:  See, for example, Peter N. Stearns, *Priest and Revolutionary:
-Lamennais and the Dilemma of French Catholicism* (New York: Harper
-and Row, 1967), 46--49; Norman Ravitch, "Liberalism, Catholicism,
-and the Abbé Grégoire, *Church History*  36 (1967): 437; J. Francis
-Stafford, "'Train Up to Virtue': A Reflection on the Maryland
-Tradition," *U.S. Catholic Historian*  8 (1989): 61; and Obed
-Heilbronner, "The Age of Catholic Revival," in *A Companion to
-Nineteenth-Century Europe, 1789--1914*, ed. Stefan Berger
-(Oxford: Wiley-Blackwell, 2006), 236--247.
+[^26]:  See, for example, Peter N. Stearns, *Priest and Revolutionary: Lamennais and the Dilemma of French Catholicism* (New York: Harper and Row, 1967), 46--49; Norman Ravitch, "Liberalism, Catholicism, and the Abbé Grégoire, *Church History*  36 (1967): 437; J. Francis Stafford, "'Train Up to Virtue': A Reflection on the Maryland Tradition," *U.S. Catholic Historian*  8 (1989): 61; and Obed Heilbronner, "The Age of Catholic Revival," in *A Companion to Nineteenth-Century Europe, 1789--1914*, ed. Stefan Berger (Oxford: Wiley-Blackwell, 2006), 236--247.
 
-[^27]:  Codignola, "Roman Catholic Conservatism in a New North Atlantic
-World." Peter D'Agostino also discusses the role that exiled French
-priests played in the spread of ultramontanism in *Rome in America.*
+[^27]:  Codignola, "Roman Catholic Conservatism in a New North Atlantic World." Peter D'Agostino also discusses the role that exiled French priests played in the spread of ultramontanism in *Rome in America.*
 
-[^28]:  Carey, *People*, *Priests, and Prelates* ; Emmet Larkin, "The
-Devotional Revolution in Ireland," *American Historical Review* 77
-(1972): 625--652; Michael P. Carroll, *American Catholics in the
-Protestant Imagination*  (Baltimore: Johns Hopkins University Press,
-2007), 5--6, 46--48; and Patricia Byrne, "American Ultramontanism,"
-*Theological Studies* 56 (1995): 301--338.
+[^28]:  Carey, *People*, *Priests, and Prelates* ; Emmet Larkin, "The Devotional Revolution in Ireland," *American Historical Review* 77 (1972): 625--652; Michael P. Carroll, *American Catholics in the Protestant Imagination*  (Baltimore: Johns Hopkins University Press, 2007), 5--6, 46--48; and Patricia Byrne, "American Ultramontanism," *Theological Studies* 56 (1995): 301--338.
 
 [^29]:  Pasquier, *Fathers on the Frontier*, 28.
 
-[^30]:  John Carroll, "John Carroll's Letter on Trusteeism," (1786), in
-Mark Massa and Catherine Osborne, eds., *American Catholic History:
-A Documentary Reader*  (New York: New York University Press, 2008),
-32; Rodger van Allen, "Lay Distrusteeism," *Commonweal*, 12
-September 12 2008. Archbishop Timothy Dolan of New York has argued
-that Carroll was an opponent of lay trusteeism, but Carroll's letter
-to the trustees of St. Peter's Church in New York City makes it
-clear that he saw lay trusteeism as an important means by which the
-Catholic Church in early America might be sustained. See Dolan's
-lecture, "Right from the Start: John Carroll, Our First Bishop."
+[^30]:  John Carroll, "John Carroll's Letter on Trusteeism," (1786), in Mark Massa and Catherine Osborne, eds., *American Catholic History: A Documentary Reader*  (New York: New York University Press, 2008), 32; Rodger van Allen, "Lay Distrusteeism," *Commonweal*, 12 September 12 2008. Archbishop Timothy Dolan of New York has argued that Carroll was an opponent of lay trusteeism, but Carroll's letter to the trustees of St. Peter's Church in New York City makes it clear that he saw lay trusteeism as an important means by which the Catholic Church in early America might be sustained. See Dolan's lecture, "Right from the Start: John Carroll, Our First Bishop."
 
-[^31]:  Thomas J. Shelley, "When Catholics Were Congregationalists,"
-*Commonweal*, 12 September 2003, 29; Dale B. Light, *Rome and the
-New Republic: Conflict and Community in Philadelphia Catholicism
-between the Revolution and the Civil War*  (Notre Dame, IN:
-University of Notre Dame Press, 1996), 241; Carey, *Priests, People,
-and Prelates*, 214.
+[^31]:  Thomas J. Shelley, "When Catholics Were Congregationalists," *Commonweal*, 12 September 2003, 29; Dale B. Light, *Rome and the New Republic: Conflict and Community in Philadelphia Catholicism between the Revolution and the Civil War*  (Notre Dame, IN: University of Notre Dame Press, 1996), 241; Carey, *Priests, People, and Prelates*, 214.
 
 [^32]:  Pasquier, *Fathers on the Frontier*, 59, 19.
 
 [^33]:  Ibid., 68, 65--66.
 
-[^34]:  For more on the growth of Catholic devotionalism in
-Europe---particularly English-speaking Europe---see Mary Heimann,
-*Catholic Devotion in Victorian England*  (New York: Oxford
-University Press, 1995); Bill McSweeney, *Roman Catholicism: The
-Search for Relevance*  (New York: Palgrave, 1980); and Derek Holmes,
-*The Triumph of the Holy See: A short History of the Papacy in the
-Nineteenth Century*  (Shepherstown, WV: Burns and Oates, 1978).
+[^34]:  For more on the growth of Catholic devotionalism in Europe---particularly English-speaking Europe---see Mary Heimann, *Catholic Devotion in Victorian England*  (New York: Oxford University Press, 1995); Bill McSweeney, *Roman Catholicism: The Search for Relevance*  (New York: Palgrave, 1980); and Derek Holmes, *The Triumph of the Holy See: A short History of the Papacy in the Nineteenth Century*  (Shepherstown, WV: Burns and Oates, 1978).
 
-[^35]:  In the latter half of the nineteenth century, the United States
-did experience a wave of Catholic devotionalism that was cultivated
-by the Church hierarchy as a way of shepherding Catholics to the
-margins of their predominantly Protestant society and, in so doing,
-preserving the unique features of the Catholic faith. This
-manifestation of devotionalism was a deliberate reaction against the
-move toward "Americanization" that Catholic converts like Isaac
-Hecker and Orestes Brownson were pushing for, and in this sense, its
-origins were very different from earlier varieties of Catholic
-devotionalism along the frontier. See McGreevy, *Catholicism and
-American Freedom*, 27--29; and Ann Taves, "Context and Meaning:
-Roman Catholic Devotion to the Blessed Sacrament in
-Mid-Nineteenth-Century America," *Church History*  54 (1985):
-482--195.
+[^35]:  In the latter half of the nineteenth century, the United States did experience a wave of Catholic devotionalism that was cultivated by the Church hierarchy as a way of shepherding Catholics to the margins of their predominantly Protestant society and, in so doing, preserving the unique features of the Catholic faith. This manifestation of devotionalism was a deliberate reaction against the move toward "Americanization" that Catholic converts like Isaac Hecker and Orestes Brownson were pushing for, and in this sense, its origins were very different from earlier varieties of Catholic devotionalism along the frontier. See McGreevy, *Catholicism and American Freedom*, 27--29; and Ann Taves, "Context and Meaning: Roman Catholic Devotion to the Blessed Sacrament in Mid-Nineteenth-Century America," *Church History*  54 (1985): 482--195.
 
 [^36]:  Pasquier, *Fathers on the Frontier*, 21.
 
-[^37]:  Charlene Villaseñor Black, "St. Anne Imagery and Maternal
-Archetypes in Spain and Mexico," in *Colonial Saints: Discovering
-the Holy in the Americas. 1500--1800* ed. Allan Greer and Jodi
-Bilinkoff (New York: Routledge, 2003), 22.
+[^37]:  Charlene Villaseñor Black, "St. Anne Imagery and Maternal Archetypes in Spain and Mexico," in *Colonial Saints: Discovering the Holy in the Americas. 1500--1800* ed. Allan Greer and Jodi Bilinkoff (New York: Routledge, 2003), 22.
 
-[^38]:  Clark, *Masterless Mistresses*, 160. Tracy Fessenden has
-suggested that Clark may be a little too willing to attribute a
-"rhetoric of equality" to the Ursuline sisters, in light of their
-unwillingness to challenge slavery. Tracy Fessenden, "untitled
-review," review of *Masterless Mistresses: The New Orleans Ursulines
-and the Development of a New World Society, 1727--1834*,* * by
-Emily Clark, *Church History*  77 (2008): 1073--1078.
+[^38]:  Clark, *Masterless Mistresses*, 160. Tracy Fessenden has suggested that Clark may be a little too willing to attribute a "rhetoric of equality" to the Ursuline sisters, in light of their unwillingness to challenge slavery. Tracy Fessenden, "untitled review," review of *Masterless Mistresses: The New Orleans Ursulines and the Development of a New World Society, 1727--1834*, by Emily Clark, *Church History*  77 (2008): 1073--1078.
 
-[^39]:  "An Act Concerning Negroes and Other Slaves" (1664), in *Civil
-Rights and African Americans*, eds. Albert P. Blaustein and Robert
-L. Zangrando, (Evanston, IL: Northwestern University Press, 1968),
-8--9.
+[^39]:  "An Act Concerning Negroes and Other Slaves" (1664), in *Civil Rights and African Americans*, eds. Albert P. Blaustein and Robert L. Zangrando, (Evanston, IL: Northwestern University Press, 1968), 8--9.
 
-[^40]:  Thomas J. Murphy, *Jesuit Slaveholding in Maryland, 1717--1838*
-(New York: Routledge, 2001), 131, 147--149; James Hennesey,
-*American Catholics: A History of the Roman Catholic Community in
-the United States*  (New York: Oxford University Press, 1981),
-143--157; and McGreevy, *Catholicism and American Freedom*, 43--67.
+[^40]:  Thomas J. Murphy, *Jesuit Slaveholding in Maryland, 1717--1838* (New York: Routledge, 2001), 131, 147--149; James Hennesey, *American Catholics: A History of the Roman Catholic Community in the United States*  (New York: Oxford University Press, 1981), 143--157; and McGreevy, *Catholicism and American Freedom*, 43--67.
 
-[^41]:  Harriet Martineau, *Society in America*  (London: Saunders and
-Otley, 1837), 2:323; and O'Toole, *The Faithful*, 59.
+[^41]:  Harriet Martineau, *Society in America*  (London: Saunders and Otley, 1837), 2:323; and O'Toole, *The Faithful*, 59.
 
-[^42]:  Edmund Morgan, *American Slavery, American Freedom: The Ordeal
-of Colonial Virginia*  (New York: W.W. Norton, 1975), 381, 380.
+[^42]:  Edmund Morgan, *American Slavery, American Freedom: The Ordeal of Colonial Virginia*  (New York: W.W. Norton, 1975), 381, 380.
 
-[^43]:  Barbara Jeanne Fields, *Slavery and Freedom in the Middle
-Ground*  (New Haven: Yale University Press, 1985), 13; Trevor Graeme
-Burnard, *Creole Gentlemen: The Maryland Elite, 1691--1776*  (New
-York, 2002), 5, 36, 38, 265; and Beatrize Bentancourt Hardy,
-"Papists in a Protestant Age: The Catholic Gentry and Community in
-Colonial Maryland, 1689--1776" (Ph.D. dissertation, University of
-Maryland, 1993), 214, n. 68. Charles Carroll of Annapolis owned 386
-slaves in 1773. Henry Darnell owned 100 in 1711.
+[^43]:  Barbara Jeanne Fields, *Slavery and Freedom in the Middle Ground*  (New Haven: Yale University Press, 1985), 13; Trevor Graeme Burnard, *Creole Gentlemen: The Maryland Elite, 1691--1776*  (New York, 2002), 5, 36, 38, 265; and Beatrize Bentancourt Hardy, "Papists in a Protestant Age: The Catholic Gentry and Community in Colonial Maryland, 1689--1776" (Ph.D. dissertation, University of Maryland, 1993), 214, n. 68. Charles Carroll of Annapolis owned 386 slaves in 1773. Henry Darnell owned 100 in 1711.
 
-[^44]:  Eugene D. Genovese, *The Slaveholders' Dilemma: Freedom and
-Progress in Southern Political Thought, 1820--1860* (Columbia:
-University of South Carolina Press, 1992), 6, 17; Lacy K. Ford,
-*Origins of Southern Radicalism: The South Carolina Upcountry,
-1800--1860* (New York: Oxford University Press, 1988), 372--373. For
-more on how Protestants used anti-Catholicism to define the
-parameters of American freedom, see Elizabeth Fenton, *Religious
-Liberties: Anti-Catholicism and Liberal Democracy in Nineteenth
-Century U.S. Literature and Culture*  (New York: Oxford University
+[^44]:  Eugene D. Genovese, *The Slaveholders' Dilemma: Freedom and Progress in Southern Political Thought, 1820--1860* (Columbia: University of South Carolina Press, 1992), 6, 17; Lacy K. Ford, *Origins of Southern Radicalism: The South Carolina Upcountry, 1800--1860* (New York: Oxford University Press, 1988), 372--373. For more on how Protestants used anti-Catholicism to define the parameters of American freedom, see Elizabeth Fenton, *Religious Liberties: Anti-Catholicism and Liberal Democracy in Nineteenth Century U.S. Literature and Culture*  (New York: Oxford University
 Press, 2011).
 
-[^45]:  Farrelly, "American Slavery, American Freedom, American
-Catholicism," 92--94, n43; and Ira Berlin, *Slaves Without Masters:
-The Free Negro in the Antebellum South*  (New York: New Press 1992),
-46, 29.
+[^45]:  Farrelly, "American Slavery, American Freedom, American Catholicism," 92--94, n43; and Ira Berlin, *Slaves Without Masters: The Free Negro in the Antebellum South*  (New York: New Press 1992), 46, 29.
 
 [http://www.restorersmtcarmelmd.org/Nuns\_of\_Mt\_Carmel.html]: http://www.restorersmtcarmelmd.org/Nuns_of_Mt_Carmel.html
