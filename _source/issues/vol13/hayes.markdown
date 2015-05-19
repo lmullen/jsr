@@ -233,70 +233,20 @@ a "hard, hard religion" that wrestled with what one country song called
 propertied and the poor inscribed their own new evangelical forms with
 their new class positions in the class-conscious New South.
 
-[^1]:  Glenda Elizabeth Gilmore, *Gender and Jim Crow: Women and the
-Politics of White Supremacy in North Carolina, 1896--1920* (Chapel Hill:
-University of North Carolina Press, 1996); Leon Litwack, *Trouble in
-Mind: Black Southerners in the Age of Jim Crow* (New York: Knopf, 1998);
-Grace Elizabeth Hale, *Making Whiteness: The Culture of Segregation in
-the South, 1890--1940* (New York: Pantheon, 1998); Jane Dailey, Glenda
-Elizabeth Gilmore, and Bryant Simon, eds., *Jumpin' Jim Crow: Southern
-Politics from Civil War to Civil Rights* (Princeton: Princeton
-University, 2000); W. Fitzhugh Brundage, *The Southern Past: A Clash of
-Race and Memory* (Cambridge, Mass.: Belknap Press of Harvard University
-Press, 2005); Jacquelyn Dowd Hall, "The Long Civil Rights Movement and
-the Political Uses of the Past," *Journal of American History* 91 (March
-2005): 1233--63; Jennifer Ritterhouse, *Growing Up Jim Crow: How Black
-and White Southern Children Learned Race* (Chapel Hill: University of
-North Carolina Press, 2006). 
+[^1]:  Glenda Elizabeth Gilmore, *Gender and Jim Crow: Women and the Politics of White Supremacy in North Carolina, 1896--1920* (Chapel Hill: University of North Carolina Press, 1996); Leon Litwack, *Trouble in Mind: Black Southerners in the Age of Jim Crow* (New York: Knopf, 1998); Grace Elizabeth Hale, *Making Whiteness: The Culture of Segregation in the South, 1890--1940* (New York: Pantheon, 1998); Jane Dailey, Glenda Elizabeth Gilmore, and Bryant Simon, eds., *Jumpin' Jim Crow: Southern Politics from Civil War to Civil Rights* (Princeton: Princeton University, 2000); W. Fitzhugh Brundage, *The Southern Past: A Clash of Race and Memory* (Cambridge, Mass.: Belknap Press of Harvard University Press, 2005); Jacquelyn Dowd Hall, "The Long Civil Rights Movement and the Political Uses of the Past," *Journal of American History* 91 (March 2005): 1233--63; Jennifer Ritterhouse, *Growing Up Jim Crow: How Black and White Southern Children Learned Race* (Chapel Hill: University of North Carolina Press, 2006). 
  
- [^2]:  C. Vann Woodward, *Origins of the New South, 1877--1913*
-(Baton Rouge: Louisiana State University Press, 1951), 452--53. 
+ [^2]:  C. Vann Woodward, *Origins of the New South, 1877--1913* (Baton Rouge: Louisiana State University Press, 1951), 452--53. 
  
- [^3]:  George B. Tindall, *The Emergence of the New South,
-1913--1945* (Baton Rouge: Louisiana State University Press, 1967),
-197--98. 
+ [^3]:  George B. Tindall, *The Emergence of the New South, 1913--1945* (Baton Rouge: Louisiana State University Press, 1967), 197--98. 
  
- [^4]:  For a sweeping application of this model to an industrial
-county in the New South, see Liston Pope's classic *Millhands and
-Preachers: A Study of Gastonia* (New Haven: Yale University Press,
-1942).
+ [^4]:  For a sweeping application of this model to an industrial county in the New South, see Liston Pope's classic *Millhands and Preachers: A Study of Gastonia* (New Haven: Yale University Press, 1942).
  
- [^5]:  Brian Kelly, "Labor, Race, and the Search for a Central Theme
-in the History of the Jim Crow South,"*Irish Journal of American
-Studies* 10 (Dec. 2001): 55--73.
+ [^5]:  Brian Kelly, "Labor, Race, and the Search for a Central Theme in the History of the Jim Crow South,"*Irish Journal of American Studies* 10 (Dec. 2001): 55--73.
  
- [^6]:  Ted Ownby, *Subduing Satan: Religion, Recreation, and Manhood
-in the Rural South, 1865--1920* (Chapel Hill: University of North
-Carolina Press, 1990); John M. Giggie, *After Redemption: Jim Crow and
-the Transformation of African American Religion in the Delta, 1875--1915*
-(Oxford: Oxford University, 2008). Ironically, class analysis is much
-more developed in the historiography of antebellum religion. We know a
-lot about how the evangelicalism that had first appeared in the South in
-the mid-eighteenth century was transformed in the early nineteenth
-century into radically different types, one that spoke to planters and
-prosperous yeomen, and another that spoke to slaves and free blacks. But
-we know little about how this adaptable evangelicalism was reconfigured
-in the late nineteenth century, as antebellum classes ceased to exist,
-and new classes---the thrifty, enterprising, calculating small capitalists
-lauded by Henry Grady and Booker T. Washington---came to exist. In fact,
-the question has hardly been asked.
+ [^6]:  Ted Ownby, *Subduing Satan: Religion, Recreation, and Manhood in the Rural South, 1865--1920* (Chapel Hill: University of North Carolina Press, 1990); John M. Giggie, *After Redemption: Jim Crow and the Transformation of African American Religion in the Delta, 1875--1915* (Oxford: Oxford University, 2008). Ironically, class analysis is much more developed in the historiography of antebellum religion. We know a lot about how the evangelicalism that had first appeared in the South in the mid-eighteenth century was transformed in the early nineteenth century into radically different types, one that spoke to planters and prosperous yeomen, and another that spoke to slaves and free blacks. But we know little about how this adaptable evangelicalism was reconfigured in the late nineteenth century, as antebellum classes ceased to exist, and new classes---the thrifty, enterprising, calculating small capitalists lauded by Henry Grady and Booker T. Washington---came to exist. In fact, the question has hardly been asked.
  
- [^7]:  The leading scholar of evangelical sameness over time is
-Samuel Hill. For the earliest statement of his thesis, see *Southern
-Churches in Crisis* (New York: Holt, Rinehart, Winston, 1967).
+ [^7]:  The leading scholar of evangelical sameness over time is Samuel Hill. For the earliest statement of his thesis, see *Southern Churches in Crisis* (New York: Holt, Rinehart, Winston, 1967).
  
- [^8]:  Evelyn Books Higginbotham, *Righteous Discontent: The Women's
-Movement in the Black Baptist Church, 1880--1920* (Cambridge, Mass.:
-Harvard University Press, 1993); Paul Harvey, *Redeeming the South:
-Religious Cultures and Racial Identities Among Southern Baptists,
-1865--1925* (Chapel Hill: University of North Carolina Press, 1997); Paul
-Harvey, *Freedom's Coming: Religious Culture and the Shaping of the
-South from the Civil War through the Civil Rights Era* (Chapel Hill:
-University of North Carolina Press, 2005).
+ [^8]:  Evelyn Books Higginbotham, *Righteous Discontent: The Women's Movement in the Black Baptist Church, 1880--1920* (Cambridge, Mass.: Harvard University Press, 1993); Paul Harvey, *Redeeming the South: Religious Cultures and Racial Identities Among Southern Baptists, 1865--1925* (Chapel Hill: University of North Carolina Press, 1997); Paul Harvey, *Freedom's Coming: Religious Culture and the Shaping of the South from the Civil War through the Civil Rights Era* (Chapel Hill: University of North Carolina Press, 2005).
  
- [^9]:  See John Hayes, "Hard, Hard Religion: The Invisible
-Institution of the New South," *Journal of Southern Religion* 10 (2007):
-1--24, online at
-[http://jsr.fsu.edu/Volume10/Hayes.pdf](http://jsr.fsu.edu/Volume10/Hayes.pdf).
-See also Jarod Roll, *Spirit of Rebellion: Labor and Religion in the New
-Cotton South* (Urbana: University of Illinois Press, 2010).
+ [^9]:  See John Hayes, "Hard, Hard Religion: The Invisible Institution of the New South," *Journal of Southern Religion* 10 (2007): 1--24, online at [http://jsr.fsu.edu/Volume10/Hayes.pdf](http://jsr.fsu.edu/Volume10/Hayes.pdf). See also Jarod Roll, *Spirit of Rebellion: Labor and Religion in the New Cotton South* (Urbana: University of Illinois Press, 2010).
