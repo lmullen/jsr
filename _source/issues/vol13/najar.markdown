@@ -247,11 +247,8 @@ it provided room for the creative misunderstandings that would allow
 biracial churches to thrive in the early republic despite meaningful
 differences on questions of such importance.
 
-[^1]:  Sandy Run Baptist Church Record Book, 26 April 1777, State
-Historical Society of Wisconsin. 
+[^1]:  Sandy Run Baptist Church Record Book, 26 April 1777, State Historical Society of Wisconsin. 
  
-[^2]:  R. Laurence Moore, *Selling God: American Religion in the
-Marketplace of Culture* (New York: Oxford University Press, 1995), 7--8.
+[^2]:  R. Laurence Moore, *Selling God: American Religion in the Marketplace of Culture* (New York: Oxford University Press, 1995), 7--8.
 
-[^3]:  Jeanne Boydston, "Gender as a Question of Historical
-Analysis," *Gender & History*, 20 (Nov. 2008): 560.
+[^3]:  Jeanne Boydston, "Gender as a Question of Historical Analysis," *Gender & History*, 20 (Nov. 2008): 560.
