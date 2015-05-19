@@ -95,7 +95,4 @@ stronghold. No doubt, Wilson is only beginning a conversation that he
 hopes others will join.
 
 
-[^1]: Ted Ownby, "Evangelical but Differentiated: Religion by the
-Numbers," in *Religion and Public Life in the South: In the
-Evangelical Mode*, ed. Charles Reagan Wilson and Mark Silk (Lanham,
-Md.: AltaMira Press, 2005), 33.
+[^1]: Ted Ownby, "Evangelical but Differentiated: Religion by the Numbers," in *Religion and Public Life in the South: In the Evangelical Mode*, ed. Charles Reagan Wilson and Mark Silk (Lanham, Md.: AltaMira Press, 2005), 33.
