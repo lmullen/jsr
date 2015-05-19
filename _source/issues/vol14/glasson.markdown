@@ -481,135 +481,61 @@ of Common Prayer. The southern United States would be transformed by
 evangelical Protestantism, but colonial southerners' religious lives
 were not spent simply waiting for its arrival.
 
-[^1]: John T. McGrath, *The French in Early Florida: In the Eye of the
-Hurricane* (Gainesville: University Press of Florida, 2000).
+[^1]: John T. McGrath, *The French in Early Florida: In the Eye of the Hurricane* (Gainesville: University Press of Florida, 2000).
 
-[^2]: Valuable historiographical assessments of religion in the colonial
-South include John B. Boles, "The Discovery of Southern Religious
-History," in *Interpreting Southern History: Historiographical
-Essays in Honor of Sanford W. Higginbotham*, eds. John B. Boles and
-Evelyn Thomas Nolen(Baton Rouge: Louisiana State University Press,
-1987), 510--48; Randy J. Sparks, "Religion in the Pre-Civil War
-South," in *A Companion to the American South*, ed. John B.
-Boles(Malden, MA: Blackwell, 2002), 156--175; Jon F. Sensbach,
-"Before the Bible Belt: Indians, Africans, and the New Synthesis of
-Eighteenth Century Southern Religious History," in *Religion in the
-American South: Protestants and Others in History and Culture*, eds.
-Beth Barton Schweiger and Donald G. Mathews(Chapel Hill: University
-of North Carolina Press, 2004), 5--29; and Jon F. Sensbach,
-"Religion and the Early South in an Age of Atlantic Empire,"
-*Journal of Southern History*, 73 (2007): 631--42.
+[^2]: Valuable historiographical assessments of religion in the colonial South include John B. Boles, "The Discovery of Southern Religious History," in *Interpreting Southern History: Historiographical Essays in Honor of Sanford W. Higginbotham*, eds. John B. Boles and Evelyn Thomas Nolen(Baton Rouge: Louisiana State University Press, 1987), 510--48; Randy J. Sparks, "Religion in the Pre-Civil War South," in *A Companion to the American South*, ed. John B. Boles(Malden, MA: Blackwell, 2002), 156--175; Jon F. Sensbach, "Before the Bible Belt: Indians, Africans, and the New Synthesis of Eighteenth Century Southern Religious History," in *Religion in the American South: Protestants and Others in History and Culture*, eds. Beth Barton Schweiger and Donald G. Mathews(Chapel Hill: University of North Carolina Press, 2004), 5--29; and Jon F. Sensbach, "Religion and the Early South in an Age of Atlantic Empire," *Journal of Southern History*, 73 (2007): 631--42.
 
-[^3]: See, for example, Charles Reagan Wilson, "Introduction," in
-*Religion in the South*, ed. Charles Reagan Wilson(Jackson:
-University Press of Mississippi, 1985), 4--5.
+[^3]: See, for example, Charles Reagan Wilson, "Introduction," in *Religion in the South*, ed. Charles Reagan Wilson(Jackson: University Press of Mississippi, 1985), 4--5.
 
-[^4]: Sensbach has drawn particular attention to this development.
-Sensbach, "Religion and the Early South in an Age of Atlantic
-Empire," 634--36.
+[^4]: Sensbach has drawn particular attention to this development. Sensbach, "Religion and the Early South in an Age of Atlantic Empire," 634--36.
 
-[^5]: Walter H. Conser, Jr., *A Coat of Many Colors: Religion and
-Society Along the Cape Fear River of North Carolina* (Lexington:
-University Press of Kentucky, 2006).
+[^5]: Walter H. Conser, Jr., *A Coat of Many Colors: Religion and Society Along the Cape Fear River of North Carolina* (Lexington: University Press of Kentucky, 2006).
 
-[^6]: Karen Ordahl Kupperman, *The Jamestown Project* (Cambridge, MA:
-Belknap Press of Harvard University Press, 2007), 15.
+[^6]: Karen Ordahl Kupperman, *The Jamestown Project* (Cambridge, MA: Belknap Press of Harvard University Press, 2007), 15.
 
-[^7]: Randy J. Sparks, *Religion in Mississippi* (Jackson: University
-Press of Mississippi, 2001), 15, 19--26.
+[^7]: Randy J. Sparks, *Religion in Mississippi* (Jackson: University Press of Mississippi, 2001), 15, 19--26.
 
-[^8]: For a recent synthesis of colonial religious development from an
-explicitly Atlantic perspective, see Carla Gardina Pestana,
-*Protestant Empire: Religion and the Making of the British Atlantic
-World* (Philadelphia: University of Pennsylvania Press, 2009).
+[^8]: For a recent synthesis of colonial religious development from an explicitly Atlantic perspective, see Carla Gardina Pestana, *Protestant Empire: Religion and the Making of the British Atlantic World* (Philadelphia: University of Pennsylvania Press, 2009).
 
-[^9]: Christine Leigh Heyrman, *Southern Cross: The Beginnings of the
-Bible Belt* (Chapel Hill: University of North Carolina Press, 1997),
-6.
+[^9]: Christine Leigh Heyrman, *Southern Cross: The Beginnings of the Bible Belt* (Chapel Hill: University of North Carolina Press, 1997), 6.
 
-[^10]: Particularly influential in this regard were the syntheses of
-colonial American religious history produced by Patricia Bonomi and
-Jon Butler, which decentered New England in the nation's early
-religious history and stressed that colonial American culture became
-more, not less, influenced by institutional Protestant Christianity
-over time. Bonomi, *Under the Cope of Heaven: Religion, Society, and
-Politics in Colonial America* (1986; New York: Oxford University
-Press, 2003); and Jon Butler, *Awash in a Sea of Faith:
-Christianizing the American People* (Cambridge, MA: Harvard
-University Press, 1990).
+[^10]: Particularly influential in this regard were the syntheses of colonial American religious history produced by Patricia Bonomi and Jon Butler, which decentered New England in the nation's early religious history and stressed that colonial American culture became more, not less, influenced by institutional Protestant Christianity over time. Bonomi, *Under the Cope of Heaven: Religion, Society, and Politics in Colonial America* (1986; New York: Oxford University Press, 2003); and Jon Butler, *Awash in a Sea of Faith: Christianizing the American People* (Cambridge, MA: Harvard University Press, 1990).
 
-[^11]: Douglas Bradburn, "The Eschatological Origins of the English
-Empire," in Douglas Bradburn and John C. Coombs, eds., *Early Modern
-Virginia: Reconsidering the Old Dominion* (Charlottesville:
-University of Virginia Press, 2011), 15--56.
+[^11]: Douglas Bradburn, "The Eschatological Origins of the English Empire," in Douglas Bradburn and John C. Coombs, eds., *Early Modern Virginia: Reconsidering the Old Dominion* (Charlottesville: University of Virginia Press, 2011), 15--56.
 
 [^12]: Kupperman, *Jamestown Project*, 298--99.
 
-[^13]: Eliga H. Gould, "Entangled Histories, Entangled Worlds: The
-English-Speaking Atlantic as a Spanish Periphery," *American
-Historical Review* 112, no. 3 (June 2007): 769.
+[^13]: Eliga H. Gould, "Entangled Histories, Entangled Worlds: The English-Speaking Atlantic as a Spanish Periphery," *American Historical Review* 112, no. 3 (June 2007): 769.
 
-[^14]: April Lee Hatfield, *Atlantic Virginia: Intercolonial Relations
-in the Seventeenth Century* (Philadelphia: University of
-Pennsylvania Press, 2004), 115, 119.
+[^14]: April Lee Hatfield, *Atlantic Virginia: Intercolonial Relations in the Seventeenth Century* (Philadelphia: University of Pennsylvania Press, 2004), 115, 119.
 
-[^15]: Carla Gardina Pestana, *The English Atlantic in the Age of
-Revolution, 1640--1661* (Cambridge, MA: Harvard University Press,
-2004), 21.
+[^15]: Carla Gardina Pestana, *The English Atlantic in the Age of Revolution, 1640--1661* (Cambridge, MA: Harvard University Press, 2004), 21.
 
-[^16]: On the religious situation in Virginia in the English Civil War
-years, see Hatfield, *Atlantic Virginia*, 116--22; and Pestana, *The
-English Atlantic in An Age of Revolution*, 54--66, 82--85, 115--17.
+[^16]: On the religious situation in Virginia in the English Civil War years, see Hatfield, *Atlantic Virginia*, 116--22; and Pestana, *The English Atlantic in An Age of Revolution*, 54--66, 82--85, 115--17.
 
-[^17]: Thomas J. Little, "The Origins of Southern Evangelicalism:
-Revivalism in South Carolina, 1700--1740," *Church History*, 75
-(2006): 785.
+[^17]: Thomas J. Little, "The Origins of Southern Evangelicalism: Revivalism in South Carolina, 1700--1740," *Church History*, 75 (2006): 785.
 
-[^18]: John K. Nelson, *A Blessed Company: Parishes, Parsons, and
-Parishioners in Anglican Virginia, 1690--1776* (Chapel Hill:
-University of North Carolina Press, 2001), 16.
+[^18]: John K. Nelson, *A Blessed Company: Parishes, Parsons, and Parishioners in Anglican Virginia, 1690--1776* (Chapel Hill: University of North Carolina Press, 2001), 16.
 
-[^19]: Ibid., 7. Brent Tartar has provided a valuable overview of the
-scholarly reassessment of Virginian Anglicanism and situated recent
-works within the longer literature on the colony. Tarter,
-"Reflections on the Church of England in Colonial Virginia,"
-*Virginia Magazine of History and Biography* 112 (2004): 338--71.
+[^19]: Ibid., 7. Brent Tartar has provided a valuable overview of the scholarly reassessment of Virginian Anglicanism and situated recent works within the longer literature on the colony. Tarter, "Reflections on the Church of England in Colonial Virginia," *Virginia Magazine of History and Biography* 112 (2004): 338--71.
 
-[^20]: Leslie J. Lindenauer, *Piety and Power: Gender and Religious
-Culture in the American Colonies, 1630--1700* (New York: Routledge,
-2002), xviii--xix.
+[^20]: Leslie J. Lindenauer, *Piety and Power: Gender and Religious Culture in the American Colonies, 1630--1700* (New York: Routledge, 2002), xviii--xix.
 
-[^21]: Edward L. Bond, *Damned Souls in a Tobacco Colony: Religion in
-Seventeenth-Century Virginia* (Macon, GA: Mercer University Press,
-2000), 183--84. Bond's *Spreading the Gospel in Colonial Virginia:
-Preaching and Community: With Selected Sermons and Other Primary
-Documents* (Lanham, MD: Lexington Books, 2005) begins with a brief
-account of religion in colonial Virginia and then presents a
-selection of sermons by Anglican clergymen.
+[^21]: Edward L. Bond, *Damned Souls in a Tobacco Colony: Religion in Seventeenth-Century Virginia* (Macon, GA: Mercer University Press, 2000), 183--84. Bond's *Spreading the Gospel in Colonial Virginia: Preaching and Community: With Selected Sermons and Other Primary Documents* (Lanham, MD: Lexington Books, 2005) begins with a brief account of religion in colonial Virginia and then presents a selection of sermons by Anglican clergymen.
 
-[^22]: On the role of the Book of Common Prayer and other texts in
-Anglican piety, see Catherine Kerrison, *Claiming the Pen: Women and
-Intellectual Life in the Early American South* (Ithaca: Cornell
-University Press, 2006), 41; Lauren F. Winner, *A Cheerful and
-Comfortable Faith: Anglican Religious Practice in the Elite
-Households of Eighteenth-Century Virginia* (New Haven, CT: Yale
-University Press, 2010), 91; Bond, *Damned Souls in a Tobacco
-Colony*, 264; and Heyrman, *Southern Cross*, 11.
+[^22]: On the role of the Book of Common Prayer and other texts in Anglican piety, see Catherine Kerrison, *Claiming the Pen: Women and Intellectual Life in the Early American South* (Ithaca: Cornell University Press, 2006), 41; Lauren F. Winner, *A Cheerful and Comfortable Faith: Anglican Religious Practice in the Elite Households of Eighteenth-Century Virginia* (New Haven, CT: Yale University Press, 2010), 91; Bond, *Damned Souls in a Tobacco Colony*, 264; and Heyrman, *Southern Cross*, 11.
 
 [^23]: J. Nelson, *A Blessed Company*, 3, 32.
 
 [^24]: Bond, *Damned Souls in a Tobacco Colony*, 245.
 
-[^25]: Julie Anne Sweet, *William Stephens: Georgia's Forgotten Founder*
-(Baton Rouge: Louisiana State University Press, 2010), 185, 200.
+[^25]: Julie Anne Sweet, *William Stephens: Georgia's Forgotten Founder* (Baton Rouge: Louisiana State University Press, 2010), 185, 200.
 
 [^26]: J. Nelson, *A Blessed Company,* 9.
 
 [^27]: Winner, *Cheerful and Comfortable Faith,* 2, 3--5, 17.
 
-[^28]: Louis P. Nelson, *The Beauty of Holiness: Anglicanism &
-Architecture in Colonial South Carolina* (Chapel Hill: University of
-North Carolina Press, 2008), 214--15.
+[^28]: Louis P. Nelson, *The Beauty of Holiness: Anglicanism & Architecture in Colonial South Carolina* (Chapel Hill: University of North Carolina Press, 2008), 214--15.
 
 [^29]: Heyrman, *Southern Cross*, 14--15.
 
@@ -617,83 +543,42 @@ North Carolina Press, 2008), 214--15.
 
 [^31]: L. Nelson, *Beauty of Holiness*, 258, 262.
 
-[^32]: Nicholas M. Beasley, *Christian Ritual and the Creation of
-British Slave Societies* (Athens: University of Georgia Press,
-2009), 5--6.
+[^32]: Nicholas M. Beasley, *Christian Ritual and the Creation of British Slave Societies* (Athens: University of Georgia Press, 2009), 5--6.
 
-[^33]: Beasley, *Christian Ritual*, 10. Winner has likewise interpreted
-eighteenth-century Virginian's embrace of household rather than
-church baptism in part as a response to the leveling implications of
-the baptism of enslaved people. Winner, *Cheerful and Comfortable
-Faith,* 44.
+[^33]: Beasley, *Christian Ritual*, 10. Winner has likewise interpreted eighteenth-century Virginian's embrace of household rather than church baptism in part as a response to the leveling implications of the baptism of enslaved people. Winner, *Cheerful and Comfortable Faith,* 44.
 
-[^34]: On the development of Anglican attitudes toward slavery, see
-Travis Glasson, *Mastering Christianity: Missionary Anglicanism and
-Slavery in the Atlantic World* (New York: Oxford University Press,
-2012).
+[^34]: On the development of Anglican attitudes toward slavery, see Travis Glasson, *Mastering Christianity: Missionary Anglicanism and Slavery in the Atlantic World* (New York: Oxford University Press, 2012).
 
-[^35]: The best account of the emergence of black Protestantism, and an
-excellent and early example of the benefits of considering
-developments in the colonial South alongside those in the Caribbean,
-remains Sylvia R. Frey and Betty Wood, *Come Shouting to Zion:
-African American Protestantism In the American South and British
-Caribbean to 1830* (Chapel Hill: University of North Carolina Press,
-1998).
+[^35]: The best account of the emergence of black Protestantism, and an excellent and early example of the benefits of considering developments in the colonial South alongside those in the Caribbean, remains Sylvia R. Frey and Betty Wood, *Come Shouting to Zion: African American Protestantism In the American South and British Caribbean to 1830* (Chapel Hill: University of North Carolina Press, 1998).
 
-[^36]: Annette Laing, "'Heathens and Infidels'? African Christianization
-and Anglicanism in the South Carolina Low Country, 1700--1750,"
-*Religion and American Culture* 12 (2002): 200.
+[^36]: Annette Laing, "'Heathens and Infidels'? African Christianization and Anglicanism in the South Carolina Low Country, 1700--1750," *Religion and American Culture* 12 (2002): 200.
 
 [^37]: Glasson, *Mastering Christianity*, 105--9.
 
-[^38]: Robert Olwell, *Masters, Slaves, and Subjects: The Culture of
-Power in the South Carolina Low Country* (Ithaca, NY: Cornell
-University Press, 1998), 107.
+[^38]: Robert Olwell, *Masters, Slaves, and Subjects: The Culture of Power in the South Carolina Low Country* (Ithaca, NY: Cornell University Press, 1998), 107.
 
-[^39]: J. Nelson, *Blessed* Company, 267. The work discussed here has
-centered on the eighteenth century. See also Rebecca Goetz's *The
-Baptism of Early Christianity: How Christianity Created Race*
-(Baltimore: Johns Hopkins University Press, 2012) sheds much needed
-light on the seventeenth century.
+[^39]: J. Nelson, *Blessed* Company, 267. The work discussed here has centered on the eighteenth century. See also Rebecca Goetz's *The Baptism of Early Christianity: How Christianity Created Race (Baltimore: Johns Hopkins University Press, 2012) sheds much needed light on the seventeenth century.
 
-[^40]: Jon Butler, "Enthusiasm Described and Decried: The Great
-Awakening as Interpretative Fiction," *Journal of American History*
-69 (1982): 305--325.
+[^40]: Jon Butler, "Enthusiasm Described and Decried: The Great Awakening as Interpretative Fiction," *Journal of American History* 69 (1982): 305--325.
 
 [^41]: Heyrman, *Southern Cross*, 9.
 
-[^42]: Little, "The Origins of Southern Evangelicalism," 771, 773. See
-also Little, "'Adding to the Church Such as Shall be Saved': The
-Growth in Influence of Evangelicalism in Colonial South Carolina,
-1740--1775," in *Money, Trade and Power: The Evolution of Colonial
-South Carolina's Plantation Society*, eds. Jack P. Greene, Rosemary
-Brana-Shute, and Randy J. Sparks (Columbia: The University of South
-Carolina Press, 2001), 362--82.
+[^42]: Little, "The Origins of Southern Evangelicalism," 771, 773. See also Little, "'Adding to the Church Such as Shall be Saved': The Growth in Influence of Evangelicalism in Colonial South Carolina, 1740--1775," in *Money, Trade and Power: The Evolution of Colonial South Carolina's Plantation Society*, eds. Jack P. Greene, Rosemary Brana-Shute, and Randy J. Sparks (Columbia: The University of South Carolina Press, 2001), 362--82.
 
-[^43]: For the interconnections between American historiographies of the
-frontier and religion, see John Boles, "Turner, the Frontier, and
-the Study of Religion in America," *Journal of the Early Republic*
-13 (1993): 205--16.
+[^43]: For the interconnections between American historiographies of the frontier and religion, see John Boles, "Turner, the Frontier, and the Study of Religion in America," *Journal of the Early Republic* 13 (1993): 205--16.
 
 [^44]: J. Nelson, *A Blessed Company*, 285.
 
-[^45]: Jewel L. Spangler, *Virginians Reborn: Anglican Monopoly,
-Evangelical Dissent, and the Rise of the Baptists in the Late
-Eighteenth Century* (Charlottesville: University of Virginia Press,
-2008), 46, 77.
+[^45]: Jewel L. Spangler, *Virginians Reborn: Anglican Monopoly, Evangelical Dissent, and the Rise of the Baptists in the Late Eighteenth Century* (Charlottesville: University of Virginia Press, 2008), 46, 77.
 
 [^46]: Ibid., 165.
 
 [^47]: Ibid., 4.
 
-[^48]: Peter N. Moore, *World of Toil and Strife: Community
-Transformation in the Backcountry South Carolina, 1750--1805*
-(Columbia: University of South Carolina Press, 2007), 3.
+[^48]: Peter N. Moore, *World of Toil and Strife: Community Transformation in the Backcountry South Carolina, 1750--1805* (Columbia: University of South Carolina Press, 2007), 3.
 
 [^49]: Spangler, *Virginians Reborn*, 87.
 
 [^50]: Nelson, *A Blessed Company*, 285.
 
-[^51]: Thomas S. Kidd, *The Great Awakening: The Roots of Evangelical
-Christianity in Colonial America* (New Haven, CT: Yale University
-Press, 2007), 323.
+[^51]: Thomas S. Kidd, *The Great Awakening: The Roots of Evangelical Christianity in Colonial America* (New Haven, CT: Yale University Press, 2007), 323.
