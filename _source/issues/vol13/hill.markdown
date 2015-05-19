@@ -151,41 +151,16 @@ allow future scholars to delve further into the history of African
 American female missionaries.
 
 
-[^1]:  The book-length studies include Glenda Gilmore, *Gender and
-Jim Crow*: *Women and the Politics of White Supremacy in North
-Carolina*, 1896-1920 (Chapel Hill: University of North Carolina Press,
-1996); Colleen McDannell, *The Christian Home in Victorian America,
-1840-1900* (Bloomington: Indiana University Press, 1986); Louise Michele
-Newman, *White Women's Rights: the Racial Origins of Feminism in the
-United States* (New York: Oxford University Press, 1999); Peggy Pascoe,
-*Relations of Rescue: The Search for Female Moral Authority in the
-American West, 1874-1939*(New York: Oxford University Press, 1990);
-Rhonda Anne Semple, *Missionary Women: Gender, Professionalism and the
-Victorian Idea of Christian Mission* (Rochester, N.Y.: The Boydell
-Press, 2003); and Stephanie J. Shaw, *What a Woman Ought to Be and to
-Do* (Chicago: University of Chicago Press, 1996). 
+[^1]:  The book-length studies include Glenda Gilmore, *Gender and Jim Crow*: *Women and the Politics of White Supremacy in North Carolina*, 1896-1920 (Chapel Hill: University of North Carolina Press, 1996); Colleen McDannell, *The Christian Home in Victorian America, 1840-1900* (Bloomington: Indiana University Press, 1986); Louise Michele Newman, *White Women's Rights: the Racial Origins of Feminism in the United States* (New York: Oxford University Press, 1999); Peggy Pascoe, *Relations of Rescue: The Search for Female Moral Authority in the American West, 1874-1939*(New York: Oxford University Press, 1990); Rhonda Anne Semple, *Missionary Women: Gender, Professionalism and the Victorian Idea of Christian Mission* (Rochester, N.Y.: The Boydell Press, 2003); and Stephanie J. Shaw, *What a Woman Ought to Be and to Do* (Chicago: University of Chicago Press, 1996). 
 
-[^2]:  Richard J. Douglass-Chin, *Preacher Woman Sings the Blues:
-The Autobiographies of Nineteenth-Century African American Evangelists*
-(Columbia: University of Missouri Press, 2001); *Spiritual
-Narratives,*ed.Sue Houchins (Oxford: Oxford University Press, 1988). 
+[^2]:  Richard J. Douglass-Chin, *Preacher Woman Sings the Blues: The Autobiographies of Nineteenth-Century African American Evangelists* (Columbia: University of Missouri Press, 2001); *Spiritual Narratives,*ed.Sue Houchins (Oxford: Oxford University Press, 1988). 
 
-[^3]:  Evelyn Brooks Higginbotham, *Righteous Discontent: The
-Women's Movement in the Black Baptist Church, 1880-192*0 (Cambridge,
-Mass.: Harvard University Press, 1994), 125-133. 
+[^3]:  Evelyn Brooks Higginbotham, *Righteous Discontent: The Women's Movement in the Black Baptist Church, 1880-192* (Cambridge, Mass.: Harvard University Press, 1994), 125-133. 
 
-[^4]:  Keith Harper,*Send the Light: Lottie Moon's Letters and Other
-Writings* (Macon, Ga.: Mercer University Press, 2002); Keith Harper,
-*Rescue the Perishing: Selected Correspondence of Annie W. Armstrong*
-(Macon, Ga.: Mercer University Press, 2004). 
+[^4]:  Keith Harper,*Send the Light: Lottie Moon's Letters and Other Writings* (Macon, Ga.: Mercer University Press, 2002); Keith Harper, *Rescue the Perishing: Selected Correspondence of Annie W. Armstrong* (Macon, Ga.: Mercer University Press, 2004). 
 
-[^5]:  Glenda Gilmore, *Gender and Jim Crow*: *Women and the
-Politics of White Supremacy in North Carolina*, 1896-1920 (Chapel Hill:
-University of North Carolina Press, 1996).
+[^5]:  Glenda Gilmore, *Gender and Jim Crow*: *Women and the Politics of White Supremacy in North Carolina*, 1896-1920 (Chapel Hill: University of North Carolina Press, 1996).
 
-[^6]: Virginia Broughton, "Autobiography," *Virginia Broughton: The
-Life and Writings of a National Baptist Missionary,* ed. Tomeiko Ashford
-Carter. (Knoxville: University of Tennessee Press, 2010), 5.
+[^6]: Virginia Broughton, "Autobiography," *Virginia Broughton: The Life and Writings of a National Baptist Missionary,* ed. Tomeiko Ashford Carter. (Knoxville: University of Tennessee Press, 2010), 5.
 
-[^7]: Phil. 2:5-8. The Bible. New King James
-Version.
+[^7]: Phil. 2:5-8. The Bible. New King James Version.
