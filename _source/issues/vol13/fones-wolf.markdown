@@ -222,7 +222,7 @@ ultimate triumph of the sacred.[^24]
 
 To sum up, I think that the study of religion in the early
 twentieth-century South is essential to understanding modern America.
-Scholars like Jane Dailey, Paul Harvey and David Chappell have put
+Scholars like Jane Dailey, Paul Harvey, and David Chappell have put
 religion in the center of the struggle over racial equality, which
 drives both southern and national narratives, while Jim Gregory, Darren
 Dochuk and others have linked southern migrants to the triumph of
@@ -235,151 +235,53 @@ a host of other issues? If religion played a significant part in the
 failure of unions to connect with the white working class, might that
 not deserve the same attention?
 
-[^1]:  I would like to thank Matt Sutton and Paul Harvey for helpful
-comments on this essay.
+[^1]:  I would like to thank Matt Sutton and Paul Harvey for helpful comments on this essay.
 
-[^2]:  The concept of false consciousness has always seemed odd to
-me. It seems to imply that there is only one issue or reality that
-should motivate people toward political action, and that is economic
-interest. Ironically, such a formulation reduces human beings to
-one-dimensional characters.
+[^2]:  The concept of false consciousness has always seemed odd to me. It seems to imply that there is only one issue or reality that should motivate people toward political action, and that is economic interest. Ironically, such a formulation reduces human beings to one-dimensional characters.
 
-[^3]:  Brian Harrison, "Religion and Recreation in
-Nineteenth-Century England," *Past and Present* 38 (Dec. 1967): 98. For
-an insightful recent examination of class in American religion, see Sean
-McCloud, *Divine Hierarchies: Class in American Religion and Religious
-Studies* (Chapel Hill: University of North Carolina Press, 2007).
+[^3]:  Brian Harrison, "Religion and Recreation in Nineteenth-Century England," *Past and Present* 38 (Dec. 1967): 98. For an insightful recent examination of class in American religion, see Sean McCloud, *Divine Hierarchies: Class in American Religion and Religious Studies* (Chapel Hill: University of North Carolina Press, 2007).
 
-[^4]:  Samuel S. Hill, ed., *Encyclopedia of Religion in the South*
-(Macon, Ga.: Mercer University Press, 1984). There are, I am certain,
-many notable exceptions.
+[^4]:  Samuel S. Hill, ed., *Encyclopedia of Religion in the South* (Macon, Ga.: Mercer University Press, 1984). There are, I am certain, many notable exceptions.
 
-[^5]:  Samuel S. Hill and Charles H. Lippy, eds., *Encyclopedia of
-Religion in the South*, 2nd ed., (Macon, Ga.: Mercer University Press,
-2005), 195, 598.
+[^5]:  Samuel S. Hill and Charles H. Lippy, eds., *Encyclopedia of Religion in the South*, 2nd ed., (Macon, Ga.: Mercer University Press, 2005), 195, 598.
 
-[^6]:  Paul Harvey, *Freedom's Coming: Religious Culture and the
-Shaping of the South from the Civil War through the Civil Rights Era*
-(Chapel Hill: University of North Carolina Press, 2005); Wayne Flynt,
-"Religion for the Blues: Evangelicalism, Poor Whites, and the Great
-Depression," *Journal of Southern History* 71 (Feb. 2005): 3--38; and
-Flynt, *Poor But Proud: Alabama's Poor Whites* (1989; Tuscaloosa:
-University of Alabama Press, 2001).
+[^6]:  Paul Harvey, *Freedom's Coming: Religious Culture and the Shaping of the South from the Civil War through the Civil Rights Era* (Chapel Hill: University of North Carolina Press, 2005); Wayne Flynt, "Religion for the Blues: Evangelicalism, Poor Whites, and the Great Depression," *Journal of Southern History* 71 (Feb. 2005): 3--38; and Flynt, *Poor But Proud: Alabama's Poor Whites* (1989; Tuscaloosa: University of Alabama Press, 2001).
 
-[^7]:  For a sampling of some of the best recent writings on this
-issue, see David L. Chappell, *A Stone of Hope: Prophetic Religion and
-the Death of Jim Crow* (Chapel Hill: University of North Carolina Press,
-2004); Glenn Feldman, ed., *Politics and Religion in the White South*
-(Lexington: University Press of Kentucky, 2005); Jane Dailey, "Sex,
-Segregation, and the Sacred after *Brown*," *Journal of American
-History* 91 (June 2004): 119--45. Of course, there is also a recent spate
-of works calling into question whether or not southern racism is a
-unique or a national trait. See, in particular, Thomas J. Sugrue, *Sweet
-Land of Liberty: The Forgotten Struggle for Civil Rights in the North*
-(New York: Random House, 2008).
+[^7]:  For a sampling of some of the best recent writings on this issue, see David L. Chappell, *A Stone of Hope: Prophetic Religion and the Death of Jim Crow* (Chapel Hill: University of North Carolina Press, 2004); Glenn Feldman, ed., *Politics and Religion in the White South* (Lexington: University Press of Kentucky, 2005); Jane Dailey, "Sex, Segregation, and the Sacred after *Brown*," *Journal of American History* 91 (June 2004): 119--45. Of course, there is also a recent spate of works calling into question whether or not southern racism is a unique or a national trait. See, in particular, Thomas J. Sugrue, *Sweet Land of Liberty: The Forgotten Struggle for Civil Rights in the North* (New York: Random House, 2008).
 
-[^8]:  See especially the work of Bethany Moreton, whose
-prize-winning book, *To Serve God and Wal-Mart: The Making of Christian
-Free Enterprise* (Cambridge, Mass.: Harvard University Press, 2009), has
-made giant strides in this direction. Also, see Sarah Hammond's
-forthcoming Yale University dissertation on R. G. LeTourneau.
+[^8]:  See especially the work of Bethany Moreton, whose prize-winning book, *To Serve God and Wal-Mart: The Making of Christian Free Enterprise* (Cambridge, Mass.: Harvard University Press, 2009), has made giant strides in this direction. Also, see Sarah Hammond's forthcoming Yale University dissertation on R. G. LeTourneau.
 
-[^9]:  John Hayes, "Hard, Hard Religion: The Invisible Institution
-in the New South," *Journal of Southern Religion* 10 (2007): 1-24,
-online at http://jsr.fsu.edu/Volume10/Hayes.pdf. My thanks to Paul
-Harvey for steering me to this essay.
+[^9]:  John Hayes, "Hard, Hard Religion: The Invisible Institution in the New South," *Journal of Southern Religion* 10 (2007): 1-24, online at http://jsr.fsu.edu/Volume10/Hayes.pdf. My thanks to Paul Harvey for steering me to this essay.
 
-[^10]:  Elizabeth Fones-Wolf and I discussed these changes in
-membership in "No Common Creed: White Working-Class Protestants and the
-CIO's Operation Dixie," in *Rethinking U.S. Labor History: Essays on the
-Working-Class Experience, 1756--2009*, ed. Donna Haverty-Stacke and
-Daniel J. Walkowitz (New York: Continuum, 2010), 114.
+[^10]:  Elizabeth Fones-Wolf and I discussed these changes in membership in "No Common Creed: White Working-Class Protestants and the CIO's Operation Dixie," in *Rethinking U.S. Labor History: Essays on the Working-Class Experience, 1756--2009*, ed. Donna Haverty-Stacke and Daniel J. Walkowitz (New York: Continuum, 2010), 114.
 
-[^11]:  Robert T. Handy, "The American Religious Depression,
-1926--1935," *Church History* 29 (March 1960): 3-16; Flynt, "Religion for
-the Blues." See also, Joel A. Carpenter, *Revive Us Again: The
-Reawakening of American Fundamentalism* (New York: Oxford University
-Press, 1997); William R. Glass, *Strangers in Zion: Fundamentalists in
-the South, 1900--1950* (Macon, Ga.: Mercer University Press, 2001);
-Randall J. Stephens, *The Fire Spreads: Holiness and Pentecostalism in
-the American South* (Cambridge, Mass.: Harvard University Press, 2008);
-and Darren Dochuk, *From Bible Belt to Sun Belt: Plain-Folk Religion,
-Grassroots Politics, and the Rise of Evangelical Conservatism* (New
-York: W. W. Norton, 2011).
+[^11]:  Robert T. Handy, "The American Religious Depression, 1926--1935," *Church History* 29 (March 1960): 3-16; Flynt, "Religion for the Blues." See also, Joel A. Carpenter, *Revive Us Again: The Reawakening of American Fundamentalism* (New York: Oxford University Press, 1997); William R. Glass, *Strangers in Zion: Fundamentalists in the South, 1900--1950* (Macon, Ga.: Mercer University Press, 2001); Randall J. Stephens, *The Fire Spreads: Holiness and Pentecostalism in the American South* (Cambridge, Mass.: Harvard University Press, 2008); and Darren Dochuk, *From Bible Belt to Sun Belt: Plain-Folk Religion, Grassroots Politics, and the Rise of Evangelical Conservatism* (New York: W. W. Norton, 2011).
 
-[^12]:  Jarod Roll, *Spirit of Rebellion: Labor and Religion in the
-New Cotton South* (Urbana: University of Illinois Press, 2010); Richard
-Callahan Jr., *Work and Faith in the Kentucky Coalfields: Subject to
-Dust* (Bloomington: Indiana University Press, 2008); and Alessandro
-Portelli, *They Say in Harlan County: An Oral History* (New York: Oxford
+[^12]:  Jarod Roll, *Spirit of Rebellion: Labor and Religion in the New Cotton South* (Urbana: University of Illinois Press, 2010); Richard Callahan Jr., *Work and Faith in the Kentucky Coalfields: Subject to Dust* (Bloomington: Indiana University Press, 2008); and Alessandro Portelli, *They Say in Harlan County: An Oral History* (New York: Oxford
 University Press, 2011).
 
-[^13]:  Eva Hopkins interview with Lu Ann Jones, 5 March 1980;
-Ethel Marshall Faucette interview with Allen Tullos, 16 November 1978
-and 4 January 1979; Mary Thompson interview with Jim Leloudis, 19 July
-1979, all in Southern Oral History Project (SOHP), Southern Historical
-Collections, University of North Carolina, Chapel Hill, N.C.
-Fortunately, digitized versions of the recordings and transcripts are
-now available to researchers online at:
-http://docsouth.unc.edu/sohp/industrialization.html.
+[^13]:  Eva Hopkins interview with Lu Ann Jones, 5 March 1980; Ethel Marshall Faucette interview with Allen Tullos, 16 November 1978 and 4 January 1979; Mary Thompson interview with Jim Leloudis, 19 July 1979, all in Southern Oral History Project (SOHP), Southern Historical Collections, University of North Carolina, Chapel Hill, N.C. Fortunately, digitized versions of the recordings and transcripts are now available to researchers online at: http://docsouth.unc.edu/sohp/industrialization.html.
 
-[^14]:  Flake and Nellie Mae Meyers interview with Pat Dilley, 11
-August 1980, SOHP.
+[^14]:  Flake and Nellie Mae Meyers interview with Pat Dilley, 11 August 1980, SOHP.
 
-[^15]:  See especially, the chapter, "The Social Sources of
-Denominationalism Revisited," in Wade Clark Roof and William McKinney,
-*American Mainline Religion: Its Changing Shape and Future* (New
-Brunswick: Rutgers University Press, 1987), 106--47.
+[^15]:  See especially, the chapter, "The Social Sources of Denominationalism Revisited," in Wade Clark Roof and William McKinney, *American Mainline Religion: Its Changing Shape and Future* (New Brunswick: Rutgers University Press, 1987), 106--47.
 
-[^16]:  Daniel E. Bender, "Sensing Labor: The Stinking
-Working-Class after the Cultural Turn," in *Rethinking U.S. Labor*,
-243--65. Colleen McDannell, "Introduction," in *Religions of the United
-States in Practice*, ed. McDannell (Princeton: Princeton University
-Press, 2001), 1:2. One of the best examples of using these insights in
-analyzing working-class religion is found in Callahan, *Work and Faith
-in the Kentucky Coalfields*. Of course, in another context there is
-Robert Orsi's classic *The Madonna of 115th Street: Faith and Community
-in Italian Harlem, 1880--1950* (New Haven: Yale University Press, 1985).
-See also, Randall J. Stephens, "Introduction: American Religious History
-in Context," in *Recent Themes in American Religious History: Historians
-in Conversation*, ed. Stephens (Columbia: University of South Carolina
-Press, 2009), 1--10.
+[^16]:  Daniel E. Bender, "Sensing Labor: The Stinking Working-Class after the Cultural Turn," in *Rethinking U.S. Labor*, 243--65. Colleen McDannell, "Introduction," in *Religions of the United States in Practice*, ed. McDannell (Princeton: Princeton University Press, 2001), 1:2. One of the best examples of using these insights in analyzing working-class religion is found in Callahan, *Work and Faith in the Kentucky Coalfields*. Of course, in another context there is Robert Orsi's classic *The Madonna of 115th Street: Faith and Community in Italian Harlem, 1880--1950* (New Haven: Yale University Press, 1985). See also, Randall J. Stephens, "Introduction: American Religious History in Context," in *Recent Themes in American Religious History: Historians in Conversation*, ed. Stephens (Columbia: University of South Carolina Press, 2009), 1--10.
 
-[^17]:  Flynt, "Religion for the Blues," 10--13; Glass, *Strangers
-in Zion*, 27--32; Alice Levitt interview with Jim Leloudis, 18 July 1979,
-SOHP.
+[^17]:  Flynt, "Religion for the Blues," 10--13; Glass, *Strangers in Zion*, 27--32; Alice Levitt interview with Jim Leloudis, 18 July 1979, SOHP.
 
 [^18]: *Knoxville Journal*, 15 April 1946.
 
-[^19]: *Decisions and Orders of the National Labor Relations Board,
-May 29--June 30, 1940*, vol. 24 (Washington: Government Printing Office,
-1940), 18--19.
+[^19]: *Decisions and Orders of the National Labor Relations Board, May 29--June 30, 1940*, vol. 24 (Washington: Government Printing Office, 1940), 18--19.
 
-[^20]:  Matthew Sutton, "Was FDR the Antichrist? The Birth of
-Fundamentalist Anti‑liberalism in a Global Age,"*Journal of American
-History* (forthcoming); Barbara Griffith, *The Crisis of American Labor:
-Operation Dixie and the Defeat of the CIO* (Philadelphia: Temple
-University Press, 1988).
+[^20]:  Matthew Sutton, "Was FDR the Antichrist? The Birth of Fundamentalist Anti‑liberalism in a Global Age,"*Journal of American History* (forthcoming); Barbara Griffith, *The Crisis of American Labor: Operation Dixie and the Defeat of the CIO* (Philadelphia: Temple University Press, 1988).
 
 [^21]:  Dochuk, *From Bible Belt to Sun Belt*.
 
-[^22]:  This certainly fits with Wayne Flynt's interpretation,
-offered in his *Alabama Baptists: Southern Baptists in the Heart of
-Dixie* (Tuscaloosa: University of Alabama Press, 1998).
+[^22]:  This certainly fits with Wayne Flynt's interpretation, offered in his *Alabama Baptists: Southern Baptists in the Heart of Dixie* (Tuscaloosa: University of Alabama Press, 1998).
 
-[^23]:  David Burgess, "The Role of the Churches in Relation to the
-C.O.O. Southern Organizing Drive," undated typescript \[12 pages\], Box
-1556, John Ramsay Papers, Southern Labor Archives, Georgia State
-University, Atlanta, Ga.
+[^23]:  David Burgess, "The Role of the Churches in Relation to the C.O.O. Southern Organizing Drive," undated typescript \[12 pages\], Box 1556, John Ramsay Papers, Southern Labor Archives, Georgia State University, Atlanta, Ga.
 
-[^24]:  Charles H. Lippy, "Popular Religiosity in Central
-Appalachia," in *Christianity in Appalachia*, ed. Bill Leonard
-(Knoxville: The University of Tennessee Press, 1999), 41. I would like
-to thank my graduate student, Joseph F. Super, for bringing this article
-to my attention.
+[^24]:  Charles H. Lippy, "Popular Religiosity in Central Appalachia," in *Christianity in Appalachia*, ed. Bill Leonard (Knoxville: The University of Tennessee Press, 1999), 41. I would like to thank my graduate student, Joseph F. Super, for bringing this article to my attention.
 
-[^25]:  Harvey, *Freedom's Coming*; Chappell, *Stone of Hope*;
-Dailey, "Sex, Segregation, and the Sacred after *Brown*"; Dochuk, *From
-Bible Belt to Sun Belt*; James N. Gregory, *The Southern Diaspora: How
-the Great Migrations of Black and White Southerners Transformed America*
-(Chapel Hill: University of North Carolina Press, 2005).
+[^25]:  Harvey, *Freedom's Coming*; Chappell, *Stone of Hope*; Dailey, "Sex, Segregation, and the Sacred after *Brown*"; Dochuk, *From Bible Belt to Sun Belt*; James N. Gregory, *The Southern Diaspora: How the Great Migrations of Black and White Southerners Transformed America* (Chapel Hill: University of North Carolina Press, 2005).
