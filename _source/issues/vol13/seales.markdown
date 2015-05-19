@@ -252,7 +252,7 @@ members. Based on their writings and church minutes, there was no
 indication that black members were excluded from baptism in the same
 indoor pool as whites. But racial tension pervaded the church body.
 Disagreements between Hinton and the congregation over racial issues led
-to his resignation.[^16]Jeter faced similar struggles,
+to his resignation.[^16] Jeter faced similar struggles,
 ultimately determining to resolve the conflict by segregating the
 membership.
 
@@ -299,7 +299,7 @@ Again, according to the church history:
 > eighty-seven white members removed to the new. During the first year a
 > precious revival, in which the Pastor was aided by Rev. Mr. Robards of
 > New York, added one hundred and sixty-seven by baptism to the Church
-> in its new home.
+> in its new home.[^19]
 
 Black members outnumbered white members more than four to one in the old
 church. Without its black members, the new white-only congregation was
@@ -360,7 +360,7 @@ than just a material marker of theological distinction. White Baptists
 distinguished their segregated church buildings by displaying the first
 indoor baptistery in town or a baptistery more elaborate in
 architectural grandeur than that of their black Baptist
-neighbors.[^24]The designation "first" signified white racial
+neighbors.[^24] The designation "first" signified white racial
 status in southern cities. White Baptists in both the Old and New South
 staked claim to "First Baptist" as their own, thus making it necessary
 for black Baptists to refer to their congregations as the First African
@@ -445,7 +445,7 @@ Despite the fact that black Baptists in Savannah organized themselves
 into a church body before their white brethren, and that black ministers
 converted at least one of the leaders of the white congregation, the
 "citizens" of Savannah still considered the "individuals composing the
-First African Church" as mere "property." [^29] As such, they
+First African Church" as mere "property."[^29] As such, they
 were subject to the similar authority and control exhibited by white
 Baptists on other types of property, such as their baptisteries and
 their buildings.
@@ -489,7 +489,7 @@ spot. By regulating when black converts were allowed in the baptismal
 waters and stipulating the conditions of their baptism, white Baptists
 worked to maintain spatial distinctions between racialized bodies, even
 if the ritual space in which both candidates were baptized was "in the
-same spot." [^30]
+same spot."[^30]
 
 In addition to baptism, black Baptists participated in other shared
 rituals latent with democratic portent, though the exercise of white
@@ -676,7 +676,7 @@ baptistery until 1956, when it expanded its building. Despite the
 architectural innovations, the earliest FBC church structure still
 resembled its rural Baptist "sister churches." In 1928, however, FBC
 Siler hired Greensboro architect Harry Barton to design its second
-church home.[^39]According to local historians, the church
+church home.[^39] According to local historians, the church
 was "easily the most ambitious in Chatham County." Replicating his
 previous design used in 1924 for the First Methodist Church of Asheboro,
 North Carolina, Barton "chose a heavy Romanesque style made popular by
@@ -777,7 +777,7 @@ Protestants.[^46] As noted earlier, the design of
 FBC Siler City was based on that of First Methodist Church of Asheboro.
 Like its neighbor, FBC Sanford also had a "twin church." Its building
 was identical to First Baptist Church Winchester,
-Virginia.[^47]For Baptists in Siler City and Sanford, city
+Virginia.[^47] For Baptists in Siler City and Sanford, city
 church styles included organ pipes, pews, stained glass, magnificent
 steeples, high arches, and chandeliers. In those types of Old World
 architectural expressions, southern Baptists positioned their city
@@ -1284,8 +1284,7 @@ upwards of five thousand." *Biography of London Ferrill, Pastor of the
 First Baptist Church of Colored Persons, Lexington, KY*(Lexington, Ky.:
 A. W. Elder, 1854). 
 
-[^31]:  Hornsby, "The Relation of White and Colored Baptists,"
-254–255. 
+[^31]:  Hornsby, "The Relation of White and Colored Baptists," 254-255.
 
 [^32]:  Shriver, *Pilgrims through the Years,*96, 98, 107–108. 
 
