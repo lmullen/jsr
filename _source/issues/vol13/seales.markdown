@@ -885,434 +885,94 @@ baptism was the heart of the modern Baptist.
 
 [^4]:  Historians often cite antebellum religious habits as a defining characteristic of southern identity, diligently demonstrating connections between white evangelical Protestantism and the peculiar institution, noting a historical movement away from radical abolitionism to institutional concession. Donald G. Mathews, *Religion in the Old South* (Chicago: University of Chicago Press, 1977). Mitchell Snay, *Gospel of Disunion: Religion and Separatism in the Antebellum South* (Chapel Hill: University of North Carolina Press, 1997). Paul Harvey, *Freedom's Coming: Religion Culture and the Shaping of the South from the Civil War through the Civil Rights Era* (Chapel Hill: University of North Carolina Press, 2005). Focusing solely on regional distinctiveness, however, makes it difficult for historians to observe the industrial and economic habits that are practiced within the region but trend nationally. Much like the long shadow of Puritan studies cast on the field of American Religious history, telescopic attention to antebellum religion can obscure evangelical Protestant embrace of modern industry and its mass-produced goods from the interpretive frame. To see those habits requires a broader focus, one that may include consumer habits along with church doctrine. For such a possibility, see Bethany Moreton, *To Serve God and Wal-Mart: The Making of Christian Free Enterprise* (Cambridge, Mass.: Harvard University Press, 2009). 
 
-[^5]:  Schweiger, T*he Gospel Working Up*, 4–5. Evangelical
-Protestantism thrived during the heaviest periods of industrialization
-in manufacturing towns like Rochester and Rockdale. Paul E. Johnson, *A
-Shopkeeper's Millennium: Society and Revivals in Rochester, New York,
-1815–1837* (New York: Hill and Wang, 1978). Anthony F. C. Wallace,
-*Rockdale: The Growth of an American Village in the Early Industrial
-Revolution* (New York: Alfred A. Knopf, 1978).
+[^5]:  Schweiger, T*he Gospel Working Up*, 4–5. Evangelical Protestantism thrived during the heaviest periods of industrialization in manufacturing towns like Rochester and Rockdale. Paul E. Johnson, *A Shopkeeper's Millennium: Society and Revivals in Rochester, New York, 1815–1837* (New York: Hill and Wang, 1978). Anthony F. C. Wallace, *Rockdale: The Growth of an American Village in the Early Industrial Revolution* (New York: Alfred A. Knopf, 1978).
 
-[^6]:  This essay assumes that modernity is not a unified and
-pervasive force, but remains incomplete and unevenly distributed. For a
-description of the difficulties of locating modernity, see Kathryn E.
-Lofton, "Making the Modern in Religious America, 1870–1935," (Ph.D.
-Diss., University of North Carolina-Chapel Hill), 2005. On multiple
-modernities, see Gustavo Benavides, "Modernity," in *Critical Terms for
-Religious Studies*, ed. Mark C. Taylor (Chicago: The University of
-Chicago Press, 1998), 186–204. On the uneven distribution of modernity,
-see Manuel A. Vasquez, *The Brazilian Popular Church and the Crisis of
-Modernity* (Cambridge: Cambridge University Press, 1998). It also
-assumes that in terms of theological doctrine and religious practice,
-southern evangelicals were not of one mind or spirit, particularly on
-matters of race. Joel Williamson has argued that monolithic depictions
-of southern ideology dismiss complex historical patterns of racial
-conflict and change, especially during the period between 1850 and 1915,
-a period he refers to as "The Great Changeover" in race relations. Joel
-Williamson, *The Crucible of Race: Black/white Relations in the American
-South Since Emancipation* (New York: Oxford University Press, 1984).
-Racial complexity is one reason that Williamson dismisses W. J. Cash's
-singular thesis of a "southern mind." W. J. Cash, *The Mind of the
-South* (1941; New York: Vintage Books, 1991).
+[^6]:  This essay assumes that modernity is not a unified and pervasive force, but remains incomplete and unevenly distributed. For a description of the difficulties of locating modernity, see Kathryn E. Lofton, "Making the Modern in Religious America, 1870–1935," (Ph.D. Diss., University of North Carolina-Chapel Hill), 2005. On multiple modernities, see Gustavo Benavides, "Modernity," in *Critical Terms for Religious Studies*, ed. Mark C. Taylor (Chicago: The University of Chicago Press, 1998), 186–204. On the uneven distribution of modernity, see Manuel A. Vasquez, *The Brazilian Popular Church and the Crisis of Modernity* (Cambridge: Cambridge University Press, 1998). It also assumes that in terms of theological doctrine and religious practice, southern evangelicals were not of one mind or spirit, particularly on matters of race. Joel Williamson has argued that monolithic depictions of southern ideology dismiss complex historical patterns of racial conflict and change, especially during the period between 1850 and 1915, a period he refers to as "The Great Changeover" in race relations. Joel Williamson, *The Crucible of Race: Black/white Relations in the American South Since Emancipation* (New York: Oxford University Press, 1984). Racial complexity is one reason that Williamson dismisses W. J. Cash's singular thesis of a "southern mind." W. J. Cash, *The Mind of the South* (1941; New York: Vintage Books, 1991).
 
-[^7]:  For an example of a revision of Max Weber's secularization
-thesis as new modes of enchantment, rather than religious
-disenchantment, see Cecilia Loreto Mariz, *Coping with Poverty:
-Pentecostals and Christian Base Communities in Brazil* (Philadelphia:
-Temple University Press, 1994). For a classical sociological formulation
-of the relationship between evangelicalism and modernity, see James
-Davison Hunter, *American Evangelicalism: Conservative Religion and the
-Quandary of Modernity* (New Brunswick: Rutgers University Press, 1983).
-For a revision of that approach, see Christian Smith, *American
-Evangelicalism: Embattled and Thriving* (Chicago: University of Chicago
-Press, 1998).
+[^7]:  For an example of a revision of Max Weber's secularization thesis as new modes of enchantment, rather than religious
+disenchantment, see Cecilia Loreto Mariz, *Coping with Poverty: Pentecostals and Christian Base Communities in Brazil* (Philadelphia: Temple University Press, 1994). For a classical sociological formulation of the relationship between evangelicalism and modernity, see James Davison Hunter, *American Evangelicalism: Conservative Religion and the Quandary of Modernity* (New Brunswick: Rutgers University Press, 1983). For a revision of that approach, see Christian Smith, *American Evangelicalism: Embattled and Thriving* (Chicago: University of Chicago Press, 1998).
 
-[^8]:  Most of the Baptist churches discussed in this essay were
-associated with the Southern Baptist Convention. Use of the term
-"southern Baptist" is meant to emphasize material practice over
-denominational identity and to suggest that their practices were
-relevant to broader evangelical developments in the American South. Love
-for indoor baptisteries was not limited to SBC churches and as evidenced
-in the opening example, it could even strike a Methodist. Drawing on
-selected historical cases, the argument is intended to apply to Baptist
-churches and churchgoers who considered themselves southern and
-expressed interest in indoor baptisteries, which at times may extend
-beyond geographically defined boundaries of the American South. On the
-difficulty of state-based definitions of the South, see William James
-Cooper and Tom E. Terrill, *The American South: A History* (Lanham, Md.:
-Rowman & Littlefield, 2008), xx.
+[^8]:  Most of the Baptist churches discussed in this essay were associated with the Southern Baptist Convention. Use of the term "southern Baptist" is meant to emphasize material practice over denominational identity and to suggest that their practices were relevant to broader evangelical developments in the American South. Love for indoor baptisteries was not limited to SBC churches and as evidenced in the opening example, it could even strike a Methodist. Drawing on selected historical cases, the argument is intended to apply to Baptist churches and churchgoers who considered themselves southern and expressed interest in indoor baptisteries, which at times may extend beyond geographically defined boundaries of the American South. On the difficulty of state-based definitions of the South, see William James Cooper and Tom E. Terrill, *The American South: A History* (Lanham, Md.: Rowman & Littlefield, 2008), xx.
 
-[^9]:  Isaac Taylor Hinton, *History of Baptism: From Inspired and
-Uninspired Writings* (Philadelphia: American Baptist Publication
-Society, 1849), 5–6, 6–7, 238.
+[^9]:  Isaac Taylor Hinton, *History of Baptism: From Inspired and Uninspired Writings* (Philadelphia: American Baptist Publication Society, 1849), 5–6, 6–7, 238.
 
 [^10]:  Ibid., 98, 160–161.
 
-[^11]: Typescript of First Baptist Church Richmond Minutes,
-1836–1838, Virginia Baptist Historical Society, University of Richmond,
-Virginia.
+[^11]: Typescript of First Baptist Church Richmond Minutes, 1836–1838, Virginia Baptist Historical Society, University of Richmond, Virginia.
 
-[^12]: Blanche Sydnor White, *First Baptist Church Richmond,
-1780–1955* (Richmond: Whittet and Shepperson, 1955), 54.
+[^12]: Blanche Sydnor White, *First Baptist Church Richmond, 1780–1955* (Richmond: Whittet and Shepperson, 1955), 54.
 
-[^13]:  FBC Richmond also constructed its baptistery around the
-same time as northern Baptist churches. To get a sense of regional
-comparison, consider the First Baptist Church of America in Providence,
-Rhode Island, the oldest Baptist church in the United States. FBC
-Providence was "the first Baptist meeting house in New England to have a
-steeple," erected in 1775 and measuring 185 feet high. The church made
-additional improvements in the early nineteenth century, adding new pews
-in 1832 and installing an organ in 1834. It constructed an interior
-baptistery in 1838, surrounding it with the English Georgian
-architectural style commonly used in Anglican churches. "Exterior
-portico and steeple and many interior elements, such as the Palladian
-window behind the high pulpit, the fluted Tuscan columns, the groined
-arches in the balcony, and the split pediments over the doors," were
-layered onto the basic design of a plain Baptist structure. The
-construction of the indoor baptistery at FBC Providence, like at FBC
-Richmond, also preceded the availability of a public water system, which
-was not completed until after 1864, under the leadership of Mayor Thomas
-Doyle (1827–1886), who was memorialized as a "Pioneer of Urban Renewal."
-Marilyn J Chiat, *America's Religious Architecture: Sacred Places for
-Every Community* (New York: Wiley, 1997), 13, 60. J. Stanley Lemons,
-*First: The First Baptist Church in America* (Providence: Charitable
-Baptist Society, 2001). "Architecture," *The First Baptist Church in
-America*
-([http://www.fbcia.org/page112.html](http://www.fbcia.org/page112.html)).
-Thomas Doyle Monument Description
-([http://www.providenceri.com/arts/arts.html](http://www.fbcia.org/page112.html)).
+[^13]:  FBC Richmond also constructed its baptistery around the same time as northern Baptist churches. To get a sense of regional comparison, consider the First Baptist Church of America in Providence, Rhode Island, the oldest Baptist church in the United States. FBC Providence was "the first Baptist meeting house in New England to have a steeple," erected in 1775 and measuring 185 feet high. The church made additional improvements in the early nineteenth century, adding new pews in 1832 and installing an organ in 1834. It constructed an interior baptistery in 1838, surrounding it with the English Georgian architectural style commonly used in Anglican churches. "Exterior portico and steeple and many interior elements, such as the Palladian window behind the high pulpit, the fluted Tuscan columns, the groined arches in the balcony, and the split pediments over the doors," were layered onto the basic design of a plain Baptist structure. The construction of the indoor baptistery at FBC Providence, like at FBC Richmond, also preceded the availability of a public water system, which was not completed until after 1864, under the leadership of Mayor Thomas Doyle (1827–1886), who was memorialized as a "Pioneer of Urban Renewal." Marilyn J Chiat, *America's Religious Architecture: Sacred Places for Every Community* (New York: Wiley, 1997), 13, 60. J. Stanley Lemons, *First: The First Baptist Church in America* (Providence: Charitable Baptist Society, 2001). "Architecture," *The First Baptist Church in America* ([http://www.fbcia.org/page112.html](http://www.fbcia.org/page112.html)). Thomas Doyle Monument Description ([http://www.providenceri.com/arts/arts.html](http://www.fbcia.org/page112.html)).
 
-
-[^14]:  Jeremiah Bell Jeter, *The Recollections of a Long Life*
-(Richmond: Religious Herald Company, 1891), 322–323, 154–155, 199–200,
-300–303, 248–251, 312–313. 
+[^14]:  Jeremiah Bell Jeter, *The Recollections of a Long Life* (Richmond: Religious Herald Company, 1891), 322–323, 154–155, 199–200, 300–303, 248–251, 312–313. 
 
 [^15]:  Ibid., 154–155, 199–200, 300–303, 312–313. 
 
-[^16]:  An encyclopedia entry on Taylor from 1872 notes that, "…he
-resolved on fixing his residence in the West. He was, however, induced
-to accept the pastorate of the First Baptist Church in Richmond, Va. The
-church had a large colored membership, a fact which some embarrassment
-was experienced by him in the consistent application of his principles.
-This, in connection with his original predilections, led to his removal
-in 1835 to Chicago, then in its infancy." John McClintock and James
-Strong, *Cyclopaedia of Biblical, Theological, and Ecclesiastical
-Literature* (New York: Harper, 1872), 267.
+[^16]:  An encyclopedia entry on Taylor from 1872 notes that, "…he resolved on fixing his residence in the West. He was, however, induced to accept the pastorate of the First Baptist Church in Richmond, Va. The church had a large colored membership, a fact which some embarrassment was experienced by him in the consistent application of his principles. This, in connection with his original predilections, led to his removal in 1835 to Chicago, then in its infancy." John McClintock and James Strong, *Cyclopaedia of Biblical, Theological, and Ecclesiastical Literature* (New York: Harper, 1872), 267.
 
 [^17]: White, *FBC Richmond*, 54–55.
 
-[^18]:  Church records show 42 baptisms in 1836, and 272 baptisms
-in 1837, the year after the congregation offered use of the baptistery
-to other churches in town, and 13 baptisms in 1838, the year that racial
-tensions peaked. From 1839 to 1843, there were a total of 543 baptisms.
-From 1843 to 1846, there were only a total of 16 baptisms. White, *FBC
-Richmond*, 239–240. Baptismal records confirmed by Virginia S. Darnell,
-local church historian, 26 June 2008. The possibility of both blacks and
-whites being baptized in the same pool of water could have been too much
-for some white members' sense of spiritual and racial purity,
-particularly the white male leaders who called a second meeting to
-approve plans for segregating the congregation. But this is purely
-speculative, and may be a projection of later prohibitions concerning
-interracial bathing back onto this time period. In the Jim Crow South,
-indoor baptisteries were constructed within racially segregated
-congregations. Much like with the segregation of public swimming pools,
-indoor baptisteries in segregated churches eliminated the possibility of
-immersing blacks and whites in the same body of water. By moving the
-baptistery indoors in the early twentieth century, southern Baptists,
-whether consciously or nor, eliminated the danger of what they perceived
-as a racial indiscretion from their distinguishing ritual practice. A
-heightened concern among southern whites to maintain racial, spiritual,
-and physical purity may help explain the widespread adoption of indoor
-baptisteries in the New South. They were celebrated as a modern
-technology, but their implementation had racial consequences.
-Industrialization made baptisteries more accessible to southern Baptists
-at the same time that southerners struggled to define and defend
-racially segregated spaces in the early twentieth century. These
-included the secular consumer spaces of trains and theatres (where
-passengers drank from individual cups and sat in segregated seats) and
-the religious consumer spaces of local churches (where worshipers took
-communion from individual cups and were baptized in segregated
-baptisteries). Grace Elizabeth Hale, *Making Whiteness: The Culture of
-Segregation in the South, 1890–1940* (New York: Pantheon Books, 1998).
-Daniel Sack, *Whitebread Protestants: Food and Religion in American
-Culture* (New York: St. Martin's Press, 2000). Evangelical identity was
-strongly solidified in biracial congregations from the 1830s to the
-1860s. Charles Irons, *The Origins of Proslavery Christianity: White and
-Black Evangelicals in Colonial and Antebellum Virginia* (Chapel Hill:
-University of North Carolina Press, 2008), has argued that black
-conversion and participation in biracial congregations had the
-concomitant outcome of reinforcing white superiority and Biblical
-justifications for slavery. When black Protestants left those
-congregations for their own independent churches after the Civil War,
-white evangelicals struggled to redefine their racial superiority and
-used segregation as a tool to reinforce racial boundaries. 
+[^18]:  Church records show 42 baptisms in 1836, and 272 baptisms in 1837, the year after the congregation offered use of the baptistery to other churches in town, and 13 baptisms in 1838, the year that racial tensions peaked. From 1839 to 1843, there were a total of 543 baptisms. From 1843 to 1846, there were only a total of 16 baptisms. White, *FBC Richmond*, 239–240. Baptismal records confirmed by Virginia S. Darnell, local church historian, 26 June 2008. The possibility of both blacks and whites being baptized in the same pool of water could have been too much for some white members' sense of spiritual and racial purity, particularly the white male leaders who called a second meeting to approve plans for segregating the congregation. But this is purely speculative, and may be a projection of later prohibitions concerning interracial bathing back onto this time period. In the Jim Crow South, indoor baptisteries were constructed within racially segregated congregations. Much like with the segregation of public swimming pools, indoor baptisteries in segregated churches eliminated the possibility of immersing blacks and whites in the same body of water. By moving the baptistery indoors in the early twentieth century, southern Baptists, whether consciously or nor, eliminated the danger of what they perceived as a racial indiscretion from their distinguishing ritual practice. A heightened concern among southern whites to maintain racial, spiritual, and physical purity may help explain the widespread adoption of indoor baptisteries in the New South. They were celebrated as a modern technology, but their implementation had racial consequences. Industrialization made baptisteries more accessible to southern Baptists
+at the same time that southerners struggled to define and defend racially segregated spaces in the early twentieth century. These included the secular consumer spaces of trains and theatres (where passengers drank from individual cups and sat in segregated seats) and the religious consumer spaces of local churches (where worshipers took communion from individual cups and were baptized in segregated baptisteries). Grace Elizabeth Hale, *Making Whiteness: The Culture of Segregation in the South, 1890–1940* (New York: Pantheon Books, 1998). Daniel Sack, *Whitebread Protestants: Food and Religion in American Culture* (New York: St. Martin's Press, 2000). Evangelical identity was strongly solidified in biracial congregations from the 1830s to the 1860s. Charles Irons, *The Origins of Proslavery Christianity: White and Black Evangelicals in Colonial and Antebellum Virginia* (Chapel Hill: University of North Carolina Press, 2008), has argued that black conversion and participation in biracial congregations had the concomitant outcome of reinforcing white superiority and Biblical justifications for slavery. When black Protestants left those congregations for their own independent churches after the Civil War, white evangelicals struggled to redefine their racial superiority and used segregation as a tool to reinforce racial boundaries. 
 
-[^19]:  H. A. Tupper, *The First Century of the First Baptist
-Church of Richmond, Virginia, 1780–1880*(Richmond: Carlton McCarthy:
-1880), 81, 85–86, 151.
+[^19]:  H. A. Tupper, *The First Century of the First Baptist Church of Richmond, Virginia, 1780–1880*(Richmond: Carlton McCarthy: 1880), 81, 85–86, 151.
 
-[^20]:  In the years after the construction of a new church
-building for white members, Jeter professed to "unusual barrenness" in
-the church. He also protested liturgical changes, including
-instrumentally accompanied music, which he referred to as "mechanical
-music." He eventually resigned in 1848, turning down an offer from the
-church to raise his salary from $1,000 to $1,500, and traveled west to
-frontier St. Louis. Jeter, *Recollections*, 58–60. White, *FBC
-Richmond*, 55–61. 
+[^20]:  In the years after the construction of a new church building for white members, Jeter professed to "unusual barrenness" in the church. He also protested liturgical changes, including instrumentally accompanied music, which he referred to as "mechanical music." He eventually resigned in 1848, turning down an offer from the church to raise his salary from $1,000 to $1,500, and traveled west to frontier St. Louis. Jeter, *Recollections*, 58–60. White, *FBC Richmond*, 55–61. 
 
-[^21]:  Douglas Egerton has argued that Denmark Vesey organized a
-plot, not a revolt. Douglas R. Egerton, *He Shall Go Out Free: The Lives
-of Denmark Vesey* (Lanham, Md.: Rowman & Littlefield, 2004), xiv. 
+[^21]:  Douglas Egerton has argued that Denmark Vesey organized a plot, not a revolt. Douglas R. Egerton, *He Shall Go Out Free: The Lives of Denmark Vesey* (Lanham, Md.: Rowman & Littlefield, 2004), xiv. 
 
-[^22]:  Donald Mathews famously noted the significance of bodily
-proximity for the policing of social norms in Protestant congregations:
-"The fact the every Virginian, for example, was required by law to
-attend church services each week was designed to reinforce the moral
-policing of the church-wardens by bring people together within sight and
-touch of each other to hear the moral precepts of the community
-explained." Mathews, *Religion in the Old South*, 4.
+[^22]:  Donald Mathews famously noted the significance of bodily proximity for the policing of social norms in Protestant congregations: "The fact the every Virginian, for example, was required by law to attend church services each week was designed to reinforce the moral policing of the church-wardens by bring people together within sight and touch of each other to hear the moral precepts of the community explained." Mathews, *Religion in the Old South*, 4.
 
-[^23]:  Alton S Wallace. *I Once Was Young: History of Alfred
-Street Baptist Church, 1803-2003* (Littleton, Mass.: Tapestry Press,
-2003), 233–235. 
+[^23]:  Alton S Wallace. *I Once Was Young: History of Alfred Street Baptist Church, 1803-2003* (Littleton, Mass.: Tapestry Press, 2003), 233–235. 
 
-[^24]:  Black Baptists in Alexandria later built their own indoor
-baptistery in the early twentieth century, once they gained the material
-resources needed to modernize their congregation. For most of the 1800s,
-members of the Colored Baptist Society "baptized outdoors in Huntington
-Creek and at various sties along the Potomac River. In 1900, they moved
-to a site at "Battery Rodgers near the Woodrow Wilson Bridge." In 1920,
-they constructed their first "indoor pool" at the Alfred Street Baptist
-Church. Its members continued to use the pool "in various states of
-disrepair" until 1980, when it moved to a new church building, which
-included a new baptistery. Correspondence with Alton S. Wallace, 19
-February 2010. Wallace does not mention the construction of an indoor
-baptistery in his otherwise thorough history of Alfred Street Baptist
-Church. He does include a detailed time line at the end of the book,
-which I summarize as follows. In 1806, black members of the Alexandria
-Baptist Society organized their own Colored Baptist Society, though it
-remained within the white governing body of the former society. In 1810,
-white leaders permitted the first black minister to preach to its black
-members. Slaves from Mount Vernon joined the Colored Baptist Society in
-1815. In 1819, the Alexandria Baptist Society allowed the Colored
-Baptist Society to worship independently at 313 South Alfred Street.
-Wallace, *I Once Was Young*, 233–235.
+[^24]:  Black Baptists in Alexandria later built their own indoor baptistery in the early twentieth century, once they gained the material resources needed to modernize their congregation. For most of the 1800s, members of the Colored Baptist Society "baptized outdoors in Huntington Creek and at various sties along the Potomac River. In 1900, they moved to a site at "Battery Rodgers near the Woodrow Wilson Bridge." In 1920, they constructed their first "indoor pool" at the Alfred Street Baptist Church. Its members continued to use the pool "in various states of disrepair" until 1980, when it moved to a new church building, which included a new baptistery. Correspondence with Alton S. Wallace, 19 February 2010. Wallace does not mention the construction of an indoor baptistery in his otherwise thorough history of Alfred Street Baptist Church. He does include a detailed time line at the end of the book, which I summarize as follows. In 1806, black members of the Alexandria Baptist Society organized their own Colored Baptist Society, though it remained within the white governing body of the former society. In 1810, white leaders permitted the first black minister to preach to its black members. Slaves from Mount Vernon joined the Colored Baptist Society in 1815. In 1819, the Alexandria Baptist Society allowed the Colored Baptist Society to worship independently at 313 South Alfred Street. Wallace, *I Once Was Young*, 233–235.
 
-[^25]:  Black Baptists often changed their congregational names to
-distance themselves from the implied racial placeholder of a (white)
-First Baptist Church. For example, the Colored Baptist Society of
-Alexandria changed its name to the First African Baptist Church in 1855
-and then to the First Colored Baptist Church in the 1870s. But then in
-1888, it changed its name once more to Alfred Street Baptist Church to
-avoid being confused with the white congregation, which had changed its
-name from Alexandria Baptist Church to First Baptist Church Alexandria.
-Wallace, *I Once Was Young*, 233–235. In comparison, black Baptists in
-Siler City, North Carolina, organized as First Baptist Church in 1919.
-But they later changed their name to North Sixth Avenue First Baptist
-Church, to designate the location of the congregation and distinguish it
-from the downtown white congregation of First Baptist Church Siler City.
-According to the church history, they returned to their original name of
-First Baptist Church after North Sixth Avenue was renamed Martin Luther
-King Jr. Boulevard in 1991. Annie Fox, "The Story and History of First
-Baptist Church," in *First Baptist Church, 75th Anniversary, 1919–1994*
-(history compiled by and in the collection of the First Baptist Church
-of Siler City, Martin Luther King Jr. Blvd., n.d.), unpaginated. A copy
-of this document was obtained from the town manager, Town of Siler City.
-As of 2005, the church marquee stated the name of the congregation as
-First Missionary Baptist Church. Both examples illustrate the difficulty
-of referring to two churches by the same name. 
+[^25]:  Black Baptists often changed their congregational names to distance themselves from the implied racial placeholder of a (white) First Baptist Church. For example, the Colored Baptist Society of Alexandria changed its name to the First African Baptist Church in 1855 and then to the First Colored Baptist Church in the 1870s. But then in 1888, it changed its name once more to Alfred Street Baptist Church to avoid being confused with the white congregation, which had changed its name from Alexandria Baptist Church to First Baptist Church Alexandria. Wallace, *I Once Was Young*, 233–235. In comparison, black Baptists in Siler City, North Carolina, organized as First Baptist Church in 1919. But they later changed their name to North Sixth Avenue First Baptist Church, to designate the location of the congregation and distinguish it from the downtown white congregation of First Baptist Church Siler City. According to the church history, they returned to their original name of First Baptist Church after North Sixth Avenue was renamed Martin Luther King Jr. Boulevard in 1991. Annie Fox, "The Story and History of First Baptist Church," in *First Baptist Church, 75th Anniversary, 1919–1994* (history compiled by and in the collection of the First Baptist Church of Siler City, Martin Luther King Jr. Blvd., n.d.), unpaginated. A copy of this document was obtained from the town manager, Town of Siler City. As of 2005, the church marquee stated the name of the congregation as First Missionary Baptist Church. Both examples illustrate the difficulty of referring to two churches by the same name. 
 
-[^26]:  George H. Shriver, *Pilgrims through the Years: A
-Bicentennial History of First Baptist Church, Savannah, Georgia*
-(Franklin, Tenn.: Providence House Publishers, 1999), 17–19. 
+[^26]:  George H. Shriver, *Pilgrims through the Years: A Bicentennial History of First Baptist Church, Savannah, Georgia* (Franklin, Tenn.: Providence House Publishers, 1999), 17–19. 
 
-[^27]: Lucian Lamar Knight, *A Standard History of Georgia and
-Georgians*(Chicago: Lewis Publishing, 1917), 234. Historian Hywel M.
-Davies describes Jonathan Clarke as "one of the white benefactors of the
-negro church." Hywel M. Davies, *Transatlantic Brethren: Rev. Samuel
-Jones (1735–1814) and His Friends: Baptists in Wales, Pennsylvania, and
-Beyond*(Cranbury, N.J.: Associated University Press, 1995), 219.
-Clarke's letters and his, "An Account of the Negro Church at Savannah,
-and of two Negro Ministers," is cited in several surveys and monographs,
-including Sylvia R. Frey and Betty Wood, *Come Shouting to Zion: African
-American Protestantism in the American South and British Caribbean to
-1830* (Chapel Hill: University of North Carolina Press, 1998), 248. 
+[^27]: Lucian Lamar Knight, *A Standard History of Georgia and Georgians* (Chicago: Lewis Publishing, 1917), 234. Historian Hywel M. Davies describes Jonathan Clarke as "one of the white benefactors of the negro church." Hywel M. Davies, *Transatlantic Brethren: Rev. Samuel Jones (1735–1814) and His Friends: Baptists in Wales, Pennsylvania, and Beyond*(Cranbury, N.J.: Associated University Press, 1995), 219. Clarke's letters and his, "An Account of the Negro Church at Savannah, and of two Negro Ministers," is cited in several surveys and monographs, including Sylvia R. Frey and Betty Wood, *Come Shouting to Zion: African American Protestantism in the American South and British Caribbean to 1830* (Chapel Hill: University of North Carolina Press, 1998), 248. 
 
 [^28]:  Shiver, *Pilgrims Through the Years*, 17–19, 36–37. 
 
-[^29]:  According to Shriver, there was "no record of the mayor's
-response in the Minutes," the "First African Baptist Church remained
-open," and in 1837 it was "readmitted into the association." Shriver,
-*Pilgrims through the Years*, 36–37. Andrew Bryan helped found the First
-African Baptist Church in Savannah in 1778, prior to white Baptist plans
-to construct a downtown building. Bryan, a black Baptist minister,
-converted Thomas Polhill, the son of a white Episcopal minister and one
-of the key figures mentioned above in the initial city planning. By
-1830, Bryan's congregation numbered twenty-four hundred members. Despite
-the fact that the First African Baptist Church was both chronologically
-first and much larger than its white counterpart, the downtown church
-for white members "was referred to on the streets and even in its own
-Minutes as "First Baptist." It was not until 1921, however, that its
-name was officially changed from "Savannah Baptist" to "First Baptist."
-Shriver, *Pilgrims through the Years*, 18, 33–34, 105. Mechal Sobel,
-*Trabelin' On: The Slave Journey to an Afro-Baptist Faith* (Princeton:
-Princeton University Press, 1979), 189–190, 284–285, n10. At the time of
-planning for the church in Savannah, David Adams served as a deacon in
-Richard Furman's congregation in Charleston, South Carolina. James A.
-Rogers, *Richard Furman: Life and Legacy*(Macon, Ga.: Mercer University
-Press, 2001), 91.
+[^29]:  According to Shriver, there was "no record of the mayor's response in the Minutes," the "First African Baptist Church remained open," and in 1837 it was "readmitted into the association." Shriver, *Pilgrims through the Years*, 36–37. Andrew Bryan helped found the First African Baptist Church in Savannah in 1778, prior to white Baptist plans to construct a downtown building. Bryan, a black Baptist minister, converted Thomas Polhill, the son of a white Episcopal minister and one of the key figures mentioned above in the initial city planning. By 1830, Bryan's congregation numbered twenty-four hundred members. Despite the fact that the First African Baptist Church was both chronologically first and much larger than its white counterpart, the downtown church for white members "was referred to on the streets and even in its own Minutes as "First Baptist." It was not until 1921, however, that its name was officially changed from "Savannah Baptist" to "First Baptist." Shriver, *Pilgrims through the Years*, 18, 33–34, 105. Mechal Sobel, *Trabelin' On: The Slave Journey to an Afro-Baptist Faith* (Princeton: Princeton University Press, 1979), 189–190, 284–285, n10. At the time of planning for the church in Savannah, David Adams served as a deacon in Richard Furman's congregation in Charleston, South Carolina. James A. Rogers, *Richard Furman: Life and Legacy*(Macon, Ga.: Mercer University Press, 2001), 91.
 
-[^30]:  Rev. T. J. Hornsby, "The Relation of White and Colored
-Baptists," in E. K. Love, ed., *History of the First African Baptist
-Church, From its Organization, January 20th, 1788, to July 1st, 1888,
-Including the Centennial Celebration, Addresses, Sermons, Etc.*
-(Savannah, Ga.: Morning News Print, 1888), 254–255. For another example
-of state laws concerning baptism, see the *Biography of London
-Ferrill.*Ferrill, a slave who was converted and baptized at a revival,
-was allowed to travel and preach the gospel. In one instance, however,
-the law prohibited him from baptizing new converts. Based on the
-narrative, it appears those converts were white Virginians. It reads,
-"He (Ferrill) commenced preaching, and the people appeared to receive
-the word gladly, and when he had gained about fifty converts who were
-ready to be baptised which ceremony he was not authorised to perform by
-the Virginia law, he procured the services of Preacher Bowles, and he
-baptised them. The white people frequently invited Ferrill to their
-houses to sing for them, as he was considered a great singer, and was
-sent for, far and near, to preach funeral sermons when the servants
-would die." Ferrill is later described as having a desire to leave the
-state of Virginia. After the death of his master, he bought a wagon and
-two horses and moved with his wife to Kentucky. There he "continued to
-preach, baptizing in the Ohio river at Maysville and Covington, in
-Elkhorn, Town Fork, and in all the ponds for miles around Lexington. A
-pool was then constructed in the Church lot in which he baptized two
-hundred and twenty persons in one hour and twenty-five minutes, and
-sixty at another time, in forty-five minutes and has baptized, in all,
-upwards of five thousand." *Biography of London Ferrill, Pastor of the
-First Baptist Church of Colored Persons, Lexington, KY*(Lexington, Ky.:
-A. W. Elder, 1854). 
+[^30]:  Rev. T. J. Hornsby, "The Relation of White and Colored Baptists," in E. K. Love, ed., *History of the First African Baptist Church, From its Organization, January 20th, 1788, to July 1st, 1888, Including the Centennial Celebration, Addresses, Sermons, Etc.* (Savannah, Ga.: Morning News Print, 1888), 254–255. For another example of state laws concerning baptism, see the *Biography of London Ferrill.* Ferrill, a slave who was converted and baptized at a revival, was allowed to travel and preach the gospel. In one instance, however, the law prohibited him from baptizing new converts. Based on the narrative, it appears those converts were white Virginians. It reads, "He (Ferrill) commenced preaching, and the people appeared to receive the word gladly, and when he had gained about fifty converts who were ready to be baptised which ceremony he was not authorised to perform by the Virginia law, he procured the services of Preacher Bowles, and he baptised them. The white people frequently invited Ferrill to their houses to sing for them, as he was considered a great singer, and was sent for, far and near, to preach funeral sermons when the servants would die." Ferrill is later described as having a desire to leave the state of Virginia. After the death of his master, he bought a wagon and two horses and moved with his wife to Kentucky. There he "continued to preach, baptizing in the Ohio river at Maysville and Covington, in Elkhorn, Town Fork, and in all the ponds for miles around Lexington. A pool was then constructed in the Church lot in which he baptized two hundred and twenty persons in one hour and twenty-five minutes, and sixty at another time, in forty-five minutes and has baptized, in all, upwards of five thousand." *Biography of London Ferrill, Pastor of the First Baptist Church of Colored Persons, Lexington, KY*(Lexington, Ky.: A. W. Elder, 1854). 
 
 [^31]:  Hornsby, "The Relation of White and Colored Baptists," 254-255.
 
 [^32]:  Shriver, *Pilgrims through the Years,*96, 98, 107–108. 
 
-[^33]:  Prior to construction of a new building for FBC Charleston
-in the early 1800s, "The first house in which the Church worshipped…was
-on King Street…The next house was a frame building, erected in 1699, on
-site of the present church edifice, with a parsonage on the same lot…The
-third house, build in 1746, is he building on Church Street, long known
-as the "mariner's Church." H. A. Tupper, *Two Centuries of the First
-Baptist Church of South Carolina, 1683-1883* (Baltimore: R. H. Woodward,
-1889), 305–306. 
+[^33]:  Prior to construction of a new building for FBC Charleston in the early 1800s, "The first house in which the Church worshipped…was on King Street…The next house was a frame building, erected in 1699, on site of the present church edifice, with a parsonage on the same lot…The third house, build in 1746, is he building on Church Street, long known as the "mariner's Church." H. A. Tupper, *Two Centuries of the First Baptist Church of South Carolina, 1683-1883* (Baltimore: R. H. Woodward, 1889), 305–306. 
 
-[^34]:  Robert A. Baker and Paul J. Craven Jr., *The History of the
-First Baptist Church of Charleston, South Carolina 1682–2007*,
-(Springfield, Mo.: Particular Baptist Press, 2007) 218, 265, 296–297.
-Description of D. T. Mendenhall also based on Philemon Barry Waters and
-Herbert M. Milam, *A Genealogical History of the Waters and Kindred
-Families*(Atlanta: Foote and Davies, 1902), 167.
+[^34]:  Robert A. Baker and Paul J. Craven Jr., *The History of the First Baptist Church of Charleston, South Carolina 1682–2007*, (Springfield, Mo.: Particular Baptist Press, 2007) 218, 265, 296–297. Description of D. T. Mendenhall also based on Philemon Barry Waters and Herbert M. Milam, *A Genealogical History of the Waters and Kindred Families* (Atlanta: Foote and Davies, 1902), 167.
 
-[^35]:  Baker and Craven, *History of the First Baptist Church of
-Charleston*, 218, 265, 296–297. 
+[^35]:  Baker and Craven, *History of the First Baptist Church of Charleston*, 218, 265, 296–297. 
 
-[^36]:  For a discussion of architectural differences between rural
-and urban churches in the twentieth century American landscape, see
-James Hudnut-Beumler, "The Many Mansions of God's House: The Religious
-Built Environment as Assimilation and Differentiation," *The Material
-History of American Religion Project, Electronic Journal* (1997),
-[http://www.materialreligion.org/journal/mansions/mansions.html](http://www.materialreligion.org/journal/mansions/mansions.html).
-See also Peter W. Williams, *Houses of God: Region, Religion, and
-Architecture in the United States* (Urbana: University of Illinois
-Press, 2000). 
+[^36]:  For a discussion of architectural differences between rural and urban churches in the twentieth century American landscape, see James Hudnut-Beumler, "The Many Mansions of God's House: The Religious Built Environment as Assimilation and Differentiation," *The Material History of American Religion Project, Electronic Journal* (1997), [http://www.materialreligion.org/journal/mansions/mansions.html](http://www.materialreligion.org/journal/mansions/mansions.html). See also Peter W. Williams, *Houses of God: Region, Religion, and Architecture in the United States* (Urbana: University of Illinois Press, 2000). 
 
-[^37]:  This story is based on notes from an informal interview
-with Reverend Greg Burris, pastor of Rocky River Baptist Church (6
-October 2006). 
+[^37]:  This story is based on notes from an informal interview with Reverend Greg Burris, pastor of Rocky River Baptist Church (6 October 2006). 
 
-[^38]:  Other factors may have played a role in the construction of
-indoor baptisteries, such as proximity to water or pollution from
-cities. In the case of Siler City, these explanations are less
-persuasive. Using the terrain feature on Google Maps
-([http://maps.google.com/](http://maps.google.com/)), FBC Siler City is
-roughly 4,000 feet from Loves Creek and only 1,200 feet from a tributary
-of that creek. In comparison, Rocky River Baptist Church is
-approximately 4,500 feet from Rocky River and 3,000 feet from Nick
-Creek. Loves Creek Baptist is about 3,500 feet from Rocky River and
-2,000 feet from Loves Creek. Distance to water then was likely not an
-issue. In terms of pollution, FBC Siler built its indoor baptistery
-before local factories reached large-scale production levels. Also, raw
-sewage should not have been too much of an issue, since outhouses were
-used. However, animal excrement was a real problem, as a position of
-"Public Scavenger" was created in 1914 with the job of removing dead
-animals and excrement from city limits. Pollution of local streams was a
-possibility, though members of FBC Siler could have more easily walked a
-short distance upstream to avoid those potential problems than
-maintained indoor baptisteries without using public water or
-electricity. Early baptisteries often smelled of mold and mildew as
-well. This suggests that Baptists based their decision to baptize
-indoors on more than just sanitation alone. For a more sustained account
-of the religious and industrial development of Siler City, see Chad E.
-Seales, "Cultivating the Desolate Meadows: Industry, Religion, and
-Social Differentiation in Siler City, North Carolina, 1884–1932," *The
-North Carolina Historical Review* 85 (January 2008), 57–87.
+[^38]:  Other factors may have played a role in the construction of indoor baptisteries, such as proximity to water or pollution from cities. In the case of Siler City, these explanations are less persuasive. Using the terrain feature on Google Maps ([http://maps.google.com/](http://maps.google.com/)), FBC Siler City is roughly 4,000 feet from Loves Creek and only 1,200 feet from a tributary of that creek. In comparison, Rocky River Baptist Church is approximately 4,500 feet from Rocky River and 3,000 feet from Nick Creek. Loves Creek Baptist is about 3,500 feet from Rocky River and 2,000 feet from Loves Creek. Distance to water then was likely not an issue. In terms of pollution, FBC Siler built its indoor baptistery before local factories reached large-scale production levels. Also, raw sewage should not have been too much of an issue, since outhouses were used. However, animal excrement was a real problem, as a position of "Public Scavenger" was created in 1914 with the job of removing dead animals and excrement from city limits. Pollution of local streams was a possibility, though members of FBC Siler could have more easily walked a short distance upstream to avoid those potential problems than maintained indoor baptisteries without using public water or electricity. Early baptisteries often smelled of mold and mildew as well. This suggests that Baptists based their decision to baptize indoors on more than just sanitation alone. For a more sustained account of the religious and industrial development of Siler City, see Chad E. Seales, "Cultivating the Desolate Meadows: Industry, Religion, and Social Differentiation in Siler City, North Carolina, 1884–1932," *The North Carolina Historical Review* 85 (January 2008), 57–87.
 
-[^39]:  Murray M. Andrew, *First Baptist Churc**h, 1889–1989*
-(Winston-Salem: Hunter Publishing Company, 1989), 26. 
+[^39]:  Murray M. Andrew, *First Baptist Churc**h, 1889–1989* (Winston-Salem: Hunter Publishing Company, 1989), 26. 
 
-[^40]:  Rachel and Ruth Selden-Sturgill Osborn, *The Architectural
-Heritage of Chatham County, North Carolina* (Charlotte: Chatham County
-Historic Architecture Survey Committee and the Delmar Company, 1991),
-49. 
+[^40]:  Rachel and Ruth Selden-Sturgill Osborn, *The Architectural Heritage of Chatham County, North Carolina* (Charlotte: Chatham County Historic Architecture Survey Committee and the Delmar Company, 1991), 49. 
 
 [^41]:  Andrew, *First Baptist Church*, 27.
 
 [^42]:  Comer, *First Baptist Church, Sanford, NC*, 88–89.
 
-[^43]:  Liston Pope, *Millhands and Preachers* (New Haven: Yale
-University Press, 1942), 19.
+[^43]:  Liston Pope, *Millhands and Preachers* (New Haven: Yale University Press, 1942), 19.
 
-[^44]:  Ron Boswell, *The Blessing of Beulah: Prepared for the
-Sesqui-centennial Celebration of the Beulah Baptist Association of North
-Carolina*(Roxboro, N.C.: Beulah Baptist Association, 1984), 188, 118,
-116.
+[^44]:  Ron Boswell, *The Blessing of Beulah: Prepared for the Sesqui-centennial Celebration of the Beulah Baptist Association of North Carolina*(Roxboro, N.C.: Beulah Baptist Association, 1984), 188, 118, 116.
 
-[^45]:  Frank H. Morse, "Heating Water in a Church Bapistry,"
-*Popular Mechanics* (March 1911), 441. 
+[^45]:  Frank H. Morse, "Heating Water in a Church Bapistry," *Popular Mechanics* (March 1911), 441. 
 
-[^46]:  Historian Ryan Smith has argued that the proliferation of
-nineteenth century architectural church design in the U.S. was
-associated with anti-Catholicism, what he calls the "seed of Protestant
-adaptation." Ryan K. Smith, *Gothic Arches, Latin Crosses:
-Anti-Catholicism and American Church Designs in the Nineteenth Century*
-(Chapel Hill: University of North Carolina Press, 2006), 17. 
+[^46]:  Historian Ryan Smith has argued that the proliferation of nineteenth century architectural church design in the U.S. was associated with anti-Catholicism, what he calls the "seed of Protestant adaptation." Ryan K. Smith, *Gothic Arches, Latin Crosses: Anti-Catholicism and American Church Designs in the Nineteenth Century* (Chapel Hill: University of North Carolina Press, 2006), 17. 
 
 [^47]:  Comer, *First Baptist Church Sanford*.
 
-[^48]:  For another example of church architecture as a marker of
-social status, see Wilmington, North Carolina, which was advertised on
-post cards as the "City of Beautiful Churches." Walter H. Conser, Jr.,
-*A Coat of Many Colors: Religion and Society along the Cape Fear River
-of North Carolina* (Lexington: University Press of Kentucky, 2006). For
-a description of the connection between Gothic civilization and
-Christian values, see Paul Frankl, *Gothic Architecture*, 2nd ed. (New
-Haven: Yale University Press, 2001), 14. For a discussion of evangelical
-use of architectural displays to gain respectability, see Christopher H.
-Owen, "By Design: The Social Meaning of Methodist Church Architecture in
-Nineteenth-century Georgia," *Georgia Historical Quarterly*75 (Summer
-1991), 221–53. The national trend of using classical architecture and
-technological innovations to show the United States both as modern and
-as the rightful inheritor of European civilization was most clearly and
-grandly demonstrated at the Chicago World's Fair of 1893. Alan
-Trachtenberg describes how the architecture of the White City reflected
-classical, Gothic, and Renaissance styles. In the displays of the White
-City, "architecture" stood for "educated and tasteful *picturing*" and
-it was used to associate artistic displays with "wealth, and the power
-to donate and administer with social station and training." Alan
-Trachtenberg, *The Incorporation of America: Culture and Society in the
-Gilded Age*(1982; New York: Hill and Wang, 2007), 117, 119, 144.
+[^48]:  For another example of church architecture as a marker of social status, see Wilmington, North Carolina, which was advertised on post cards as the "City of Beautiful Churches." Walter H. Conser, Jr., *A Coat of Many Colors: Religion and Society along the Cape Fear River of North Carolina* (Lexington: University Press of Kentucky, 2006). For a description of the connection between Gothic civilization and Christian values, see Paul Frankl, *Gothic Architecture*, 2nd ed. (New Haven: Yale University Press, 2001), 14. For a discussion of evangelical use of architectural displays to gain respectability, see Christopher H. Owen, "By Design: The Social Meaning of Methodist Church Architecture in Nineteenth-century Georgia," *Georgia Historical Quarterly* 75 (Summer 1991), 221–53. The national trend of using classical architecture and technological innovations to show the United States both as modern and as the rightful inheritor of European civilization was most clearly and grandly demonstrated at the Chicago World's Fair of 1893. Alan Trachtenberg describes how the architecture of the White City reflected classical, Gothic, and Renaissance styles. In the displays of the White City, "architecture" stood for "educated and tasteful *picturing*" and it was used to associate artistic displays with "wealth, and the power to donate and administer with social station and training." Alan Trachtenberg, *The Incorporation of America: Culture and Society in the Gilded Age* (1982; New York: Hill and Wang, 2007), 117, 119, 144.
 
-[^49]:  For classical examples of this evolutionary narrative, see
-Emile Durkheim, *The Elementary Forms of Religious Life* (New York: Free
-Press, 1912); and Mircea Eliade, *The Sacred and the Profane: The Nature
-of Religion* (New York: Harcourt, Brace, Jovanovich, 1959). For a useful
-overview of these approaches, see Daniel L. Pals, *Eight Theories of
-Religion* (New York: Oxford University Press, 2006), 85–117, 193–228.
+[^49]:  For classical examples of this evolutionary narrative, see Emile Durkheim, *The Elementary Forms of Religious Life* (New York: Free Press, 1912); and Mircea Eliade, *The Sacred and the Profane: The Nature of Religion* (New York: Harcourt, Brace, Jovanovich, 1959). For a useful overview of these approaches, see Daniel L. Pals, *Eight Theories of Religion* (New York: Oxford University Press, 2006), 85–117, 193–228.
