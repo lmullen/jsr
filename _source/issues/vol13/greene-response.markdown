@@ -99,19 +99,8 @@ and political life in the twentieth century become comprehensible only
 when we are attentive not only to power dynamics of race and gender but
 also to those of class, and to the interplay among the three.
 
-[^1]:  See, for instance, Catherine A. Brekus, *Strangers and
-Pilgrims: Female Preaching in America, 1740--1845* (Chapel Hill:
-University of North Carolina Press, 1998); Anthea D. Butler*, Women in
-the Church of God in Christ: Making a Sanctified World*(Chapel Hill:
-University of North Carolina Press, 2007); Cheryl Townsend Gilkes, *If
-It Wasn't for the Women: Black Women's Experience and Womanist Culture
-in Church and Community* (Maryknoll, N.Y.: Orbis Books, 2001); Matthew
-Avery Sutton*, Aimee Semple McPherson and the Resurrection of Christian
-America*(Cambridge, Mass.: Harvard University Press, 2007). 
+[^1]:  See, for instance, Catherine A. Brekus, *Strangers and Pilgrims: Female Preaching in America, 1740--1845* (Chapel Hill: University of North Carolina Press, 1998); Anthea D. Butler*, Women in the Church of God in Christ: Making a Sanctified World*(Chapel Hill: University of North Carolina Press, 2007); Cheryl Townsend Gilkes, *If It Wasn't for the Women: Black Women's Experience and Womanist Culture in Church and Community* (Maryknoll, N.Y.: Orbis Books, 2001); Matthew Avery Sutton*, Aimee Semple McPherson and the Resurrection of Christian America*(Cambridge, Mass.: Harvard University Press, 2007). 
  
- [^2]:  "Original Church of God (Holiness), Jonesboro, Craighead
-County, Folder 119, Box 429, Arkansas Church Records. 
+[^2]:  "Original Church of God (Holiness), Jonesboro, Craighead County, Folder 119, Box 429, Arkansas Church Records. 
  
- [^3]:  Douglass Carr, "Holiness Church," Jackson, Mississippi, n.d.,
-p. 1, Federal Writer's Project Negro Source Material, Mississippi
-Department of Archives and History. 
+[^3]:  Douglass Carr, "Holiness Church," Jackson, Mississippi, n.d., p. 1, Federal Writer's Project Negro Source Material, Mississippi Department of Archives and History. 
