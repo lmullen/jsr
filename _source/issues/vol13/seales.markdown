@@ -877,8 +877,7 @@ baptism was the heart of the modern Baptist.
 
 <!-- NOTES -->
 
-[^1]: James Vann Comer, *First Baptist Church, Sanford, NC:
-1893–1993* (Sanford, N.C.: J.V. Comer, 1993), 88–89.
+[^1]: James Vann Comer, *First Baptist Church, Sandford, NC: 1893-1993* (Sanford, N.C.: J.V. Comer, 1993), 88-89.
 
 [^2]: William Hutchison termed what he called a "cluster of liberal
 ideas" in American Protestantism as "Protestant modernism." He noted
