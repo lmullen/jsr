@@ -678,13 +678,13 @@ genealogical research (so as to find the Catholics in the sources that
 are not specifically church-related), and a whole lot of dedication.
 
 [^1]: Paul E. Hoffman, *A New Andalucia and a Way to the Orient: The
-American Southeast During the Sixteenth Century* (Baton Rouge:
-Louisiana State University Press, 2004), 205--231; Stephen Adams,
-*The Best and Worst Country in the World: Perspectives on the Early
-Virginia Landscape* (Charlottesville: University of Virginia Press,
-2001), 61; and Jon F. Sensbach, "Religion and the Early South in an
-Age of Atlantic Empire," *Journal of Southern History*  LXXII, no. 3
-(2007), 632.
+  American Southeast During the Sixteenth Century* (Baton Rouge:
+  Louisiana State University Press, 2004), 205--231; Stephen Adams,
+  *The Best and Worst Country in the World: Perspectives on the Early
+  Virginia Landscape* (Charlottesville: University of Virginia Press,
+  2001), 61; and Jon F. Sensbach, "Religion and the Early South in an
+  Age of Atlantic Empire," *Journal of Southern History*  LXXII, no. 3
+  (2007), 632.
 
 [^2]:  J.F. Regis Canevin, "Loss and Gain in the Catholic Church in the
 United States, 1800--1916," *Catholic Historical Review* (January
