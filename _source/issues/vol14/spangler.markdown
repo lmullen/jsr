@@ -356,271 +356,58 @@ reputed words of William Faulkner, "People need trouble -- a little
 frustration to sharpen the spirit on, toughen it.... \[Y\]ou have to learn
 fortitude, endurance. Only vegetables are happy."
 
-[^1]: The list of early studies of colonial Protestantism is
-considerable. For a small sample of this work for Virginia alone see
-William Henry Foote, *Sketches of Virginia, Historical and
-Biographical, First Series* (1850; Richmond, Va.: John Knox Press,
-1966); Wesley Gewehr, *The Great Awakening in Virginia, 1740--1790*
-(1930; Gloucester, Ma.: Peter Smith, 1965); Lewis Peyton Little,
-*Imprisoned Preachers and Religious Liberty in Virginia* (Lynchburg,
-Va.: J. P. Bell Co., Inc., 1938); George Maclaren Brydon,
-*Virginia's Mother Church and the Political Conditions Under Which
-It Grew* (Richmond: Virginia Historical Society, 1947).
+[^1]: The list of early studies of colonial Protestantism is considerable. For a small sample of this work for Virginia alone see William Henry Foote, *Sketches of Virginia, Historical and Biographical, First Series* (1850; Richmond, Va.: John Knox Press, 1966); Wesley Gewehr, *The Great Awakening in Virginia, 1740--1790* (1930; Gloucester, Ma.: Peter Smith, 1965); Lewis Peyton Little, *Imprisoned Preachers and Religious Liberty in Virginia* (Lynchburg, Va.: J. P. Bell Co., Inc., 1938); George Maclaren Brydon, *Virginia's Mother Church and the Political Conditions Under Which It Grew* (Richmond: Virginia Historical Society, 1947).
 
-[^2]: Allan Nevins and Henry Steele Commager, *A Short History of the
-United States* (5th ed; New York: Knopf, 1969), 47. The creation of
-southern religious history as a field in the 1960s has been noted by
-many historians. See, for example, Donald G. Mathews, "'We Have Left
-Undone Those Things Which We Ought to Have Done': Southern Religious
-History in Retrospect and Prospect," *Church History* 67 (1998):
-305--25; Donald G. Mathews, "'Christianizing the South': Sketching a
-Synthesis," in *New Perspectives in American Religious History,* ed.
-Harry S. Stout and Daryl G. Hart (New York: Oxford University Press,
-1997); John B. Boles, "The Discovery of Southern Religious History,"
-in *Interpreting Southern History: Historiographical Essays in Honor
-of Sanford W. Higginbotham*, ed. John B. Boles and Evelyn Thomas
-Nolen (Baton Rouge: Louisiana State University Press, 1987).
+[^2]: Allan Nevins and Henry Steele Commager, *A Short History of the United States* (5th ed; New York: Knopf, 1969), 47. The creation of southern religious history as a field in the 1960s has been noted by many historians. See, for example, Donald G. Mathews, "'We Have Left Undone Those Things Which We Ought to Have Done': Southern Religious History in Retrospect and Prospect," *Church History* 67 (1998): 305--25; Donald G. Mathews, "'Christianizing the South': Sketching a Synthesis," in *New Perspectives in American Religious History,* ed. Harry S. Stout and Daryl G. Hart (New York: Oxford University Press, 1997); John B. Boles, "The Discovery of Southern Religious History," in *Interpreting Southern History: Historiographical Essays in Honor of Sanford W. Higginbotham*, ed. John B. Boles and Evelyn Thomas Nolen (Baton Rouge: Louisiana State University Press, 1987).
 
-[^3]: Donald G. Mathews, *Slavery and Methodism* (Princeton: Princeton
-University Press, 1965); John B. Boles, *The Great Revival,*
-*1787--1805: The Origins of the Southern Evangelical Mind*
-(Lexington: University Press of Kentucky, 1972); Dickson D. Bruce,
-*And They All Sang Hallelujah: Plain-Folk Camp-Meeting Religion,
-1800--1845* (Knoxville: University of Tennessee Press, 1974); Eugene
-D. Genovese, *Roll, Jordan, Roll: The World the Slaves Made* (New
-York: Pantheon, 1974); Donald G. Mathews, *Religion in the Old
-South* (Chicago: University of Chicago Press, 1977); and Albert J.
-Raboteau, *Slave Religion: The Invisible Institution in the
-Antebellum South* (New York: Oxford University Press, 1978).
+[^3]: Donald G. Mathews, *Slavery and Methodism* (Princeton: Princeton University Press, 1965); John B. Boles, *The Great Revival, 1787--1805: The Origins of the Southern Evangelical Mind*
+(Lexington: University Press of Kentucky, 1972); Dickson D. Bruce, *And They All Sang Hallelujah: Plain-Folk Camp-Meeting Religion, 1800--1845* (Knoxville: University of Tennessee Press, 1974); Eugene D. Genovese, *Roll, Jordan, Roll: The World the Slaves Made* (New York: Pantheon, 1974); Donald G. Mathews, *Religion in the Old South* (Chicago: University of Chicago Press, 1977); and Albert J. Raboteau, *Slave Religion: The Invisible Institution in the Antebellum South* (New York: Oxford University Press, 1978).
 
-[^4]: Eugene D. Genovese is perhaps the historian most closely
-associated with the midcentury rejuvenation of this interpretation.
-See, for example, *The Political Economy of Slavery: Studies in the
-Economy and Society of the Slave South* (New York: Pantheon, 1965);
-*The World the Slaveholders Made: Two Essays in Interpretation* (New
-York: Pantheon, 1969). It is not so much that the South had been
-cast as "modern" or similar to the rest of the nation beforehand,
-but that Genovese and others renewed interest precisely in the
-anti-modern, hierarchical, and planter-dominated nature of the
-American South. For a tidy review of the concept of the Old South
-see the introduction to *The Old South's Modern Worlds: Slavery,
-Region, and Nation in the Age of Progress*, eds. L. Diane Barnes,
-Brian Schoen, and Frank Towers, (New York: Oxford University Press,
-2011), 3--22.
+[^4]: Eugene D. Genovese is perhaps the historian most closely associated with the midcentury rejuvenation of this interpretation. See, for example, *The Political Economy of Slavery: Studies in the Economy and Society of the Slave South* (New York: Pantheon, 1965); *The World the Slaveholders Made: Two Essays in Interpretation* (New York: Pantheon, 1969). It is not so much that the South had been cast as "modern" or similar to the rest of the nation beforehand, but that Genovese and others renewed interest precisely in the anti-modern, hierarchical, and planter-dominated nature of the American South. For a tidy review of the concept of the Old South see the introduction to *The Old South's Modern Worlds: Slavery, Region, and Nation in the Age of Progress*, eds. L. Diane Barnes, Brian Schoen, and Frank Towers, (New York: Oxford University Press, 2011), 3--22.
 
 [^5]: Mathews, *Religion in the Old South*, xiv.
 
-[^6]: Joan R. Gundersen, "The Myth of the Independent Virginia Vestry,"
-*Historical Magazine of the Protestant Episcopal Church (HMPEC)* 44
-(1975): 133--41; Joan R. Gundersen, *The Anglican Ministry in
-Virginia, 1723--1766; A Study of a Social Class* (New York: Garland,
-1989) (a printing of her 1977 dissertation); Joan R. Gundersen, "The
-Search for Good Men: Recruiting Ministers in Colonial Virginia,"
-*HMPEC* 48 (1979): 453--64; S. Charles Bolton, *Southern
-Anglicanism: The Church of England in Colonial South Carolina*
-(Westport, Ct.: Greenwood Press, 1982); John Frederick Woolverton,
-*Colonial Anglicanism in North America* (Detroit: Wayne State
-University Press, 1984); Dell Upton, *Holy Things and Profane:
-Anglican Parish Churches in Colonial Virginia* (Cambridge: MIT
-Press, 1987); Edward L. Bond, *Damned Souls in a Tobacco Colony:
-Religion in Seventeenth-Century Virginia* (Macon, Ga.: Mercer
-University Press, 2000); and John K. Nelson, *A Blessed Company:
-Parishes, Parsons, and Parishioners in Anglican Virginia,
-1690--1776* (Chapel Hill: University of North Carolina Press, 2001).
-More recently, see Brent Tarter, "Evidence of Religion in
-Seventeenth-Century Virginia," and Edward L. Bond, "Lived Religion
-in Colonial Virginia," in *From Jamestown to Jefferson: The
-Evolution of Religion Freedom in Virginia,* ed. Paul Rasor and
-Richard E. Bond (Charlottesville: University of Virginia Press,
-2011) and Edward L. Bond and Joan Gundersen, "Colonial Origins and
-Growth: The Church of England Adapts to North America, 1607--1760,"
-*Virginia Magazine of History and Biography* 115:2 (2007): 165--199.
+[^6]: Joan R. Gundersen, "The Myth of the Independent Virginia Vestry," *Historical Magazine of the Protestant Episcopal Church (HMPEC)* 44 (1975): 133--41; Joan R. Gundersen, *The Anglican Ministry in Virginia, 1723--1766; A Study of a Social Class* (New York: Garland, 1989) (a printing of her 1977 dissertation); Joan R. Gundersen, "The Search for Good Men: Recruiting Ministers in Colonial Virginia," *HMPEC* 48 (1979): 453--64; S. Charles Bolton, *Southern
+Anglicanism: The Church of England in Colonial South Carolina* (Westport, Ct.: Greenwood Press, 1982); John Frederick Woolverton, *Colonial Anglicanism in North America* (Detroit: Wayne State University Press, 1984); Dell Upton, *Holy Things and Profane: Anglican Parish Churches in Colonial Virginia* (Cambridge: MIT Press, 1987); Edward L. Bond, *Damned Souls in a Tobacco Colony: Religion in Seventeenth-Century Virginia* (Macon, Ga.: Mercer University Press, 2000); and John K. Nelson, *A Blessed Company: Parishes, Parsons, and Parishioners in Anglican Virginia, 1690--1776* (Chapel Hill: University of North Carolina Press, 2001). More recently, see Brent Tarter, "Evidence of Religion in Seventeenth-Century Virginia," and Edward L. Bond, "Lived Religion in Colonial Virginia," in *From Jamestown to Jefferson: The Evolution of Religion Freedom in Virginia,* ed. Paul Rasor and Richard E. Bond (Charlottesville: University of Virginia Press, 2011) and Edward L. Bond and Joan Gundersen, "Colonial Origins and Growth: The Church of England Adapts to North America, 1607--1760," *Virginia Magazine of History and Biography* 115:2 (2007): 165--199.
 
-[^7]: Rhys Isaac, "Evangelical Revolt: The Nature of the Baptists'
-Challenge to the Traditional Order in Virginia, 1765 to 1775,"
-*William and Mary Quarterly (WMQ)* 31 (1974): 345--68; Rhys Isaac,
-*The Transformation of Virginia, 1740--1790* (Chapel Hill:
-University of North Carolina Press, 1982); Mathews, *Religion in the
-Old South*, 1--80; Richard R. Beeman, *The Evolution of the Southern
-Backcountry: A Case Study of Lunenburg County, Virginia 1746--1832*
-(Philadelphia: University of Pennsylvania Press, 1984); J. Stephen
-Kroll-Smith, "Tobacco and Belief: Baptist Ideology and the Yeoman
-Planter in 18th Century Virginia," *Southern Studies*21 (1982):
-353--68; William Howland Kenney, III, "Alexander Garden and George
-Whitefield: The Significance of Revivalism in South Carolina,
-1738--1741," *South Carolina Historical Magazine* 71:1 (1970):
-1--16; David T. Morgan Jr., "George Whitefield and the Great
-Awakening in the Carolinas and Georgia, 1739--1740," *Georgia
-Historical Quarterly* 54:4 (1970): 517--39; Allan Gallay, "The
-Origins of Slaveholders' Paternalism: George Whitefield, the Bryan
-Family, and the Great Awakening in the South," *Journal of Southern
-History* 53:3(1987): 369--94. James D. Essig's 1982 book might also
-be mentioned here for sketching out efforts of early southern
-evangelicals to oppose slavery (*The Bonds of Wickedness: American
-Evangelicals Against Slavery, 1770--1808* \[Philadelphia: Temple
-University Press, 1982\]). For an excellent survey of the religious
-history of early Virginia that synthesizes much of the work see the
-introduction to Edward L. Bond, *Spreading the Gospel in Colonial
-Virginia: Preaching Religion and Community* (Lanham, Md.: Lexington
-Books, 2005).
+[^7]: Rhys Isaac, "Evangelical Revolt: The Nature of the Baptists' Challenge to the Traditional Order in Virginia, 1765 to 1775," *William and Mary Quarterly (WMQ)* 31 (1974): 345--68; Rhys Isaac, *The Transformation of Virginia, 1740--1790* (Chapel Hill: University of North Carolina Press, 1982); Mathews, *Religion in the Old South*, 1--80; Richard R. Beeman, *The Evolution of the Southern Backcountry: A Case Study of Lunenburg County, Virginia 1746--1832* (Philadelphia: University of Pennsylvania Press, 1984); J. Stephen Kroll-Smith, "Tobacco and Belief: Baptist Ideology and the Yeoman Planter in 18th Century Virginia," *Southern Studies*21 (1982): 353--68; William Howland Kenney, III, "Alexander Garden and George Whitefield: The Significance of Revivalism in South Carolina, 1738--1741," *South Carolina Historical Magazine* 71:1 (1970): 1--16; David T. Morgan Jr., "George Whitefield and the Great Awakening in the Carolinas and Georgia, 1739--1740," *Georgia Historical Quarterly* 54:4 (1970): 517--39; Allan Gallay, "The Origins of Slaveholders' Paternalism: George Whitefield, the Bryan Family, and the Great Awakening in the South," *Journal of Southern History* 53:3(1987): 369--94. James D. Essig's 1982 book might also be mentioned here for sketching out efforts of early southern evangelicals to oppose slavery (*The Bonds of Wickedness: American Evangelicals Against Slavery, 1770--1808* \[Philadelphia: Temple University Press, 1982\]). For an excellent survey of the religious history of early Virginia that synthesizes much of the work see the introduction to Edward L. Bond, *Spreading the Gospel in Colonial Virginia: Preaching Religion and Community* (Lanham, Md.: Lexington Books, 2005).
 
-[^8]: See Schweiger's contribution to the forum "Southern Religion,"
-*Religion and American Culture* 8:2 (1998): 162--63, 164 (quotation
-p. 162).
+[^8]: See Schweiger's contribution to the forum "Southern Religion," *Religion and American Culture* 8:2 (1998): 162--63, 164 (quotation p. 162).
 
-[^9]: The work to cite here is too vast to be enumerated. One classic
-articulation of planter power in the colonial period, combined with
-the acquiescence of plainer folk and the security of slavery, is
-Edmund S. Morgan, *American Slavery American Freedom: The Ordeal of
-Colonial Virginia* (New York: Norton, 1975). Isaac's treatment of
-the planting elite throughout *The Transformation of Virginia* is
-itself a clear assertion of this view, and Isaac cites much of the
-relevant secondary literature.
+[^9]: The work to cite here is too vast to be enumerated. One classic articulation of planter power in the colonial period, combined with the acquiescence of plainer folk and the security of slavery, is Edmund S. Morgan, *American Slavery American Freedom: The Ordeal of Colonial Virginia* (New York: Norton, 1975). Isaac's treatment of the planting elite throughout *The Transformation of Virginia* is itself a clear assertion of this view, and Isaac cites much of the relevant secondary literature.
 
 [^10]: Mathews, *Religion in the Old South*, 1--10 (quotation p. 10).
 
-[^11]: For a summary of the changing historiography of the American
-Revolution, including a close reading of the New
-Left/Neo-Progressive interpretations referenced here, see Alfred F.
-Young and Gregory H. Nobles, *Whose American Revolution Was It?
-Historians Interpret the Founding* (New York: New York University
-Press, 2011), 75--101.
+[^11]: For a summary of the changing historiography of the American Revolution, including a close reading of the New Left/Neo-Progressive interpretations referenced here, see Alfred F. Young and Gregory H. Nobles, *Whose American Revolution Was It? Historians Interpret the Founding* (New York: New York University Press, 2011), 75--101.
 
-[^12]: Erskine Clarke, *Our Southern Zion: A History of Calvinism in the
-South Carolina Low Country, 1690--1990* (Tuscaloosa: University of
-Alabama Press, 1996); Christine Leigh Heyrman, *Southern Cross: The
-Beginnings of the Bible Belt* (New York: Knopf, 1997); Cynthia Lynn
-Lyerly made similar arguments for southern Methodists, whom she
-described as "fearless social critics" who "embraced a worldview
-genuinely at odds with the dominant secular mind-set," illustrated
-with chapters that expertly examine race, class, and gender in
-detail. She argues that over time Methodism compromised with the
-dominant order however, evolving "toward social conformity." See
-*Methodism and the Southern Mind, 1770--1810* (New York: Oxford
-University Press, 1998), 4. For a more recent study with a similar
-"oppositional" take, see John Ragosta, *Wellspring of Liberty: How
-Virginia's Religious Dissenters Helped Win the American Revolution
-and Secured Religious Liberty* (New York: Oxford University Press,
-2010).
+[^12]: Erskine Clarke, *Our Southern Zion: A History of Calvinism in the South Carolina Low Country, 1690--1990* (Tuscaloosa: University of Alabama Press, 1996); Christine Leigh Heyrman, *Southern Cross: The Beginnings of the Bible Belt* (New York: Knopf, 1997); Cynthia Lynn Lyerly made similar arguments for southern Methodists, whom she described as "fearless social critics" who "embraced a worldview genuinely at odds with the dominant secular mind-set," illustrated with chapters that expertly examine race, class, and gender in detail. She argues that over time Methodism compromised with thedominant order however, evolving "toward social conformity." See *Methodism and the Southern Mind, 1770--1810* (New York: Oxford University Press, 1998), 4. For a more recent study with a similar "oppositional" take, see John Ragosta, *Wellspring of Liberty: How Virginia's Religious Dissenters Helped Win the American Revolution and Secured Religious Liberty* (New York: Oxford University Press, 2010).
 
-[^13]: Jewel L. Spangler, *Virginians Reborn: Anglican Establishment,
-Evangelical Dissent, and the Rise of the Baptists in the Late
-Eighteenth Cent*ury (Charlottesville: University of Virginia Press,
-2008). For earlier studies that argue down these lines see Rachel N.
-Klein, *Unification of a Slave State: The Rise of the Planter Class
-in the South Carolina Backcountry, 1760--1808* (Chapel Hill:
-University of North Carolina Press, 1992); Rodger M. Payne, "New
-Light in Hanover County: Evangelical Dissent in Piedmont Virginia,
-1740--1755," *Journal of Southern Hist*ory 61:4 (1995): 666--94.
+[^13]: Jewel L. Spangler, *Virginians Reborn: Anglican Establishment, Evangelical Dissent, and the Rise of the Baptists in the Late Eighteenth Century* (Charlottesville: University of Virginia Press, 2008). For earlier studies that argue down these lines see Rachel N. Klein, *Unification of a Slave State: The Rise of the Planter Class in the South Carolina Backcountry, 1760--1808* (Chapel Hill: University of North Carolina Press, 1992); Rodger M. Payne, "New Light in Hanover County: Evangelical Dissent in Piedmont Virginia, 1740--1755," *Journal of Southern History* 61:4 (1995): 666--94.
 
-[^14]: Monica Najar, *Evangelizing the South: A Social History of Church
-and State in Early America* (New York: Oxford University Press,
-2008), 4.
+[^14]: Monica Najar, *Evangelizing the South: A Social History of Church and State in Early America* (New York: Oxford University Press, 2008), 4.
 
-[^15]: Janet Moore Lindman, *Bodies of Belief: Baptist Community in
-Early America* (Philadelphia: University of Pennsylvania Press,
-2008), 2, 70.
+[^15]: Janet Moore Lindman, *Bodies of Belief: Baptist Community in Early America* (Philadelphia: University of Pennsylvania Press, 2008), 2, 70.
 
-[^16]: Mechal Sobel, *The World They Made Together‬:* Black and White
-Values in Eighteenth-Century Virginia‬ (Princeton: Princeton
-University Press, 1989), quotation p. 180. At the same time, a
-number of scholars argued that few African Americans converted to
-Protestant faiths in the colonial period. See, for example, Sylvia
-R. Frey and Betty Wood, *Come Shouting to Zion: African American
-Protestantism in the American South and British Caribbean to 1830*
-(Chapel Hill: University of North Carolina Press, 1998).
+[^16]: Mechal Sobel, *The World They Made Together‬:* Black and White Values in Eighteenth-Century Virginia‬ (Princeton: Princeton University Press, 1989), quotation p. 180. At the same time, a number of scholars argued that few African Americans converted to Protestant faiths in the colonial period. See, for example, Sylvia R. Frey and Betty Wood, *Come Shouting to Zion: African American Protestantism in the American South and British Caribbean to 1830* (Chapel Hill: University of North Carolina Press, 1998).
 ‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬
+[^17]: Jon F. Sensbach, *A Separate Canaan: The Making of an Afro-Moravian World in North Carolina, 1763--1840* (Chapel Hill: University of North Carolina Press, 1998).
 
-[^17]: Jon F. Sensbach, *A Separate Canaan: The Making of an
-Afro-Moravian World in North Carolina, 1763--1840* (Chapel Hill:
-University of North Carolina Press, 1998).
+[^18]: Charles F. Irons, *The Origins of Proslavery Christianity: White and Black Evangelicals in Colonial and Antebellum Virginia* (Chapel Hill: University of North Carolina Press, 2008), quotations pp. 10, 14; Randolph Ferguson Scully, *Religion and the Making of Nat Turner's Virginia: Baptist Community and Conflict, 1740--1840* (Charlottesville: University of Virginia Press, 2008).
 
-[^18]: Charles F. Irons, *The Origins of Proslavery Christianity: White
-and Black Evangelicals in Colonial and Antebellum Virginia* (Chapel
-Hill: University of North Carolina Press, 2008), quotations pp. 10,
-14; Randolph Ferguson Scully, *Religion and the Making of Nat
-Turner's Virginia: Baptist Community and Conflict, 1740--1840*
-(Charlottesville: University of Virginia Press, 2008).
+[^19]: See, for example, William Harris's treatment of the colonial period in *The Making of the American South* (Malden, MA: Blackwell, 2006).
 
-[^19]: See, for example, William Harris's treatment of the colonial
-period in *The Making of the American South* (Malden, MA: Blackwell,
-2006).
+[^20]: In thinking about this third grouping, I took inspiration fromfThomas A. Tweed's important essay collection, *Retelling US Religious History* (Berkeley: University of California Press, 1997).
 
-[^20]: In thinking about this third grouping, I took inspiration from
-Thomas A. Tweed's important essay collection, *Retelling US
-Religious History* (Berkeley: University of California Press, 1997).
+[^21]: Jon F. Sensbach, "Before the Bible Belt: Indians, Africans, and the New Synthesis of Eighteenth-Century Southern Religious History," in *Religion in the American South: Protestants and Others in History and Culture,* ed. Beth Barton Schweiger and Donald G. Mathews (Chapel Hill: University of North Carolina Press, 2004), 5--30. See also Tweed, *Retelling*, 11--12.
 
-[^21]: Jon F. Sensbach, "Before the Bible Belt: Indians, Africans, and
-the New Synthesis of Eighteenth-Century Southern Religious History,"
-in *Religion in the American South: Protestants and Others in
-History and Culture,* ed. Beth Barton Schweiger and Donald G.
-Mathews (Chapel Hill: University of North Carolina Press, 2004),
-5--30. See also Tweed, *Retelling*, 11--12.
+[^22]: See, for example, Frank Lambert, *"Pedlar in Divinity:" George Whitefield and the Transatlantic Revivals, 1737--1770* (Princeton: Princeton University Press, 1993) and Susan O'Brien, "A Transatlantic Community of Saints: The Great Awakening and the First Evangelical Network, 1735--1755," American Historical Review 91:4 (1986): 811--33. For a couple of good comparative examples, see Lindman, *Bodies of Belief*; Frey and Wood, *Come Shouting to Zion*.
 
-[^22]: See, for example, Frank Lambert, *"Pedlar in Divinity:" George
-Whitefield and the Transatlantic Revivals, 1737--1770* (Princeton:
-Princeton University Press, 1993) and Susan O'Brien, "A
-Transatlantic Community of Saints: The Great Awakening and the First
-Evangelical Network, 1735--1755," American Historical Review 91:4
-(1986): 811--33. For a couple of good comparative examples, see
-Lindman, *Bodies of Belief*; Frey and Wood, *Come Shouting to Zion*.
+[^23]: Jon Sensbach, *Rebecca's Revival: Creating Black Christianity in the Atlantic World* (Cambridge: Harvard University Press, 2005). Similarly Nicholas Beasley's work on Anglicanism in South Carolina and the British Caribbean, while not precisely on the topic of this essay, is suggestive of ways that scholars can reshape their thinking about region, if willing to move beyond national boundaries in order to trace communication and connections that actually shaped the religious worlds of southerners. See Nicholas Beasley, *Christian Ritual and the Creation of British Slave Societies, 1650--1740* (Athens: University of Georgia Press, 2009).
 
-[^23]: Jon Sensbach, *Rebecca's Revival: Creating Black Christianity in
-the Atlantic World* (Cambridge: Harvard University Press, 2005).
-Similarly Nicholas Beasley's work on Anglicanism in South Carolina
-and the British Caribbean, while not precisely on the topic of this
-essay, is suggestive of ways that scholars can reshape their
-thinking about region, if willing to move beyond national boundaries
-in order to trace communication and connections that actually shaped
-the religious worlds of southerners. See Nicholas Beasley,
-*Christian Ritual and the Creation of British Slave Societies,
-1650--1740* (Athens: University of Georgia Press, 2009).
+[^24]: Donald Mathews has highlighted the problem of "reductionism," as does Beth Barton Schweiger. See their forum contributions in Donald G. Mathews, Samuel S. Hill, Beth Barton Schweiger, and John B. Boles, "Southern Religion," *Religion and American Culture: A Journal of Interpretation* 8:2 (1998): 150, 162.
 
-[^24]: Donald Mathews has highlighted the problem of "reductionism," as
-does Beth Barton Schweiger. See their forum contributions in Donald
-G. Mathews, Samuel S. Hill, Beth Barton Schweiger, and John B.
-Boles, "Southern Religion," *Religion and American Culture: A
-Journal of Interpretation* 8:2 (1998): 150, 162.
+[^25]: Philip N. Mulder, *A Controversial Spirit: Evangelical Awakenings in the South* (New York: Oxford, 2002).
 
-[^25]: Philip N. Mulder, *A Controversial Spirit: Evangelical Awakenings
-in the South* (New York: Oxford, 2002).
+[^26]: For southern Quakers, the most recent and comprehensive publication is A. Glenn Crothers, *Quakers Living in the Lion's Mouth: The Society of Friends in Northern Virginia, 1730--1865* (Gainesville: University Press of Florida, 2012) (the first two chapters deal with the colonial period). See also Monica Najar, "Sectarians and Strategies of Dissent in Colonial Virginia," in ed. Paul Rasor and Richard E. Bond, *Jamestown to Jefferson: The Evolution of Religious Freedom in Virginia* (Charlottesville: University of Virginia Press, 2011) 108--37; the early chapters of Stephen L. Longenecker, *Shenandoah Religion: Outsiders and the Mainstream, 1716--1865* (Waco, Tx: Baylor University Press, 2002); Jay Worrall Jr., *The Friendly Virginians: America's First Quakers* (Athens, GA: Iberian Publishing, 1994).
 
-[^26]: For southern Quakers, the most recent and comprehensive
-publication is A. Glenn Crothers, *Quakers Living in the Lion's
-Mouth: The Society of Friends in Northern Virginia, 1730--1865*
-(Gainesville: University Press of Florida, 2012) (the first two
-chapters deal with the colonial period). See also Monica Najar,
-"Sectarians and Strategies of Dissent in Colonial Virginia," in ed.
-Paul Rasor and Richard E. Bond, *Jamestown to Jefferson: The
-Evolution of Religious Freedom in Virginia* (Charlottesville:
-University of Virginia Press, 2011) 108--37; the early chapters of
-Stephen L. Longenecker, *Shenandoah Religion: Outsiders and the
-Mainstream, 1716--1865* (Waco, Tx: Baylor University Press, 2002);
-Jay Worrall Jr., *The Friendly Virginians: America's First Quakers*
-(Athens, GA: Iberian Publishing, 1994).
-
-[^27]: The literature addressing dissent beyond the "big three" is
-quickly becoming vast. On Moravians in the South, in addition to the
-previously cited work of Jon Sensbach see several essays in *Pious
-Pursuits: German Moravians in the Atlantic World*, ed. Michelle
-Gillespie and Robert Beachy (New York: Oxford University Press,
-2007); S. Scott Rohrer, *Hope's Promise: Religion and Acculturation
-in the Southern Backcountry* (Tuscaloosa: University of Alabama
-Press, 2005); Elisabeth W. Sommer, *Serving Two Masters: Moravian
-Brethren in Germany and North Carolina, 1727--1801* (Lexington:
-University Press of Kentucky, 2000); Daniel B. Thorp, *The Moravian
-Community in Colonial North Carolina: Pluralism on the Southern
-Frontier* (Knoxville, University of Tennessee Press, 1989). For
-southern Huguenots, see David E. Lambert, *The Protestant
-International and the Huguenot Migration to Virginia* (New York:
-Peter Lang, 2010); Arlin C. Migliazzo, *To Make This Land Our Own:
-Community, Identity, and Cultural Adaptation in Purrysburg Township,
-South Carolina, 1732--1865* (Columbia: University of South Carolina
-Press, 2007); Bertrand Van Ruymbeke, *From New Babylon to Eden: The
-Huguenots and Their Migration to Colonial South Carolina* (Columbia:
-University of South Carolina Press, 2006). On the many other
-religious groups that gained a toehold in the South before the
-American Revolution a good place to start would be with the early
-chapters of Stephen L. Longenecker, *Shenandoah Religion: Outsiders
-and the Mainstream, 1716--1865* (Waco TX: Baylor University Press,
-2002).
+[^27]: The literature addressing dissent beyond the "big three" is quickly becoming vast. On Moravians in the South, in addition to the previously cited work of Jon Sensbach see several essays in *Pious Pursuits: German Moravians in the Atlantic World*, ed. Michelle Gillespie and Robert Beachy (New York: Oxford University Press, 2007); S. Scott Rohrer, *Hope's Promise: Religion and Acculturation in the Southern Backcountry* (Tuscaloosa: University of Alabama Press, 2005); Elisabeth W. Sommer, *Serving Two Masters: Moravian Brethren in Germany and North Carolina, 1727--1801* (Lexington: University Press of Kentucky, 2000); Daniel B. Thorp, *The Moravian Community in Colonial North Carolina: Pluralism on the Southern Frontier* (Knoxville, University of Tennessee Press, 1989). For southern Huguenots, see David E. Lambert, *The Protestant International and the Huguenot Migration to Virginia* (New York: Peter Lang, 2010); Arlin C. Migliazzo, *To Make This Land Our Own: Community, Identity, and Cultural Adaptation in Purrysburg Township, South Carolina, 1732--1865* (Columbia: University of South Carolina Press, 2007); Bertrand Van Ruymbeke, *From New Babylon to Eden: The Huguenots and Their Migration to Colonial South Carolina* (Columbia: University of South Carolina Press, 2006). On the many other religious groups that gained a toehold in the South before the American Revolution a good place to start would be with the early chapters of Stephen L. Longenecker, *Shenandoah Religion: Outsiders and the Mainstream, 1716--1865* (Waco TX: Baylor University Press, 2002).
