@@ -160,23 +160,8 @@ scholarship. If nothing else, emphasizing class as a category in the
 study of religion in the early-twentieth century South might open up
 such conversations.
 
-[^1]:  Heath W. Carter, "Scab Ministers, Striking Saints:
-Christianity and Class Conflict in 1894 Chicago," *American Nineteenth
-Century History* 11 (Sept. 2010): 321--349; Sean McCloud, *Divine
-Hierarchies: Class in American Religion and Religious Studies* (Chapel
-Hill: University of North Carolina Press, 2007); Evelyn Savidge Sterne,
-*Ballots and Bibles: Ethnic Politics and the Catholic Church in
-Providence* (Ithaca: Cornell University Press, 2003); and Sterne,
-"Bringing Religion into Working-Class History: Parish, Public, and
-Politics in Providence, 1890--1930," *Social Science History* 24 (Spring
-2000): 149--182. 
+[^1]:  Heath W. Carter, "Scab Ministers, Striking Saints: Christianity and Class Conflict in 1894 Chicago," *American Nineteenth Century History* 11 (Sept. 2010): 321--349; Sean McCloud, *Divine Hierarchies: Class in American Religion and Religious Studies* (Chapel Hill: University of North Carolina Press, 2007); Evelyn Savidge Sterne, *Ballots and Bibles: Ethnic Politics and the Catholic Church in Providence* (Ithaca: Cornell University Press, 2003); and Sterne, "Bringing Religion into Working-Class History: Parish, Public, and Politics in Providence, 1890--1930," *Social Science History* 24 (Spring 2000): 149--182. 
  
-[^2]: Leonard Norman Primiano, "Vernacular Religion and the Search
-for Method in Religious Folklife," *Western Folklore* 54 (Jan. 1995):
-39.
+[^2]: Leonard Norman Primiano, "Vernacular Religion and the Search for Method in Religious Folklife," *Western Folklore* 54 (Jan. 1995): 39.
 
-[^3]:  "Vernacular religion" is nearly synonymous with the popular
-term "lived religion," though the use of the term "vernacular" carries
-with it the weight of theoretical and methodological concerns that have
-been forged in the study of localized language use, architectural
-design, and cultural performances.
+[^3]:  "Vernacular religion" is nearly synonymous with the popular term "lived religion," though the use of the term "vernacular" carries with it the weight of theoretical and methodological concerns that have been forged in the study of localized language use, architectural design, and cultural performances.
