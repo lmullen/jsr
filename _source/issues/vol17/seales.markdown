@@ -12,9 +12,13 @@ year: 2015
 
 “Purity is a Great Thing, “Friend!” declared Sovereign Cigarette in a 1917 advertisement that ran in a Sanford, North Carolina newspaper. The animated figure, matchstick arms in the air, wore what looked like an American flag for a hat, a flame with a headband of stars. Sovereign grinned broadly, content with a sponge bath given from a white maid. Below, three objects—soap, honeycomb, and an Easter lily—illustrated the command, “Keep Clean, and Sweet, and Pure.” Below that slogan Sovereign offered a letter to the consumer:
 >My folks down South keep telling me: “Be clean and sweet and pure.”  And I’ll bet you I am just about the purest cigarette ever made! Why, the SOVEREIGN factory is dusted every morning, just like a lady’s parlor. That’s the sort of home I have. And I’ve got to make good all the time—in the look of me, and the smoke of me. The finest, whitest, cleanest home you ever saw. Only the purest, sweetest, richest Virginia and Carolina tobacco enters there. And when I come out, wrapped in the daintiest of white imported paper—don’t you know I am proud to be a SOVEREIGN?
+
 >You Folks of the South KNOW good blood!
+
 >You Folks of the South KNOW good tobacco!	
+
 >Next to good breeding is good dress and good taste—and I have them all. That’s my claim to your friendship. I can’t say more except—
+
 >I am guaranteed by The American Tobacco Co. —Buy me. If you don’t like me return me to your dealer and get your money back. I have said it. A Southern gentleman is known the world over for keeping his word, and I have given you mine.[^1] 
 
 <ul class="thumbnails"> <li class="span6"> <div class="thumbnail"> <img
