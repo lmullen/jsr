@@ -64,8 +64,9 @@ Centre’s chaplain would capitalize on this celebrity by telling the story of t
 To conclude, if I were to write a history of religion and sports in the New South, it would not be directly concerned with the Lost Cause. The sports culture of this era, after all, was a microcosm of New South ideology—notably connected to the North, nation, and world; urbane; incorporated; progressive; modern; and imbued with forward-thinking optimism. That said, when examining this era, it’s hard to avoid the Lost Cause. To adapt a tired truism, the Lost Cause is both everywhere and nowhere. 
 And so, from prizefights to the Praying Colonels, the sports culture of the New South has a potential for showing us new ways of conceptualizing the Lost Cause. There is, to be sure, plenty of work to be done on focused studies of this movement—that is, examinations of statues, speeches, Confederate organizations, and the like. At the same time, I also see a value in mapping out the exteriors of the Lost Cause, and following the traces of this civil religious discourse to wherever it leads us. 
 
+
 _____
-The editors wish to thank Art Remillard for organizing and editing this forum on southern civil religions.
+**The editors wish to thank Art Remillard for organizing and editing this forum on southern civil religions.**
 
 [^1]: “His Courage as White as His Skin is Black,” *Times Dispatch*, July 5, 1910. *Daily Picayune*, July 4 and 5, 1910.  
 [^2]: For an excellent recent biography of Johnson, see: Theresa Runstedtler, *Jack Johnson, Rebel Sojourner: Boxing in the Shadow of the Global Color Line* (Berkeley: University of California Press, 2012). 
