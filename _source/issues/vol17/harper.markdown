@@ -58,6 +58,7 @@ The Lost Cause does not explain some aspects of southern religion very well, oth
 Taking Boyce and Broadus at face value also raises issues about the *pre-war* southern religious experience. Throughout the extensive correspondence between J. P. Boyce and John A. Broadus, one finds few remarks that reflect inconsolable loss of the “South that was.” Their sensitivity to location, fundraising, and maintaining good inter-regional relations suggest that these men may have lived among those who looked backward, but they chose to plant their feet in another world. Their world recognized other possibilities. How could it have been otherwise? They were neither bent on preserving something they were already trying to change nor using the Old World to build their seminary.
 
 
+
 [^1]: John A. Broadus, “The Confederate Dead: Address at Cave Hill Cemetery, Louisville, Kentucky, May 22, 1886,” in *Sermons and Addresses*, Second Edition (Baltimore: H. W. Wharton and Company, 1887) 368-372. The quotations are found on p. 368. Toward the end of the Address, Broadus references a poem by Alfred, Lord Tennyson. Although unnamed in the text, Broadus appears to be referring to “In Memoriam A. H. H.” but for some unexplained reason, he ends the Address with an uncited quotation from Henry Wadsworth Longfellow’s “Footsteps of Angels.”
 
 [^2]: Hershel H. Hobbs, *My Faith and Message: An Autobiography* (Nashville: Broadman & Holman Publishers, 1993) 65-66.
@@ -84,8 +85,7 @@ Taking Boyce and Broadus at face value also raises issues about the *pre-war* so
 
 [^13]: Broadus to Boyce, April 15, 1876.
 
-[^14]: Boyce to Broadus, July 25, 1871. For the best biographical treatment of Graves see James Patterson’s 
-*James Robinson Graves: Staking the Boundaries of Baptist Identity* (Nashville: B & H Academic, 2012). Graves especially disliked John Broadus.
+[^14]: Boyce to Broadus, July 25, 1871. For the best biographical treatment of Graves see James Patterson’s *James Robinson Graves: Staking the Boundaries of Baptist Identity* (Nashville: B & H Academic, 2012). Graves especially disliked John Broadus.
 
 [^15]: Boyce to Broadus, November 18, 1872.
 
