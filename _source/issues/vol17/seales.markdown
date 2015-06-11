@@ -21,8 +21,7 @@ year: 2015
 
 >I am guaranteed by The American Tobacco Co. —Buy me. If you don’t like me return me to your dealer and get your money back. I have said it. A Southern gentleman is known the world over for keeping his word, and I have given you mine.[^1] 
 
-<ul class="thumbnails"> <li class="span6"> <div class="thumbnail"> <img
-src="Cigarette.png" /> <p>Advertisement in *Sanford Express*, February 23, 1917.</p> </div> </li> </ul>
+![]({{site.baseurl}}/issues/vol17/Cigarette.png)
 
 The Sovereign advertisement shows how mass-marketers co-opted the moral language of southern Protestants to sell their product, much like northern stores such as Macy’s used Protestant themes to promote consumer holidays in late nineteenth and early twentieth century.[^2] Marketers of Sovereign worked to make secular consumption a religious habit, without ever demanding the consumer admit that what they did, what they bought, how they shopped, was now a part of their religious world.  
 
