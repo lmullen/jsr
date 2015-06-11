@@ -21,7 +21,8 @@ year: 2015
 
 >I am guaranteed by The American Tobacco Co. —Buy me. If you don’t like me return me to your dealer and get your money back. I have said it. A Southern gentleman is known the world over for keeping his word, and I have given you mine.[^1] 
 
-![]({{site.baseurl}}/issues/vol17/Cigarette.png)
+<ul class="thumbnails"> <li class="span6"> <div class="thumbnail"> <img
+src="Cigarette.png" /> <p>*Sanford Express* February 23, 1917.</p> </div> </li> </ul>
 
 The Sovereign advertisement shows how mass-marketers co-opted the moral language of southern Protestants to sell their product, much like northern stores such as Macy’s used Protestant themes to promote consumer holidays in late nineteenth and early twentieth century.[^2] Marketers of Sovereign worked to make secular consumption a religious habit, without ever demanding the consumer admit that what they did, what they bought, how they shopped, was now a part of their religious world.  
 
@@ -84,10 +85,10 @@ Perhaps, then, keeping southern evangelical Protestants in mind, there are diffe
 
 [^9]: Manuel A. Vasquez, *More than Belief: A Materialist Theory of Religion* (New York and Oxford: Oxford University Press, 2011), 9.
 
-[^10]: Vasquez, *Beyond Belief*, 225.
+[^10]: Vasquez, *More than Belief*, 225.
 
 [^11]: The Sovereign Cigarette advertisement further illustrates a secular attempt, offered by marketers, to reconcile what historian Amy Wood has noted as a tension between religious submission and southern manhood.  Wood writes, “Southern evangelicals had long wrestled with the seeming contradiction between proscriptive Christian virtues, such as submissiveness, sacrifice, and purity, and virtues associated with southern white manhood, such as power and assertiveness.  As one evangelical noted in Rome, Georgia, ‘If a young man has a good case of religion, he is generally known as a sissy in society.’” Amy Louise Wood, *Lynching and Spectacle: Witnessing Racial Violence in America, 1890-1940* (Chapel Hill: The University of North Carolina Press, 2009), 57.  The Sovereign ad attempts to reconcile that tension by making such virtues associated with feminine purity acceptable for the civilized gentleman of discerning taste as a matter of conspicuous consumption and not the marker of a physical trait.
 
 [^12]: Jackson T. J Lears, *Fables of Abundance: A Cultural History of Advertising in America* (New York: Basic Books, 1995), 46, 183.
 
-[^13]: Vasquez, *Beyond Belief*, 8.
+[^13]: Vasquez, *More than Belief*, 8.
