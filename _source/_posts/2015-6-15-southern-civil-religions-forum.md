@@ -3,15 +3,7 @@ layout: post
 title: Forum on Southern Civil Religions
 categories:
 - blog
-- forum
-- civil religion
-- Art Remillar
-- Keith Harper
-- Edward Crowther
-- Chad Seales
-- Charles Reagan Wilson
-- Southern Intellectual History Circle
-- Michael O'Brien
+- announcement
 author: Doug Thompson
 ---
 
