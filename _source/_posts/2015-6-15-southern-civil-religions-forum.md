@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Forum: Southern Civil Religions
+title: Forum on Southern Civil Religions
 categories:
 - blog
 - forum
