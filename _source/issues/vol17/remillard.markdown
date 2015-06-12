@@ -20,7 +20,9 @@ Alas, the actual match, however, was profoundly anticlimactic. Johnson dominated
 src="Daily Picayune.New Orleans.July 5.1910.png" /> <p>*Daily Picayune* July 5, 1910.</p> </div> </li> </ul>
  
 And in Richmond, as previously mentioned, a newspaper tactically bleached Johnson’s courage, perhaps also in an effort to soothe the city’s bruised white ego. But after the headline, the Richmond newspaper had little good to say about the match or prizefighting, casting it as a loathsome affair, irredeemably flawed for its culture of brutality, gambling, and debauchery. The slicing words cut deeper as the author addressed the accounts of riots breaking out in American cities in the fight’s aftermath. With irony and sarcasm hanging from the prose, the author assured readers that these disruptions had happened “in the Northern part of the great Christian country” where “the sainted members of race equality live.” In the South, the author continued, racial unrest was isolated to places like Atlanta, “the heart of the New South . . . [which is] more like a Northern town than any town in these parts.” Indeed, in Richmond—“the soul” of the Old South—and in similar sites, the author claimed that there was no racial unrest, since southerners had a firm handle on the “race problem.”[^5] 
-*  *  *  *
+
+* * * 
+
 In the eyes of one Richmond newsman, the Johnson-Jeffries fight became a morality tale about race, region, and social stability. Significantly, he punctuated his ethical analysis with Lost Cause rhetoric that contrasted an Old South of racial harmony and refined manners, with a North and New South of disorder and chaos.  
 
 As Charles Reagan Wilson has eloquently and sufficiently demonstrated, the Lost Cause was far more than hulking statues and nostalgic speeches. Rather, this movement had a distinct civil religious dimension, as sacred stories, powerful symbols, and unifying rituals translated into a coherent set of white southern beliefs and values.[^6] Wilson’s insights remain highly influential, appearing in monographs, encyclopedias, and even a PBS film documentary.[^7] As a result, any mention of “civil religion” in proximity to the postwar South seems to inevitably lead us to the Lost Cause.
@@ -37,7 +39,7 @@ This editorial represented not only a black response to Johnson’s victory, but
 
 In what remains, I offer additional dispatches from the Johnson-Jeffries fight, before turning briefly to other sports in this era. My hope is to propose a “new direction” for the Lost Cause that both recognizes its significance, and integrates it into a decentered story of the South in all of its variety and complexity. 
 
-*  *  *  *
+*  *  *
 
 When the Johnson-Jeffries match approached, a New Orleans sportswriter celebrated the fight and the fighters by depicting them as models of clean living and “careful self-denial.” As to the violence, the author rebutted: “[N]otwithstanding what moralists will and should say, the fact remains that the English-speaking race dearly loves a brutal fight, especially where there is every guarantee of fair play and an exhibition of nerve, skill and physical endurance.” And on the fight’s racial implications, the author was unconcerned. In the prize ring, he averred, “a negro is regarded as the equal and even the superior of the white man.”[^12] 
 
@@ -49,7 +51,7 @@ For Roddenberry, Jack Johnson’s athletic prowess and white spouse symbolized a
 
 Blease’s stout opposition to Johnson’s very existence bundled racial pride, gender purity, and southern exceptionalism—a potent mix that was the lifeblood of the Lost Cause. As examples like this would indicate, in these tender years of the twentieth century the Lost Cause often appeared as a foil to sports, athletes, and athletics. This was not, however, a hard rule. In some instances, the games that people played became an extension of regional identity. And as sports continued to enchant the imaginations of white southerners, the Lost Cause would find even more positive expressions in in the South’s sports culture.[^19]
 
-*  *  *  *
+*  *  *
 
 Baseball took root in the South shortly after the Civil War, and was arguably just as popular as prizefighting in the coming years. “The number of persons afflicted with ‘baseball on the brain’ is rapidly increasing,” proclaimed one Memphis newspaper in 1867. The author documented the flood of new club teams forming, all of them “anxious to secure to themselves the amusement of the healthful recreation imparted by this fine exercise.”[^20] In Memphis and elsewhere, the names of these clubs bore regional distinction, as teams named “Stonewall Jackson” could very well play against “The Pride of the South.”[^21] In New Orleans, popular clubs assumed names like, “Robert E. Lee,” “Lone Star,” and the “Southerners.” In 1869, members of the latter club toured the nation, winning six of seven games. The traveling team’s triumph, according to one account, gave “a new impulse to base ball in our city.”[^22] 
 
@@ -59,7 +61,7 @@ In 1921, the “Praying Colonels” of Centre College in Kentucky traveled north
 
 Centre’s chaplain would capitalize on this celebrity by telling the story of these “pious” southern athletes on the revival trail. And when Trinity reconstituted its football program, they intentionally adopted the combination of playing and praying modeled by the Centre stars.[^25] Other interregional contests in this decade and beyond would bring “the South” into tighter alignment with faith and football. When Alabama won the 1926 Rose Bowl, one journalist called the 20-19 victory a “blessed event.” For their part, the university would enshrine this triumph in their fight song, which thereafter ended with the line, “You’re Dixie’s football pride, Crimson Tide!”[^26]
 
-*  *  *  *
+*  *  *
 
 To conclude, if I were to write a history of religion and sports in the New South, it would not be directly concerned with the Lost Cause. The sports culture of this era, after all, was a microcosm of New South ideology—notably connected to the North, nation, and world; urbane; incorporated; progressive; modern; and imbued with forward-thinking optimism. That said, when examining this era, it’s hard to avoid the Lost Cause. To adapt a tired truism, the Lost Cause is both everywhere and nowhere. 
 And so, from prizefights to the Praying Colonels, the sports culture of the New South has a potential for showing us new ways of conceptualizing the Lost Cause. There is, to be sure, plenty of work to be done on focused studies of this movement—that is, examinations of statues, speeches, Confederate organizations, and the like. At the same time, I also see a value in mapping out the exteriors of the Lost Cause, and following the traces of this civil religious discourse to wherever it leads us. 
@@ -68,9 +70,10 @@ And so, from prizefights to the Praying Colonels, the sports culture of the New 
 _____
 **The editors wish to thank Art Remillard for organizing and editing this forum on southern civil religions.**
 
-[^1]: “His Courage as White as His Skin is Black,” *Times Dispatch*, July 5, 1910. *Daily Picayune*, July 4 and 5, 1910.  
-[^2]: For an excellent recent biography of Johnson, see: Theresa Runstedtler, *Jack Johnson, Rebel Sojourner: Boxing in the Shadow of the Global Color Line* (Berkeley: University of California Press, 2012). 
-[^3]: *Daily Picayune*, July 4 and 5, 1910.  
+[^1]: “His Courage as White as His Skin is Black,” *Times Dispatch*, July 5, 1910. 
+[^2]: *Daily Picayune*, July 4 and 5, 1910.
+[^3]: For an excellent recent biography of Johnson, see: Theresa Runstedtler, *Jack Johnson, Rebel Sojourner: Boxing in the Shadow of the Global Color Line* (Berkeley: University of California Press, 2012). 
+[^4]: *Daily Picayune*, July 4 and 5, 1910.  
 [^5]: “His Courage as White as His Skin is Black.”
 [^6]: Charles Reagan Wilson, *Baptized in Blood: The Religion of the Lost Cause, 1865-1920* (Athens: University of Georgia Press, 1980).
 [^7]: Ken Burns, *Reconstruction: The Second Civil War* (PBS, 2004).
