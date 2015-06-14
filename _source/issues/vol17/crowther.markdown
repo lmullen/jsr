@@ -75,5 +75,5 @@ Peace wrought a new cause.  Led by Jubal Early and John William Jones, Confedera
 
 [^15]: McPherson, *Battle Cry of Freedom*, 844-48.
 
-[^16]: Earlier quoted in Gary W. Gallagher, *The Confederate War: How Popular Will, Nationalism, and Military Strategy Could Not Stave Off Defeat* (Cambridge, Ma.:  Harvard University Press, 1997), 169. Jones, *Christ in the Camp*, 389.
+[^16]: Early quoted in Gary W. Gallagher, *The Confederate War: How Popular Will, Nationalism, and Military Strategy Could Not Stave Off Defeat* (Cambridge, Ma.:  Harvard University Press, 1997), 169. Jones, *Christ in the Camp*, 389.
 
