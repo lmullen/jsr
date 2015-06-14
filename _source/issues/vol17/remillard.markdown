@@ -16,7 +16,7 @@ src="imgcache.neThe Daily Picayune.New Orleans.July 4.1910.png" />
 Alas, the actual match, however, was profoundly anticlimactic. Johnson dominated Jeffries, who fell unceremoniously after fifteen rounds.[^3] The *Daily Picayune* featured another image of Uncle Sam, his humble visage bruised, bandaged, and beaten.[^4]  
 
 <img
-src="Daily Picayune.New Orleans.July 5.1910.png"height=300 width=300 style="float:left;margin:0 5px 0 0"/>
+src="Daily Picayune.New Orleans.July 5.1910.png" />
  
 And in Richmond, as previously mentioned, a newspaper tactically bleached Johnson’s courage, perhaps also in an effort to soothe the city’s bruised white ego. But after the headline, the Richmond newspaper had little good to say about the match or prizefighting, casting it as a loathsome affair, irredeemably flawed for its culture of brutality, gambling, and debauchery. The slicing words cut deeper as the author addressed the accounts of riots breaking out in American cities in the fight’s aftermath. With irony and sarcasm hanging from the prose, the author assured readers that these disruptions had happened “in the Northern part of the great Christian country” where “the sainted members of race equality live.” In the South, the author continued, racial unrest was isolated to places like Atlanta, “the heart of the New South . . . [which is] more like a Northern town than any town in these parts.” Indeed, in Richmond—“the soul” of the Old South—and in similar sites, the author claimed that there was no racial unrest, since southerners had a firm handle on the “race problem.”[^5] 
 
