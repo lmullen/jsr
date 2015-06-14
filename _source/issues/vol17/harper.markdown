@@ -9,7 +9,7 @@ vol: 17
 year: 2015
 ...
 
-On May 22, 1886 John A. Broadus delivered an address at the Cave Hill Cemetery in Louisville, Kentucky. Widely regarded as one of the nation’s premier preachers, Broadus could not help but sense the irony of standing among the graves of both Confederate *and* Union soldiers. Twenty-one years had passed since the war had ended. And in this place, combatants from both sides slept peacefully–truly a wonder. Yet, as Broadus saw it, the greatest wonder of his age lay in “the rapid restoration of good feelings in this country.” A number of factors fueled this optimistic vision of late-nineteenth century America, chief among them being the Christian faith. “The great religion of peace,” he claimed, “has healed the wounds and softened the asperities of the great civil war.” Differentiating between interregional right and wrong was not on this day’s agenda. Broadus was content to leave such questions to an “impartial historian.”[^1] Nonetheless, when that future historian wrote Broadus was sure he/she would find sufficient blame for northerners and southerners alike. After all, the war had been a long time coming and awful though it was, had settled two important issues; namely, the role of federal government and the fate of slavery. But, there was no shame in the Confederate deaths. The Union had been preserved and that was what mattered. So, I ask—what’s wrong with this picture?
+On May 22, 1886 John A. Broadus delivered an address at the Cave Hill Cemetery in Louisville, Kentucky. Widely regarded as one of the nation’s premier preachers, Broadus could not help but sense the irony of standing among the graves of both Confederate *and* Union soldiers. Twenty-one years had passed since the war had ended, and in this place, combatants from both sides slept peacefully. It was truly a wonder. Yet, as Broadus saw it, the greatest wonder of his age lay in “the rapid restoration of good feelings in this country.” A number of factors fueled this optimistic vision of late-nineteenth century America, chief among them being the Christian faith. “The great religion of peace,” he claimed, “has healed the wounds and softened the asperities of the great civil war.” Differentiating between interregional right and wrong was not on this day’s agenda. Broadus was content to leave such questions to an “impartial historian.”[^1] Nonetheless, when that future historian wrote Broadus was sure he/she would find sufficient blame for northerners and southerners alike. After all, the war had been a long time coming and awful though it was, had settled two important issues; namely, the role of federal government and the fate of slavery. But, there was no shame in the Confederate deaths. The Union had been preserved and that was what mattered. So, I ask—what’s wrong with this picture?
 
 In the Civil War’s aftermath, Americans struggled to find meaning in what has proven to be the nation’s bloodiest conflict. Among southerners, some came to grips with the Union’s victory sooner than others, while some never reconciled themselves to defeat. Given their past record on issues like race relations, it might be tempting to see Southern Baptists as poster children for the Lost Cause. And doubtless, some were. However, men like James Petigru Boyce, founding President of the Southern Baptist Theological Seminary (SBTS), along with his close friend and successor, John A. Broadus, defy easy categorization. They neither reveled in Confederate lore, nor sought means to subvert the post-war order. Rather, Boyce and Broadus stand as exemplars of southern ministers who valued evangelical piety over cultural resuscitation. Accordingly, their lives and ministries raise questions about the extent to which the Lost Cause may be applied to post-Reconstruction era ministers in the American South.
 
@@ -79,19 +79,19 @@ Taking Boyce and Broadus at face value also raises issues about the *pre-war* so
 
 [^10]: Ibid.,220.
 
-[^11]: Boyce to Broadus, December 10, 1872.
+[^11]: James Petigru Boyce, 1827-1888, [Letter] 1872 December 10, Louisville, Ky. to "Bro. [John A.] Broadus" / James P. Boyce. 1872. SBTS Special Collections Manuscripts - Archives (SBTS Special Collections). 922.6173 .B79c
 
-[^12]: Boyce to Broadus, April 10, 1876.
+[^12]: Boyce to Broadus, 1876 April 10, SBTS Special Collections.
 
-[^13]: Broadus to Boyce, April 15, 1876.
+[^13]: Broadus to Boyce, 1876 April 15, SBTS Special Collections.
 
-[^14]: Boyce to Broadus, July 25, 1871. For the best biographical treatment of Graves see James Patterson’s *James Robinson Graves: Staking the Boundaries of Baptist Identity* (Nashville: B & H Academic, 2012). Graves especially disliked John Broadus.
+[^14]: Boyce to Broadus, 1871 July 25, SBTS Special Collections. For the best biographical treatment of Graves see James Patterson’s *James Robinson Graves: Staking the Boundaries of Baptist Identity* (Nashville: B & H Academic, 2012). Graves especially disliked John Broadus.
 
-[^15]: Boyce to Broadus, November 18, 1872.
+[^15]: Boyce to Broadus, 1872 November 18, SBTS Special Collections.
 
-[^16]: Boyce to Broadus, August 23, 1875.
+[^16]: Boyce to Broadus, 1875 August 23, SBTS Special Collections.
   
-[^17]: Cf. Boyce to Broadus, November 30, 1874 and Broadus to Boyce, December 3, 1874. For a brief description of the Union see *The Brooklyn Daily Eagle*, December 11, 1874, “The Baptists,” p. 2, cols. 5-6.
+[^17]: Cf. Boyce to Broadus, 1874 November 30 and Broadus to Boyce, 1874 December 3, SBTS Special Collections. For a brief description of the Union see *The Brooklyn Daily Eagle*, December 11, 1874, “The Baptists,” p. 2, cols. 5-6.
 
 [^18]: *The Brooklyn Daily Eagle*, December 11, 1874, “The Baptists,” p. 2, cols. 5-6. Emphasis mine.
 
