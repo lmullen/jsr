@@ -11,13 +11,13 @@ year: 2015
 
 “His Courage as White as His Skin is Black,” declared a headline in the July 5, 1910 *Richmond Times Dispatch*, referencing a prizefight one day earlier in Reno, Nevada, between Jack Johnson and Jim Jeffries.[^1]  Johnson had become the first black man to win boxing’s heavyweight title by defeating Tommy Burns in 1908.
  
-<ul class="thumbnails"> <li class="span6"> <div class="thumbnail"> <img
-src="imgcache.neThe Daily Picayune.New Orleans.July 4.1910.png" /> </div> </li> </ul>
+<ul class="thumbnails"> <li class="span5"> <div class="thumbnail"> <img
+src="imgcache.neThe Daily Picayune.New Orleans.July 4.1910.png" height=300 /> </div> </li> </ul>
 
-Jefferies, meanwhile, had retired in 1905 with an aura of manly mystique that had made him a living legend. While he initially resisted the calls to return to the ring to vanquish Johnson, Jeffries’s dwindling finances as well as the collective will of his supporters drew him back. As the “Fight of the Century” drew near, white fans in particular imagined it as both a battle for racial supremacy and for the fate of the nation. On the eve of the fight, the *Daily Picayune* in New Orleans printed a cartoon of a fit, slim, and athletic Uncle Sam sparring in a boxing ring, with an eagle overseeing his training.[^2] Whiteness and Americanness unified through the sport.
+Jefferies, meanwhile, had retired in 1905 with an aura of manly mystique that had made him a living legend. While he initially resisted the calls to return to the ring to vanquish Johnson, Jeffries’s dwindling finances as well as the collective will of his supporters drew him back. As the “Fight of the Century” drew near, white fans in particular imagined it as both a battle for racial supremacy and for the fate of the nation. On the day of the fight, the *Daily Picayune* in New Orleans printed a cartoon of a fit, slim, and athletic Uncle Sam sparring in a boxing ring, with an eagle overseeing his training.[^2] Whiteness and Americanness unified through the sport.
 
-<ul class="thumbnails"> <li class="span6"> <div class="thumbnail"> <img
-src="Daily Picayune.New Orleans.July 5.1910.png" /> </div> </li> </ul> 
+<ul class="thumbnails"> <li class="span5"> <div class="thumbnail"> <img
+src="Daily Picayune.New Orleans.July 5.1910.png" height=300 /> </div> </li> </ul> 
 
 Alas, the actual match, however, was profoundly anticlimactic. Johnson dominated Jeffries, who fell unceremoniously after fifteen rounds.[^3] The *Daily Picayune* featured another image of Uncle Sam, his humble visage bruised, bandaged, and beaten.[^4]
 
@@ -73,12 +73,12 @@ _____
 **The editors wish to thank Art Remillard for organizing and editing this forum on southern civil religions.**
 
 [^1]: “His Courage as White as His Skin is Black,” *Richmond Times Dispatch*, July 5, 1910. 
-[^2]: *Daily Picayune*, July 4 and 5, 1910.
+[^2]: *Daily Picayune*, July 4, 1910.
 [^3]: For an excellent recent biography of Johnson, see: Theresa Runstedtler, *Jack Johnson, Rebel Sojourner: Boxing in the Shadow of the Global Color Line* (Berkeley: University of California Press, 2012). 
-[^4]: *Daily Picayune*, July 4 and 5, 1910.  
+[^4]: *Daily Picayune*, July 5, 1910.  
 [^5]: “His Courage as White as His Skin is Black.”
 [^6]: Charles Reagan Wilson, *Baptized in Blood: The Religion of the Lost Cause, 1865-1920* (Athens: University of Georgia Press, 1980).
-[^7]: *Reconstruction: The Second Civil War* (PBS, 2004).
+[^7]: Llewellyn Smith, et.al. *Reconstruction: The Second Civil War* (PBS, 2004).
 [^8]: Arthur Remillard, *Southern Civil Religions: Imagining the Good Society in the Post-Reconstruction Era* (Athens: University of Georgia Press, 2011). See also, Arthur Remillard, “Reflections on *Southern Civil Religions*; or, Confessions of an Academic Carpetbagger,” *Journal of Southern Religion* 16 (2014): http://jsreligion.org/issues/vol16/remilard.html.
 [^9]: N. J. Demerath and Rhys Williams, “Civil Religion in an Uncivil Society,” *Annals of the American Academy* 480 (July, 1985): 166. 
 [^10]: See, for example, Jonathan S. Woocher, *Sacred Survival: The Civil Religion of American Jews*  (Bloomington: Indiana University Press, 1986); Rita Kirk Whillock, “Dream Believers: The Unifying Visions and Competing Values of Adherents to American Civil Religion,” *Presidential Studies Quarterly* 24, no. 2 (1994); Marcella Cristi, *From Civil Religion to Political Religion: The Intersection of Culture, Religion and Politics* (Waterloo, Canada: Wilfrid Laurier University Press, 2001); David Krueger, *Myths of the Runestone: Viking Martyrs and the Birthplace of America* (Minneapolis: University of Minnesota Press, 2015); Anne M. Blakenship, “Civil Religious Dissent: Patriotism and Resistance in a Japanese American Incarceration Camp,” *Material Religion* 10, no. 3 (2014); Carole Lynn Stewart, *Strange Jeremiahs: Civil Religion and the Literary Imaginations of Jonathan Edwards, Herman Mellville, and W. E. B. DuBois* (Albuquerque: University of New Mexico Press, 2011).
