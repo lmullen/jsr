@@ -25,7 +25,7 @@ Boyce’s plan appeared simple enough. He wanted to establish an institution tha
 
 Boyce found like-minded ministers who shared his commitment to theological education. William Williams and Basil Manly, Jr. joined Boyce as members of Southern’s founding faculty, as did John Albert Broadus. While Williams and Manly both played significant roles in shaping the fledgling seminary, neither could match Broadus’s zeal for the seminary and its mission.
 
-John A. Broadus rose from a different background than J. P. Boyce did. Broadus was born on January 24, 1827 in Culpeper County, Virginia, to a family of relatively moderate means. Nonetheless, his merchant father, Major Edmund Broadus, and his mother, Nancy Sims Broadus, maintained a home that valued both education and piety. He earned his M.A. from the University of Virginia where his resume included stints as tutor in Latin and Greek, chaplain to the University, and pastor of Charlottesville Baptist Church. In 1850, he joined Boyce in Greenville. The transition was not easy, but the seminary would allow Broadus to do the two things he enjoyed most, namely, teaching and preaching.[^6] 
+John A. Broadus rose from a different background than J. P. Boyce did. Broadus was born on January 24, 1827 in Culpeper County, Virginia, to a family of relatively moderate means. Nonetheless, his merchant father, Major Edmund Broadus, and his mother, Nancy Sims Broadus, maintained a home that valued both education and piety. He earned his M.A. from the University of Virginia where his resume included stints as tutor in Latin and Greek, chaplain to the University, and pastor of Charlottesville Baptist Church. In 1859, he joined Boyce in Greenville. The transition was not easy, but the seminary would allow Broadus to do the two things he enjoyed most, namely, teaching and preaching.[^6] 
 
 It is nearly impossible to think of Boyce without Broadus. They worked in tandem, well-matched in temperament, perspective, and intellect. This alliance would serve the seminary well  in the Civil War’s aftermath. The institution was only two years old when the war began. And with the postwar economy in ruins and southern casualties exceeding a quarter-million, no one knew where the seminary might obtain funding, much less students. Yet, Boyce was insistent. The seminary would reopen and it would have its four faculty members. Equally insistent, Broadus affirmed, “Suppose we quietly agree that the seminary may die, but we’ll die first.”[^7] 
 
@@ -65,7 +65,7 @@ Taking Boyce and Broadus at face value also raises issues about the *pre-war* so
   
 [^3]: Hugh Wamble, “Boyce, James Petigru,” *Encyclopedia of Southern Baptists*. See also Thomas J. Nettles, *James Petigru Boyce: A Southern Baptist Statesman* (Phillipsburg, NJ: P & R Publishing, 2009). Before entering theological education as a vocation, Boyce edited a paper called *The Southern Baptist*. He also served as pastor of First Baptist Church, Columbia, SC, from 1851 until 1855.
   
-[^4]: Wamble, “Boyce”
+[^4]: Wamble, “Boyce.”
 
 [^5]: The history of Southern Baptist Theological Seminary is well-documented. See Gregory A. Wills, *Southern Baptist Theological Seminary*, 1859-2009 (New York: Oxford University Press, 2009).
 
