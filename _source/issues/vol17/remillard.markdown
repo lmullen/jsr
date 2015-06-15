@@ -9,7 +9,7 @@ vol: 17
 year: 2015
 ...
 
-“His Courage as White as His Skin is Black,” declared a headline in the July 5, 1910 Richmond *Times Dispatch*, referencing a prizefight one day earlier in Reno, Nevada, between Jack Johnson and Jim Jeffries.[^1]  Johnson had become the first black man to win boxing’s heavyweight title by defeating Tommy Burns in 1908. Jefferies, meanwhile, had retired in 1905 with an aura of manly mystique that had made him a living legend. While he initially resisted the calls to return to the ring to vanquish Johnson, Jeffries’s dwindling finances as well as the collective will of his supporters drew him back. As the “Fight of the Century” drew near, white fans in particular imagined it as both a battle for racial supremacy and for the fate of the nation. On the eve of the fight, the *Daily Picayune* in New Orleans printed a cartoon of a fit, slim, and athletic Uncle Sam sparring in a boxing ring, with an eagle overseeing his training.[^2] Whiteness and Americanness unified through the sport.
+“His Courage as White as His Skin is Black,” declared a headline in the July 5, 1910 *Richmond Times Dispatch*, referencing a prizefight one day earlier in Reno, Nevada, between Jack Johnson and Jim Jeffries.[^1]  Johnson had become the first black man to win boxing’s heavyweight title by defeating Tommy Burns in 1908. Jefferies, meanwhile, had retired in 1905 with an aura of manly mystique that had made him a living legend. While he initially resisted the calls to return to the ring to vanquish Johnson, Jeffries’s dwindling finances as well as the collective will of his supporters drew him back. As the “Fight of the Century” drew near, white fans in particular imagined it as both a battle for racial supremacy and for the fate of the nation. On the eve of the fight, the *Daily Picayune* in New Orleans printed a cartoon of a fit, slim, and athletic Uncle Sam sparring in a boxing ring, with an eagle overseeing his training.[^2] Whiteness and Americanness unified through the sport.
 <img
 src="imgcache.neThe Daily Picayune.New Orleans.July 4.1910.png" /> 
  
@@ -56,7 +56,7 @@ Baseball took root in the South shortly after the Civil War, and was arguably ju
 
 In these initial years, baseball was both a national game and an opportunity to display and celebrate “southern” identity within the region and beyond. As the game became more popular, baseball—like prizefighting—became a source of moral disputes. Football followed a similar trajectory, especially on college campuses. Trinity College (now Duke) started a program in 1887, to the delight and amusement of their student body. By 1895, however, after years of controversy, the school’s new president shut the program down, labeling football “an evil that the best tastes of the public have rebelled against.”[^23] Other southern schools with religious affiliations followed suit. Yet, by the 1920s, college football had a renewed appeal at these same schools, with intersectional contests attracting great interest. 
 
-In 1921, the “Praying Colonels” of Centre College in Kentucky traveled north to take on the mighty Harvard Crimson. The relatively unknown school from the bluegrass state won 6–0, behind the leadership of quarterback Bo McMillin. While teams like Vanderbilt and Auburn had experienced some success in interregional contests, Harvard was a perennial powerhouse that had routinely dismantled southern squads. So the news of Centre’s victory was met with pride and pleasure throughout the South. The front page of the Atlanta *Constitution* announced: “Centre Saves South,” as they dubbed McMillin a “New Immortal.”[^24]
+In 1921, the “Praying Colonels” of Centre College in Kentucky traveled north to take on the mighty Harvard Crimson. The relatively unknown school from the bluegrass state won 6–0, behind the leadership of quarterback Bo McMillin. While teams like Vanderbilt and Auburn had experienced some success in interregional contests, Harvard was a perennial powerhouse that had routinely dismantled southern squads. So the news of Centre’s victory was met with pride and pleasure throughout the South. The front page of the *Atlanta Constitution* announced: “Centre Saves South,” as they dubbed McMillin a “New Immortal.”[^24]
 
 Centre’s chaplain would capitalize on this celebrity by telling the story of these “pious” southern athletes on the revival trail. And when Trinity reconstituted its football program, they intentionally adopted the combination of playing and praying modeled by the Centre stars.[^25] Other interregional contests in this decade and beyond would bring “the South” into tighter alignment with faith and football. When Alabama won the 1926 Rose Bowl, one journalist called the 20-19 victory a “blessed event.” For their part, the university would enshrine this triumph in their fight song, which thereafter ended with the line, “You’re Dixie’s football pride, Crimson Tide!”[^26]
 
@@ -69,7 +69,7 @@ And so, from prizefights to the Praying Colonels, the sports culture of the New 
 _____
 **The editors wish to thank Art Remillard for organizing and editing this forum on southern civil religions.**
 
-[^1]: “His Courage as White as His Skin is Black,” *Times Dispatch*, July 5, 1910. 
+[^1]: “His Courage as White as His Skin is Black,” *Richmond Times Dispatch*, July 5, 1910. 
 [^2]: *Daily Picayune*, July 4 and 5, 1910.
 [^3]: For an excellent recent biography of Johnson, see: Theresa Runstedtler, *Jack Johnson, Rebel Sojourner: Boxing in the Shadow of the Global Color Line* (Berkeley: University of California Press, 2012). 
 [^4]: *Daily Picayune*, July 4 and 5, 1910.  
@@ -82,7 +82,7 @@ _____
 [^11]: “Great Fight in Nevada,” *Richmond Planet*, July 09, 1910.
 [^12]: “The Coming Fistic Battle,” *Daily Picayune*, July 3, 1910.
 [^13]: Annie Riley Hale, “The Lesson of the Black-and-White Prize-Ring,” *Macon Daily Telegraph*, July 12, 1910.  On Hale, see Elna C. Green, *Southern Strategies: Southern Women and the Woman Suffrage Question* (Chapel Hill: University of North Carolina Press, 1997), 106.
-[^14]: “Fight Pictures Can’t Come Here,” *Times Dispatch*, July 07, 1910.
+[^14]: “Fight Pictures Can’t Come Here,” *Richmond Times Dispatch*, July 07, 1910.
 [^15]: Quoted in Geoffrey C. Ward, *Unforgivable Blackness: The Rise and Fall of Jack Johnson* (New York: Alfred A. Knopf, 2004), 283. 
 [^16]: Quoted in Ward, *Unforgivable Blackness*, 322.
 [^17]: “Jack Johnson Wedding Denounced in Congress,” *New York Tribune*, December 12, 1912. 
