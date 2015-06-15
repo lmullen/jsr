@@ -12,12 +12,12 @@ year: 2015
 “His Courage as White as His Skin is Black,” declared a headline in the July 5, 1910 *Richmond Times Dispatch*, referencing a prizefight one day earlier in Reno, Nevada, between Jack Johnson and Jim Jeffries.[^1]  Johnson had become the first black man to win boxing’s heavyweight title by defeating Tommy Burns in 1908.
  
 <ul class="thumbnails"> <li class="span5"> <div class="thumbnail"> <img
-src="The Daily Picayune.New Orleans.July 4.1910 1.png" style="float:left"/> </div> </li> </ul>
+src="The Daily Picayune.New Orleans.July 4.1910 1.png" /> </div> </li> </ul>
 
 Jefferies, meanwhile, had retired in 1905 with an aura of manly mystique that had made him a living legend. While he initially resisted the calls to return to the ring to vanquish Johnson, Jeffries’s dwindling finances as well as the collective will of his supporters drew him back. As the “Fight of the Century” drew near, white fans in particular imagined it as both a battle for racial supremacy and for the fate of the nation. On the day of the fight, the *Daily Picayune* in New Orleans printed a cartoon of a fit, slim, and athletic Uncle Sam sparring in a boxing ring, with an eagle overseeing his training.[^2] Whiteness and Americanness unified through the sport.
 
 <ul class="thumbnails"> <li class="span5"> <div class="thumbnail"> <img
-src="Daily Picayune.New Orleans.July 5.1910 1.png" style="float:right" /> </div> </li> </ul> 
+src="Daily Picayune.New Orleans.July 5.1910 1.png" /> </div> </li> </ul> 
 
 Alas, the actual match, however, was profoundly anticlimactic. Johnson dominated Jeffries, who fell unceremoniously after fifteen rounds.[^3] The *Daily Picayune* featured another image of Uncle Sam, his humble visage bruised, bandaged, and beaten.[^4]
 
