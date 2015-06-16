@@ -2,7 +2,7 @@
 author: Arthur Remillard
 author-first: Arthur
 author-last: Remillard
-author-note: "Arthur Remillard is an Associate Professor of Religious Studies at Saint Franics University."
+author-note: "Arthur Remillard is an Associate Professor of Religious Studies at Saint Francis University."
 layout: article
 title: "From Prizefights to Praying Colonels: Civil Religion, Sports, and a New(ish) Direction for the Lost Cause"
 vol: 17
