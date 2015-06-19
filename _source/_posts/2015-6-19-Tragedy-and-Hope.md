@@ -19,4 +19,4 @@ What does the *JSR* have to do with this issue? Why would a peer-review journal 
 
 For events unfolding in Charleston concerning the shooting and Emanuel A.M.E., I recommend you follow Charleston's [*The Post and Currier*][].
 
-[The Post and Currier]: http://www.postandcourier.com/
+[*The Post and Currier*]: http://www.postandcourier.com/
