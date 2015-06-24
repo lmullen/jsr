@@ -9,8 +9,7 @@ layout: article
 title: "Review: Progressive Evangelicals and the Pursuit of Social Justice"
 vol: 17
 year: 2015
-... 
-
+...
 
 Taking to the "Twittersphere" in early May 2015, Sojourners founder Jim Wallis declared that "#Baltimore unrest was caused by a combustible combination of social failures that we are ALL responsible for." For Wallis, the violent reaction to the death of Freddie Gray serves as yet another reminder of the widespread economic, educational, and social injustice that plagues the United States.  The Baltimore riots are a testament to America’s lingering “original sin” of racism.  When Wallis “tweeted out” those words, he summoned nearly four decades worth of theologically inspired social action.  Jim Wallis is both a creator and a product of a peculiar evangelical movement.  Figures such as Wallis and Ron Sider and their respective organizations fashioned a movement rooted in the belief that faithfulness to God required equal concern for people’s temporal needs and the pursuit of justice through social and political activism. Brantley W. Gasaway describes this movement as “progressive evangelicalism.”
 
