@@ -19,7 +19,6 @@ By publishing with the *Journal of Southern Religion*, Mathews was one of the fi
 
 The essays that follow in this space expand and expound upon Mathews’s original essay. On one hand, by paying homage to this marvelous scholar, they follow the lead of the recently published [*Varieties of Southern Religious History: Essays in Honor of Donald G. Mathews*](http://www.sc.edu/uscpress/books/2015/7488.html). On another hand, these essays ask us to look even more deeply into horrors we may wish to avoid: how and why violence against bodies deemed not-white has been and continues to be so important to American society, culture, and religion.
 
--	Edward J. Blum, San Diego State University
 
 ##Bibliography
 
