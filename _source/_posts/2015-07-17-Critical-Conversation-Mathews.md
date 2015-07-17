@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Critical Conversations: Don Mathews and Spectacle Lynchings
+title: Critical Conversations
 categories:
 - blog
 - announcement
