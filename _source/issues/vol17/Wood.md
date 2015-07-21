@@ -4,7 +4,7 @@ author-first: Amy Louise
 author-last: Wood
 author-note: "Amy Louise Wood is Associate Professor of History at Illinois State University."
 layout: article
-title: “Critical Conversation on Donald Mathews’s ‘The Southern Rite of Human Sacrifice’”
+title: "Critical Conversation on Donald Mathews’s ‘The Southern Rite of Human Sacrifice’"
 vol: 17
 year: 2015
 ...
