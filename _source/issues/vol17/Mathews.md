@@ -4,7 +4,7 @@ author-first: Mary Beth
 author-last: Mathews
 author-note: "Mary Beth Mathews is Associate Professor of Religion at the University of Mary Washington in Fredericksburg, Virginia."
 layout: article
-title: “Critical Conversation on Donald Mathews’s ‘The Southern Rite of Human Sacrifice’”
+title: “African Americans Speak to Spectacle Lynchings”
 vol: 17
 year: 2015
 ...
