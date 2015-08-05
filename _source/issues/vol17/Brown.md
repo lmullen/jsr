@@ -51,7 +51,7 @@ Thus, when we review the array of racist violence during this period, we cannot 
 Editor's Note: Lawrence Brown is the grandson of sharecroppers who lived in the Mississippi Delta and is a native of West Memphis, Arkansas.  He is an Assistant Professor at Morgan State University in the School of Community Health and Policy.  He is engaged in Baltimore communities as an activist for equitable redevelopment along with housing stability and studies the impact of forced displacement, historical trauma, and masculinity on health.
 
  
-# Citations #
+#Citations#
 
 Blum, Edward. 2007. *W.E.B. Du Bois: American Prophet*. Philadelphia: University of Pennsylvania Press.
 
@@ -61,7 +61,7 @@ Du Bois, W.E.B. 1920. *Darkwater: Voices from within the Veil*. New York: Harcou
 
 Egerton, Douglas R. 2014. *The Wars of Reconstruction: The Brief, Violent History of America's Most Progressive Era*. New York: Bloombury Press.
 
-Equal Justice Initiaitve. 2015. Lynching in America: Confronting the Legacy of Racial Terror. Montgomery, Alabama. [<http://www.eji.org/files/EJI Lynching in America SUMMARY.pdf>](http://www.eji.org/files/EJI Lynching in America SUMMARY.pdf).
+Equal Justice Initiaitve. 2015. Lynching in America: Confronting the Legacy of Racial Terror. Montgomery, Alabama. [<http://www.eji.org/files/EJI Lynching in America SUMMARY.pdf>](http://www.eji.org/files/EJI Lynching in America SUMMARY.pdf)
 
 Hutchinson, Earl Ofari. 1996. *The Assassination of the Black Male Image*. New York: Simon and Schuster.
 
