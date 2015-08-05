@@ -50,8 +50,8 @@ Thus, when we review the array of racist violence during this period, we cannot 
 <br/>
 Editor's Note: Lawrence Brown is the grandson of sharecroppers who lived in the Mississippi Delta and is a native of West Memphis, Arkansas.  He is an Assistant Professor at Morgan State University in the School of Community Health and Policy.  He is engaged in Baltimore communities as an activist for equitable redevelopment along with housing stability and studies the impact of forced displacement, historical trauma, and masculinity on health.
 
- 
-##Citations
+
+##Citations##
 
 Blum, Edward. 2007. *W.E.B. Du Bois: American Prophet*. Philadelphia: University of Pennsylvania Press.
 
