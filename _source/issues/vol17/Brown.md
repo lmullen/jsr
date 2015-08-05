@@ -4,7 +4,7 @@ author-first: Lawrence
 author-last: Brown
 author-note: "Lawrence Brown is Assistant Professor at Morgan State University in the School of Community Health and Policy."
 layout: article
-title: “Mob Violence Reveals White Supremacist Theology”
+title: "Mob Violence Reveals White Supremacist Theology"
 vol: 17
 year: 2015
 ...
