@@ -55,6 +55,10 @@ Lynching was a way of making visible the supremacy of whites while hiding the op
 
 > The common assumption that in certain commonly understood encounters between blacks and whites, African Americans were always at fault simply by being black made illegal lynching appear to be as legitimate as legal punishment.[^17]
 
+-------------------------------------------------------------------
+
+**Editor's Note:** [Lincoln Mullen](http://lincolnmullen.com) is an assistant professor in the Department of History and Art History at George Mason University. He is currently writing a book titled *The Varieties of Religious Conversion: The Origins of Religious Choice in the United States*.
+
 [^1]: Donald G. Mathews, "The Southern Rite of Human Sacrifice," *Journal of Southern Religion* 3 (2000): [part 1](http://jsreligion.org/mathews.htm), [part 2](http://jsreligion.org/mathews2.htm), [part 3](http://jsreligion.org/mathews3.htm).
 
 [^2]: Data visualization is by no means the only way that digital history might approach the history of lynching. Digital public history, for instance, might have an entirely different approach.
