@@ -4,7 +4,7 @@ author-first: Alison Collis
 author-last: Greene
 author-note: "Alison Collis Greene is Assistant Professor of History at Mississippi State University."
 layout: article
-title: Review: <em>Struggle for the Soul of the Postwar South</em>
+title: "Review: <em>Struggle for the Soul of the Postwar South</em>"
 vol: 17
 year: 2015
 …
