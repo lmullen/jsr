@@ -2,9 +2,9 @@
 author: Heath W. Carter
 author-first: Heath W.
 author-last: Carter
-author-note:"Heath W. Carter is Assistant Professor of Hisory at Valparaiso University."
+author-note: "Heath W. Carter is Assistant Professor of Hisory at Valparaiso University."
 layout: article
-title: "Review: <em>Struggle of the Soul</em>" 
+title: "Review: <em>Struggle for the Soul</em>" 
 vol: 17
 year: 2015
 …
