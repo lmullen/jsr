@@ -4,7 +4,7 @@ author-first: Elizabeth
 author-last: Fones-Wolf and Ken Fones-Wolf
 author-note: "Elizabeth Fones-Wolf and Ken Fones-Wolf are Professors of History at West Virginia University."
 layout: article
-title: Response to Reviews of <em>Struggle for the Soul of the Postwar South</em>
+title: "Response to Reviews of <em>Struggle for the Soul of the Postwar South</em>"
 vol: 17
 year: 2015
 …
