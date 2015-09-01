@@ -2,9 +2,9 @@
 author: Janine Giordano Drake
 author-first: Janine Giordano
 author-last: Drake
-author-note: "Janine Giordano Drake is Assistant Professor of History at the University of Great Falls.""
+author-note: "Janine Giordano Drake is Assistant Professor of History at the University of Great Falls."
 layout: article
-title: Review: <em>Struggle for the Soul of the Postwar South</em>
+title: "Review: <em>Struggle for the Soul of the Postwar South</em>"
 vol: 17
 year: 2015
 ...
