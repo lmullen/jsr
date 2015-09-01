@@ -2,9 +2,9 @@
 author: Heath W. Carter
 author-first: Heath W.
 author-last: Carter
-author-note: Heath W. Carter is Assistant Professor of History at Valparaiso University.
+author-note: "Heath W. Carter is Assistant Professor of History at Valparaiso University."
 layout: article
-title: Review: *Struggle for the Soul of the Postwar South* 
+title: Review: <em>Struggle for the Soul of the Postwar South</em> 
 vol: 17
 year: 2015
 …
