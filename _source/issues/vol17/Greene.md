@@ -7,7 +7,7 @@ layout: article
 title: "Review: <em>Struggle for the Soul of the Postwar South</em>"
 vol: 17
 year: 2015
-…
+...
 
 
 Elizabeth Fones-Wolf and Ken Fones-Wolf. *Struggle for the Soul of the Postwar South: White Evangelical Protestants and Operation Dixie*. Urbana: University of Illinois Press, 2015. xiv +264 pp. ISBN 978-0-252-08066-1. 
