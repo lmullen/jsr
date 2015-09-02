@@ -6,7 +6,7 @@ author-note: "Heath W. Carter is Assistant Professor of History at Valparasio Un
 book-reviewed: "Elizabeth Fones-Wolf and Ken Fones-Wolf. <em>Struggle for the Soul of the Postwar South: White Evangelical Protestants and Operation Dixie</em>. Urbana, IL: University of Illinois Press, 2015. xiv + 264pp. ISBN 978-0-252-08066-1."
 book-link: http://www.press.uillinois.edu/books/catalog/84rbt8sy9780252039034.html
 layout: article
-title: "Review: <em>Struggle for the Soul of the Postward South"
+title: "Review: <em>Struggle for the Soul of the Postward South</em>"
 vol: 17
 year: 2015
 ...
