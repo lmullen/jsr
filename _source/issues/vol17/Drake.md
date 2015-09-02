@@ -3,13 +3,12 @@ author: Janine Giordano Drake
 author-first: Janine Giordano
 author-last: Drake
 author-note: "Janine Giordano Drake is Assistant Professor of History at the University of Great Falls."
-layout: article
+book-reviewed: "Elizabeth Fones-Wolf and Ken Fones-Wolf. <em>Struggle for the Soul of the Postwar South: White Evangelical Protestants and Operation Dixie</em>. Urbana: University of Illinois Press, 2015. xiv + 264 pp.  ISBN 978-0-252-08066-1."
+book-link: http://www.press.uillinois.edu/books/catalog/84rbt8sy9780252039034.htmllayout: article
 title: "Review: <em>Struggle for the Soul of the Postwar South</em>"
 vol: 17
 year: 2015
 ...
-
-Elizabeth Fones-Wolf and Ken Fones-Wolf. *Struggle for the Soul of the Postwar South: White Evangelical Protestants and Operation Dixie*. Urbana: University of Illinois Press, 2015. xiv + 264 pp.  ISBN 978-0-252-08066-1.  
 
 Did southern workers and employers present significantly different challenges for labor organizers during the postwar era than their northern, urban counterparts? Did southern evangelicalism create such an anti-union culture that organizers required more specific methods than national leaders on “Religion and Labor” were able to muster?
 
