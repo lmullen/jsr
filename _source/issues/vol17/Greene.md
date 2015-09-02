@@ -3,14 +3,13 @@ author: Alison Collis Greene
 author-first: Alison Collis
 author-last: Greene
 author-note: "Alison Collis Greene is Assistant Professor of History at Mississippi State University."
+book-reviewed: "Elizabeth Fones-Wolf and Ken Fones-Wolf. <em>Struggle for the Soul of the Postwar South: White Evangelical Protestants and Operation Dixie</em>. Urbana: University of Illinois Press, 2015. xiv +264 pp. ISBN 978-0-252-08066-1."
+book-link: http://www.press.uillinois.edu/books/catalog/84rbt8sy9780252039034.html
 layout: article
 title: "Review: <em>Struggle for the Soul of the Postwar South</em>"
 vol: 17
 year: 2015
 ...
-
-
-Elizabeth Fones-Wolf and Ken Fones-Wolf. *Struggle for the Soul of the Postwar South: White Evangelical Protestants and Operation Dixie*. Urbana: University of Illinois Press, 2015. xiv +264 pp. ISBN 978-0-252-08066-1. 
 
 “Might things have turned out differently?” ask Elizabeth and Ken Fones-Wolf about Operation Dixie, the CIO’s failed Southern Organizing Campaign (7). Although it is not the authors’ central research question, it is perhaps the most pressing in the year of the book’s release, when white violence against black bodies makes daily headlines, when Americans debate the treasonous symbol of white supremacy that no longer flies beside the South Carolina capitol but still stands over every courthouse in Mississippi, when corporations exercise full freedom to influence political campaigns while individual citizens lose the protections of the Voting Rights Act. *Struggle for the Soul of the Postwar South* examines a moment when it seemed white southerners might choose a different path, one that united workers of a common faith by their common interests, rather than dividing them by race and reactionary politics.
 
