@@ -3,6 +3,7 @@ author: Heath W. Carter
 author-first: Heath W.
 author-last: Carter
 author-note: "Heath W. Carter is Assistant Professor of History at Valparasio University."
+layout: article
 title: "Review: <em>Struggle for the Soul of the Postward South"
 vol: 17
 year: 2015
