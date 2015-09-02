@@ -4,7 +4,8 @@ author-first: Janine Giordano
 author-last: Drake
 author-note: "Janine Giordano Drake is Assistant Professor of History at the University of Great Falls."
 book-reviewed: "Elizabeth Fones-Wolf and Ken Fones-Wolf. <em>Struggle for the Soul of the Postwar South: White Evangelical Protestants and Operation Dixie</em>. Urbana: University of Illinois Press, 2015. xiv + 264 pp.  ISBN 978-0-252-08066-1."
-book-link: http://www.press.uillinois.edu/books/catalog/84rbt8sy9780252039034.htmllayout: article
+book-link: http://www.press.uillinois.edu/books/catalog/84rbt8sy9780252039034.html
+layout: article
 title: "Review: <em>Struggle for the Soul of the Postwar South</em>"
 vol: 17
 year: 2015
