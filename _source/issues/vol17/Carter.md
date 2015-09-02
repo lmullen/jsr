@@ -1,14 +1,3 @@
----
-author: Heath W. Carter
-author-first: Heath W.
-author-last: Carter
-author-note: "Heath W. Carter is Assistant Professor of Hisory at Valparaiso University."
-layout: article
-title: "Review: <em>Struggle for the Soul of the Post-War South</em>" 
-vol: 17
-year: 2015
-…
-
 Elizabeth Fones-Wolf and Ken Fones-Wolf. *Struggle for the Soul of the Postwar South: White Evangelical Protestants and Operation Dixie*. Urbana, IL: University of Illinois Press, 2015. xiv + 264pp. ISBN 978-0-252-08066-1. 
 
 For generations the fields of religious history and working-class history developed in not-so-splendid isolation from one another. Elizabeth Fones-Wolf and Ken Fones-Wolf were among the first to take issue with this division of labor. In recent years a growing chorus of scholars has validated their concerns, supplying ample evidence that, in the experience of historical actors, religious convictions and class politics were often entangled in messy and unpredictable ways. The Fones-Wolfs’ new book, *Struggle for the Soul of the Postwar South*, is a brilliant addition to this increasingly robust body of scholarship. In the process of “making the sacred a major element in the story of the CIO’s crusade for unionism and economic justice,” they moreover mount one of the most compelling cases to date that, if the “new” history of capitalism is to improve upon the old, it must take religious ideas, persons, and institutions more seriously (5).[^1] 
