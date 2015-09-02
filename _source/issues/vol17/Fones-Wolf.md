@@ -7,7 +7,7 @@ layout: article
 title: "Response to Reviews of <em>Struggle for the Soul of the Postwar South</em>"
 vol: 17
 year: 2015
-…
+...
 
 Let us begin by noting how honored we are to have our book reviewed by three such terrific young historians. Thanks to Carolyn Dupont and the editors of the *Journal of Southern Religion* for this opportunity. When we began this project we thought of it more as a labor history than a history of southern religion, but it certainly evolved during the research process. The varieties of southern evangelicalism, to borrow from David Edwin Harrell, Jr., necessitated that we dig much deeper into denominational creeds, religious fellowships, and the popular religiosity of working people than we anticipated. The large number of oral histories available enabled us to explore how workers, not just ministers or leaders, interpreted the Bible through their life experiences. We hope that we have accurately captured the complexities, nuances, and at times unpredictable connections that linked the sacred with day-to-day choices during this important turning point for organized labor. Moreover, we feel that the story of the CIO’s Operation Dixie, told through the efforts of competing visions of Protestantism to lay claim to the moral high ground, has important lessons for social movements in our own time.
 
