@@ -4,7 +4,7 @@ author-first: Heath W.
 author-last: Carter
 author-note: "Heath W. Carter is Assistant Professor of Hisory at Valparaiso University."
 layout: article
-title: "Review: <em>Struggle for the Soul</em>" 
+title: "Review: <em>Struggle for the Soul of the Post-War South</em>" 
 vol: 17
 year: 2015
 …
