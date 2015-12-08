@@ -52,6 +52,7 @@ Now install the software we actually want.
 
 ```
 gem install bundler
+rbenv rehash
 bundle install
 rbenv rehash
 ```
