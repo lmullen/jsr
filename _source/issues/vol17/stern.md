@@ -3,7 +3,7 @@ author: Andrew Stern
 author-first: Andrew
 author-last: Stern
 author-note: "Andrew Stern is Assistant Professor of Religious Studies at North Carolina Wesleyan College."
-book-reviewed: "David C.R. Heisser and Stephen J. White, Sr. <em>Patrick Lynch, 1817-1882: Third Catholic Bishop of Charleston</em>. Columbia: University of South Carolina Press, 2015. 280pp. ISBN 9781611174045."
+book-reviewed: "David C.R. Heisser and Stephen J. White, Sr. <em>Patrick Lynch, 1817-1882: Third Catholic Bishop of Charleston</em>. Columbia: University of South Carolina Press, 2015. 280pp. ISBN 978-1-61117-404-5."
 book-link: https://www.sc.edu/uscpress/books/2014/7404.html
 layout: article
 title: "Review: Patrick Lynch, 1817-1882"
