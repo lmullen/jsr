@@ -16,6 +16,52 @@ You will then have to install the necessary gems by running
 `bundle  install`. You can then use `rake preview` or `rake pow` (if you
 have Pow installed) to generate and preview the site.
 
+Here is a more verbose guide to installing the necessary Ruby and gems if you're on a Mac. If you're on Linux, you don't need help; if you're on Windows, you're on your own.
+
+First install [Homebrew](http://brew.sh/). (Install some software to install other software to install other software to install other software.)
+
+```
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
+
+Now install [rbenv](https://github.com/rbenv/rbenv) and ruby-build. (Install some software to install other software to install other software.)
+
+```
+brew update
+brew install rbenv ruby-build
+echo 'eval "$(rbenv init -)"' >> ~/.bash_profile
+```
+
+Open a new terminal tab. Navigate to the folder with the JSR.
+
+Install Ruby 2.1.4. (Install some software to install other software.)
+
+```
+rbenv install 2.1.4
+rbenv rehash
+```
+
+Make sure you have the right Ruby.
+
+```
+ruby --version
+which ruby
+```
+
+Now install the software we actually want.
+
+```
+gem install bundler
+bundle install
+rbenv rehash
+```
+
+Now run the site.
+
+```
+bundle exec rake preview
+```
+
 ## License
 
 The markup and code for this site is copyrighted by Lincoln Mullen, and
