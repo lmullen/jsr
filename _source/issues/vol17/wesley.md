@@ -2,8 +2,8 @@
 author: Timothy L. Wesley
 author-first: Timothy L.
 author-last: Wesley
-author-note: "Timothy L. Wesley is Assistant Professor of History at Austin Peay State University."
-book-reviewed: "Bruce T. Gourley. <em> Crucible of Faith and Freedom:  Baptists and the American Civil War</em>. Macon, GA:  Nurturing Faith Inc., 2015. 142 pp. ISBN 9781938514821.
+author-note: "Timothy L. Wesley is Assistant Professor of History at Austin Pea State University."
+book-reviewed: "Bruce T. Gourley. <em>Crucible of Faith and Freedom: Baptists and the American Civil War</em>. Macon, GA: Nurturing Faith Inc., 2015. 142 pp. ISBN 9781938514821."
 book-link: https://www.nurturingfaith.net/product/crucible-of-faith-freedom-bruce-t-gourley/
 layout: article
 title: "Review: Crucible of Faith and Freedom"
