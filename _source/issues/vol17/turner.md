@@ -3,7 +3,7 @@ author: John Turner
 author-first: John
 author-last: Turner
 author-note: "John Turner is Associate Professor of Religious Studies at George Mason University."
-book-reviewed: "Grant Wacker. <em>America's Pastor: Billy Graham and the Shaping of a Nation</em>. Cambridge: The Belknap Press of Harvard University Press, 2014. 413 pages. ISBN 978-0674052185.
+book-reviewed: "Grant Wacker. <em>America's Pastor: Billy Graham and the Shaping of a Nation</em>. Cambridge: The Belknap Press of Harvard University Press, 2014. 413 pages. ISBN 978-0674052185."
 book-link: http://www.hup.harvard.edu/catalog.php?isbn=9780674052185
 layout: article
 title: "Review: America’s Pastor"
