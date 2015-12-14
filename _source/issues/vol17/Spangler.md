@@ -4,7 +4,7 @@ author-first: Jewel L.
 author-last: Spangler
 author-note: "Jewel L. Spangler is Associate Professor of History at the University of Calgary."
 book-reviewed: "Jessica Madison. <em>In Subjection: Church Discipline in the Early American South, 1760-1830</em>. Macon, GA: Mercer University Press, 2014. 224 pp. ISBN 978-0-88146-500-6."
-book-link: http://www.mupress.org/productdetails.cfm?sku=H890
+book-link: http://www.mupress.org/In-Subjection-Church-Discipline-in-the-Early-American-South-1760-1830-P837.aspx
 layout: article
 title: "Review: In Subjection"
 vol: 17
